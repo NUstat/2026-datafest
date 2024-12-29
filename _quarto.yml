@@ -4,7 +4,7 @@ project:
 website:
   title: "DataFest 2025"
   navbar:
-    background: primary
+    background: #4E2A84
     left:
       - href: index.qmd
         text: Home

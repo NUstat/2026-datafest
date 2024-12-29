@@ -4,6 +4,7 @@ project:
 website:
   title: "DataFest 2025"
   navbar:
+    logo: "images/NU_Stat_logo.png"
     left:
       - href: index.qmd
         text: Home

@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to DataFest 2025",
+    "section": "",
+    "text": "Welcome to DataFest 2025\nWelcome to the official website for DataFest 2025! Here you can find all the details about the event."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "2025-datafest",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is the website for the first ever Northwestern hosted ASA DataFest!\nThere will be more information to come soon!"
   }
 ]

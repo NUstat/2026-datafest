@@ -1,20 +1,22 @@
 project:
   type: website
 
-website:
-  title: "DataFest 2025"
-  navbar:
-    logo: "images/NU_Stat_logo.png"
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
 format:
   html:
     theme: pulse
     css: styles.css
     toc: true
+    html:
+      raw: true
+
+website:
+  title: "DataFest 2025"
+  navbar:
+    logo: 'images/NU_Stat_logo.png'    
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
     
 execute:
   freeze: auto

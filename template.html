@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ meta }} <!-- Quarto will fill in metadata -->
+    {{ head }} <!-- Quarto will insert other <head> elements -->
+  </head>
+  <body>
+    <header class="navbar navbar-default">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg">
+          <div class="navbar-brand">
+            <!-- Left-hand items -->
+            <ul class="navbar-nav me-auto">
+              <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+              <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+            </ul>
+          </div>
+          <!-- Right-hand logo -->
+          <div class="navbar-right">
+            <img src="images/NU_Stat_logo.png" alt="Logo" class="custom-logo">
+          </div>
+        </nav>
+      </div>
+    </header>
+    {{ body }} <!-- Main content -->
+    {{ scripts }} <!-- Quarto will insert scripts -->
+  </body>
+</html>

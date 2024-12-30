@@ -4,7 +4,7 @@ title: "Rules & Code of Conduct"
 
 ## General Rules
 
-- Students compete in teams of 2 - 5 people.
+- Students compete in teams of 3 - 5 people.
 
 - Any additional data used in the project must be publicly available or openly licensed.
 

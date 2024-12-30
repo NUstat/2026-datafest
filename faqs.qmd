@@ -21,7 +21,7 @@ We would like to have Ph.D. students be involved as mentors during the event.
 Sure!
 
 ## How large are the teams?
-Teams can be made up of 2 - 5 students.
+Teams can be made up of 3 - 5 students.
 
 ## Do I have to compete in a team?
 Yes, but if you don’t have a team in mind, select the “Looking for team” registration on the [Sign Up](https://nustat.github.io/2025-datafest/signup.html) page and we’ll match you with others looking for teammates.

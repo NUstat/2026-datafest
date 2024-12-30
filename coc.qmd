@@ -1,5 +1,51 @@
 ---
-title: "Code of Conduct"
+title: "Rules \& Code of Conduct"
 ---
+
+## General Rules
+
+- Students compete in teams of 2 - 5 people.
+
+- Any additional data used in the project must be publicly available or openly licensed.
+
+- All interactive dashboards must be deployed online.
+
+- All slide decks and write ups must be submitted as a PDF document.
+
+- It’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.
+
+- You can come and go as you please, but all work must be completed at the indicated venue for the day. 
+
+- Before downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive. 
+
+- Should members of your team drop out at the last minute, you might be merged with another team who is also missing members. 
+
+- Mentors will be present for guidance at certain times of the event, which will be announced close to the event. They are likely to have different areas of expertise, so if you get stuck on something, ask someone else later. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you're responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event.
+
+## Presentation rules
+
+- The maximum time / number of slides to present for each team will be announced at the beginning of the event.
+
+- The maximum number to present for each team will be announced at the beginning of the event.
+
+- All team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).
+
+- Your presentation must be uploaded in the link provided by 11:45 am on Sunday. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and send the PDF as your submission, you will not have time to log on/off to your account during the presentations.
+
+- Along with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.
+
+- Awards will be given to three teams in each of the three categories. The categories will be announced at the beginning of the event.
+
+- Winners will be awarded the ASA Student membership, along with other prizes that will be announced later. Everyone will get a T-shirt.
+
+## Guidelines to students
+
+- We recommend that every member of the team bring a laptop.You might find it helpful to have a mix of PCs and Macs, since they have different strengths.
+
+- We recommend that you make sure beforehand that the software you will be using throughout the weekend is properly installed and running on your computer. You will probably be working with a large dataset so make sure that you have the space for it on your drive. 
+
+- We strongly recommend you create a small data set that you can use to test things on. Then, if it works out, you can apply your procedure to the large dataset. Some procedures can take a long time to run on large data sets, and so it will be comforting to know that your procedure works (because you tested it on a smaller data set) while you wait. We recommend taking a random sample of rows from the original data set, but there might be other approaches you find useful. 
+
+## Code of Conduct
 
 Everyone has to follow the ASA [Code of Conduct](https://ww2.amstat.org/education/datafest/pdfs/ASA-DataFestCoC.pdf).

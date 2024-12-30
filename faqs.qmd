@@ -21,7 +21,7 @@ We would like to have Ph.D. students be involved as mentors during the event.
 Sure!
 
 ## How large are the teams?
-Teams can be made up of 3 - 5 students.
+Teams can be made up of 2 - 5 students.
 
 ## Do I have to compete in a team?
 Yes, but if you don’t have a team in mind, select the “Looking for team” registration on the [Sign Up](https://nustat.github.io/2025-datafest/signup.html) page and we’ll match you with others looking for teammates.
@@ -30,11 +30,7 @@ Yes, but if you don’t have a team in mind, select the “Looking for team” r
 All you need is a laptop with tools for data analysis *(there is no limitation on which software you use)* and enthusiasm for data.
 
 ## What are the rules of the competition?
-- All projects must be submitted by 11:45 am on Sunday, April 6. There is only one submission per team.
-- Any additional data used in the project must be publicly available or openly licensed.
-- All interactive dashboards must be deployed online.
-- All slide decks and write ups must be submitted as a PDF document.
-- It’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.
+Check the [rules](https://nustat.github.io/2025-datafest/coc.html) tab.
 
 ## How do I submit my analysis?
 Once the registration window closes, participants will receive an email with a link to the project submission form.
@@ -43,7 +39,7 @@ Once the registration window closes, participants will receive an email with a l
 Mentors will be available in-person on Saturday *(at times to be announced)* to answer questions.
 
 ## What can I win?
-Winners will Prizes are being decided. Everyone gets a t-shirt!
+Winning teams will be awarded the ASA Student Membership along with other prizes that are being decided. Everyone gets a t-shirt!
 
 ## Where else is ASA DataFest happening?
 ASA DataFest is growing fast! See the list of all [participating institutions](https://ww2.amstat.org/education/datafest/participants.cfm). 

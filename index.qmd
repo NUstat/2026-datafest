@@ -1,5 +1,5 @@
 ## Welcome to DataFest 2025! {.unnumbered .unlisted}
-Welcome to the official website of the first-ever DataFest at Northwestern! The event includes a competition, interaction with people in Data Science in industry and academia, lots of food, and prizes!
+Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!
 
 ## Event details
 
@@ -9,4 +9,4 @@ Welcome to the official website of the first-ever DataFest at Northwestern! The 
 
 **Participants:** All UG students are invited to participate, while graduate students are invited to mentor student teams.
 
-You will have approximately 48 hours to analyze a dataset, develop and present solutions to achieve the desired objective to a panel of judges. 
+You will have approximately 48 hours to analyze a dataset, develop and present solutions to achieve an open-ended goal to a panel of judges. 

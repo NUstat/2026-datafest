@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "DataFest 2025",
+    "section": "",
+    "text": "Below is the tentative schedule for the event:\n\n\nTable 1: 4th April\n\n\n\n\n\n\n\nTime\nActivity\nVenue\n\n\n\n\n5:30 - 6 pm\nRegistration\nGuild Lounge\n\n\n6 - 7 pm\nKeynote address by Sanchit Tiwari (Associate Partner, McKinsey & Company)\nGuild Lounge\n\n\n7 - 8 pm\nCompetition problem statement announcement\nGuild Lounge\n\n\n8 - 9:30 pm\nMeet & Greet & Dinner\nGuild Lounge\n\n\n\n\nSee Table 1."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is the website for the first ever Northwestern hosted ASA DataFest!\nThere will be more information to come soon!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "DataFest 2025",
@@ -18,13 +32,6 @@
     "href": "index.html#event-details",
     "title": "DataFest 2025",
     "section": "Event details",
-    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 (in Norris) on April 5\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams.\nYou will have approximately 48 hours to analyze a dataset, develop and present solutions to achieve an open-ended goal to a panel of judges."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is the website for the first ever Northwestern hosted ASA DataFest!\nThere will be more information to come soon!"
+    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 (in Norris) on April 5\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on “Careers in data science” comprising of both faculty and industry professionals."
   }
 ]

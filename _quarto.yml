@@ -16,6 +16,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: schedule.qmd
+        text: Schedule
       - about.qmd
     
 execute:

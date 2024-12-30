@@ -44,6 +44,10 @@ title: "Rules & Code of Conduct"
 
 - We strongly recommend you create a small data set that you can use to test things on. Then, if it works out, you can apply your procedure to the large dataset. Some procedures can take a long time to run on large data sets, and so it will be comforting to know that your procedure works (because you tested it on a smaller data set) while you wait. We recommend taking a random sample of rows from the original data set, but there might be other approaches you find useful. 
 
+- This is a collaborative event, and team work is required. We recommend creating an interdisciplinary team with a variety of skills. Find friends who are skilled in different software like Python, R, Tableau, AWS, SAS, or any other software package that you feel will be helpful. We encourage interdisciplinary educational backgrounds. For example, a team might consist of students studying Data Science, Mathematics, Computer Science, Business, and Art.
+
+
+
 ## Code of Conduct
 
 Everyone must follow the ASA [Code of Conduct](https://ww2.amstat.org/education/datafest/pdfs/ASA-DataFestCoC.pdf) during the entire duration of the event.

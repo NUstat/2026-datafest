@@ -20,10 +20,10 @@ website:
         text: Home
       - href: schedule.qmd
         text: Schedule
-      - href: faqs.qmd
-        text: FAQs
       - href: coc.qmd
         text: Rules & Code of Conduct
+      - href: faqs.qmd
+        text: FAQs
     
 execute:
   freeze: auto

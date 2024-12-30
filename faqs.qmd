@@ -24,7 +24,7 @@ Sure!
 Teams can be made up of 3 - 5 students.
 
 ## Do I have to compete in a team?
-Yes, but if you don’t have a team in mind, select the “Looking for team” registration under the sign ups page and we’ll match you with others looking for teammates.
+Yes, but if you don’t have a team in mind, select the “Looking for team” registration on the [Sign Up](https://nustat.github.io/2025-datafest/signup.html) page and we’ll match you with others looking for teammates.
 
 ## What do I need to compete?
 All you need is a laptop with tools for data analysis *(there is no limitation on which software you use)* and enthusiasm for data.

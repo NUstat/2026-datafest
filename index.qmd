@@ -20,11 +20,11 @@ The event also includes a keynote speech from a leading industry expert, and a p
 
 ASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA *(American Statistical Association)*.
 
-Teams of 3 - 5 students analyse a potentially large \& complex dataset, over a weekend. The problem statement is typically broad and open-ended, providing a lot of room for innovation. Your job is to find and communicate insights from the data that help answer the problem statement. You will be encoraged to ask questions and receive advice from mentors, while working on the problem. 
+Teams of 3 - 5 students analyse a potentially **large \& complex dataset**, over a weekend. The problem statement is typically broad and open-ended, providing a lot of **room for innovation**. Your job is to **find and communicate insights** from the data that help answer the problem statement. You are encouraged to ask questions and receive advice from mentors, while working on the problem. 
 
-ASA DataFest is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.
+ASA DataFest is also a great opportunity to **gain experience** that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves **analysis** and **critical thinking**, and it will provide a concrete example to demonstrate your experience during **interviews**.
 
-You will also get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.
+You will also get the opportunity to **interact with data scientists** from industry and academia, to get some insights about a data science career.
 
 Food \& drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!
 

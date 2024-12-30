@@ -11,7 +11,7 @@ Welcome to the official website of the first-ever DataFest at Northwestern! The 
 
 You will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.
 
-The event also includes a keynote speech from a leading industry expert, and a panel discussion on "Careers in data science" comprising of both faculty and industry professionals.
+The event also includes a keynote speech from a leading industry expert, and a panel discussion on *Careers in data science* comprising of both faculty and industry professionals.
 
 ## What is DataFest?
 

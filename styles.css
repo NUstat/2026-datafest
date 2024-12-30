@@ -8,3 +8,7 @@
  height: 70px !important;
  max-height: 70px !important;
 }
+
+.justify-text {
+    text-align: justify !important;
+}

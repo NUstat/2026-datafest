@@ -23,7 +23,7 @@ website:
       - href: faqs.qmd
         text: FAQs
       - href: coc.qmd
-        text: Code of Conduct
+        text: Rules & Code of Conduct
     
 execute:
   freeze: auto

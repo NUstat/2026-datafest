@@ -20,13 +20,11 @@ title: "Rules & Code of Conduct"
 
 - Should members of your team drop out at the last minute, you might be merged with another team who is also missing members. 
 
-- Mentors will be present for guidance at certain times of the event, which will be announced close to the event. They are likely to have different areas of expertise, so if you get stuck on something, ask someone else later. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you're responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event.
+- Mentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you're responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event.
 
 ## Presentation rules
 
 - The maximum time / number of slides to present for each team will be announced at the beginning of the event.
-
-- The maximum number to present for each team will be announced at the beginning of the event.
 
 - All team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).
 
@@ -48,4 +46,4 @@ title: "Rules & Code of Conduct"
 
 ## Code of Conduct
 
-Everyone has to follow the ASA [Code of Conduct](https://ww2.amstat.org/education/datafest/pdfs/ASA-DataFestCoC.pdf).
+Everyone must follow the ASA [Code of Conduct](https://ww2.amstat.org/education/datafest/pdfs/ASA-DataFestCoC.pdf) during the entire duration of the event.

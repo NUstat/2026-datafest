@@ -2,9 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to DataFest 2025",
+    "title": "DataFest 2025",
     "section": "",
-    "text": "Welcome to DataFest 2025\nWelcome to the official website for DataFest 2025! Here you can find all the details about the event."
+    "text": "Welcome to the official website of the first-ever DataFest at Northwestern!"
+  },
+  {
+    "objectID": "index.html#welcome-to-datafest-2025",
+    "href": "index.html#welcome-to-datafest-2025",
+    "title": "DataFest 2025",
+    "section": "",
+    "text": "Welcome to the official website of the first-ever DataFest at Northwestern!"
+  },
+  {
+    "objectID": "index.html#event-logistics",
+    "href": "index.html#event-logistics",
+    "title": "DataFest 2025",
+    "section": "Event logistics",
+    "text": "Event logistics\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge on April 4 & 6, Wildcat room 1-163 on April 5"
   },
   {
     "objectID": "about.html",

@@ -1,38 +1,30 @@
 Below is the tentative schedule for the event:
 
-| Time | Activity | Venue |
-|------|------|------|
-| 5:30 - 6 pm    | Registration    | Guild Lounge    |
-| 6 - 7 pm    | Keynote address by Sanchit Tiwari (Associate Partner, McKinsey \& Company)    | Guild Lounge    |
-| 7 - 8 pm    | Competition problem statement announcement    | Guild Lounge    |
-| 8 - 9:30 pm    | Meet \& Greet \& Dinner    | Guild Lounge    |
+| Data | Time | Activity | Venue |
+|------|------|------|------|
+| 4th April | 5:30 - 6 pm    | Registration    | Guild Lounge    |
+| 4th April | 6 - 7 pm    | Keynote address by Sanchit Tiwari (Associate Partner, McKinsey \& Company)    | Guild Lounge    |
+| 4th April | 7 - 8 pm    | Competition problem statement announcement    | Guild Lounge    |
+| 4th April | 8 - 9:30 pm    | Meet \& Greet \& Dinner    | Guild Lounge    |
+|---------------------------|-------------------------------------|------------------------------------------|-------------------------------------|
+| 5th April | 10:30 - 11 am    | Breakfast    | 1-163 Wildcat room    |
+| 5th April | 11 am - 1 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
+| 5th April | 1 - 2 pm    | Lunch    | 1-163 Wildcat room    |
+| 5th April | 2 - 6:30 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
+| 5th April | 6:30 - 7:30 pm    | Dinner    | 1-163 Wildcat room    |
+| 5th April | 7:30 - 9:30 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
+|---------------------------|-------------------------------------|------------------------------------------|------------------------------------|
+| 6th April | 8:30 - 9:30 am    | Breakfast    | Guild Lounge    |
+| 6th April | 9:30 - 11:45 am    | Students finishing up their presentation    | Guild Lounge    |
+| 6th April | 11:45 am - 12:45 pm    | Stop work \& lunch    | Guild Lounge    |
+| 6th April | 12:45 - 1 pm    | Presentations preparation    | Guild Lounge    |
+| 6th April | 1 - 4:30 pm    | Students presentations to judges    | Guild Lounge    |
+| 6th April | 4:30 - 5 pm    | Break / setup for panel discussion    | Guild Lounge    |
+| 6th April | 5 - 6:30 pm    | Panel discussion on *Carriers in data science*    | Guild Lounge    |
+| 6th April | 6:30 - 7 pm    | Awards    | Guild Lounge    |
+| 6th April | 7 - 7:30 pm    | Extra time to accommodate any delay in schedule    | Guild Lounge    |
 
-: Schedule on 4th April {#tbl-letters}
 
-| Time | Activity | Venue |
-|------|------|------|
-| 10:30 - 11 am    | Breakfast    | 1-163 Wildcat room    |
-| 11 am - 1 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
-| 1 - 2 pm    | Lunch    | 1-163 Wildcat room    |
-| 2 - 6:30 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
-| 6:30 - 7:30 pm    | Dinner    | 1-163 Wildcat room    |
-| 7:30 - 9:30 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
-
-: Schedule on 5th April {#tbl-letters}
+: Tentative schedule {#tbl-letters}
 
 *Mentors will be available to advise student teams at certain times of the day on April 5 (TBA)*
-
-| Time | Activity | Venue |
-|------|------|------|
-| 8:30 - 9:30 am    | Breakfast    | Guild Lounge    |
-| 9:30 - 11:45 am    | Students finishing up their presentation    | Guild Lounge    |
-| 11:45 am - 12:45 pm    | Stop work \& lunch    | Guild Lounge    |
-| 12:45 - 1 pm    | Presentations preparation    | Guild Lounge    |
-| 1 - 4:30 pm    | Students presentations to judges    | Guild Lounge    |
-| 4:30 - 5 pm    | Break / setup for panel discussion    | Guild Lounge    |
-| 5 - 6:30 pm    | Panel discussion on *Carriers in data science*    | Guild Lounge    |
-| 6:30 - 7 pm    | Awards    | Guild Lounge    |
-| 7 - 7:30 pm    | Extra time to accommodate any delay in schedule    | Guild Lounge    |
-
-
-: Schedule on 6th April {#tbl-letters}

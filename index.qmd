@@ -25,4 +25,7 @@ You will also get the opportunity to interact with data scientists from industry
 
 Food \& drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!
 
+## Previous ASA DataFests
+
+Although this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the [problem statements](https://ww2.amstat.org/education/datafest/previous.cfm) of the previous DataFests.
 

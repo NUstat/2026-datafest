@@ -9,3 +9,17 @@ Below is the tentative schedule for the event:
 
 : Schedule on 4th April {#tbl-letters}
 
+| Time | Activity | Venue |
+|------|------|------|
+| 10:30 - 11 am    | Breakfast    | 1-163 Wildcat room    |
+| 11 am - 1 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
+| 1 - 2 pm    | Lunch    | 1-163 Wildcat room    |
+| 2 - 6:30 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
+| 6:30 - 7:30 pm    | Dinner    | 1-163 Wildcat room    |
+| 7:30 - 9:30 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
+
+: Schedule on 5th April {#tbl-letters}
+
+*Mentors will be available to advise student teams at certain times of the day on April 5 (TBA)*
+
+

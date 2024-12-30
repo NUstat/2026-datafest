@@ -1,73 +1,108 @@
 [
   {
+    "objectID": "signup.html",
+    "href": "signup.html",
+    "title": "Sign Up!",
+    "section": "",
+    "text": "Registration to participate in DataFest 2025 for undergraduate students at Northwestern is not yet open. Please check back soon!"
+  },
+  {
     "objectID": "signup.html#participants",
     "href": "signup.html#participants",
-    "title": "DataFest 2025",
-    "section": "Participants",
-    "text": "Participants\nRegistration to participate in DataFest 2025 for undergraduate students at Northwestern is not yet open. Please check back soon!"
+    "title": "Sign Up!",
+    "section": "",
+    "text": "Registration to participate in DataFest 2025 for undergraduate students at Northwestern is not yet open. Please check back soon!"
   },
   {
     "objectID": "signup.html#mentors",
     "href": "signup.html#mentors",
-    "title": "DataFest 2025",
+    "title": "Sign Up!",
     "section": "Mentors",
     "text": "Mentors\nRegistration to participate as mentors to undergraduate teams in DataFest 2025 at Northwestern is not yet open. Please check back soon!"
   },
   {
     "objectID": "signup.html#questions",
     "href": "signup.html#questions",
-    "title": "DataFest 2025",
+    "title": "Sign Up!",
     "section": "Questions",
     "text": "Questions\nIf you have any questions about your registration, or about the DataFest, please contact Krish at krish [at] northwestern.edu"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DataFest 2025",
-    "section": "",
-    "text": "Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!"
-  },
-  {
-    "objectID": "index.html#welcome-to-datafest-2025",
-    "href": "index.html#welcome-to-datafest-2025",
-    "title": "DataFest 2025",
+    "title": "Welcome to DataFest 2025!",
     "section": "",
     "text": "Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!"
   },
   {
     "objectID": "index.html#event-details",
     "href": "index.html#event-details",
-    "title": "DataFest 2025",
+    "title": "Welcome to DataFest 2025!",
     "section": "Event details",
     "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 (in Norris) on April 5\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
   },
   {
     "objectID": "index.html#what-is-datafest",
     "href": "index.html#what-is-datafest",
-    "title": "DataFest 2025",
+    "title": "Welcome to DataFest 2025!",
     "section": "What is DataFest?",
     "text": "What is DataFest?\nASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA (American Statistical Association).\nTeams of 3 - 5 students analyse a potentially large & complex dataset, over a weekend. The problem statement is typically broad and open-ended, providing a lot of room for innovation. Your job is to find and communicate insights from the data that help answer the problem statement. You will be encoraged to ask questions and receive advice from mentors, while working on the problem.\nASA DataFest is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.\nYou will also get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nFood & drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!"
   },
   {
     "objectID": "index.html#previous-asa-datafests",
     "href": "index.html#previous-asa-datafests",
-    "title": "DataFest 2025",
+    "title": "Welcome to DataFest 2025!",
     "section": "Previous ASA DataFests",
     "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
+  },
+  {
+    "objectID": "coc.html",
+    "href": "coc.html",
+    "title": "Rules & Code of Conduct",
+    "section": "",
+    "text": "Students compete in teams of 2 - 5 people.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
+  },
+  {
+    "objectID": "coc.html#general-rules",
+    "href": "coc.html#general-rules",
+    "title": "Rules & Code of Conduct",
+    "section": "",
+    "text": "Students compete in teams of 2 - 5 people.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
+  },
+  {
+    "objectID": "coc.html#presentation-rules",
+    "href": "coc.html#presentation-rules",
+    "title": "Rules & Code of Conduct",
+    "section": "Presentation rules",
+    "text": "Presentation rules\n\nThe maximum time / number of slides to present for each team will be announced at the beginning of the event.\nAll team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).\nYour presentation must be uploaded in the link provided by 11:45 am on Sunday. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and send the PDF as your submission, you will not have time to log on/off to your account during the presentations.\nAlong with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.\nAwards will be given to three teams in each of the three categories. The categories will be announced at the beginning of the event.\nWinners will be awarded the ASA Student membership, along with other prizes that will be announced later. Everyone will get a T-shirt."
+  },
+  {
+    "objectID": "coc.html#guidelines-to-students",
+    "href": "coc.html#guidelines-to-students",
+    "title": "Rules & Code of Conduct",
+    "section": "Guidelines to students",
+    "text": "Guidelines to students\n\nWe recommend that every member of the team bring a laptop.You might find it helpful to have a mix of PCs and Macs, since they have different strengths.\nWe recommend that you make sure beforehand that the software you will be using throughout the weekend is properly installed and running on your computer. You will probably be working with a large dataset so make sure that you have the space for it on your drive.\nWe strongly recommend you create a small data set that you can use to test things on. Then, if it works out, you can apply your procedure to the large dataset. Some procedures can take a long time to run on large data sets, and so it will be comforting to know that your procedure works (because you tested it on a smaller data set) while you wait. We recommend taking a random sample of rows from the original data set, but there might be other approaches you find useful."
+  },
+  {
+    "objectID": "coc.html#code-of-conduct",
+    "href": "coc.html#code-of-conduct",
+    "title": "Rules & Code of Conduct",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nEveryone must follow the ASA Code of Conduct during the entire duration of the event."
   },
   {
     "objectID": "faqs.html",
     "href": "faqs.html",
     "title": "FAQs",
     "section": "",
-    "text": "Registration will open Spring 2025."
+    "text": "Registration will open soon."
   },
   {
     "objectID": "faqs.html#how-do-i-sign-up",
     "href": "faqs.html#how-do-i-sign-up",
     "title": "FAQs",
     "section": "",
-    "text": "Registration will open Spring 2025."
+    "text": "Registration will open soon."
   },
   {
     "objectID": "faqs.html#what-do-i-bring-to-datafest",
@@ -88,7 +123,7 @@
     "href": "faqs.html#who-is-eligible-to-compete",
     "title": "FAQs",
     "section": "Who is eligible to compete?",
-    "text": "Who is eligible to compete?\nAll undergraduate students are eligible."
+    "text": "Who is eligible to compete?\nAll undergraduate students at Northwestern University are eligible."
   },
   {
     "objectID": "faqs.html#what-about-phd-students",
@@ -98,25 +133,25 @@
     "text": "What about PhD students?\nWe would like to have Ph.D. students be involved as mentors during the event."
   },
   {
-    "objectID": "faqs.html#can-i-participate-as-a-mentor-if-im-an-ms-student",
-    "href": "faqs.html#can-i-participate-as-a-mentor-if-im-an-ms-student",
+    "objectID": "faqs.html#can-i-participate-as-a-mentor-if-i-am-an-ms-student",
+    "href": "faqs.html#can-i-participate-as-a-mentor-if-i-am-an-ms-student",
     "title": "FAQs",
-    "section": "Can I participate as a mentor if I’m an MS student?",
-    "text": "Can I participate as a mentor if I’m an MS student?\nSure!"
+    "section": "Can I participate as a mentor if I am an MS student?",
+    "text": "Can I participate as a mentor if I am an MS student?\nSure!"
   },
   {
     "objectID": "faqs.html#how-large-are-the-teams",
     "href": "faqs.html#how-large-are-the-teams",
     "title": "FAQs",
     "section": "How large are the teams?",
-    "text": "How large are the teams?\nTeams can be made up of 3 - 5 students."
+    "text": "How large are the teams?\nTeams can be made up of 2 - 5 students."
   },
   {
     "objectID": "faqs.html#do-i-have-to-compete-in-a-team",
     "href": "faqs.html#do-i-have-to-compete-in-a-team",
     "title": "FAQs",
     "section": "Do I have to compete in a team?",
-    "text": "Do I have to compete in a team?\nYes, but if you don’t have a team in mind, select the “Looking for team” registration under the sign ups page and we’ll match you with others looking for teammates."
+    "text": "Do I have to compete in a team?\nYes, but if you don’t have a team in mind, select the “Looking for team” registration on the Sign Up page and we’ll match you with others looking for teammates."
   },
   {
     "objectID": "faqs.html#what-do-i-need-to-compete",
@@ -130,28 +165,28 @@
     "href": "faqs.html#what-are-the-rules-of-the-competition",
     "title": "FAQs",
     "section": "What are the rules of the competition?",
-    "text": "What are the rules of the competition?\n\nAll projects must be submitted by Sunday, April 6 There is only one submission per team.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a competition, but a friendly one, so collaboration between teams is not only allowed but highly encouraged."
+    "text": "What are the rules of the competition?\nCheck the rules tab."
   },
   {
     "objectID": "faqs.html#how-do-i-submit-my-analysis",
     "href": "faqs.html#how-do-i-submit-my-analysis",
     "title": "FAQs",
     "section": "How do I submit my analysis?",
-    "text": "How do I submit my analysis?\n\nOnce the registration window closes, participants will receive an email with a link to the project submission form."
+    "text": "How do I submit my analysis?\nOnce the registration window closes, participants will receive an email with a link to the project submission form."
   },
   {
     "objectID": "faqs.html#where-can-i-get-help-during-the-competition",
     "href": "faqs.html#where-can-i-get-help-during-the-competition",
     "title": "FAQs",
     "section": "Where can I get help during the competition?",
-    "text": "Where can I get help during the competition?\nMentors will be available in-person on Saturday (at times TBA) to answer questions."
+    "text": "Where can I get help during the competition?\nMentors will be available in-person on Saturday (at times to be announced) to answer questions."
   },
   {
     "objectID": "faqs.html#what-can-i-win",
     "href": "faqs.html#what-can-i-win",
     "title": "FAQs",
     "section": "What can I win?",
-    "text": "What can I win?\nPrizes are being decided. Everyone gets a t-shirt!"
+    "text": "What can I win?\nWinning teams will be awarded the ASA Student Membership along with other prizes that are being decided. Everyone gets a t-shirt!"
   },
   {
     "objectID": "faqs.html#where-else-is-asa-datafest-happening",

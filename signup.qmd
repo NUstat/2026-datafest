@@ -1,4 +1,6 @@
-## Sign Up!
+---
+title: "Sign Up!"
+---
 
 ## Participants
 

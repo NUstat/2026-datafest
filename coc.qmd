@@ -1,0 +1,5 @@
+---
+title: "Code of Conduct"
+---
+
+Everyone has to follow the ASA [Code of Conduct](https://ww2.amstat.org/education/datafest/pdfs/ASA-DataFestCoC.pdf).

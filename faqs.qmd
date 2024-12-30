@@ -3,7 +3,7 @@ title: "FAQs"
 ---
 
 ## How do I sign up?
-Registration will open Spring 2025.
+Registration will open soon.
 
 ## What do I bring to DataFest?
 Please bring a laptop, charger and refillable water bottle.
@@ -43,7 +43,7 @@ Once the registration window closes, participants will receive an email with a l
 Mentors will be available in-person on Saturday *(at times to be announced)* to answer questions.
 
 ## What can I win?
-Prizes are being decided. Everyone gets a t-shirt!
+Winners will Prizes are being decided. Everyone gets a t-shirt!
 
 ## Where else is ASA DataFest happening?
 ASA DataFest is growing fast! See the list of all [participating institutions](https://ww2.amstat.org/education/datafest/participants.cfm). 

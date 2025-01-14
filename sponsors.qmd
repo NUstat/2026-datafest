@@ -2,21 +2,21 @@
 title: "Sponsors"
 ---
 
-The event will not be possible without the support of our generous sponsors.
+The event will not be possible without the support of our generous sponsors:
 
 1. ![](images/StatisticsDataScience-Logo-HorizPurple.png)
 
-2. American Statistical Association (ASA)
+2. **American Statistical Association (ASA)**
 
-3. QuantumBlack, AI by McKinsey
+3. **QuantumBlack, AI by McKinsey**
 
-Sponsorship opportunities mainly include:
+**Sponsorship opportunities** mainly include:
 
-1. Financial contribution to support the event
+1. Financial contribution to support the event.
 
-2. Food, prizes, t-shirts, and freebies distributed during the event
+2. Food, prizes, t-shirts, and freebies distributed during the event.
 
-3. Contributing as a judge of the data analysis competition / panel discussion member on *Carriers in Data Science*/ mentor to advise student teams during the 40-hour event,
+3. Contributing as a judge of the data analysis competition / panel discussion member on *Careers in Data Science*/ mentor to advise student teams during the 40-hour event.
 
 Please contact the DataFest Faculty Coordinator, Krish (Arvind Krishna) at krish [AT] northwestern.edu if you are interested or have questions on ways to contribute to the event!
 

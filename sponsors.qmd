@@ -1,0 +1,7 @@
+---
+title: "Sponsors"
+---
+
+The event will not be possible without the support of our generous sponsors:
+
+![](images/StatisticsDataScience-Logo-HorizPurple.png)

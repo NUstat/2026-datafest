@@ -3,43 +3,57 @@ title: "FAQs"
 ---
 
 ## How do I sign up?
+
 Registration will open soon.
 
 ## What do I bring to DataFest?
+
 Please bring a laptop, charger and refillable water bottle.
 
 ## Is there a registration fee?
+
 No, there is no registration fee. However note that the event takes significant resources to run. So, if you sign up, we expect that you will show up! If your plans change, let us know as soon as possible so we can make your spot available to someone else.
 
 ## Who is eligible to compete?
+
 All undergraduate students at Northwestern University are eligible.
 
 ## What about PhD and Masters students?
+
 We would like to have Ph.D. and Masters students be involved as mentors during the event.
 
 ## Can I participate as a mentor if I am an MS student?
+
 Sure!
 
 ## How large are the teams?
+
 Teams can be made up of 2 - 5 students.
 
 ## Do I have to compete in a team?
+
 Yes, but if you don’t have a team in mind, select the “Looking for team” registration on the [Sign Up](https://nustat.github.io/2025-datafest/signup.html) page and we’ll match you with others looking for teammates.
 
 ## What do I need to compete?
+
 All you need is a laptop with tools for data analysis *(there is no limitation on which software you use)* and enthusiasm for data.
 
 ## What are the rules of the competition?
+
 Check the [rules](https://nustat.github.io/2025-datafest/coc.html) tab.
 
 ## How do I submit my analysis?
+
 Once the registration window closes, participants will receive an email with a link to the project submission form.
 
 ## Where can I get help during the competition?
+
 Mentors will be available in-person on Saturday *(at times to be announced)* to answer questions.
 
 ## What can I win?
+
 Winning teams will be awarded the ASA Student Membership along with other prizes that are being decided. Everyone gets a t-shirt!
 
 ## Where else is ASA DataFest happening?
-ASA DataFest is growing fast! See the list of all [participating institutions](https://ww2.amstat.org/education/datafest/participants.cfm). 
+
+ASA DataFest is growing fast! See the list of all [participating institutions](https://ww2.amstat.org/education/datafest/participants.cfm).

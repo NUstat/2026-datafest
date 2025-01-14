@@ -22,6 +22,8 @@ website:
         text: Rules & Code of Conduct
       - href: faqs.qmd
         text: FAQs
+      - href: sponsors.qmd
+        text: Sponsors
     
 execute:
   freeze: auto

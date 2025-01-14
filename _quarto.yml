@@ -24,6 +24,8 @@ website:
         text: FAQs
       - href: sponsors.qmd
         text: Sponsors
+      - href: contactus.qmd
+        text: Contact us
     
 execute:
   freeze: auto

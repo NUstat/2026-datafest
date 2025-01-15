@@ -207,6 +207,34 @@
     "href": "contactus.html",
     "title": "Contact US",
     "section": "",
-    "text": "For any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact one of our team members:\n\n\n\nArvind Krishna (Faculty Coordinator)\nkrish [AT] northwestern.edu\n\nGulsimo Osimi (Student coordinator)\n\ngulsimoosimi2025 [AT] u.northwestern.edu"
+    "text": "For any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact our team:\n\n\n\n\n\nFaculty Coordinator: Krish (Arvind Krishna)\nkrish [AT] northwestern.edu\n\n\n\n\n\nStudent Coordinator: Gulsimo Osimi\ngulsimoosimi2025 [AT] u.northwestern.edu"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to DataFest 2025!",
+    "section": "",
+    "text": "Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!"
+  },
+  {
+    "objectID": "index.html#event-details",
+    "href": "index.html#event-details",
+    "title": "Welcome to DataFest 2025!",
+    "section": "Event details",
+    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 (in Norris) on April 5\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
+  },
+  {
+    "objectID": "index.html#what-is-datafest",
+    "href": "index.html#what-is-datafest",
+    "title": "Welcome to DataFest 2025!",
+    "section": "What is DataFest?",
+    "text": "What is DataFest?\nASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA (American Statistical Association).\nTeams of 3 - 5 students analyse a potentially large & complex dataset, over a weekend. The problem statement is typically broad and open-ended, providing a lot of room for innovation. Your job is to find and communicate insights from the data that help answer the problem statement. You are encouraged to ask questions and receive advice from mentors, while working on the problem.\nASA DataFest is also a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that involves analysis and critical thinking, and it will provide a concrete example to demonstrate your experience during interviews.\nYou will also get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nFood & drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!"
+  },
+  {
+    "objectID": "index.html#previous-asa-datafests",
+    "href": "index.html#previous-asa-datafests",
+    "title": "Welcome to DataFest 2025!",
+    "section": "Previous ASA DataFests",
+    "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
   }
 ]

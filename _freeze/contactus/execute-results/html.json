@@ -1,0 +1,14 @@
+{
+  "hash": "397ca1be15906c8334bc8471a957477f",
+  "result": {
+    "markdown": "---\ntitle: \"Contact US\"\n---\n\n\nFor any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact our team:\n\n\n::: {.cell fig.margin='true'}\n::: {.cell-output-display}\n![](images/krish_pic.jpg){width=20%}\n:::\n:::\n\n\n**Faculty Coordinator:** Krish (Arvind Krishna)\n\nkrish [AT] northwestern.edu\n\n\n::: {.cell fig.margin='true'}\n::: {.cell-output-display}\n![](images/GO.jpg){width=20%}\n:::\n:::\n\n\n**Student Coordinator:** Gulsimo Osimi\n\ngulsimoosimi2025 [AT] u.northwestern.edu",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

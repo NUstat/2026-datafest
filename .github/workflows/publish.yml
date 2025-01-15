@@ -14,6 +14,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Install R Packages
+        run: |
+          Rscript -e 'install.packages(c("knitr", "rmarkdown"), repos="https://cloud.r-project.org/")'
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 

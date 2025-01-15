@@ -1,10 +1,8 @@
 {
-  "hash": "f2a15b83d9baeac68d2bd7cd5b25c35d",
+  "hash": "9d026d566a6a0054ab28ecf29b143a3a",
   "result": {
-    "markdown": "---\ntitle: \"Contact US\"\n---\n\n\nFor any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact any of our team members:\n\n\n::: {.cell fig.margin='true'}\n::: {.cell-output-display}\n![](images/krish_pic.jpg){width=20%}\n:::\n:::\n\n\n**Faculty Coordinator:** Krish (Arvind Krishna)\n\nkrish [AT] northwestern.edu\n\n\n::: {.cell fig.margin='true'}\n::: {.cell-output-display}\n![](images/GO.jpg){width=20%}\n:::\n:::\n\n\n**Student Coordinator:** Gulsimo Osimi\n\ngulsimoosimi2025 [AT] u.northwestern.edu",
-    "supporting": [
-      "contactus_files"
-    ],
+    "markdown": "---\ntitle: \"Contact US\"\n---\n\n\nFor any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact any of our team members:\n\n\n::: {.cell fig.margin='true'}\n::: {.cell-output-display}\n![](images/krish_pic.jpg){width=20%}\n:::\n:::\n\n\n**Faculty Coordinator:** Krish (Arvind Krishna)\n\nkrish [AT] northwestern.edu\n\n\n::: {.cell fig.margin='true'}\n::: {.cell-output-display}\n![](images/GO.jpg){width=20%}\n:::\n:::\n\n\n**Student Coordinator:** Gulsimo Osimi\n\ngulsimoosimi2025 [AT] u.northwestern.edu ",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

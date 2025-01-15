@@ -5,7 +5,8 @@ title: "Contact US"
 For any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact any of our team members:
 
 ```{r, echo=FALSE, out.width='20%', fig.margin=TRUE}
-knitr::include_graphics('images/krish_pic.jpg', dpi = NA)
+library(knitr)
+include_graphics('images/krish_pic.jpg', dpi = NA)
 ```
 
 **Faculty Coordinator:** Krish (Arvind Krishna)
@@ -13,7 +14,7 @@ knitr::include_graphics('images/krish_pic.jpg', dpi = NA)
 krish [AT] northwestern.edu
 
 ```{r, echo=FALSE, out.width='20%', fig.margin=TRUE}
-knitr::include_graphics('images/GO.jpg', dpi = NA)
+include_graphics('images/GO.jpg', dpi = NA)
 ```
 
 **Student Coordinator:** Gulsimo Osimi

@@ -6,7 +6,7 @@ The event will not be possible without the support of our generous sponsors:
 
 1. ![](images/StatisticsDataScience-Logo-HorizPurple.png)
 
-2. ![](images/ASA.jpg)
+2. ![](images/ASA.jpg){width=60%}
 
 3. QuantumBlack, AI by McKinsey
 

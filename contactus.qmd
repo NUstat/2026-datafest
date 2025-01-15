@@ -18,4 +18,4 @@ knitr::include_graphics('images/GO.jpg', dpi = NA)
 
 **Student Coordinator:** Gulsimo Osimi
 
-gulsimoosimi2025 [AT] u.northwestern.edu
+gulsimoosimi2025 [AT] u.northwestern.edu 

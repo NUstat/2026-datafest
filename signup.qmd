@@ -24,6 +24,8 @@ We invite everyone to help us run the event! There are several ways you can help
 
 We invite everyone to be a part of the DataFest organizing team! You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please fill the organizing committee form below.
 
-## Questions
+:::{.callout-note}
 
 If you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu
+
+:::

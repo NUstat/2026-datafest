@@ -2,18 +2,28 @@
 title: "Sign Up!"
 ---
 
+Each individual participating in the ASA DataFest at Northwestern University must submit a registration form. 
+
 ## Participants
 
-Registration to participate in DataFest 2025 for undergraduate students at Northwestern is not yet open. Please check back soon! 
+Only Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. MS & PhD students are welcome to fill out the mentor registration form to mentor undergraduate teams competing in the DataFest.
+
+If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. 
+
+Please fill the participant registration form below.
 
 ## Mentors
 
-Registration to participate as mentors to undergraduate teams in DataFest 2025 at Northwestern is not yet open. Please check back soon!
+While Graduate students can not compete in the ASA DataFest at Northwestern University, we strongly encourage them to volunteer as a mentor during the event! Please complete the Mentor Registration Form below.
 
 ## Volunteers
 
-Registration to participate as volunteers to help us organize and run the DataFest 2025 event at Northwestern is not yet open. Please check back soon!
+We invite everyone to help us run the event! There are several ways you can help - technical support, photography / social media, check-in desk, clean-up crew, etc. Join us during the event days (4th - 6th April), hang out, meet people, and have fun! Please fill the volunteer registration form below.
+
+## Organizing team
+
+We invite everyone to be a part of the DataFest organizing team! You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please fill the organizing committee form below.
 
 ## Questions
 
-If you have any questions about your registration, or about the DataFest, please contact Krish at krish [at] northwestern.edu
+If you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu

@@ -4,28 +4,28 @@
     "href": "sponsors.html",
     "title": "Sponsors",
     "section": "",
-    "text": "The event will not be possible without the support of our generous sponsors:\n\n\n\n\n\nSponsorship opportunities mainly include:\n\nFinancial contribution to support the event.\nFood, prizes, t-shirts, and freebies distributed during the event.\nContributing as a judge of the data analysis competition / panel discussion member on Careers in Data Science/ mentor to advise student teams during the 40-hour event.\n\nPlease contact the DataFest Faculty Coordinator, Krish (Arvind Krishna) at krish [AT] northwestern.edu if you are interested or have questions on ways to contribute to the event!"
+    "text": "The event will not be possible without the support of our generous sponsors:\n\n\n\n\n\nSponsorship opportunities mainly include:\n\nFinancial contribution to support the event.\nFood, prizes, t-shirts, and freebies distributed during the event.\nContributing as a judge of the data analysis competition / panel discussion member on Careers in Data Science / mentor to advise student teams during the 40-hour event.\n\nPlease contact the DataFest Faculty Coordinator, Krish (Arvind Krishna) at krish [AT] northwestern.edu if you are interested or have questions on ways to contribute to the event!"
   },
   {
     "objectID": "signup.html",
     "href": "signup.html",
     "title": "Sign Up!",
     "section": "",
-    "text": "Registration to participate in DataFest 2025 for undergraduate students at Northwestern is not yet open. Please check back soon!"
+    "text": "Each individual participating in the ASA DataFest at Northwestern University must submit a registration form."
   },
   {
     "objectID": "signup.html#participants",
     "href": "signup.html#participants",
     "title": "Sign Up!",
-    "section": "",
-    "text": "Registration to participate in DataFest 2025 for undergraduate students at Northwestern is not yet open. Please check back soon!"
+    "section": "Participants",
+    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\nParticipant registration link"
   },
   {
     "objectID": "signup.html#mentors",
     "href": "signup.html#mentors",
     "title": "Sign Up!",
     "section": "Mentors",
-    "text": "Mentors\nRegistration to participate as mentors to undergraduate teams in DataFest 2025 at Northwestern is not yet open. Please check back soon!"
+    "text": "Mentors\nWant to mentor undergraduate student teams to help unleash their potential in the competition? While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to volunteer as a mentor during the event! Help us mentor undergraduate teams Please complete the Mentor Registration Form below.\nMentor sign-up"
   },
   {
     "objectID": "signup.html#questions",
@@ -130,7 +130,7 @@
     "href": "faqs.html#what-can-i-win",
     "title": "FAQs",
     "section": "What can I win?",
-    "text": "What can I win?\nWinning teams will be awarded the ASA Student Membership along with other prizes that are being decided. Everyone gets a t-shirt!"
+    "text": "What can I win?\nWinning teams will be awarded the ASA Student Membership along with other prizes that are being decided."
   },
   {
     "objectID": "faqs.html#where-else-is-asa-datafest-happening",
@@ -158,7 +158,7 @@
     "href": "coc.html#presentation-rules",
     "title": "Rules & Code of Conduct",
     "section": "Presentation rules",
-    "text": "Presentation rules\n\nThe maximum time / number of slides to present for each team will be announced at the beginning of the event.\nAll team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).\nYour presentation must be uploaded in the link provided by 11:45 am on Sunday. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and send the PDF as your submission, you will not have time to log on/off to your account during the presentations.\nAlong with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.\nAwards will be given to three teams in each of the three categories. The categories will be announced at the beginning of the event.\nWinners will be awarded the ASA Student membership, along with other prizes that will be announced later. Everyone will get a T-shirt."
+    "text": "Presentation rules\n\nThe maximum time / number of slides to present for each team will be announced at the beginning of the event.\nAll team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).\nYour presentation must be uploaded in the link provided by 11:45 am on Sunday. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and send the PDF as your submission, you will not have time to log on/off to your account during the presentations.\nAlong with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.\nAwards will be given to three teams in each of the three categories. The categories will be announced at the beginning of the event.\nWinners will be awarded the ASA Student membership, along with other prizes that will be announced later."
   },
   {
     "objectID": "coc.html#guidelines-to-students",
@@ -200,7 +200,7 @@
     "href": "signup.html#volunteers",
     "title": "Sign Up!",
     "section": "Volunteers",
-    "text": "Volunteers\nRegistration to participate as volunteers to help us organize and run the DataFest 2025 event at Northwestern is not yet open. Please check back soon!"
+    "text": "Volunteers\nWant to be part of the fun without having to compete? Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (4th - 6th April), hang out, meet people, have food & fun! Please fill the volunteer registration form below.\nVolunteer sign-up"
   },
   {
     "objectID": "contactus.html",
@@ -236,5 +236,12 @@
     "title": "Welcome to DataFest 2025!",
     "section": "Previous ASA DataFests",
     "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
+  },
+  {
+    "objectID": "signup.html#organizing-team",
+    "href": "signup.html#organizing-team",
+    "title": "Sign Up!",
+    "section": "Organizing team",
+    "text": "Organizing team\nWant to be a part of important decision-making & execution, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please fill the organizing committee form below, and we’ll get back soon!\nOrganizing committee application\n\n\n\n\n\n\nNote\n\n\n\nIf you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu"
   }
 ]

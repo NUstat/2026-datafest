@@ -2,6 +2,8 @@
 title: "Sign Up!"
 ---
 
+![](images\d7.webp)
+
 Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form. 
 
 ## Participants

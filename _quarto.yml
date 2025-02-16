@@ -11,8 +11,10 @@ format:
 
 website:
   title: "DataFest 2025"
-  navbar:
+  sidebar:
+    search: true
     logo: 'images/NU_Stat_logo.png'    
+  navbar:
     left:
       - href: signup.qmd
         text: Sign Up

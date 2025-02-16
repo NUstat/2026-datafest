@@ -4,7 +4,7 @@ title: "FAQs"
 
 ## How do I sign up?
 
-Registration will open soon.
+Register on the [sign-up](https://nustat.github.io/2025-datafest/signup.html) page.
 
 ## What do I bring to DataFest?
 
@@ -50,6 +50,10 @@ Mentors will be available in-person on Saturday *(at times to be announced)* to 
 
 Winning teams will be awarded the ASA Student Membership along with other prizes.
 
+## How many prizes are there?
+
+Prizes will be awarded in several categories, such as best insights, best visualization, best use of external data, most creative solution, most actionable recommendations, best story-telling, young analysts (for teams having all freshman / sophomore participants) award, best use of ML tools, and judges choice award. However, prize categories and number of prizes will be confirmed at the beginning of the event.
+
 ## Where else is ASA DataFest happening?
 
-ASA DataFest is growing fast! See the list of all [participating institutions](https://ww2.amstat.org/education/datafest/participants.cfm).
+ASA DataFest is happening in several top universities around the world! See the list of all [participating institutions](https://ww2.amstat.org/education/datafest/participants.cfm).

@@ -13,7 +13,7 @@ website:
   title: "DataFest 2025"
   sidebar:
     search: true
-    logo: 'images/NU_Stat_logo.png'    
+    logo: 'images/NU_Stat_logo.png'        
   navbar:
     left:
       - href: signup.qmd

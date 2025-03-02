@@ -21,6 +21,8 @@ website:
         text: Sign Up
       - href: schedule.qmd
         text: Schedule
+      - href: panel_discussion.qmd
+        text: Careers in Data Science
       - href: coc.qmd
         text: Rules & Code of Conduct
       - href: faqs.qmd

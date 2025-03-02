@@ -64,16 +64,13 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/NU_Stat_logo.png" alt="" class="navbar-logo">
-    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">DataFest 2025</span>
     </a>
@@ -91,6 +88,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./schedule.html" rel="" target="">
  <span class="menu-text">Schedule</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./panel_discussion.html" rel="" target="">
+ <span class="menu-text">Careers in Data Science</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./coc.html" rel="" target="">
@@ -114,10 +115,36 @@ ul.task-list li input[type="checkbox"] {
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">FAQs</li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./images/NU_Stat_logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
@@ -136,6 +163,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#how-do-i-submit-my-analysis" id="toc-how-do-i-submit-my-analysis" class="nav-link" data-scroll-target="#how-do-i-submit-my-analysis">How do I submit my analysis?</a></li>
   <li><a href="#where-can-i-get-help-during-the-competition" id="toc-where-can-i-get-help-during-the-competition" class="nav-link" data-scroll-target="#where-can-i-get-help-during-the-competition">Where can I get help during the competition?</a></li>
   <li><a href="#what-can-i-win" id="toc-what-can-i-win" class="nav-link" data-scroll-target="#what-can-i-win">What can I win?</a></li>
+  <li><a href="#how-many-prizes-are-there" id="toc-how-many-prizes-are-there" class="nav-link" data-scroll-target="#how-many-prizes-are-there">How many prizes are there?</a></li>
   <li><a href="#where-else-is-asa-datafest-happening" id="toc-where-else-is-asa-datafest-happening" class="nav-link" data-scroll-target="#where-else-is-asa-datafest-happening">Where else is ASA DataFest happening?</a></li>
   </ul>
 </nav>
@@ -162,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="how-do-i-sign-up" class="level2">
 <h2 class="anchored" data-anchor-id="how-do-i-sign-up">How do I sign up?</h2>
-<p>Registration will open soon.</p>
+<p>Register on the <a href="https://nustat.github.io/2025-datafest/signup.html">sign-up</a> page.</p>
 </section>
 <section id="what-do-i-bring-to-datafest" class="level2">
 <h2 class="anchored" data-anchor-id="what-do-i-bring-to-datafest">What do I bring to DataFest?</h2>
@@ -206,11 +234,15 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="what-can-i-win" class="level2">
 <h2 class="anchored" data-anchor-id="what-can-i-win">What can I win?</h2>
-<p>Winning teams will be awarded the ASA Student Membership along with other prizes that are being decided.</p>
+<p>Winning teams will be awarded the ASA Student Membership along with other prizes.</p>
+</section>
+<section id="how-many-prizes-are-there" class="level2">
+<h2 class="anchored" data-anchor-id="how-many-prizes-are-there">How many prizes are there?</h2>
+<p>Prizes will be awarded in several categories, such as best insights, best visualization, best use of external data, most creative solution, most actionable recommendations, best story-telling, young analysts (for teams having all freshman / sophomore participants) award, best use of ML tools, and judges choice award. However, prize categories and number of prizes will be confirmed at the beginning of the event.</p>
 </section>
 <section id="where-else-is-asa-datafest-happening" class="level2">
 <h2 class="anchored" data-anchor-id="where-else-is-asa-datafest-happening">Where else is ASA DataFest happening?</h2>
-<p>ASA DataFest is growing fast! See the list of all <a href="https://ww2.amstat.org/education/datafest/participants.cfm">participating institutions</a>.</p>
+<p>ASA DataFest is happening in several top universities around the world! See the list of all <a href="https://ww2.amstat.org/education/datafest/participants.cfm">participating institutions</a>.</p>
 
 
 </section>

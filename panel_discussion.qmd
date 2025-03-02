@@ -1,14 +1,12 @@
 ---
-title: "Panel discussion"
+title: "Careers in data science"
 ---
 
-There will be a recruitment session on Saturday. Stay tuned for details!
+## Panel discussion session
 
 There will be a panel discussion on **Careers in data science** on Sunday, 6th April from 5 to 6:30 pm at Guild Lounge. 
 
-**Meet our panelists**—from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Get inspired!
-
-## Panelists
+**Meet our panelists**—from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Listen to the stories of five unique journeys into data science. Ask them what inspired their path—or if their path chose them?
 
 ::: {style="float: right; margin: 5px;"}
 ![](images/Sanchit_tiwari.jpg){width=100%}
@@ -53,4 +51,8 @@ Lila graduated from Northwestern University in 2023 with a major in Sociology, a
 **Zichen (Victoria) Shi:** 
 *First-year data science PhD student at University of Chicago* 
 
-Victoria is a recent Northwestern University graduate from the class of 2024. She earned a triple major in Industrial Engineering, Data Science, and Statistics, along with a minor in Economics. Her research interests focus on statistical learning, inference, optimization, and 	 intersection in decision-making under risk and uncertainty. Beyond academics, she enjoys playing tennis, practicing yoga, and tinkering.
+Victoria, a 2024 Northwestern graduate, earned a **triple major** in Industrial Engineering, Data Science, and Statistics, along with a **minor** in Economics, and an **Honor's thesis** in Statistics. Victoria effortlessly juggled her jam-packed academic load while still finding time to climb, roller skate, and chase new adventures! Her research at University of Chicago explores statistical learning, inference, and optimization, particularly in decision-making under risk and uncertainty—key challenges in data science. Beyond academics, she enjoys playing tennis, practicing yoga, and tinkering.
+
+## Recruitment session
+
+There will be a recruitment session on Saturday. Stay tuned for details!

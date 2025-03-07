@@ -1,14 +1,7 @@
 ---
 title: "Sponsors"
 format: html
-engine: knitr
 ---
-
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
 
 The event will not be possible without the support of our generous sponsors:
 

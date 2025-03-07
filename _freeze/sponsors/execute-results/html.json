@@ -1,0 +1,14 @@
+{
+  "hash": "083432f4e1c0db851af083f42782cbf7",
+  "result": {
+    "markdown": "---\ntitle: \"Sponsors\"\nformat: html\nengine: knitr\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\nThe event will not be possible without the support of our generous sponsors:\n\n1. ![](images/StatisticsDataScience-Logo-HorizPurple.png)\n\n2. ![](images/ASA.jpg){width=50%}\n\n3. ![](images/McK_QuantumBlack_Logo_RGB_Black For Digital.svg){width=80%}\n\n4. ![](images/Capital_One-Logo_wine.png){width=60%}\n\n**Sponsorship opportunities** mainly include:\n\n1. Financial contribution to support the event.\n\n2. Food, prizes, t-shirts, and freebies distributed during the event.\n\n3. Contributing as a judge of the data analysis competition / panel discussion member on *Careers in Data Science* / mentor to advise student teams during the 40-hour event.\n\nPlease contact the DataFest Faculty Coordinator, Krish (Arvind Krishna) at krish [AT] northwestern.edu if you are interested or have questions on ways to contribute to the event!\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

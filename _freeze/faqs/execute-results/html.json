@@ -1,0 +1,14 @@
+{
+  "hash": "93f6e19c11432fd18d82b33adde5fd85",
+  "result": {
+    "markdown": "---\ntitle: \"FAQs\"\nformat: html\nengine: knitr\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\n## How do I sign up?\n\nRegister on the [sign-up](https://nustat.github.io/2025-datafest/signup.html) page.\n\n## What do I bring to DataFest?\n\nPlease bring a laptop, charger and refillable water bottle.\n\n## Is there a registration fee?\n\nNo, there is no registration fee. However note that the event takes significant resources to run. So, if you sign up, we expect that you will show up! If your plans change, let us know as soon as possible so we can make your spot available to someone else.\n\n## Who is eligible to compete?\n\nAll undergraduate students at Northwestern University are eligible.\n\n## What about PhD and Masters students?\n\nWe would like to have Ph.D. and Masters students be involved as mentors during the event.\n\n## How large are the teams?\n\nTeams can be made up of 2 - 5 students.\n\n## Do I have to compete in a team?\n\nYes, but if you don’t have a team in mind, select the “Looking for team” registration on the [Sign Up](https://nustat.github.io/2025-datafest/signup.html) page and we’ll match you with others looking for teammates.\n\n## What do I need to compete?\n\nAll you need is a laptop with tools for data analysis *(there is no limitation on which software you use)* and enthusiasm for data.\n\n## What are the rules of the competition?\n\nCheck the [rules](https://nustat.github.io/2025-datafest/coc.html) tab.\n\n## How do I submit my analysis?\n\nOnce the registration window closes, participants will receive an email with a link to the project submission form.\n\n## Where can I get help during the competition?\n\nMentors will be available in-person on Saturday *(at times to be announced)* to answer questions.\n\n## What can I win?\n\nWinning teams will be awarded the ASA Student Membership along with other prizes.\n\n## How many prizes are there?\n\nPrizes will be awarded in several categories, such as best insights, best visualization, best use of external data, most creative solution, most actionable recommendations, best story-telling, young analysts (for teams having all freshman / sophomore participants) award, best use of ML tools, and judges choice award. However, prize categories and number of prizes will be confirmed at the beginning of the event.\n\n## Where else is ASA DataFest happening?\n\nASA DataFest is happening in several top universities around the world! See the list of all [participating institutions](https://ww2.amstat.org/education/datafest/participants.cfm).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

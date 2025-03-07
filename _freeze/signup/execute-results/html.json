@@ -1,0 +1,14 @@
+{
+  "hash": "3e94dae52b863a68620afc67821c5c2e",
+  "result": {
+    "markdown": "---\ntitle: \"Sign Up!\"\nformat: html\nengine: knitr\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n\nEach individual or team participating in the ASA DataFest at Northwestern University must submit a registration form. \n\n## Participants\n\n**Want to compete in a data analysis competition, talk to data science professionals, and network?** Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\n\n[Participant registration](https://northwestern.az1.qualtrics.com/jfe/form/SV_0x3GxnET498xTw2)\n\n## Mentors\n\n**Want to mentor undergraduate student teams to help unleash their potential in the competition?** While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.\n\n[Mentor sign-up](https://northwestern.az1.qualtrics.com/jfe/form/SV_6lh1FXP16IpgC9w)\n\n## Volunteers\n\n**Want to be part of the fun without having to compete?** Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (4th - 6th April), hang out, meet people, and have food & fun! Please complete the volunteer sign-up form below.\n\n[Volunteer sign-up](https://northwestern.az1.qualtrics.com/jfe/form/SV_81CwqLJy1Wd0Ggu)\n\n## Organizing team\n\n**Want to be a part of important decision-making & execution**, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please complete the organizing committee application below, and we'll get back soon!\n\n[Organizing committee application](https://northwestern.az1.qualtrics.com/jfe/form/SV_eIFfz6RHcVllXmK )\n\n:::{.callout-note}\n\nIf you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu\n\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

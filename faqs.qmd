@@ -1,14 +1,7 @@
 ---
 title: "FAQs"
 format: html
-engine: knitr
 ---
-
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
-}
-```
 
 ## How do I sign up?
 

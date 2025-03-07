@@ -1,6 +1,14 @@
 ---
 title: "Welcome to DataFest 2025!"
+format: html
+engine: knitr
 ---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
 
 ![](images\d1.webp)
 

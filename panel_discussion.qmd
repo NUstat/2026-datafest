@@ -51,8 +51,18 @@ Lila graduated from Northwestern University in 2023 with a major in Sociology, a
 ### Zichen (Victoria) Shi
 ***First-year data science PhD student at University of Chicago***
 
-Victoria, a 2024 Northwestern graduate, earned a **triple major** in Industrial Engineering, Data Science, and Statistics, along with a minor in Economics, and an **Honor's thesis** in Statistics. Victoria effortlessly juggled her jam-packed academic load while still finding time to climb, roller skate, and chase new adventures! **Her research** at University of Chicago **explores statistical learning, inference, and optimization, particularly in decision-making under risk and uncertainty—key challenges in data science**. Beyond academics, she enjoys playing tennis, practicing yoga, and tinkering.
+Victoria Shi is a first-year Data Science Ph.D. student at the University of Chicago. She graduated from Northwestern University in 2024 with a **triple major** in Industrial Engineering, Data Science, and Statistics, plus a minor in Economics. Victoria decided to pursue a Ph.D. after her sophomore **internship at Goldman Sachs**, where she worked as a quant strat, constructing a robust data pipeline for a knowledge graph for **data-driven investment**. Currently, she draws on insights from machine learning, optimization, and inference to develop a unified theoretical framework for risk-aware decision-making—a theme inspired by her undergraduate honors thesis in Statistics with Professor Thomas Severini on stochastic dominance and its implications for portfolio selection under uncertainty. During her undergraduate studies, Victoria managed her jam-packed academic load in just three years while still finding time to climb and chase new adventures. She enjoys playing tennis, rock climbing, and tinkering.
 
-## Capital One Session
+## Networking with Capital One
 
-Interested in connecting with Capital One? Capital One will be on campus Saturday, April 5th. During this time Capital One will be assisting with the Data Fest and hosting a resume review session, live Q&A panel, discussing the Day in the Life of a Capital One associate, and other networking opportunities. Be sure to attend to connect with Capital One and learn more about upcoming opportunities! 
+Interested in connecting with [Capital One](https://www.capitalone.com/)? Capital one is the ninth largest bank in the United States by total assets as of 31st December 2024, the third largest issuer of Visa and Mastercard credit cards, and one of the largest car finance companies in the United States.
+
+Capital One will be on campus Saturday, April 5th. During this time Capital One will be:
+
+* hosting a resume review session
+
+* discussing the Day in the Life of a Capital One associate, and
+
+* talking about other networking opportunities
+
+Be sure to attend to connect with Capital One and learn more about upcoming career opportunities! 

@@ -1,6 +1,16 @@
 ---
 title: "Careers in data science"
+format: html
+engine: knitr
 ---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
 
 ## Panel discussion session
 
@@ -66,3 +76,5 @@ Capital One will be on campus Saturday, April 5th. During this time Capital One 
 * talking about other networking opportunities
 
 Be sure to attend to connect with Capital One and learn more about upcoming career opportunities! 
+
+:::

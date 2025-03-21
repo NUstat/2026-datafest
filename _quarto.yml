@@ -23,6 +23,8 @@ website:
         text: Schedule
       - href: panel_discussion.qmd
         text: Careers in Data Science
+      - href: participants.qmd
+        text: Participants
       - href: coc.qmd
         text: Rules & Code of Conduct
       - href: faqs.qmd

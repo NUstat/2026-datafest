@@ -7,5 +7,5 @@ Share a photo of your team along with a brief, engaging description, and we’ll
 \noindent ***1. Thinkers**
 
 ![](images/sample_team.jpg){width=100%}
-*Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, **Thinkers** are here to crunch numbers, break models (hopefully not too badly), and prove that statistics can be useful… sometimes!*
+*Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, **Thinkers** are here to prove that creative ideas can beat coding and statistics sophistication!*
 

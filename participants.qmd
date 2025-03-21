@@ -2,8 +2,10 @@
 title: "Participant Teams"
 ---
 
-Send us a picture and a sentence to describe your team, and we'll post it on this page. Get to know your competition & also network during the event. Below is an example of a picture of team members and a sentence describing them. We'll read the sentence when introducing your team during the presentation to the judges! 
+Share a photo of your team along with a brief, engaging description, and we’ll feature it on this page! It’s a great way to get to know your competition and network during the event. Below is an example of a team photo and description. We’ll also read your sentence when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image, but please submit only one picture per team.
 
-![](images/sample_team.jpg){width=20%}
-Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, 'Example Team' is here to crunch numbers, break models (hopefully not too badly), and prove that statistics can be useful… sometimes!
+1. **Thinkers**
+
+![](images/sample_team.jpg){width=100%}
+*Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, **Thinkers** are here to crunch numbers, break models (hopefully not too badly), and prove that statistics can be useful… sometimes!*
 

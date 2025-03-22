@@ -37,6 +37,16 @@ Daniela received her Ph.D. in Operations Research at Georgia Tech in December 20
 Kevin Rak is a Program Specialist (Data) with Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital that connects, collaborates, and mobilizes around a public health approach to violence prevention. He has several years’ experience working in community-based organizations on a variety of issues, including homeless services, support for domestic violence survivors, and violence prevention. Kevin has **analyzed and presented data to make it useful to residents, community organizations, researchers, and funders**. He has contributed to research that has been published in peer-reviewed journals and shared with policy makers. Kevin holds a **Bachelor’s in History** from Northwestern University and a Master’s in Public Policy from King’s College London.
 
 ::: {style="float: left; margin: 5px; width: 50%"}
+![](images/tina.png){width=100%}
+:::
+
+### Tina Zheng
+***Data Science Manager, Ventas REIT***
+
+Tina Zheng is a Data Science Manager at Ventas, a leading real estate investment trust in the healthcare sector. She **specializes in translating complex data into actionable insights that support strategic decisions around acquisitions, dispositions, and portfolio performance**. At the intersection of research, analytics, and machine learning, Tina’s work drives the **development of visualization tools and data-driven presentations that inform executive decision-making and enhance operational outcomes**. She graduated from Northwestern University in 2019 with a double major in Economics and Music (Violin).
+
+
+::: {style="float: right; margin: 5px; width: 50%"}
 ![](images/lila_wells.jpg){width=100%}
 :::
 
@@ -45,7 +55,7 @@ Kevin Rak is a Program Specialist (Data) with Strengthening Chicago’s Youth, a
 
 Lila graduated from Northwestern University in 2023 with a major in Sociology, a minor in Data Science, and a certificate in Human-Computer Interaction. At McKinsey, she does most of her work in operations, where **she primarily works with large datasets in Excel, often dealing with raw data that requires extensive cleaning, wrangling, and analysis to extract meaningful insights**. Her first role after graduation was as a Program Manager at Amazon Web Services (AWS), where where she was involved in business and product operations for cloud computing services. Lila worked with large datasets and **self-taught JavaScript to streamline web-based analytics tasks**.
 
-::: {style="float: right; margin: 5px; width: 50%"}
+::: {style="float: left; margin: 5px; width: 50%"}
 ![](images/victoria_shi.jpg){width=100%}
 :::
 

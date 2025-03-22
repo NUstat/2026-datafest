@@ -6,7 +6,7 @@ format: html
 
 There will be a panel discussion on **Careers in data science** on Sunday, 6th April from 5 to 6:30 pm at Guild Lounge. 
 
-Meet our panelists from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Listen to the stories of five unique journeys into data science. Ask them what inspired their path—or if their path chose them?
+We are thrilled to introduce a diverse panel of six experts, each with a distinct career path, yet all united by their connection to data science. Their journeys will illuminate the vast opportunities in the field, providing valuable insights into its complexities, work-life balance, and real-world impact. Don't miss this chance to learn from their experiences, ask questions, and grow your network!
 
 ## Networking with Capital One
 

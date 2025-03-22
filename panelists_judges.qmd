@@ -3,7 +3,7 @@ title: "Meet our panelists & judges"
 format: html
 ---
 
-Meet our panelists & judges from different types and stages of a data science career. Learn from their experiences, ask questions, and network!
+Meet our panelists from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Listen to the stories of six unique journeys into data science. Ask them what inspired their path—or if their path chose them?
 
 ::: {style="float: right; margin: 5px;"}
 ![](images/Sanchit_tiwari.jpg){width=100%}

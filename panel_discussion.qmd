@@ -1,5 +1,4 @@
 ---
-title: "Careers in data science"
 format: html
 ---
 

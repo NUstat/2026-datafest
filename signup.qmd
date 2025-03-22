@@ -11,6 +11,8 @@ Each individual or team participating in the ASA DataFest at Northwestern Univer
 
 [Participant registration](https://northwestern.az1.qualtrics.com/jfe/form/SV_0x3GxnET498xTw2)
 
+**Participants registrations are now closed. If you register now, you will be added to a waitlist.**
+
 ## Mentors
 
 **Want to mentor undergraduate student teams to help unleash their potential in the competition?** While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.

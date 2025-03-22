@@ -12,3 +12,8 @@
 .justify-text {
     text-align: justify !important;
 }
+
+.my-colored-text {
+    color: #00FF00; /* Green */
+    font-weight: bold;
+}

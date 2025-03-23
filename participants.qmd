@@ -4,19 +4,37 @@ title: "Participant Teams"
 
 Share a photo of your team along with a one-sentence witty description, and we’ll feature it on this page! It’s a great way to get to know your competition and network during the event. Below is an [example](http://localhost:3704/participants.html#thinkers) of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image, but please submit only one picture per team.
 
-All members of the following teams have confirmed participation:
+All members of the following teams have [**confirmed participation**]{style="color:#4E2A84;"}:
 
-## 1. Team NA
+## 1. Team NA{style="color:#4E2A84;"}
 
-## 2. Frisbee Team
+## 2. Frisbee Team{style="color:#4E2A84;"}
 
-## 3. Hot Tea
+## 3. Hot Tea{style="color:#4E2A84;"}
 
-## 4. DABJ
+## 4. DABJ{style="color:#4E2A84;"}
 
-## 5. Krish Fan Club
+## 5. Krish Fan Club{style="color:#4E2A84;"}
 
-## 6. The Chopstick Warrior
+## [6. The Chopstick Warrior]{style="color:#4E2A84;"}
+
+At least one member of the following teams has **not confirmed participation**:
+
+## 7. Vietnamese Statistical Association{style="color:#D8D6D6;"}
+
+## 8. Otters{style="color:#D8D6D6;"}
+
+## 9. Data Jays{style="color:#D8D6D6;"}
+
+## 10. GGAP{style="color:#D8D6D6;"}
+
+## 11. Macrodata Refinement{style="color:#D8D6D6;"}
+
+## 12. The Unicorns{style="color:#D8D6D6;"}
+
+## 13. InvASIANS{style="color:#D8D6D6;"}
+
+## 14. Lebron X Bronny James{style="color:#D8D6D6;"}
 
 *See an example of Team Photo and Description below:*
 

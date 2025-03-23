@@ -403,7 +403,7 @@
     "href": "participants.html#the-chopstick-warrior",
     "title": "Participant Teams",
     "section": "8. The Chopstick Warrior",
-    "text": "8. The Chopstick Warrior\nAt least one member of the following teams has not confirmed participation:"
+    "text": "8. The Chopstick Warrior"
   },
   {
     "objectID": "mentors.html",
@@ -437,22 +437,22 @@
     "objectID": "participants.html#vietnamese-statistical-association",
     "href": "participants.html#vietnamese-statistical-association",
     "title": "Participant Teams",
-    "section": "9. Vietnamese Statistical Association",
-    "text": "9. Vietnamese Statistical Association"
+    "section": "13. Vietnamese Statistical Association",
+    "text": "13. Vietnamese Statistical Association"
   },
   {
     "objectID": "participants.html#otters",
     "href": "participants.html#otters",
     "title": "Participant Teams",
-    "section": "10. Otters",
-    "text": "10. Otters"
+    "section": "14. Otters",
+    "text": "14. Otters"
   },
   {
     "objectID": "participants.html#data-jays",
     "href": "participants.html#data-jays",
     "title": "Participant Teams",
-    "section": "11. Data Jays",
-    "text": "11. Data Jays"
+    "section": "15. Data Jays",
+    "text": "15. Data Jays"
   },
   {
     "objectID": "participants.html#ggap",
@@ -465,15 +465,15 @@
     "objectID": "participants.html#macrodata-refinement",
     "href": "participants.html#macrodata-refinement",
     "title": "Participant Teams",
-    "section": "12. Macrodata Refinement",
-    "text": "12. Macrodata Refinement"
+    "section": "16. Macrodata Refinement",
+    "text": "16. Macrodata Refinement"
   },
   {
     "objectID": "participants.html#the-unicorns",
     "href": "participants.html#the-unicorns",
     "title": "Participant Teams",
-    "section": "13. The Unicorns",
-    "text": "13. The Unicorns"
+    "section": "17. The Unicorns",
+    "text": "17. The Unicorns"
   },
   {
     "objectID": "participants.html#invasians",
@@ -486,8 +486,8 @@
     "objectID": "participants.html#lebron-x-bronny-james",
     "href": "participants.html#lebron-x-bronny-james",
     "title": "Participant Teams",
-    "section": "14. Lebron X Bronny James",
-    "text": "14. Lebron X Bronny James\nSee an example of Team Photo and Description below:"
+    "section": "19. Lebron X Bronny James",
+    "text": "19. Lebron X Bronny James"
   },
   {
     "objectID": "mentors.html#akash-rathi",
@@ -495,5 +495,47 @@
     "title": "Meet our team mentors",
     "section": "Akash Rathi",
     "text": "Akash Rathi\nMRI data analyst, Northwestern University\nAkash received his Bachelor’s degree in Data Science from Northwestern University in 2023. He has a strong interest in medical machine learning - specifically, models that can detect various forms of brain cancer. After his undergraduate studies, he spent one year at the University of California, Los Angeles conducting research to improve gait in patients with Parkinson’s Disease. In addition, he developed neural networks to detect epilepsy from non-seizure EEG data. He is applying to medical school this summer. His mentoring style is very hands-on. He believes developing a strong team dynamic and morale is crucial to any project - especially, those that are time-sensitive. He looks forward to getting to know the teams on a personal level, and maintaining strong communication from the start."
+  },
+  {
+    "objectID": "participants.html#team-to-be-named",
+    "href": "participants.html#team-to-be-named",
+    "title": "Participant Teams",
+    "section": "9. Team to be named",
+    "text": "9. Team to be named"
+  },
+  {
+    "objectID": "participants.html#team-to-be-named-1",
+    "href": "participants.html#team-to-be-named-1",
+    "title": "Participant Teams",
+    "section": "10. Team to be named",
+    "text": "10. Team to be named"
+  },
+  {
+    "objectID": "participants.html#team-to-be-named-2",
+    "href": "participants.html#team-to-be-named-2",
+    "title": "Participant Teams",
+    "section": "11. Team to be named",
+    "text": "11. Team to be named"
+  },
+  {
+    "objectID": "participants.html#team-to-be-named-3",
+    "href": "participants.html#team-to-be-named-3",
+    "title": "Participant Teams",
+    "section": "12. Team to be named",
+    "text": "12. Team to be named\nAt least one member of the following teams has not confirmed participation:"
+  },
+  {
+    "objectID": "participants.html#team-to-be-named-4",
+    "href": "participants.html#team-to-be-named-4",
+    "title": "Participant Teams",
+    "section": "20. Team to be named",
+    "text": "20. Team to be named\nSee an example of Team Photo and Description below:"
+  },
+  {
+    "objectID": "participants.html#stat-avengers",
+    "href": "participants.html#stat-avengers",
+    "title": "Participant Teams",
+    "section": "18. Stat Avengers",
+    "text": "18. Stat Avengers"
   }
 ]

@@ -404,5 +404,33 @@
     "title": "Participant Teams",
     "section": "6. The Chopstick Warrior",
     "text": "6. The Chopstick Warrior\nSee an example of Team Photo and Description below:"
+  },
+  {
+    "objectID": "mentors.html",
+    "href": "mentors.html",
+    "title": "Meet our team mentors",
+    "section": "",
+    "text": "Meet our talented team mentors! They will be mentoring the participant teams competing in the event."
+  },
+  {
+    "objectID": "mentors.html#mary-wu",
+    "href": "mentors.html#mary-wu",
+    "title": "Meet our team mentors",
+    "section": "1. Mary Wu",
+    "text": "1. Mary Wu\nMS student, Statistics and Data Science\nMary is a first-year Master’s student in Statistics & Data Science. She graduated from New York University in 2024 with a joint major in Economics & Mathematics and a minor in Music. Mary has research experience across economics, business, and statistics - most recently focusing on the impact of AI on corporate decision-making (particularly in the context of foreign expansion) as well as Bayesian statistics. Mary is experienced with data manipulation in Python, R, and SQL, and is passionate about turning data into meaningful stories that drive real-life impact. She especially hopes to support underrepresented students and those new to data analysis, and aims to be a resource for anyone navigating grad school, internships, and research."
+  },
+  {
+    "objectID": "mentors.html#mary-wu-1",
+    "href": "mentors.html#mary-wu-1",
+    "title": "Meet our team mentors",
+    "section": "1. Mary Wu",
+    "text": "1. Mary Wu"
+  },
+  {
+    "objectID": "mentors.html#sanchit-tiwari",
+    "href": "mentors.html#sanchit-tiwari",
+    "title": "Meet our team mentors",
+    "section": "Sanchit Tiwari",
+    "text": "Sanchit Tiwari\nAssociate Partner at McKinsey & Company I Senior Principal at QuantumBlack, AI by McKinsey\n(Keynote speaker, panelist and judge)\nSanchit Tiwari is a recognized AI & Data Science leader with extensive experience in Data-Centric AI, Digital Twin, GenAI, and scalable AI solution architecture. As an Associate Partners at McKinsey & Company and Senior Principal at QuantumBlack, AI by Mckinsey, Sanchit has led large scale AI driven transformation across the globe with multiple organizations. With two decades of experience, Sanchit specializes in leveraging advancement in AI and GenAI to optimize operations and business strategy. He has developed expertise in AI-powered Digital Twins and implementing AI driven automation to drive measurable business impact. Beyond his industry work, Sanchit is passionate thought leader, speaker, and mentor in the field of AI. He actively shares insights on Data Science and future of AI in enterprise. He is deeply committed bridging the gap between data science & AI research and real work applications, helping business scale data science solutions effectively. His academic foundation in computer science combined with his deep industry expertise enables him to blend Data Science research with practical business applications to create transformative solutions."
   }
 ]

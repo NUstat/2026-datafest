@@ -10,3 +10,15 @@ Share a photo of your team along with a one-sentence witty description, and weâ€
 ![](images/sample_team.jpg){width=100%}
 *Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, **Thinkers** are here to prove that creative ideas can beat coding and statistical sophistication!*
 
+All members of the following teams have confirmed participation:
+
+## 2. Frisbee Team
+
+## 3. Hot Tea
+
+## 4. DABJ
+
+## 5. Krish Fan Club
+
+## 6. The Chopstick Warrior
+

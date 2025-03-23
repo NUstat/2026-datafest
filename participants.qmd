@@ -2,25 +2,28 @@
 title: "Participant Teams"
 ---
 
-Share a photo of your team along with a one-sentence witty description, and we’ll feature it on this page! It’s a great way to get to know your competition and network during the event. Below is an example of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image, but please submit only one picture per team.
+Share a photo of your team along with a one-sentence witty description, and we’ll feature it on this page! It’s a great way to get to know your competition and network during the event. Below is an [example](http://localhost:3704/participants.html#thinkers) of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image, but please submit only one picture per team.
 
+All members of the following teams have confirmed participation:
 
-## 1. Thinkers
+## 1. Team NA
+
+## 2. Frisbee Team
+
+## 3. Hot Tea
+
+## 4. DABJ
+
+## 5. Krish Fan Club
+
+## 6. The Chopstick Warrior
+
+See an example of Team Photo and Description below:
+
+## Thinkers
 
 ![](images/sample_team.jpg){width=100%}
 *Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, **Thinkers** are here to prove that creative ideas can beat coding and statistical sophistication!*
 
-All members of the following teams have confirmed participation:
 
-## 2. Team NA
-
-## 3. Frisbee Team
-
-## 4. Hot Tea
-
-## 5. DABJ
-
-## 6. Krish Fan Club
-
-## 7. The Chopstick Warrior
 

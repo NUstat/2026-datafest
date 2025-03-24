@@ -2,7 +2,7 @@
 title: "Participant Teams"
 ---
 
-Share a photo of your team along with a one-sentence witty description, and we’ll feature it on this page! It’s a great way to get to know your competition and network during the event. Below is an [example](https://nustat.github.io/2025-datafest/participants.html#thinkers) of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image, but please send only one picture per team to krish [AT] northwestern.edu
+🔥 Brace yourselves for the DataFest! **21 powerhouse teams, 66 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
 
 ## 1. Vietnamese Statistical Association{style="color:#4E2A84;"}
 *(Jonathan, Luna, and Brian)*

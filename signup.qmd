@@ -13,7 +13,7 @@ Each individual or team participating in the ASA DataFest at Northwestern Univer
 
 :::{.callout-note}
 
-**Participants registrations are now closed. If you register now, you will be added to a waitlist.**
+**Participants registrations are now closed.**
 
 :::
 ## Mentors

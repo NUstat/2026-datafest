@@ -8,7 +8,7 @@ title: "Participant Teams"
 *(Jonathan, Luna, and Brian)*
 
 ## 2. Otters{style="color:#4E2A84;"}
-*(Eunice, Ellie, and Jeremy (Kim))*
+*(Eunice, Ellie, and Jeremy)*
 
 ## 3. Team NA{style="color:#4E2A84;"}
 *(Noah & Aryaman)*
@@ -38,7 +38,7 @@ title: "Participant Teams"
 *(Dawson, Ken, Takeshi, and Josuke)*
 
 ## 12. DABJ{style="color:#4E2A84;"}
-*(Alec, Dustin, and Jeremy (Song))*
+*(Alec, Dustin, and Jeremy)*
 
 ## 13. Screenagers{style="color:#4E2A84;"}
 *(Danny & Gio)*
@@ -53,7 +53,7 @@ title: "Participant Teams"
 *(Izzy, Yana, Kushal, Abe, and Michael)*
 
 ## 17. *Team to be named*{style="color:#4E2A84;"}
-*(Harrison, Abigail, and Irene (Liu))*
+*(Harrison, Abigail, and Irene*
 
 ## 18. *Team to be named*{style="color:#4E2A84;"}
 *(Leliani, Alexia, and Paul)*
@@ -62,7 +62,7 @@ title: "Participant Teams"
 *(Noblesse, Betty, Sungmin, and Jenna)*
 
 ## 20. *Team to be named*{style="color:#4E2A84;"}
-*(Matthew, Adrien, Irene (Zhang), and Shriyans)*
+*(Matthew, Adrien, Irene, and Shriyans)*
 
 ## [21. *Team to be named*]{style="color:#4E2A84;"}
 [*(Edwin, Jinhe, Felice, and Olzhasbek)*]{style="color:#4E2A84;"}

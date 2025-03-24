@@ -5,6 +5,8 @@ format: html
 
 Meet our talented team mentors! They will be mentoring the participant teams competing in the event.
 
+*More mentor profiles to appear soon!*
+
 ::: {style="float: right; margin: 5px; width:50%"}
 ![](images/mary2.jpg){width=100%}
 :::

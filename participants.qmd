@@ -4,53 +4,70 @@ title: "Participant Teams"
 
 Share a photo of your team along with a one-sentence witty description, and we’ll feature it on this page! It’s a great way to get to know your competition and network during the event. Below is an [example](https://nustat.github.io/2025-datafest/participants.html#thinkers) of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image, but please send only one picture per team to krish [AT] northwestern.edu
 
-All members of the following teams have [**confirmed participation**]{style="color:#4E2A84;"}:
-
 ## 1. Vietnamese Statistical Association{style="color:#4E2A84;"}
+*(Jonathan, Luna, and Brian)*
 
-## 2. Team NA{style="color:#4E2A84;"}
+## 2. Otters{style="color:#4E2A84;"}
+*(Eunice, Ellie, and Jeremy (Kim))*
 
-## 3. GGAP{style="color:#4E2A84;"}
+## 3. Team NA{style="color:#4E2A84;"}
+*(Noah & Aryaman)*
 
-## 4. Frisbee Team{style="color:#4E2A84;"}
+## 4. Data Jays{style="color:#4E2A84;"}
+*(Max, Lily, and Rebecca)*
 
-## 5. Hot Tea{style="color:#4E2A84;"}
+## 5. GGAP{style="color:#4E2A84;"}
+*(Alyssa, Paisley, Grace & Grace)*
 
-## 6. InvASIANS{style="color:#4E2A84;"}
+## 6. Frisbee Team{style="color:#4E2A84;"}
+*(Margaret & Faith)*
 
-## 7. DABJ{style="color:#4E2A84;"}
+## 7. Macrodata Refinement{style="color:#4E2A84;"}
+*(Corbin, Benjamin, and Ferdy)*
 
-## 8. Screenagers{style="color:#4E2A84;"}
+## 8. The Unicorns{style="color:#4E2A84;"}
+*(Sutter, Jeffrey, Nolan, and Harvey)*
 
-## 9. Krish Fan Club{style="color:#4E2A84;"}
+## 9. Stat Avengers{style="color:#4E2A84;"}
+*(Shriya & Glenna)*
 
-## 10. The Chopstick Warrior{style="color:#4E2A84;"}
+## 10. Hot Tea{style="color:#4E2A84;"}
+*(Ice, Robert, and Owen)*
 
-## 11. *Team to be named*{style="color:#D8D6D6;"}
+## 11. InvASIANS{style="color:#4E2A84;"}
+*(Dawson, Ken, Takeshi, and Josuke)*
 
-## 12. *Team to be named*{style="color:#D8D6D6;"}
+## 12. DABJ{style="color:#4E2A84;"}
+*(Alec, Dustin, and Jeremy (Song))*
 
-## 13. *Team to be named*{style="color:#D8D6D6;"}
+## 13. Screenagers{style="color:#4E2A84;"}
+*(Danny & Gio)*
 
-## [14. *Team to be named*]{style="color:#D8D6D6;"}
+## 14. Lebron X Bronny James{style="color:#4E2A84;"}
+*(Ryan & Jason)*
 
-At least one member of the following teams has **not confirmed participation**:
+## 15. Krish Fan Club{style="color:#4E2A84;"}
+*(Sam & Eli)*
 
-## 15. Otters{style="color:#D8D6D6;"}
+## 16. The Chopstick Warrior{style="color:#4E2A84;"}
+*(Izzy, Yana, Kushal, Abe, and Michael)*
 
-## 16. Data Jays{style="color:#D8D6D6;"}
+## 17. *Team to be named*{style="color:#4E2A84;"}
+*(Harrison, Abigail, and Irene (Liu))*
 
-## 17. Macrodata Refinement{style="color:#D8D6D6;"}
+## 18. *Team to be named*{style="color:#4E2A84;"}
+*(Leliani, Alexia, and Paul)*
 
-## 18. The Unicorns{style="color:#D8D6D6;"}
+## 19. *Team to be named*{style="color:#4E2A84;"}
+*(Noblesse, Betty, Sungmin, and Jenna)*
 
-## 19. Stat Avengers{style="color:#D8D6D6;"}
+## 20. *Team to be named*{style="color:#4E2A84;"}
+*(Matthew, Adrien, Irene (Zhang), and Shriyans)*
 
-## 20. Lebron X Bronny James{style="color:#D8D6D6;"}
+## [21. *Team to be named*]{style="color:#4E2A84;"}
+[*(Edwin, Jinhe, Felice, and Olzhasbek)*]{style="color:#4E2A84;"}
 
-## [21. *Team to be named*]{style="color:#D8D6D6;"}
-
-*See an example of Team Photo and Description below:*
+*See an example of a Team Photo and Description below:*
 
 ## Thinkers
 

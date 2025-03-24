@@ -18,7 +18,7 @@
     "href": "signup.html#participants",
     "title": "Sign Up!",
     "section": "Participants",
-    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\nParticipant registration\nParticipants registrations are now closed. If you register now, you will be added to a waitlist."
+    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.\nParticipant registration\n\n\n\n\n\n\nNote\n\n\n\nParticipants registrations are now closed."
   },
   {
     "objectID": "signup.html#mentors",
@@ -193,7 +193,7 @@
     "href": "schedule.html#google-map-addresses",
     "title": "DataFest 2025",
     "section": "Google map addresses",
-    "text": "Google map addresses\n\nGuild Lounge, Scott Hall (4th & 6th April)\n\n\n\n\n\n\n1-163 Wildcat room, Norris University Center (5th April)"
+    "text": "Google map addresses\n\nGuild Lounge, Scott Hall (4th & 6th April)\n\n\n\n\n\n\n1-163 Wildcat room & 2-149 Eighteen Fifty-One Room, Norris University Center (5th April)"
   },
   {
     "objectID": "signup.html#volunteers",
@@ -207,7 +207,7 @@
     "href": "contactus.html",
     "title": "DataFest Organizing Committee",
     "section": "",
-    "text": "For any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact any of our team members:\n\nFaculty Coordinator: Krish (Arvind Krishna)\nkrish [AT] northwestern.edu\n\nOverall Coordinator: Gulsimo Osimi\ngulsimoosimi2025 [AT] u.northwestern.edu\n\n\n\n\n\n\nPublicity Coordinator: \nHyouji Joo\nhyoujijoo2027 [AT] u.northwestern.edu\n\n\n\n\n\n\n\nLogistics Coordinator: \nJessica Li\njessicali2025 [AT] u.northwestern.edu\n\n\n\n\n\n\n\nCommunications Coordinator: \nCara Chang\ncarachang2025@ [AT] u.northwestern.edu"
+    "text": "For any questions, comments, feedback, or ways to contribute to the event (sponsorship / volunteering), please contact any of our team members:\n\nFaculty Coordinator: Krish (Arvind Krishna)\nkrish [AT] northwestern.edu\n\nOverall Coordinator: Gulsimo Osimi\ngulsimoosimi2025 [AT] u.northwestern.edu\n\n\n\n\n\n\nPublicity & Social Media: \nHyouji Joo\nhyoujijoo2027 [AT] u.northwestern.edu\n\n\n\n\n\n\n\nAssistance: \nJessica Li\njessicali2025 [AT] u.northwestern.edu\n\n\n\n\n\n\n\nCommunications & Logistics: \nCara Chang\ncarachang2025@ [AT] u.northwestern.edu"
   },
   {
     "objectID": "index.html",
@@ -221,7 +221,7 @@
     "href": "index.html#event-details",
     "title": "Welcome to DataFest 2025!",
     "section": "Event details",
-    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 (in Norris) on April 5\nSign-up: Click here to sign-up for the event!\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams. We are also inviting volunteers to help us organize and run the event.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
+    "text": "Event details\nDate: Friday, April 4 at 5 pm - Sunday, April 6 at 7 pm\nVenue: Guild lounge (in Scott Hall) on April 4 & 6, Wildcat room 1-163 & 2-149 Eighteen Fifty-One Room (in Norris) on April 5\nSign-up: Click here to sign-up for the event!\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams. We are also inviting volunteers to help us organize and run the event.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
   },
   {
     "objectID": "index.html#what-is-datafest",
@@ -298,7 +298,7 @@
     "href": "participants.html",
     "title": "Participant Teams",
     "section": "",
-    "text": "🔥 Brace yourselves for the DataFest! 21 powerhouse teams, 66 brilliant minds, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀"
+    "text": "🔥 Brace yourselves for the DataFest! 21 powerhouse teams, 65 brilliant minds, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀"
   },
   {
     "objectID": "participants.html#thinkers",
@@ -368,7 +368,7 @@
     "href": "participants.html#team-na",
     "title": "Participant Teams",
     "section": "3. Team NA",
-    "text": "3. Team NA\n(Noah & Aryaman)"
+    "text": "3. Team NA\n(Noah & Aryaman)\n\nFilling in the gaps, one data point at a time"
   },
   {
     "objectID": "participants.html#frisbee-team",
@@ -389,7 +389,7 @@
     "href": "participants.html#dabj",
     "title": "Participant Teams",
     "section": "12. DABJ",
-    "text": "12. DABJ\n(Alec, Dustin, and Jeremy (Song))"
+    "text": "12. DABJ\n(Alec, Dustin, and Jeremy)"
   },
   {
     "objectID": "participants.html#krish-fan-club",
@@ -410,7 +410,7 @@
     "href": "mentors.html",
     "title": "Meet our team mentors",
     "section": "",
-    "text": "Meet our talented team mentors! They will be mentoring the participant teams competing in the event."
+    "text": "Meet our talented team mentors! They will be mentoring the participant teams competing in the event.\n(More mentor profiles to appear soon!)"
   },
   {
     "objectID": "mentors.html#mary-wu",
@@ -445,7 +445,7 @@
     "href": "participants.html#otters",
     "title": "Participant Teams",
     "section": "2. Otters",
-    "text": "2. Otters\n(Eunice, Ellie, and Jeremy (Kim))"
+    "text": "2. Otters\n(Eunice, Ellie, and Jeremy)"
   },
   {
     "objectID": "participants.html#data-jays",
@@ -501,7 +501,7 @@
     "href": "participants.html#team-to-be-named",
     "title": "Participant Teams",
     "section": "17. Team to be named",
-    "text": "17. Team to be named\n(Harrison, Abigail, and Irene (Liu))"
+    "text": "17. Team to be named\n(Harrison, Abigail, and Irene"
   },
   {
     "objectID": "participants.html#team-to-be-named-1",
@@ -522,14 +522,14 @@
     "href": "participants.html#team-to-be-named-3",
     "title": "Participant Teams",
     "section": "20. Team to be named",
-    "text": "20. Team to be named\n(Matthew, Adrien, Irene (Zhang), and Shriyans)"
+    "text": "20. Team to be named\n(Matthew, Adrien, Irene, and Shriyans)"
   },
   {
     "objectID": "participants.html#team-to-be-named-4",
     "href": "participants.html#team-to-be-named-4",
     "title": "Participant Teams",
     "section": "21. Team to be named",
-    "text": "21. Team to be named\n(Edwin, Jinhe, Felice, and Olzhasbek)\nSee an example of a Team Photo and Description below:"
+    "text": "21. Team to be named\n(Edwin, Jinhe, Felice, and Olzhasbek)\n\n\n\n\n\n\nNote\n\n\n\nPlease share a photo of your team along with a one-sentence witty description, and we’ll feature it under your team name! It’s a great way to get to know your competition and network during the event. Below is an example of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image. Please send the photo and the description to krish [AT] northwestern.edu\n\nThinkers\n Armed with caffeine, questionable data cleaning techniques, and a shared fear of run-time errors, Thinkers are here to prove that creative ideas can beat coding and statistical sophistication!"
   },
   {
     "objectID": "participants.html#stat-avengers",
@@ -544,5 +544,12 @@
     "title": "Participant Teams",
     "section": "13. Screenagers",
     "text": "13. Screenagers\n(Danny & Gio)"
+  },
+  {
+    "objectID": "participants.html#the-chopstick-masters",
+    "href": "participants.html#the-chopstick-masters",
+    "title": "Participant Teams",
+    "section": "16. The Chopstick Masters",
+    "text": "16. The Chopstick Masters\n(Izzy, Yana, Kushal, Abe, and Michael)"
   }
 ]

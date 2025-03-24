@@ -13,6 +13,10 @@ title: "Participant Teams"
 ## 3. Team NA{style="color:#4E2A84;"}
 *(Noah & Aryaman)*
 
+![](images/team_na.jpg){width=80%}
+
+*Filling in the gaps, one data point at a time*
+
 ## 4. Data Jays{style="color:#4E2A84;"}
 *(Max, Lily, and Rebecca)*
 

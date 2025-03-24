@@ -11,6 +11,8 @@ Each individual or team participating in the ASA DataFest at Northwestern Univer
 
 [Participant registration](https://northwestern.az1.qualtrics.com/jfe/form/SV_0x3GxnET498xTw2)
 
+:::{.callout-note}
+
 **Participants registrations are now closed. If you register now, you will be added to a waitlist.**
 
 ## Mentors

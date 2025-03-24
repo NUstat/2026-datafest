@@ -26,6 +26,15 @@ Mary is a first-year Master's student in Statistics & Data Science. She graduate
 Akash received his Bachelor's degree in Data Science from Northwestern University in 2023. He has a strong interest in **medical machine learning** - specifically, models that can detect various forms of brain cancer. After his undergraduate studies, he spent one year at the University of California, Los Angeles conducting research to improve gait in patients with Parkinson's Disease. In addition, he **developed neural networks** to detect epilepsy from non-seizure EEG data. He is applying to medical school this summer. His **mentoring style is very hands-on**. He believes developing a strong team dynamic and morale is crucial to any project - especially, those that are time-sensitive. He looks forward to getting to know the teams on a personal level, and maintaining strong communication from the start.
 
 ::: {style="float: right; margin: 5px; width:50%"}
+![](images/cathy.jpeg){width=100%}
+:::
+
+## Cathy Kim
+***Business Analyst at Capital One***
+
+Cathy received her Bachelor’s degree in Statistics and Data Science from Northwestern University in 2024. She has a strong interest in financial technology and currently works as an analyst on Capital One’s Fraud Models team. Her focus is on identifying new features that will **improve fraud detection** while reducing false positives. Cathy is **experienced in working with data using Python and SQL, as well as data visualization in RStudio**. Through her full time roles and internships, she’s had the chance to learn about different areas of the **financial technology industry,** ranging from trading and product engagement to fraud models. Cathy is interested in the intersection of data and finance and hopes to be a resource for students who are interested in this field. Her **mentoring style places strong emphasis on developing a clear analysis plan and truly understanding the core problem** that the team is tackling. She also values playing to each team member’s strengths, believing that this not only leads to the team’s success but also creates opportunities for everyone to learn from each other.
+
+::: {style="float: left; margin: 5px; width:50%"}
 ![](images/raman.jpg){width=100%}
 :::
 
@@ -35,3 +44,12 @@ Akash received his Bachelor's degree in Data Science from Northwestern Universit
 **Dr. Raman Khurana is a Postdoctoral Researcher at the Center for Deep Learning and a Lecturer in the MS in Machine Learning & Data Science program at Northwestern University.** With a PhD in Physics and over 15 years of experience working with large-scale data, he brings a unique blend of scientific rigor and AI innovation to his work. At CERN, he contributed to the Nobel Prize-winning discovery of the Higgs boson. His current research focuses on **time series forecasting, automated feature engineering for streaming data, and generative AI.**
 
 Raman builds agentic AI systems using open-source small- and medium-sized models and explores methods to apply them to real-world business problems. Drawing on his physics background, he developed a physics-inspired feature generator that models time series data as a flowing river. He finds joy in exploring numbers and algorithms but finds it even more rewarding to share those experiences with fellow data scientists in industry and the next generation of data professionals in the MS in Machine Learning & Data Science program. For Raman, the true excitement lies not just in solving complex problems, but in making those insights accessible, collaborative, and impactful.
+
+::: {style="float: right; margin: 5px; width:50%"}
+![](images/YuqingYang.jpg){width=100%}
+:::
+
+## Yuqing Yang
+***First year PhD student, Northwestern University***
+
+Yuqing has a strong interest in interdisciplinary research at the intersection of AI, social sciences, and astronomy. Yuqing has **developed NLP algorithms to detect video recompilation behavior**, contributing to the understanding of how online privacy regulations impact content quality. Currently, Yuqing is focused on AI in astronomy, **working to improve machine learning techniques for supernova classification**. Her mentoring style is **supportive and collaborative, emphasizing an engaging, rewarding, and approachable learning experience**.

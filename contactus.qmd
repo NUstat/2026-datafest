@@ -18,15 +18,15 @@ gulsimoosimi2025 [AT] u.northwestern.edu
 
 ::: {layout-ncol=3, layout-nrow=1}
 
-![**Assistance:   **       
+![**Assistance     **       
 Hyouji Joo        
 hyoujijoo2027 [AT] u.northwestern.edu](images/hyouji.JPG){width=89%}
 
-![**Assistance:   **       
+![**Assistance     **       
 Jessica Li        
 jessicali2025 [AT] u.northwestern.edu](images/jessica.png){width=80%}
 
-![**Logistics:       **       
+![**Communications & Logistics:       **       
 Cara Chang    
 carachang2025@ [AT] u.northwestern.edu](images/cara2.JPG){width=80%}
 

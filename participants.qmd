@@ -2,10 +2,10 @@
 title: "Participant Teams"
 ---
 
-🔥 Brace yourselves for the DataFest! **21 powerhouse teams, 69 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
+🔥 Brace yourselves for the DataFest! **20 powerhouse teams, 69 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
 
 ## 1. Vietnamese Statistical Association{style="color:#4E2A84;"}
-*(Jonathan, Luna, and Brian)*
+*(Jonathan, Luna, Brian, Sam, and Eli)*
 
 ## 2. Otters{style="color:#4E2A84;"}
 *(Eunice, Ellie, Ryan, and Jeremy)*
@@ -50,25 +50,22 @@ title: "Participant Teams"
 ## 14. Lebron X Bronny James{style="color:#4E2A84;"}
 *(Ryan, Jason, and Zach)*
 
-## 15. Krish Fan Club{style="color:#4E2A84;"}
-*(Sam & Eli)*
-
-## 16. The Chopstick Masters{style="color:#4E2A84;"}
+## 15. The Chopstick Masters{style="color:#4E2A84;"}
 *(Izzy, Yana, Kushal, Abe, and Michael)*
 
-## 17. *Team to be named*{style="color:#4E2A84;"}
+## 16. *Team to be named*{style="color:#4E2A84;"}
 *(Harrison, Abigail, and Irene*
 
-## 18. *Team to be named*{style="color:#4E2A84;"}
+## 17. *Team to be named*{style="color:#4E2A84;"}
 *(Leliani, Paul, and Diego)*
 
-## 19. *Team to be named*{style="color:#4E2A84;"}
+## 18. *Team to be named*{style="color:#4E2A84;"}
 *(Noblesse, Betty, Sungmin, and Jenna)*
 
-## 20. *Team to be named*{style="color:#4E2A84;"}
+## 19. *Team to be named*{style="color:#4E2A84;"}
 *(Matthew, Adrien, Irene, and Shriyans)*
 
-## [21. *Team to be named*]{style="color:#4E2A84;"}
+## [20. *Team to be named*]{style="color:#4E2A84;"}
 [*(Edwin, Jinhe, Felice, and Olzhasbek)*]{style="color:#4E2A84;"}
 
 

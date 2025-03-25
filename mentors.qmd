@@ -88,3 +88,12 @@ Tuan graduated from University of Maryland  in 2019 with a major in Computer Sci
 ***Software engineer, Capital One***
 
 David is a software engineer at Capital One where he works on site reliability engineering (SRE) and DevOps for the company's web and mobile apps, optimizing the digital experience for 40 million customers. He graduated with an MS and BS in computer science and artificial intelligence in 2024 from Case Western Reserve University (CWRU) in Cleveland, OH. He previously interned at Capital One in Chicago and worked as a **teaching assistant and research assistant in machine learning and algorithms** at CWRU. David served CWRU's Association for Computing Machinery student chapter as President where he **co-led the creation of a student-run AI conference** for which he also hosted a panel discussion with local experts. David volunteers weekly to teach middle school students coding and is passionate about learning more about Generative AI and data science in his free time. His previous projects involve probabilistic graphical models (PGMs), high performance AI acceleration, classical AI, and retrieval-augmented generation (RAG).
+
+::: {style="float: right; margin: 5px; width:50%"}
+![](images/zihan2.jpg){width=100%}
+:::
+
+## Zihan Zhao
+***MS student, Northwestern University***
+
+Zihan is a first year MS student in the Department of Statistics and Data Science. She is **well-aquainted with data visualization, exploratory data analysis, and statistical modeling**. She has worked as a home tutor, teaching maths and physics to high school students. She helped them develop effective learning strategies and a better understanding of concepts. Zihan is an **active listener who provides immediate feedback and supports students with patience and attention to detail**. She takes her responsibilities seriously and is committed to guiding students in discovering solutions through exploration. With coursework in psychology, Zihan also prioritizes their overall well-being, ensuring they feel both supported and motivated throughout the learning process. This approach allows her to be not just a tutor, but a mentor who fosters both academic growth and personal confidence.

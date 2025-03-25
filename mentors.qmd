@@ -68,6 +68,15 @@ As a part of his master’s, Kyle completed a **Thesis on LLMs** *(Large Languag
 Kyle’s **greatest strength as a mentor is his patience**. As a triplet, Kyle had to share everything – even a birthday – and it’s made him a great listener, effective mediator and strong communicator. Kyle **loves talking about code**, and he hopes to be a resource for any student who wants to learn more about what it means to be a Computer Scientist in industry. Outside of tech, Kyle’s also a big fan of wrestling and football—and always happy to connect over either!
 
 ::: {style="float: right; margin: 5px; width:50%"}
+![](images/tuan.png){width=100%}
+:::
+
+## Tuan Quach
+***Senior Associate, Software engineer, Capital One***
+
+Tuan graduated from University of Maryland  in 2019 with a major in Computer Science and Mathematics. At Capital One, he does most of his work in Site Reliability Engineering, where he primarily **works with large traffic data**, focusing on managing large-scale traffic operation. His work involves building robust pipelines, **deep dive into observability data for Mobile and Web to extract meaningful insights to preventing outage, decision-making, alerting systems**. He has a strong interest in leveraging Generative AI to Change Banking for Good. Tuan's mentoring style is very interactive. He has previously taught elementary and middle school students coding and is part of CodePath where he prepared College Students for interviews. 
+
+::: {style="float: left; margin: 5px; width:50%"}
 ![](images/david.png){width=100%}
 :::
 

@@ -53,3 +53,12 @@ Raman builds agentic AI systems using open-source small- and medium-sized models
 ***First year PhD student, Northwestern University***
 
 Yuqing has a strong interest in interdisciplinary research at the intersection of AI, social sciences, and astronomy. Yuqing has **developed NLP algorithms to detect video recompilation behavior**, contributing to the understanding of how online privacy regulations impact content quality. Currently, Yuqing is focused on AI in astronomy, **working to improve machine learning techniques for supernova classification**. Her mentoring style is **supportive and collaborative, emphasizing an engaging, rewarding, and approachable learning experience**.
+
+::: {style="float: left; margin: 5px; width:50%"}
+![](images/david.png){width=100%}
+:::
+
+## David Frost
+***Software engineer at Capital One***
+
+David is a software engineer at Capital One where he works on site reliability engineering (SRE) and DevOps for the company's web and mobile apps, optimizing the digital experience for 40 million customers. He graduated with an MS and BS in computer science and artificial intelligence in 2024 from Case Western Reserve University (CWRU) in Cleveland, OH. He previously interned at Capital One in Chicago and worked as a **teaching assistant and research assistant in machine learning and algorithms** at CWRU. David served CWRU's Association for Computing Machinery student chapter as President where he **co-led the creation of a student-run AI conference** for which he also hosted a panel discussion with local experts. David volunteers weekly to teach middle school students coding and is passionate about learning more about Generative AI and data science in his free time. His previous projects involve probabilistic graphical models (PGMs), high performance AI acceleration, classical AI, and retrieval-augmented generation (RAG).

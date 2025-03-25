@@ -298,7 +298,7 @@
     "href": "participants.html",
     "title": "Participant Teams",
     "section": "",
-    "text": "🔥 Brace yourselves for the DataFest! 21 powerhouse teams, 67 brilliant minds, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀"
+    "text": "🔥 Brace yourselves for the DataFest! 21 powerhouse teams, 70 brilliant minds, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀"
   },
   {
     "objectID": "participants.html#thinkers",
@@ -445,7 +445,7 @@
     "href": "participants.html#otters",
     "title": "Participant Teams",
     "section": "2. Otters",
-    "text": "2. Otters\n(Eunice, Ellie, and Jeremy)"
+    "text": "2. Otters\n(Eunice, Ellie, Ryan, and Jeremy)"
   },
   {
     "objectID": "participants.html#data-jays",
@@ -487,7 +487,7 @@
     "href": "participants.html#lebron-x-bronny-james",
     "title": "Participant Teams",
     "section": "14. Lebron X Bronny James",
-    "text": "14. Lebron X Bronny James\n(Ryan & Jason)"
+    "text": "14. Lebron X Bronny James\n(Ryan, Jason, and Zach)"
   },
   {
     "objectID": "mentors.html#akash-rathi",
@@ -508,7 +508,7 @@
     "href": "participants.html#team-to-be-named-1",
     "title": "Participant Teams",
     "section": "18. Team to be named",
-    "text": "18. Team to be named\n(Leliani, Alexia, and Paul)"
+    "text": "18. Team to be named\n(Leliani, Alexia, Paul, and Diego)"
   },
   {
     "objectID": "participants.html#team-to-be-named-2",
@@ -572,5 +572,12 @@
     "title": "Meet our team mentors",
     "section": "Yuqing Yang",
     "text": "Yuqing Yang\nFirst year PhD student, Northwestern University\nYuqing has a strong interest in interdisciplinary research at the intersection of AI, social sciences, and astronomy. Yuqing has developed NLP algorithms to detect video recompilation behavior, contributing to the understanding of how online privacy regulations impact content quality. Currently, Yuqing is focused on AI in astronomy, working to improve machine learning techniques for supernova classification. Her mentoring style is supportive and collaborative, emphasizing an engaging, rewarding, and approachable learning experience."
+  },
+  {
+    "objectID": "mentors.html#david-frost",
+    "href": "mentors.html#david-frost",
+    "title": "Meet our team mentors",
+    "section": "David Frost",
+    "text": "David Frost\nSoftware engineer at Capital One\nDavid is a software engineer at Capital One where he works on site reliability engineering (SRE) and DevOps for the company’s web and mobile apps, optimizing the digital experience for 40 million customers. He graduated with an MS and BS in computer science and artificial intelligence in 2024 from Case Western Reserve University (CWRU) in Cleveland, OH. He previously interned at Capital One in Chicago and worked as a teaching assistant and research assistant in machine learning and algorithms at CWRU. David served CWRU’s Association for Computing Machinery student chapter as President where he co-led the creation of a student-run AI conference for which he also hosted a panel discussion with local experts. David volunteers weekly to teach middle school students coding and is passionate about learning more about Generative AI and data science in his free time. His previous projects involve probabilistic graphical models (PGMs), high performance AI acceleration, classical AI, and retrieval-augmented generation (RAG)."
   }
 ]

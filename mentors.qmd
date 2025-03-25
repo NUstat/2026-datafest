@@ -30,7 +30,7 @@ Akash received his Bachelor's degree in Data Science from Northwestern Universit
 :::
 
 ## Cathy Kim
-***Business Analyst at Capital One***
+***Business Analyst, Capital One***
 
 Cathy received her Bachelor’s degree in Statistics and Data Science from Northwestern University in 2024. She has a strong interest in financial technology and currently works as an analyst on Capital One’s Fraud Models team. Her focus is on identifying new features that will **improve fraud detection** while reducing false positives. Cathy is **experienced in working with data using Python and SQL, as well as data visualization in RStudio**. Through her full time roles and internships, she’s had the chance to learn about different areas of the **financial technology industry,** ranging from trading and product engagement to fraud models. Cathy is interested in the intersection of data and finance and hopes to be a resource for students who are interested in this field. Her **mentoring style places strong emphasis on developing a clear analysis plan and truly understanding the core problem** that the team is tackling. She also values playing to each team member’s strengths, believing that this not only leads to the team’s success but also creates opportunities for everyone to learn from each other.
 
@@ -72,6 +72,6 @@ Kyle’s **greatest strength as a mentor is his patience**. As a triplet, Kyle h
 :::
 
 ## David Frost
-***Software engineer at Capital One***
+***Software engineer, Capital One***
 
 David is a software engineer at Capital One where he works on site reliability engineering (SRE) and DevOps for the company's web and mobile apps, optimizing the digital experience for 40 million customers. He graduated with an MS and BS in computer science and artificial intelligence in 2024 from Case Western Reserve University (CWRU) in Cleveland, OH. He previously interned at Capital One in Chicago and worked as a **teaching assistant and research assistant in machine learning and algorithms** at CWRU. David served CWRU's Association for Computing Machinery student chapter as President where he **co-led the creation of a student-run AI conference** for which he also hosted a panel discussion with local experts. David volunteers weekly to teach middle school students coding and is passionate about learning more about Generative AI and data science in his free time. His previous projects involve probabilistic graphical models (PGMs), high performance AI acceleration, classical AI, and retrieval-augmented generation (RAG).

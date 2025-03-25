@@ -12,9 +12,9 @@ Meet our talented team mentors! They will be mentoring the participant teams com
 :::
 
 ## [Mary Wu](https://www.linkedin.com/in/mary-wu-212029227)
-***MS student, Northwestern University***
+***MS Student in Statistics & Data Science, Northwestern University***
 
-Mary is a first-year Master's student in Statistics & Data Science. She graduated from New York University in 2024 with a joint major in Economics & Mathematics and a minor in Music. Mary has research experience across economics, business, and statistics - most recently **focusing on the impact of AI on corporate decision-making** (particularly in the context of foreign expansion) as well as Bayesian statistics. Mary is **experienced with data manipulation in Python, R, and SQL, and is passionate about turning data into meaningful stories that drive real-life impact**. She especially hopes to support underrepresented students and those new to data analysis, and aims to be a resource for anyone navigating grad school, internships, and research. 
+Mary graduated from New York University in 2024 with a joint major in Economics & Mathematics and a minor in Music. Mary has research experience across economics, business, and statistics - most recently **focusing on the impact of AI on corporate decision-making** (particularly in the context of foreign expansion) as well as Bayesian statistics. Mary is **experienced with data manipulation in Python, R, and SQL, and is passionate about turning data into meaningful stories that drive real-life impact**. She especially hopes to support underrepresented students and those new to data analysis, and aims to be a resource for anyone navigating grad school, internships, and research. 
 
 ::: {style="float: left; margin: 5px; width:50%"}
 ![](images/akash.jpeg){width=100%}
@@ -70,6 +70,17 @@ As a part of his master’s, Kyle completed a **Thesis on LLMs** *(Large Languag
 Kyle’s **greatest strength as a mentor is his patience**. As a triplet, Kyle had to share everything – even a birthday – and it’s made him a great listener, effective mediator and strong communicator. Kyle **loves talking about code**, and he hopes to be a resource for any student who wants to learn more about what it means to be a Computer Scientist in industry. Outside of tech, Kyle’s also a big fan of wrestling and football—and always happy to connect over either!
 
 ::: {style="float: right; margin: 5px; width:50%"}
+![](images/xinhui.jpg){width=100%}
+:::
+
+## Xinhui Qian
+***MS Student in Statistics & Data Science, Northwestern University***
+
+With a strong background in data science and statistical modeling, Xinhui has experience working on projects involving **machine learning, causal inference, and data visualization**. Xinhui has applied techniques such as **deep learning, machine learning, Monte Carlo simulations, and regression analysis to solve real-world problems across finance, healthcare, and industrial processes**.
+
+Her technical skills include **Python, SQL and R**. As a mentor, Xinhui enjoys guiding students through the problem-solving process, helping them break down complex data science tasks, and strengthening their ability to draw meaningful insights from data. She focuses on building a collaborative and encouraging environment for teams to thrive.
+
+::: {style="float: left; margin: 5px; width:50%"}
 ![](images/tuan.png){width=100%}
 :::
 
@@ -80,6 +91,15 @@ Kyle’s **greatest strength as a mentor is his patience**. As a triplet, Kyle h
 
 Tuan graduated from University of Maryland  in 2019 with a major in Computer Science and Mathematics. At Capital One, he does most of his work in Site Reliability Engineering, where he primarily **works with large traffic data**, focusing on managing large-scale traffic operation. His work involves building robust pipelines, **deep dive into observability data for Mobile and Web to extract meaningful insights to preventing outage, decision-making, alerting systems**. He has a strong interest in leveraging Generative AI to Change Banking for Good. Tuan's mentoring style is very interactive. He has previously taught elementary and middle school students coding and is part of CodePath where he prepared College Students for interviews. 
 
+::: {style="float: right; margin: 5px; width:50%"}
+![](images/zihan2.jpg){width=100%}
+:::
+
+## Zihan Zhao
+***MS Student in Statistics & Data Science, Northwestern University***
+
+Zihan is **well-aquainted with data visualization, exploratory data analysis, and statistical modeling**. She has worked as a home tutor, teaching maths and physics to high school students. She helped them develop effective learning strategies and a better understanding of concepts. Zihan is an **active listener who provides immediate feedback and supports students with patience and attention to detail**. She takes her responsibilities seriously and is committed to guiding students in discovering solutions through exploration. With coursework in psychology, Zihan also prioritizes their overall well-being, ensuring they feel both supported and motivated throughout the learning process. This approach allows her to be not just a tutor, but a mentor who fosters both academic growth and personal confidence.
+
 ::: {style="float: left; margin: 5px; width:50%"}
 ![](images/david.png){width=100%}
 :::
@@ -89,11 +109,3 @@ Tuan graduated from University of Maryland  in 2019 with a major in Computer Sci
 
 David is a software engineer at Capital One where he works on site reliability engineering (SRE) and DevOps for the company's web and mobile apps, optimizing the digital experience for 40 million customers. He graduated with an MS and BS in computer science and artificial intelligence in 2024 from Case Western Reserve University (CWRU) in Cleveland, OH. He previously interned at Capital One in Chicago and worked as a **teaching assistant and research assistant in machine learning and algorithms** at CWRU. David served CWRU's Association for Computing Machinery student chapter as President where he **co-led the creation of a student-run AI conference** for which he also hosted a panel discussion with local experts. David volunteers weekly to teach middle school students coding and is passionate about learning more about Generative AI and data science in his free time. His previous projects involve probabilistic graphical models (PGMs), high performance AI acceleration, classical AI, and retrieval-augmented generation (RAG).
 
-::: {style="float: right; margin: 5px; width:50%"}
-![](images/zihan2.jpg){width=100%}
-:::
-
-## Zihan Zhao
-***MS student, Northwestern University***
-
-Zihan is a first year MS student in the Department of Statistics and Data Science. She is **well-aquainted with data visualization, exploratory data analysis, and statistical modeling**. She has worked as a home tutor, teaching maths and physics to high school students. She helped them develop effective learning strategies and a better understanding of concepts. Zihan is an **active listener who provides immediate feedback and supports students with patience and attention to detail**. She takes her responsibilities seriously and is committed to guiding students in discovering solutions through exploration. With coursework in psychology, Zihan also prioritizes their overall well-being, ensuring they feel both supported and motivated throughout the learning process. This approach allows her to be not just a tutor, but a mentor who fosters both academic growth and personal confidence.

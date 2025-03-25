@@ -55,6 +55,19 @@ Raman builds agentic AI systems using open-source small- and medium-sized models
 Yuqing has a strong interest in interdisciplinary research at the intersection of AI, social sciences, and astronomy. Yuqing has **developed NLP algorithms to detect video recompilation behavior**, contributing to the understanding of how online privacy regulations impact content quality. Currently, Yuqing is focused on AI in astronomy, **working to improve machine learning techniques for supernova classification**. Her mentoring style is **supportive and collaborative, emphasizing an engaging, rewarding, and approachable learning experience**.
 
 ::: {style="float: left; margin: 5px; width:50%"}
+![](images/kyle.jpg){width=100%}
+:::
+
+## Kyle Williams
+***Software Engineer, Lakeview Investment Group***
+
+Kyle earned his BS in Computer Science with a Minor in Data Science in June 2023, followed by an MS in Computer Science in June 2024. Kyle has always been drawn to Machine Learning and Data Analysis. Being able to understand and communicate about data makes him feel powerful and responsible. While he took a majority of his courseload in the CS Department, it is the **application of math, statistics, and science through code** that is the most interesting to me. 
+
+As a part of his master’s, Kyle completed a **Thesis on LLMs** *(Large Language Models)*, where he augmented the attention mechanism to use Euclidean distance instead of dot-product to improve the performance of small models on OpenBookQA by 14%. Currently, Kyle is **helping build high-speed, real-time dashboards and trading systems to display important statistics and execute orders when certain triggers are reached**. 
+
+Kyle’s **greatest strength as a mentor is his patience**. As a triplet, Kyle had to share everything – even a birthday – and it’s made him a great listener, effective mediator and strong communicator. Kyle **loves talking about code**, and he hopes to be a resource for any student who wants to learn more about what it means to be a Computer Scientist in industry. Outside of tech, Kyle’s also a big fan of wrestling and football—and always happy to connect over either!
+
+::: {style="float: right; margin: 5px; width:50%"}
 ![](images/david.png){width=100%}
 :::
 

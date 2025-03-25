@@ -5,17 +5,18 @@ format: html
 
 Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form. 
 
+:::{.callout-note}
+
+**All registrations are now closed.**
+
+:::
+
 ## Participants
 
 **Want to compete in a data analysis competition, talk to data science professionals, and network?** Northwestern undergraduate students are invited to register for the ASA DataFest 2025 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team. Please fill the participant registration form below.
 
 [Participant registration](https://northwestern.az1.qualtrics.com/jfe/form/SV_0x3GxnET498xTw2)
 
-:::{.callout-note}
-
-**Participants registrations are now closed.**
-
-:::
 ## Mentors
 
 **Want to mentor undergraduate student teams to help unleash their potential in the competition?** While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.

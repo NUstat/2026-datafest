@@ -109,3 +109,13 @@ Zihan is **well-aquainted with data visualization, exploratory data analysis, an
 
 David is a software engineer at Capital One where he works on site reliability engineering (SRE) and DevOps for the company's web and mobile apps, optimizing the digital experience for 40 million customers. He graduated with an MS and BS in computer science and artificial intelligence in 2024 from Case Western Reserve University (CWRU) in Cleveland, OH. He previously interned at Capital One in Chicago and worked as a **teaching assistant and research assistant in machine learning and algorithms** at CWRU. David served CWRU's Association for Computing Machinery student chapter as President where he **co-led the creation of a student-run AI conference** for which he also hosted a panel discussion with local experts. David volunteers weekly to teach middle school students coding and is passionate about learning more about Generative AI and data science in his free time. His previous projects involve probabilistic graphical models (PGMs), high performance AI acceleration, classical AI, and retrieval-augmented generation (RAG).
 
+::: {style="float: right; margin: 5px; width:50%"}
+![](images/tyler.jpeg){width=100%}
+:::
+
+## Tyler Maule
+***Data Strategist, Chicago Public Schools***
+
+Tyler received an MS in Statistics and Data Science from Northwestern University in 2022. With an underlying interest in the social sciences and public policy, his work builds on **statistical experimentation, analyses of behavior, and data storytelling to drive change**. From optimizing marketing pipelines in Silicon Valley tech to training education researchers at NU, they balance technical work—creating data pipelines, **visualization tools, and predictive models (typically with Python and SQL)—and partnering with leaders to shape strategy. As a Data Strategist at Chicago Public Schools, Tyler develops indicators, data systems, and reporting to advance student success, identifying and communicating inflection points where policymakers can better support schools.**
+
+For Tyler, one of the most rewarding parts of data work is teaching and learning from others; whether as a tutor, TA, or consultant, **he loves supporting others in their data journeys**. Tyler’s mentoring style centers collaborative problem solving, active listening, and engaging with students’ motivation to grow together. Outside of learning new analytics techniques, they enjoy biking, camping, and live music.

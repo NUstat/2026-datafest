@@ -2,7 +2,7 @@
 title: "Participant Teams"
 ---
 
-🔥 Brace yourselves for the DataFest! **20 powerhouse teams, 70 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
+🔥 Brace yourselves for the DataFest! **20 powerhouse teams, 69 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
 
 ## 1. Vietnamese Statistical Association{style="color:#4E2A84;"}
 *(Jonathan, Luna, Brian, Sam, and Eli)*
@@ -54,7 +54,7 @@ title: "Participant Teams"
 *(Izzy, Yana, Kushal, Abe, and Michael)*
 
 ## 16. *Team to be named*{style="color:#4E2A84;"}
-*(Harrison, Abigail, and Irene*
+*(Harrison & Abigail*
 
 ## 17. *Team to be named*{style="color:#4E2A84;"}
 *(Leliani, Paul, Diego, and Henry)*

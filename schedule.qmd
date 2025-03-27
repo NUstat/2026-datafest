@@ -4,11 +4,11 @@ Below is the tentative schedule for the event. It may be updated closer to the e
 
 | Data | Time | Activity | Venue |
 |------|------|------|------|
-| 4th April | 5:00 - 6:30 pm    | Check-in \& Registration    | Guild Lounge    |
-| 4th April | 6:00 pm onwards    | Dinner    | Guild Lounge    |
+| 4th April | 5:00 - 5:45 pm    | Check-in \& Registration    | Guild Lounge    |
+| 4th April | 5:45 - 6:30 pm    | Dinner    | Guild Lounge    |
 | 4th April | 6:30 - 7:30 pm    | Keynote address by Sanchit Tiwari (Associate Partner, McKinsey \& Company)    | Guild Lounge    |
 | 4th April | 7:30 - 8:30 pm    | Competition problem statement announcement    | Guild Lounge    |
-| 4th April | 8:30 - 9:30 pm    | Meet \& Greet with snacks    | Guild Lounge    |
+| 4th April | 8:30 - 9:30 pm    | Meet \& Greet    | Guild Lounge    |
 |---------------------------|-------------------------------------|------------------------------------------|-------------------------------------|
 | 5th April | 10:30 - 11:00 am    | Check-in \& Breakfast    | 1-163 Wildcat room    |
 | 5th April | 11:00 - 1:00 pm    | [Networking with CapOne](https://nustat.github.io/2025-datafest/panel_discussion.html#networking-with-capital-one)    | 1-163 Wildcat room    |

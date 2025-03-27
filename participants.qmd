@@ -59,20 +59,23 @@ title: "Participant Teams"
 
 *Wielding innovation like chopsticks — graceful, deliberate, and fueled by interdisciplinary collaboration*
 
-## 16. *Team to be named*{style="color:#4E2A84;"}
-*(Harrison & Abigail)*
+## 16. Data Alchemists{style="color:#4E2A84;"}
+*(Edwin, Jinhe, Felice, and Olzhasbek)*
+
+*Modern-day sorcerers of analytics, masters of transforming data into powerful predictions*
 
 ## 17. *Team to be named*{style="color:#4E2A84;"}
-*(Leliani, Paul, and Diego)*
+*(Harrison & Abigail)*
 
 ## 18. *Team to be named*{style="color:#4E2A84;"}
-*(Noblesse, Betty, Sungmin, and Jenna)*
+*(Leliani, Paul, and Diego)*
 
 ## 19. *Team to be named*{style="color:#4E2A84;"}
-*(Matthew, Adrien, Irene, and Shriyans)*
+*(Noblesse, Betty, Sungmin, and Jenna)*
 
 ## [20. *Team to be named*]{style="color:#4E2A84;"}
-[*(Edwin, Jinhe, Felice, and Olzhasbek)*]{style="color:#4E2A84;"}
+[*(Matthew, Adrien, Irene, and Shriyans)*]{style="color:#4E2A84;"}
+
 
 
 :::{.callout-note}

@@ -11,7 +11,7 @@ Below is the tentative schedule for the event. It may be updated closer to the e
 | 4th April | 8:30 - 9:30 pm    | Meet \& Greet    | Guild Lounge    |
 |---------------------------|-------------------------------------|------------------------------------------|-------------------------------------|
 | 5th April | 10:30 - 11:00 am    | Check-in \& Breakfast    | 1-163 Wildcat room    |
-| 5th April | 11:00 - 1:00 pm    | [Networking with CapOne](https://nustat.github.io/2025-datafest/panel_discussion.html#networking-with-capital-one)    | 1-163 Wildcat room    |
+| 5th April | 11:00 - 1:00 pm    | [Networking with Capital One](https://nustat.github.io/2025-datafest/panel_discussion.html#networking-with-capital-one)    | 1-163 Wildcat room    |
 | 5th April | 1:00 - 2:00 pm    | Lunch    | 1-163 Wildcat room    |
 | 5th April | 2:00 - 6:30 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
 | 5th April | 6:30 - 7:30 pm    | Dinner    | 1-163 Wildcat room    |

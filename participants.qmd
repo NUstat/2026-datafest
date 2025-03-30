@@ -51,7 +51,7 @@ title: "Participant Teams"
 ## 11. InvASIANS{style="color:#4E2A84;"}
 *(Dawson, Ken, Takeshi, and Josuke)*
 
-*: A ferocious, data-driven crew blending statistical precision with Asian ingenuity to conquer the modeling game*
+*A ferocious, data-driven crew blending statistical precision with Asian ingenuity to conquer the modeling game*
 
 ## 12. DABJ{style="color:#4E2A84;"}
 *(Alec, Dustin, and Jeremy)*

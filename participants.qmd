@@ -15,9 +15,9 @@ title: "Participant Teams"
 ## 3. Team NA{style="color:#4E2A84;"}
 *(Noah & Aryaman)*
 
-![](images/team_na.jpg){width=80%}
-
 *Filling in the gaps, one data point at a time*
+
+![](images/team_na.jpg){width=80%}
 
 ## 4. Data Jays{style="color:#4E2A84;"}
 *(Max, Lily, Rebecca, and Chelsea)*
@@ -33,9 +33,9 @@ title: "Participant Teams"
 ## 7. Macrodata Refinement{style="color:#4E2A84;"}
 *(Corbin, Spencer, Benjamin, and Ferdy)*
 
-![](images/mdr_group_photo.png){width=80%}
-
 *The work is mysterious and important.*
+
+![](images/mdr_group_photo.png){width=80%}
 
 ## 8. The Unicorns{style="color:#4E2A84;"}
 *(Sutter, Jeffrey, Nolan, Harvey, and Jake)*

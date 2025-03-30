@@ -33,7 +33,7 @@ title: "Participant Teams"
 ## 7. Macrodata Refinement{style="color:#4E2A84;"}
 *(Corbin, Spencer, Benjamin, and Ferdy)*
 
-*The work is mysterious and important.*
+*The work is mysterious and important*
 
 ![](images/mdr_group_photo.png){width=80%}
 
@@ -50,6 +50,8 @@ title: "Participant Teams"
 
 ## 11. InvASIANS{style="color:#4E2A84;"}
 *(Dawson, Ken, Takeshi, and Josuke)*
+
+*: A ferocious, data-driven crew blending statistical precision with Asian ingenuity to conquer the modeling game*
 
 ## 12. DABJ{style="color:#4E2A84;"}
 *(Alec, Dustin, and Jeremy)*

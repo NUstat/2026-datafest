@@ -10,6 +10,8 @@ title: "Participant Teams"
 ## 2. Otters{style="color:#4E2A84;"}
 *(Eunice, Ellie, Ryan, and Jeremy)*
 
+*Otterly determined to dive deep into data.*
+
 ## 3. Team NA{style="color:#4E2A84;"}
 *(Noah & Aryaman)*
 

@@ -79,7 +79,7 @@ title: "Participant Teams"
 ## 17. The Prompt Engineers{style="color:#4E2A84;"}
 *(Harrison & Abigail)*
 
-*We may not have the answers, but we will be sure to phrase a question well enough to fake it.*
+*We may not have the answers, but we will be sure to phrase a question well enough to fake it*
 
 ## 18. *Team to be named*{style="color:#4E2A84;"}
 *(Leliani, Paul, and Diego)*

@@ -508,7 +508,7 @@
     "href": "participants.html#team-to-be-named-1",
     "title": "Participant Teams",
     "section": "19. Team to be named",
-    "text": "19. Team to be named\n(Noblesse, Betty, Sungmin, and Jenna)"
+    "text": "19. Team to be named\n(Betty, Sungmin, and Jenna)"
   },
   {
     "objectID": "participants.html#team-to-be-named-2",
@@ -536,7 +536,7 @@
     "href": "participants.html#stat-avengers",
     "title": "Participant Teams",
     "section": "9. Stat Avengers",
-    "text": "9. Stat Avengers\n(Shriya & Glenna)"
+    "text": "9. Stat Avengers\n(Shriya, Glenna, and Tosin)"
   },
   {
     "objectID": "participants.html#screenagers",
@@ -642,5 +642,33 @@
     "title": "Meet our team mentors",
     "section": "Adamya Prakash Srivastava",
     "text": "Adamya Prakash Srivastava\nQuantitative Trader, Jump Trading\nAdamya received a bachelors degree in Computer Science, Statistics, Economics, and Data Science from UC Berkeley in 2023. Since, he has worked as a quant for a high frequency trading firm where he specializes in algorithmically trading US markets. He uses many types of data science tools every day to create and iterate on trading strategies built on multiple sources of market data. Data science is used at every step of quantitative trading, from prototyping trading ideas, measuring market behavior, designing price predictions, analyzing trading performance, and diagnosing under-performance. Day to day tools include python, SQL, LLMs, python data science libraries, visualization software, and C++.\nHis mentorship style is example-driven and visual, having previously TA’d data science undergrad classes as well as teaching courses in poker theory and quantitative trading analysis."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "DataFest 2025",
+    "section": "",
+    "text": "Data wrangling with Python: https://nustat.github.io/DataScience_Intro_python/\nData wrangling with R: https://r4ds.had.co.nz/\nData visualization with R: https://ggplot2-book.org/"
+  },
+  {
+    "objectID": "resources.html#code-repository-version-control-and-collaboration",
+    "href": "resources.html#code-repository-version-control-and-collaboration",
+    "title": "DataFest 2025",
+    "section": "Code repository, version control, and collaboration",
+    "text": "Code repository, version control, and collaboration\n\nGitHub: https://www.github.com\nHappy Git with R: https://happygitwithr.com/"
+  },
+  {
+    "objectID": "resources.html#interactive-dashboard",
+    "href": "resources.html#interactive-dashboard",
+    "title": "DataFest 2025",
+    "section": "Interactive dashboard:",
+    "text": "Interactive dashboard:\n\nShiny\n\nDeploy Shiny app on shinyapps.io: https://docs.rstudio.com/shinyapps.io/getting-started.html\nShiny tutorials: https://shiny.rstudio.com/tutorial/\n\nTableau:\n\nTableau Public: https://public.tableau.com/en-us/s\nTableau Desktop - free student license: https://www.tableau.com/academic"
+  },
+  {
+    "objectID": "resources.html#data-wrangling-and-visualization",
+    "href": "resources.html#data-wrangling-and-visualization",
+    "title": "DataFest 2025",
+    "section": "",
+    "text": "Data wrangling with Python: https://nustat.github.io/DataScience_Intro_python/\nData wrangling with R: https://r4ds.had.co.nz/\nData visualization with R: https://ggplot2-book.org/"
   }
 ]

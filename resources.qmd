@@ -1,0 +1,22 @@
+## Data wrangling and visualization
+
+* Data wrangling with Python: [https://nustat.github.io/DataScience_Intro_python/](https://nustat.github.io/DataScience_Intro_python/)
+
+* Data wrangling with R: [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
+
+* Data visualization with R: [https://ggplot2-book.org/](https://ggplot2-book.org/)
+
+## Interactive dashboard:
+* Shiny
+  + Deploy Shiny app on shinyapps.io: [https://docs.rstudio.com/shinyapps.io/getting-started.html](https://docs.rstudio.com/shinyapps.io/getting-started.html)
+  + Shiny tutorials: [https://shiny.rstudio.com/tutorial/](https://shiny.rstudio.com/tutorial/)
+
+* Tableau:
+  + Tableau Public: [https://public.tableau.com/en-us/s](https://public.tableau.com/en-us/s)
+  + Tableau Desktop - free student license: [https://www.tableau.com/academic](https://www.tableau.com/academic)
+  
+## Code repository, version control, and collaboration
+
+* GitHub: [https://www.github.com](https://www.github.com)
+
+* Happy Git with R: [https://happygitwithr.com/](https://happygitwithr.com/)

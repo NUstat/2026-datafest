@@ -1,6 +1,6 @@
 ## Schedule
 
-Below is the tentative schedule for the event. It may be updated closer to the event.
+Below is the schedule for the event. It may be updated closer to the event.
 
 | Data | Time | Activity | Venue |
 |------|------|------|------|
@@ -30,7 +30,7 @@ Below is the tentative schedule for the event. It may be updated closer to the e
 | 6th April | 7:00 - 7:30 pm    | Extra time to accommodate any delay in schedule    | Guild Lounge    |
 
 
-: Tentative schedule {#tbl-letters}
+: Schedule {#tbl-letters}
 
 *Mentors will be available to advise student teams at certain times of the day on April 5 (TBA)*
 

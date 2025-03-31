@@ -32,7 +32,7 @@ website:
       - href: resources.qmd
         text: Resources
       - href: coc.qmd
-        text: Rules & Code of Conduct
+        text: Rules & CoC
       - href: faqs.qmd
         text: FAQs
       - href: sponsors.qmd

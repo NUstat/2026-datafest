@@ -117,3 +117,17 @@ David is a software engineer at Capital One where he works on site reliability e
 Tyler received an MS in Statistics and Data Science from Northwestern University in 2022. With an underlying interest in the social sciences and public policy, his work builds on **statistical experimentation, analyses of behavior, and data storytelling to drive change**. From optimizing marketing pipelines in Silicon Valley tech to training education researchers at NU, they balance technical work—creating data pipelines, **visualization tools, and predictive models (typically with Python and SQL)—and partnering with leaders to shape strategy. As a Data Strategist at Chicago Public Schools, Tyler develops indicators, data systems, and reporting to advance student success, identifying and communicating inflection points where policymakers can better support schools.**
 
 For Tyler, one of the most rewarding parts of data work is teaching and learning from others; whether as a tutor, TA, or consultant, **he loves supporting others in their data journeys**. Tyler’s mentoring style centers collaborative problem solving, active listening, and engaging with students’ motivation to grow together. Outside of learning new analytics techniques, they enjoy biking, camping, and live music.
+
+::: {style="float: left; margin: 5px; width:50%"}
+![](images/adamya.png){width=100%}
+:::
+
+## Adamya Prakash Srivastava
+***Quantitative Trader, Jump Trading***
+
+Adamya received a bachelors degree in **Computer Science, Statistics, Economics, and Data Science from UC Berkeley in 2023**. Since, he has worked as a quant for a **high frequency trading firm** where he specializes in algorithmically trading US markets. He uses many types of data science tools every day to create and iterate on trading strategies built on multiple sources of market data. **Data science is used at every step of quantitative trading, from prototyping trading ideas, measuring market behavior, designing price predictions, analyzing trading performance, and diagnosing under-performance.** Day to day tools include python, SQL, LLMs, python data science libraries, visualization software, and C++.
+
+His **mentorship style is example-driven and visual**, having previously TA'd data science undergrad classes as well as teaching courses in poker theory and quantitative trading analysis. 
+
+
+

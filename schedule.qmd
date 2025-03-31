@@ -1,9 +1,11 @@
-## Tentative Schedule
+## Schedule
 
 Below is the tentative schedule for the event. It may be updated closer to the event.
 
 | Data | Time | Activity | Venue |
 |------|------|------|------|
+| 31st March | 4:00 - 5:00 pm    | Social event    | Norris 1 - 163 Wildcat room    |
+|---------------------------|-------------------------------------|------------------------------------------|-------------------------------------|
 | 4th April | 5:00 - 5:45 pm    | Check-in \& Registration    | Guild Lounge    |
 | 4th April | 5:45 - 6:30 pm    | Dinner    | Guild Lounge    |
 | 4th April | 6:30 - 7:30 pm    | Keynote address by [Sanchit Tiwari](https://nustat.github.io/2025-datafest/panelists_judges.html#sanchit-tiwari) (Associate Partner, McKinsey \& Company)    | Guild Lounge    |

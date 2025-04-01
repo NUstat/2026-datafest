@@ -9,20 +9,28 @@ title: "Participant Teams"
 
 *Otterly determined to dive deep into data.*
 
+**Mentor:** Yuqing Yang
+
 ## 2. Team NA{style="color:#4E2A84;"}
 *(Noah & Aryaman)*
 
 *Filling in the gaps, one data point at a time*
+
+**Mentor:** Zihan Zhao
 
 ![](images/team_na.jpg){width=80%}
 
 ## 3. Data Jays{style="color:#4E2A84;"}
 *(Max, Lily, Rebecca, and Chelsea)*
 
+**Mentor:** Mary Wu
+
 ## 4. GGAP{style="color:#4E2A84;"}
 *(Alyssa, Paisley, Grace & Grace)*
 
 *The 2025 epilogue to the GGAP 303 sequence trilogy*
+
+**Mentor:** Cathy Kim
 
 ![](images/ggap.png){width=80%}
 
@@ -31,10 +39,14 @@ title: "Participant Teams"
 
 *A group comprised of frisbee and non frisbee folk ready to face some fantastic data*
 
+**Mentor:** Tyler Maule   
+
 ## 6. Macrodata Refinement{style="color:#4E2A84;"}
 *(Corbin, Spencer, Benjamin, and Ferdy)*
 
 *The work is mysterious and important*
+
+**Mentor:** Akash Rathi
 
 ![](images/mdr_group_photo.png){width=80%}
 
@@ -43,28 +55,40 @@ title: "Participant Teams"
 
 *You bring the data, we bring the magic*
 
+**Mentor:** Adamya Prakash Srivastava
+
 ## 8. Stat Avengers{style="color:#4E2A84;"}
 *(Shriya, Glenna, Sarah, and Tosin)*
 
 *We all met during the DS sequence and have been stuck together since! Excited to participate and put our relationship to the test (hopefully only the T-test)!*
 
+**Mentor:** Xinhui Qian
+
 ## 9. Hot Tea{style="color:#4E2A84;"}
 *(Ice, Robert, and Owen)*
+
+**Mentor:** Mary Wu
 
 ## 10. InvASIANS{style="color:#4E2A84;"}
 *(Dawson, Ken, Takeshi, and Josuke)*
 
 *A ferocious, data-driven crew blending statistical precision with Asian ingenuity to conquer the modeling game*
 
+**Mentor:** Akash Rathi
+
 ## 11. DABJ{style="color:#4E2A84;"}
 *(Alec, Dustin, and Jeremy)*
 
 *DABJ (ignore the B) is LOCKED IN, we finna cook!*
 
+**Mentor:** Yuqing Yang
+
 ## 12. Screenagers{style="color:#4E2A84;"}
 *(Edwin, Felice, Danny, and Gio)*
 
 *We turn data into insights, one screen at a time*
+
+**Mentor:** Kyle Williams
 
 ![](images/screenagers.jpeg){width=80%}
 *(Gio to be added)*
@@ -74,33 +98,45 @@ title: "Participant Teams"
 
 *Bronny James for 2025 MVP of the NBA*
 
+**Mentor:** Cathy Kim
+
 ## 14. The Chopstick Masters{style="color:#4E2A84;"}
 *(Izzy, Yana, Kushal, Abe, and Michael)*
 
 *Wielding innovation like chopsticks — graceful, deliberate, and fueled by interdisciplinary collaboration*
+
+**Mentor:** Adamya Prakash Srivastava
 
 ## 15. Data Alchemists{style="color:#4E2A84;"}
 *(Jinhe & Olzhasbek)*
 
 *Modern-day sorcerers of analytics, masters of transforming data into powerful predictions*
 
+**Mentor:** Kyle Williams
+
 ## 16. The Prompt Engineers{style="color:#4E2A84;"}
 *(Harrison & Abigail)*
 
 *We may not have the answers, but we will be sure to phrase a question well enough to fake it*
+
+**Mentor:** Xinhui Qian
 
 ## 17. In Data We Trust{style="color:#4E2A84;"}
 *(Matthew, Adrien, Irene, and Shriyans)*
 
 *Give me data or give me death!*
 
+**Mentor:** David Frost
+
 ## 18. Team to be named{style="color:#4E2A84;"}
 *(Leliani, Paul, and Diego)*
 
-## [19. *Team to be named*]{style="color:#4E2A84;"}
+**Mentor:** Tyler Maule
+
+## 19. *Team to be named*{style="color:#4E2A84;"}
 [*(Betty, Sungmin, and Jenna)*]{style="color:#4E2A84;"}
 
-
+[**Mentor:** David Frost]{style="color:#4E2A84;"}
 
 :::{.callout-note}
 *Please share a photo of your team along with a one-sentence witty description, and we’ll feature it under your team name! It’s a great way to get to know your competition and network during the event. Below is an example of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image. Please send the photo and the description to krish [AT] northwestern.edu*

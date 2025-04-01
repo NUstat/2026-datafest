@@ -25,6 +25,10 @@ title: "Participant Teams"
 ## 5. GGAP{style="color:#4E2A84;"}
 *(Alyssa, Paisley, Grace & Grace)*
 
+*The 2025 epilogue to the GGAP 303 sequence trilogy*
+
+![](images/ggap.png){width=80%}
+
 ## 6. Frisbee Team{style="color:#4E2A84;"}
 *(Margaret & Faith)*
 
@@ -61,6 +65,8 @@ title: "Participant Teams"
 ## 13. Screenagers{style="color:#4E2A84;"}
 *(Edwin, Felice, Danny, and Gio)*
 
+*We turn data into insights, one screen at a time*
+
 ## 14. Lebron X Bronny James{style="color:#4E2A84;"}
 *(Ryan, Jason, and Zach)*
 
@@ -81,14 +87,16 @@ title: "Participant Teams"
 
 *We may not have the answers, but we will be sure to phrase a question well enough to fake it*
 
-## 18. *Team to be named*{style="color:#4E2A84;"}
-*(Leliani, Paul, and Diego)*
+## 18. In Data We Trust{style="color:#4E2A84;"}
+[*(Matthew, Adrien, Irene, and Shriyans)*]{style="color:#4E2A84;"}
+
+*Give me data or give me death!*
 
 ## 19. *Team to be named*{style="color:#4E2A84;"}
-*(Betty, Sungmin, and Jenna)*
+*(Leliani, Paul, and Diego)*
 
 ## [20. *Team to be named*]{style="color:#4E2A84;"}
-[*(Matthew, Adrien, Irene, and Shriyans)*]{style="color:#4E2A84;"}
+[*(Betty, Sungmin, and Jenna)*]{style="color:#4E2A84;"}
 
 
 

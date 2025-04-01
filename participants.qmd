@@ -90,11 +90,11 @@ title: "Participant Teams"
 *We may not have the answers, but we will be sure to phrase a question well enough to fake it*
 
 ## 17. In Data We Trust{style="color:#4E2A84;"}
-*(Matthew, Adrien, Irene, and Shriyans)*{style="color:#4E2A84;"}
+*(Matthew, Adrien, Irene, and Shriyans)*
 
 *Give me data or give me death!*
 
-## 18. *Team to be named*{style="color:#4E2A84;"}
+## 18. Team to be named{style="color:#4E2A84;"}
 *(Leliani, Paul, and Diego)*
 
 ## [19. *Team to be named*]{style="color:#4E2A84;"}

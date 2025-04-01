@@ -29,7 +29,7 @@ title: "Participant Teams"
 ## 5. Frisbee Team{style="color:#4E2A84;"}
 *(Margaret, Faith, Sam, and Eli)*
 
-*A couple of ultimate frisbee players who are excited to apply that field sense to some data*
+*A couple of ultimate frisbee players, and Sam & Eli, who are excited to apply that field sense to some data*
 
 ## 6. Macrodata Refinement{style="color:#4E2A84;"}
 *(Corbin, Spencer, Benjamin, and Ferdy)*

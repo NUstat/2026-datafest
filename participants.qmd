@@ -69,7 +69,7 @@ title: "Participant Teams"
 
 *Just an ordinary dataset, but with the right model, we can make it trend like a hot tea*
 
-**Mentor:** Mary Wu
+**Mentor:** David Frost
 
 ## 10. InvASIANS{style="color:#4E2A84;"}
 *(Dawson, Ken, Takeshi, and Josuke)*
@@ -138,7 +138,7 @@ title: "Participant Teams"
 ## 19. *Team to be named*{style="color:#4E2A84;"}
 [*(Betty, Sungmin, and Jenna)*]{style="color:#4E2A84;"}
 
-[**Mentor:** David Frost]{style="color:#4E2A84;"}
+[**Mentor:** Mary Wu]{style="color:#4E2A84;"}
 
 :::{.callout-note}
 *Please share a photo of your team along with a one-sentence witty description, and we’ll feature it under your team name! It’s a great way to get to know your competition and network during the event. Below is an example of a team photo and description. We’ll read your team description when introducing your team to the judges—so make it fun, witty, and informative (no pressure, though!). You’re welcome to combine individual photos into a single image. Please send the photo and the description to krish [AT] northwestern.edu*

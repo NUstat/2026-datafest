@@ -72,7 +72,7 @@ title: "Participant Teams"
 **Mentor:** David Frost
 
 ## 10. InvASIANS{style="color:#4E2A84;"}
-*(Dawson, Ken, Takeshi, and Josuke)*
+*(Dawson, Ken, Takeshi, Josuke, and Diego)*
 
 *A ferocious, data-driven crew blending statistical precision with Asian ingenuity to conquer the modeling game*
 
@@ -123,13 +123,8 @@ title: "Participant Teams"
 
 **Mentor:** David Frost
 
-## 17. Team to be named{style="color:#4E2A84;"}
-*(Leilani, and Diego)*
-
-**Mentor:** Tyler Maule
-
-## 18. *Team to be named*{style="color:#4E2A84;"}
-[*(Betty, Sungmin, and Jenna)*]{style="color:#4E2A84;"}
+## 17. *Team to be named*{style="color:#4E2A84;"}
+[*(Betty, Sungmin, Jenna, and Leilani)*]{style="color:#4E2A84;"}
 
 [**Mentor:** Mary Wu]{style="color:#4E2A84;"}
 

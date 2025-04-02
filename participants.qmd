@@ -35,7 +35,7 @@ title: "Participant Teams"
 ![](images/ggap.png){width=80%}
 
 ## 5. Frisbee Team{style="color:#4E2A84;"}
-*(Margaret, Faith, Sam, and Eli)*
+*(Margaret, Faith, Sam, Eli, and Paul)*
 
 *A group comprised of frisbee and non frisbee folk ready to face some fantastic data*
 
@@ -124,7 +124,7 @@ title: "Participant Teams"
 **Mentor:** David Frost
 
 ## 17. Team to be named{style="color:#4E2A84;"}
-*(Leliani, Paul, and Diego)*
+*(Leilani, and Diego)*
 
 **Mentor:** Tyler Maule
 

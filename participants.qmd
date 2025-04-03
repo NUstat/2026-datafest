@@ -123,7 +123,7 @@ title: "Participant Teams"
 
 **Mentor:** David Frost
 
-## 17. *Team who shall not be named*{style="color:#4E2A84;"}
+## 17. Team who shall not be named{style="color:#4E2A84;"}
 [*(Betty, Sungmin, Jenna, and Leilani)*]{style="color:#4E2A84;"}
 
 [**Mentor:** Mary Wu]{style="color:#4E2A84;"}

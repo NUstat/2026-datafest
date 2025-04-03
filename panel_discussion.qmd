@@ -6,7 +6,7 @@ format: html
 
 There will be a panel discussion on **Careers in data science** on Sunday, 6th April from 5 to 6:30 pm at Guild Lounge. 
 
-We are thrilled to introduce a diverse panel of six experts, each with a distinct career path, yet all united by their connection to data science. Their journeys will illuminate the vast opportunities in the field, providing valuable insights into its complexities, work-life balance, and real-world impact. Don't miss this chance to learn from their experiences, ask questions, and grow your network!
+We are thrilled to introduce a diverse panel of [six experts](https://nustat.github.io/2025-datafest/panelists_judges.html), each with a distinct career path, yet all united by their connection to data science. Their journeys will illuminate the vast opportunities in the field, providing valuable insights into its complexities, work-life balance, and real-world impact. Don't miss this chance to learn from their experiences, ask questions, and grow your network!
 
 ## Networking with Capital One
 

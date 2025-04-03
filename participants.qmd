@@ -2,7 +2,7 @@
 title: "Participant Teams"
 ---
 
-🔥 Brace yourselves for the DataFest! **17 powerhouse teams, 67 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
+🔥 Brace yourselves for the DataFest! **16 powerhouse teams, 63 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
 
 ## 1. Otters{style="color:#4E2A84;"}
 *(Eunice, Ellie, Ryan, and Jeremy)*
@@ -20,12 +20,7 @@ title: "Participant Teams"
 
 ![](images/team_na.jpg){width=80%}
 
-## 3. Data Jays{style="color:#4E2A84;"}
-*(Max, Lily, Rebecca, and Chelsea)*
-
-**Mentor:** Mary Wu
-
-## 4. GGAP{style="color:#4E2A84;"}
+## 3. GGAP{style="color:#4E2A84;"}
 *(Alyssa, Paisley, Grace & Grace)*
 
 *The 2025 epilogue to the GGAP 303 sequence trilogy*
@@ -34,14 +29,14 @@ title: "Participant Teams"
 
 ![](images/ggap.png){width=80%}
 
-## 5. Frisbee Team{style="color:#4E2A84;"}
+## 4. Frisbee Team{style="color:#4E2A84;"}
 *(Margaret, Faith, Sam, Eli, and Paul)*
 
 *A group comprised of frisbee and non frisbee folk ready to face some fantastic data*
 
 **Mentor:** Tyler Maule   
 
-## 6. Macrodata Refinement{style="color:#4E2A84;"}
+## 5. Macrodata Refinement{style="color:#4E2A84;"}
 *(Corbin, Spencer, Benjamin, and Ferdy)*
 
 *The work is mysterious and important*
@@ -50,42 +45,42 @@ title: "Participant Teams"
 
 ![](images/mdr_group_photo.png){width=80%}
 
-## 7. The Unicorns{style="color:#4E2A84;"}
+## 6. The Unicorns{style="color:#4E2A84;"}
 *(Sutter, Jeffrey, Nolan, Harvey, and Jake)*
 
 *You bring the data, we bring the magic*
 
 **Mentor:** Adamya Prakash Srivastava
 
-## 8. Stat Avengers{style="color:#4E2A84;"}
+## 7. Stat Avengers{style="color:#4E2A84;"}
 *(Shriya, Glenna, Sarah, and Tosin)*
 
 *We all met during the DS sequence and have been stuck together since! Excited to participate and put our relationship to the test (hopefully only the T-test)!*
 
 **Mentor:** Xinhui Qian
 
-## 9. Hot Tea{style="color:#4E2A84;"}
+## 8. Hot Tea{style="color:#4E2A84;"}
 *(Ice, Robert, and Owen)*
 
 *Just an ordinary dataset, but with the right model, we can make it trend like a hot tea*
 
 **Mentor:** David Frost
 
-## 10. InvASIANS{style="color:#4E2A84;"}
+## 9. InvASIANS{style="color:#4E2A84;"}
 *(Dawson, Ken, Takeshi, Josuke, and Diego)*
 
 *A ferocious, data-driven crew blending statistical precision with Asian ingenuity to conquer the modeling game*
 
 **Mentor:** Akash Rathi
 
-## 11. DABJ{style="color:#4E2A84;"}
+## 10. DABJ{style="color:#4E2A84;"}
 *(Alec, Dustin, and Jeremy)*
 
 *DABJ (ignore the B) is LOCKED IN, we finna cook!*
 
 **Mentor:** Yuqing Yang
 
-## 12. Screenagers{style="color:#4E2A84;"}
+## 11. Screenagers{style="color:#4E2A84;"}
 *(Edwin, Felice, Danny, and Gio)*
 
 *We turn data into insights, one screen at a time*
@@ -95,35 +90,35 @@ title: "Participant Teams"
 ![](images/screenagers.jpeg){width=80%}
 *(Gio to be added)*
 
-## 13. Lebron X Bronny James{style="color:#4E2A84;"}
+## 12. Lebron X Bronny James{style="color:#4E2A84;"}
 *(Ryan, Jason, and Zach)*
 
 *Bronny James for 2025 MVP of the NBA*
 
 **Mentor:** Cathy Kim
 
-## 14. The Chopstick Masters{style="color:#4E2A84;"}
+## 13. The Chopstick Masters{style="color:#4E2A84;"}
 *(Izzy, Yana, Kushal, Abe, and Michael)*
 
 *Wielding innovation like chopsticks — graceful, deliberate, and fueled by interdisciplinary collaboration*
 
 **Mentor:** Adamya Prakash Srivastava
 
-## 15. The Prompt Engineers{style="color:#4E2A84;"}
+## 14. The Prompt Engineers{style="color:#4E2A84;"}
 *(Harrison, Abigail, Jinhe, and Olzhasbek)*
 
 *We may not have the answers, but we will be sure to phrase a question well enough to fake it*
 
 **Mentor:** Xinhui Qian
 
-## 16. In Data We Trust{style="color:#4E2A84;"}
+## 15. In Data We Trust{style="color:#4E2A84;"}
 *(Matthew, Adrien, Irene, and Shriyans)*
 
 *Give me data or give me death!*
 
 **Mentor:** David Frost
 
-## 17. Team who shall not be named{style="color:#4E2A84;"}
+## 16. Team who shall not be named{style="color:#4E2A84;"}
 [*(Betty, Sungmin, Jenna, and Leilani)*]{style="color:#4E2A84;"}
 
 [**Mentor:** Mary Wu]{style="color:#4E2A84;"}

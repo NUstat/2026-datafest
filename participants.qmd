@@ -2,7 +2,7 @@
 title: "Participant Teams"
 ---
 
-🔥 Brace yourselves for the DataFest! **17 powerhouse teams, 67 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
+🔥 Brace yourselves for the DataFest! **17 powerhouse teams, 66 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
 
 ## 1. Otters{style="color:#4E2A84;"}
 *(Eunice, Ellie, Ryan, and Jeremy)*
@@ -67,7 +67,7 @@ title: "Participant Teams"
 **Mentor:** David Frost
 
 ## 9. InvASIANS{style="color:#4E2A84;"}
-*(Dawson, Ken, Takeshi, Josuke, and Diego)*
+*(Dawson, Ken, Takeshi, and Josuke)*
 
 *A ferocious, data-driven crew blending statistical precision with Asian ingenuity to conquer the modeling game*
 

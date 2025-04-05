@@ -2,7 +2,7 @@
 title: "Participant Teams"
 ---
 
-🔥 Brace yourselves for the DataFest! **16 powerhouse teams, 63 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
+🔥 Brace yourselves for the DataFest! **16 powerhouse teams, 59 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
 
 ## 1. Otters{style="color:#4E2A84;"}
 *(Eunice, Ellie, Ryan, and Jeremy)*
@@ -30,7 +30,7 @@ title: "Participant Teams"
 ![](images/ggap.png){width=80%}
 
 ## 4. Frisbee Team{style="color:#4E2A84;"}
-*(Margaret, Faith, Sam, Eli, and Paul)*
+*(Margaret, Faith, Paul, and Ryan)*
 
 *A group comprised of frisbee and non frisbee folk ready to face some fantastic data*
 
@@ -90,40 +90,28 @@ title: "Participant Teams"
 ![](images/screenagers.jpeg){width=80%}
 *(Gio to be added)*
 
-## 12. Lebron X Bronny James{style="color:#4E2A84;"}
-*(Ryan, Jason, and Zach)*
-
-*Bronny James for 2025 MVP of the NBA*
-
-**Mentor:** Cathy Kim
-
-## 13. The Chopstick Masters{style="color:#4E2A84;"}
+## 12. The Chopstick Masters{style="color:#4E2A84;"}
 *(Izzy, Yana, Kushal, Abe, and Michael)*
 
 *Wielding innovation like chopsticks — graceful, deliberate, and fueled by interdisciplinary collaboration*
 
 **Mentor:** Adamya Prakash Srivastava
 
-## 14. The Prompt Engineers{style="color:#4E2A84;"}
+## 13. The Prompt Engineers{style="color:#4E2A84;"}
 *(Harrison, Abigail, Jinhe, and Olzhasbek)*
 
 *We may not have the answers, but we will be sure to phrase a question well enough to fake it*
 
 **Mentor:** Xinhui Qian
 
-## 15. In Data We Trust{style="color:#4E2A84;"}
+## 14. In Data We Trust{style="color:#4E2A84;"}
 *(Matthew, Adrien, Irene, and Shriyans)*
 
 *Give me data or give me death!*
 
 **Mentor:** David Frost
 
-## 16. Team who shall not be named{style="color:#4E2A84;"}
-[*(Betty, Sungmin, Jenna, and Alexander)*]{style="color:#4E2A84;"}
-
-[**Mentor:** Mary Wu]{style="color:#4E2A84;"}
-
-## 17. Data Jays{style="color:#4E2A84;"}
+## 15. Data Jays{style="color:#4E2A84;"}
 [*(Rebecca, Max, Lily, and Chelsea)*]{style="color:#4E2A84;"}
 
 [**Mentor:** Mary Wu]{style="color:#4E2A84;"}

@@ -53,7 +53,7 @@ Winning teams will be awarded the ASA Student Membership along with other prizes
 
 ## How many prizes are there?
 
-Prizes will be awarded in several categories, such as best insights, best visualization, best use of external data, most creative solution, most actionable recommendations, best story-telling, young analysts (for teams having all freshman / sophomore participants) award, best use of ML tools, and judges choice award. However, prize categories and number of prizes will be confirmed at the beginning of the event.
+There are four prizes - First, Second, Third, and People's Choice Award!
 
 ## Where else is ASA DataFest happening?
 

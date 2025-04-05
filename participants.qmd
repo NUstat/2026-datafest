@@ -2,7 +2,7 @@
 title: "Participant Teams"
 ---
 
-🔥 Brace yourselves for the DataFest! **15 powerhouse teams, 59 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
+🔥 Brace yourselves for the DataFest! **15 powerhouse teams, 58 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
 
 ## 1. Otters{style="color:#4E2A84;"}
 *(Eunice, Ellie, Ryan, and Jeremy)*

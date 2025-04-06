@@ -66,21 +66,14 @@ title: "Participant Teams"
 
 **Mentor:** David Frost
 
-## 9. InvASIANS{style="color:#4E2A84;"}
-*(Dawson, Ken, Takeshi, and Josuke)*
-
-*A ferocious, data-driven crew blending statistical precision with Asian ingenuity to conquer the modeling game*
-
-**Mentor:** Akash Rathi
-
-## 10. DABJ{style="color:#4E2A84;"}
+## 9. DABJ{style="color:#4E2A84;"}
 *(Alec, Dustin, and Jeremy)*
 
 *DABJ (ignore the B) is LOCKED IN, we finna cook!*
 
 **Mentor:** Yuqing Yang
 
-## 11. Screenagers{style="color:#4E2A84;"}
+## 10. Screenagers{style="color:#4E2A84;"}
 *(Edwin, Felice, Danny, and Gio)*
 
 *We turn data into insights, one screen at a time*
@@ -90,28 +83,28 @@ title: "Participant Teams"
 ![](images/screenagers.jpeg){width=80%}
 *(Gio to be added)*
 
-## 12. The Chopstick Masters{style="color:#4E2A84;"}
+## 11. The Chopstick Masters{style="color:#4E2A84;"}
 *(Izzy, Yana, Kushal, Abe, and Michael)*
 
 *Wielding innovation like chopsticks — graceful, deliberate, and fueled by interdisciplinary collaboration*
 
 **Mentor:** Adamya Prakash Srivastava
 
-## 13. The Prompt Engineers{style="color:#4E2A84;"}
+## 12. The Prompt Engineers{style="color:#4E2A84;"}
 *(Harrison, Abigail, Jinhe, and Olzhasbek)*
 
 *We may not have the answers, but we will be sure to phrase a question well enough to fake it*
 
 **Mentor:** Xinhui Qian
 
-## 14. In Data We Trust{style="color:#4E2A84;"}
+## 13. In Data We Trust{style="color:#4E2A84;"}
 *(Matthew, Adrien, Irene, and Shriyans)*
 
 *Give me data or give me death!*
 
 **Mentor:** David Frost
 
-## 15. Data Jays{style="color:#4E2A84;"}
+## 14. Data Jays{style="color:#4E2A84;"}
 [*(Rebecca, Max, Lily, and Chelsea)*]{style="color:#4E2A84;"}
 
 [**Mentor:** Mary Wu]{style="color:#4E2A84;"}

@@ -2,16 +2,9 @@
 title: "Participant Teams"
 ---
 
-🔥 Brace yourselves for the DataFest! **15 powerhouse teams, 58 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
+🔥 Brace yourselves for the DataFest! **13 powerhouse teams, 50 brilliant minds**, all set to clash in the ultimate data showdown. Meet the squads—game time is near! 🚀
 
-## 1. Otters{style="color:#4E2A84;"}
-*(Eunice, Ellie, Ryan, and Jeremy)*
-
-*Otterly determined to dive deep into data.*
-
-**Mentor:** Yuqing Yang
-
-## 2. Team NA{style="color:#4E2A84;"}
+## 1. Team NA{style="color:#4E2A84;"}
 *(Noah & Aryaman)*
 
 *Filling in the gaps, one data point at a time*
@@ -20,7 +13,7 @@ title: "Participant Teams"
 
 ![](images/team_na.jpg){width=80%}
 
-## 3. GGAP{style="color:#4E2A84;"}
+## 2. GGAP{style="color:#4E2A84;"}
 *(Alyssa, Paisley, Grace & Grace)*
 
 *The 2025 epilogue to the GGAP 303 sequence trilogy*
@@ -29,14 +22,14 @@ title: "Participant Teams"
 
 ![](images/ggap.png){width=80%}
 
-## 4. Frisbee Team{style="color:#4E2A84;"}
+## 3. Frisbee Team{style="color:#4E2A84;"}
 *(Margaret, Faith, Paul, and Ryan)*
 
 *A group comprised of frisbee and non frisbee folk ready to face some fantastic data*
 
 **Mentor:** Tyler Maule   
 
-## 5. Macrodata Refinement{style="color:#4E2A84;"}
+## 4. Macrodata Refinement{style="color:#4E2A84;"}
 *(Corbin, Spencer, Benjamin, and Ferdy)*
 
 *The work is mysterious and important*
@@ -45,35 +38,35 @@ title: "Participant Teams"
 
 ![](images/mdr_group_photo.png){width=80%}
 
-## 6. The Unicorns{style="color:#4E2A84;"}
+## 5. The Unicorns{style="color:#4E2A84;"}
 *(Sutter, Jeffrey, Nolan, Harvey, and Jake)*
 
 *You bring the data, we bring the magic*
 
 **Mentor:** Adamya Prakash Srivastava
 
-## 7. Stat Avengers{style="color:#4E2A84;"}
+## 6. Stat Avengers{style="color:#4E2A84;"}
 *(Shriya, Glenna, Sarah, and Tosin)*
 
 *We all met during the DS sequence and have been stuck together since! Excited to participate and put our relationship to the test (hopefully only the T-test)!*
 
 **Mentor:** Xinhui Qian
 
-## 8. Hot Tea{style="color:#4E2A84;"}
+## 7. Hot Tea{style="color:#4E2A84;"}
 *(Ice, Robert, and Owen)*
 
 *Just an ordinary dataset, but with the right model, we can make it trend like a hot tea*
 
 **Mentor:** David Frost
 
-## 9. DABJ{style="color:#4E2A84;"}
+## 8. DABJ{style="color:#4E2A84;"}
 *(Alec, Dustin, and Jeremy)*
 
 *DABJ (ignore the B) is LOCKED IN, we finna cook!*
 
 **Mentor:** Yuqing Yang
 
-## 10. Screenagers{style="color:#4E2A84;"}
+## 9. Screenagers{style="color:#4E2A84;"}
 *(Edwin, Felice, Danny, and Gio)*
 
 *We turn data into insights, one screen at a time*
@@ -83,28 +76,28 @@ title: "Participant Teams"
 ![](images/screenagers.jpeg){width=80%}
 *(Gio to be added)*
 
-## 11. The Chopstick Masters{style="color:#4E2A84;"}
+## 10. The Chopstick Masters{style="color:#4E2A84;"}
 *(Izzy, Yana, Kushal, Abe, and Michael)*
 
 *Wielding innovation like chopsticks — graceful, deliberate, and fueled by interdisciplinary collaboration*
 
 **Mentor:** Adamya Prakash Srivastava
 
-## 12. The Prompt Engineers{style="color:#4E2A84;"}
+## 11. The Prompt Engineers{style="color:#4E2A84;"}
 *(Harrison, Abigail, Jinhe, and Olzhasbek)*
 
 *We may not have the answers, but we will be sure to phrase a question well enough to fake it*
 
 **Mentor:** Xinhui Qian
 
-## 13. In Data We Trust{style="color:#4E2A84;"}
+## 12. In Data We Trust{style="color:#4E2A84;"}
 *(Matthew, Adrien, Irene, and Shriyans)*
 
 *Give me data or give me death!*
 
 **Mentor:** David Frost
 
-## 14. Data Jays{style="color:#4E2A84;"}
+## 13. Data Jays{style="color:#4E2A84;"}
 [*(Rebecca, Max, Lily, and Chelsea)*]{style="color:#4E2A84;"}
 
 [**Mentor:** Mary Wu]{style="color:#4E2A84;"}

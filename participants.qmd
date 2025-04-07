@@ -90,6 +90,8 @@ title: "Participant Teams"
 
 **Mentor:** Xinhui Qian
 
+![](images/prompt.png){width=80%}
+
 ## 12. In Data We Trust{style="color:#4E2A84;"}
 *(Matthew, Adrien, Irene, and Shriyans)*
 

@@ -105,3 +105,5 @@ title: "Participant Teams"
 [*(Rebecca, Max, Lily, and Chelsea)*]{style="color:#4E2A84;"}
 
 [**Mentor:** Mary Wu]{style="color:#4E2A84;"}
+
+![](images/datajays.JPG){width=80%}

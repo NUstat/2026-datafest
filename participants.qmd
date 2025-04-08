@@ -56,6 +56,8 @@ title: "Participant Teams"
 
 **Mentor:** Xinhui Qian
 
+![](images/stat.jpeg){width=80%}
+
 ## 7. Hot Tea{style="color:#4E2A84;"}
 *(Ice, Robert, and Owen)*
 

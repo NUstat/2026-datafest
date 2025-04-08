@@ -29,6 +29,8 @@ title: "Participant Teams"
 
 **Mentor:** Tyler Maule   
 
+![](images/frisbee.JPG){width=80%}
+
 ## 4. Macrodata Refinement{style="color:#4E2A84;"}
 *(Corbin, Spencer, Benjamin, and Ferdy)*
 

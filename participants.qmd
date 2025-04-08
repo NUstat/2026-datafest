@@ -91,6 +91,8 @@ title: "Participant Teams"
 
 **Mentor:** Adamya Prakash Srivastava
 
+![](images/chop.JPG){width=80%}
+
 ## 11. The Prompt Engineers{style="color:#4E2A84;"}
 *(Harrison, Abigail, Jinhe, and Olzhasbek)*
 

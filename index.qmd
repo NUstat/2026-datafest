@@ -3,7 +3,7 @@ title: "Welcome to DataFest 2025!"
 format: html
 ---
 
-![](images\d1.webp)
+![](images\cover.JPG)
 
 Welcome to the official website of the first-ever DataFest at Northwestern! The event is primarily about a data science competition, where student teams compete for glory and prizes! The event also includes data scientists from both industry and academia to interact with and advise curious students. Also, there will be lots of food!
 

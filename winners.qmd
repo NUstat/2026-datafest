@@ -2,7 +2,7 @@
 title: "Winners 🔥"
 ---
 
-After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, four standout teams emerged as the winners of this year’s DataFest.
+After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, four standout teams emerged as the winners of this year’s DataFest. Teams were evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity.
 
 ## 1. **First Place Award - GGAP !!!!**{style="color:#4E2A84;"}
 *(Alyssa, Paisley, Grace & Grace)*

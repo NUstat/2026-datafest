@@ -1,0 +1,42 @@
+---
+title: "Participant Teams 🔥"
+---
+
+After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, four standout teams emerged as the winners of this year’s DataFest.
+
+## 1. **First Place Award - GGAP !!!!**{style="color:#4E2A84;"}
+*(Alyssa, Paisley, Grace & Grace)*
+
+*The 2025 epilogue to the GGAP 303 sequence trilogy*
+
+**Mentor:** Cathy Kim
+
+![](images/ggap_winner.JPG){width=80%}
+
+## 2. **Second Place Award - Team NA !!!**{style="color:#4E2A84;"}
+*(Noah & Aryaman)*
+
+*Filling in the gaps, one data point at a time*
+
+**Mentor:** Zihan Zhao
+
+![](images/na_second.JPG){width=80%}
+
+
+## 3. **Third Place Award - Hot Tea !!**{style="color:#4E2A84;"}
+*(Ice, Robert, and Owen)*
+
+*Just an ordinary dataset, but with the right model, we can make it trend like a hot tea*
+
+**Mentor:** David Frost
+
+![](images/icetea_third.JPG){width=80%}
+
+## 4, **People's Choice Award - The Prompt Engineers !**{style="color:#4E2A84;"}
+*(Harrison, Abigail, Jinhe, and Olzhasbek)*
+
+*We may not have the answers, but we will be sure to phrase a question well enough to fake it*
+
+**Mentor:** Xinhui Qian
+
+![](images/pe_pc.JPG){width=80%}

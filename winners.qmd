@@ -37,6 +37,8 @@ The judges were deeply impressed by the analytical rigor demonstrated by NA! Unl
 
 ![](images/icetea_third.JPG){width=80%}
 
+Hot Tea impressed the judges with the originality of their analytical approach. They crafted a truly unique question that offered a fresh perspective on the open-ended problem, making their analysis stand out as both memorable and impactful.
+
 ## 4, **People's Choice Award - The Prompt Engineers !**{style="color:#4E2A84;"}
 *(Harrison, Abigail, Jinhe, and Olzhasbek)*
 
@@ -45,3 +47,5 @@ The judges were deeply impressed by the analytical rigor demonstrated by NA! Unl
 **Mentor:** Xinhui Qian
 
 ![](images/pe_pc.JPG){width=80%}
+
+

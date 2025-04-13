@@ -24,6 +24,7 @@ GGAP stood out for their creativity, clarity and polish!—earning the top spot 
 **Mentor:** Zihan Zhao
 
 ![](images/na_second.JPG){width=80%}
+The judges were deeply impressed by the analytical rigor demonstrated by NA! Unlike many teams who chose models more instinctively, NA took a methodical approach—testing several models and combining them into a robust ensemble. What further set them apart was their thoughtful integration of highly relevant external data, which significantly enriched their analysis.
 
 
 ## 3. **Third Place Award - Hot Tea !!**{style="color:#4E2A84;"}

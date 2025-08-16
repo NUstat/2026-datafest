@@ -29,6 +29,7 @@ GGAP stood out for their creativity, clarity and polish!—earning the top spot 
 
 The judges were deeply impressed by the analytical rigor demonstrated by NA! Unlike many teams who chose models more instinctively, NA took a methodical approach—testing several models and combining them into a robust ensemble. What further set them apart was their thoughtful integration of highly relevant external data, which significantly enriched their analysis.
 
+**Technical aspect:** Developed a times series model to forecast the volume of leases using quarterly market characteristics. The model was an ensemble of KNN, Poisson, ElasticNet, XGBoost, and Random Forest. Recommendations were based on market trends, and important features effecting lease volume of the specific industry.
 
 ## 3. **Third Place Award - Hot Tea !!**{style="color:#4E2A84;"}
 *(Ice, Robert, and Owen)*

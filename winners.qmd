@@ -15,6 +15,8 @@ After 3.5 hours of team presentations and nearly an hour of thoughtful deliberat
 
 GGAP stood out for their creativity, clarity and polish!—earning the top spot on four of five judges’ lists. Not only did they build a product ready for real-world use, but their explanation of the technical details was both clear and compelling. And just when the judges thought it couldn’t get better, GGAP brought the house down with a clever roleplay—two teammates acted as clients, while the others demoed the product like it was a live pitch. It felt like a real client meeting!
 
+**Technical aspect:** Used $k$-means clustering to identify leases similar to client requirements and provide recommendations. The clusters and the recommended leases were visualized using a dashboard. A couple of demos were presented, where the client inputs the requirements in the dashboard, and then the algorithm visualizes the results and the recommendations.
+
 
 ## 2. **Second Place Award - Team NA !!!**{style="color:#4E2A84;"}
 *(Noah & Aryaman)*

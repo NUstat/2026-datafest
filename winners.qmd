@@ -42,7 +42,7 @@ The judges were deeply impressed by the analytical rigor demonstrated by NA! Unl
 
 Hot Tea impressed the judges with the originality of their analytical approach. They crafted a truly unique question that offered a fresh perspective on the open-ended problem, making their analysis stand out as both memorable and impactful.
 
-**Technical aspect:** Focused the analysis on the impact of wildfires on California leases, visualized their effect on leasing trends, and provided recommendations on optimal timing, location, and lease types based on wildfire occurrences.
+**Technical aspect:** Focused the analysis on the impact of wildfires on California leases, visualized their effect on leasing trends, and provided recommendations on optimal timing, location, and lease types based on wildfire occurrences. This solution shows that simple analysis can also lead to useful insights.
 
 ## 4, **People's Choice Award - The Prompt Engineers !**{style="color:#4E2A84;"}
 *(Harrison, Abigail, Jinhe, and Olzhasbek)*
@@ -54,3 +54,5 @@ Hot Tea impressed the judges with the originality of their analytical approach. 
 ![](images/pe_pc.JPG){width=80%}
 
 The Prompt Engineers stole the show right from the start with a rap-style team intro and wrapped things up with a custom song for the client—winning over the crowd and clinching the award! But it wasn’t just the music that stood out. While the award was audience-driven, the judges were equally impressed by the team’s sharp local insights, especially when one member used their on-the-ground knowledge to deliver a spot-on answer during Q&A!
+
+**Technical aspect:** Visualized leasing trends before and after COVID, which motivated the team to focus on cost-effective space utilization. Broad-level recommendations were provided based on the market trends. This is another solution showing that simple analysis can lead to useful insights.

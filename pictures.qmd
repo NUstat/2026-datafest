@@ -23,12 +23,12 @@ title: "Pictures"
 
 ### 7:30 - 8:30 pm: Problem statement
 
-![Prof. Arvind Krishna (faculty) introduce the problem statement](images/datafest_in_pictures/8_new.jpg)
+![Prof. Arvind Krishna (faculty) introduces the problem statement](images/datafest_in_pictures/8_new.jpg)
 
 
-![Prof. Arend Kuyper (faculty) provide some tips & tricks](images/datafest_in_pictures/9.jpg)
+![Prof. Arend Kuyper (faculty) provides some tips & tricks](images/datafest_in_pictures/9.jpg)
 
-### 8:30 - 9:30 pm: Competition begins!
+### 8:30 pm: Competition begins!
 
 ![Student organisers explain the logistics & rules](images/datafest_in_pictures/10.jpg)
 
@@ -41,7 +41,7 @@ title: "Pictures"
 
 ![Capital One information & resume review session](images/datafest_in_pictures/12.jpg)
 
-![Networking over lunch](images/datafest_in_pictures/12_new.jpg)
+![Networking with Capital One over lunch](images/datafest_in_pictures/12_new.jpg)
 
 ### 2:00 - 9:30 pm: Workday
 
@@ -55,20 +55,20 @@ title: "Pictures"
 
 ![Faculty advising students on their presentation](images/datafest_in_pictures/18.jpg)
 
-![Mentor walking around and providng feedback](images/datafest_in_pictures/19.jpg)
+![Mentors walking around and providng feedback](images/datafest_in_pictures/19.jpg)
 
 
 ### 11:30 - 11:45 am: Presentation submisson
 
-![Team making last-minute updates to their presentations before submission](images/datafest_in_pictures/16.jpg)
+![Team making last-minute updates to their presentation before submission](images/datafest_in_pictures/16.jpg)
 
-![Team celebrating 2 days of hard work & learnings after submission](images/datafest_in_pictures/17.jpg)
+![Team celebrating their hard work & learnings after submission](images/datafest_in_pictures/17.jpg)
 
 ### 1:00 - 4:30 pm: Presentations
 
 ![Team presenting their analysis](images/datafest_in_pictures/20.jpg)
 
-![Team answering judge's question](images/datafest_in_pictures/21.jpg)
+![Team answering judge's question post their presentation](images/datafest_in_pictures/21.jpg)
 
 ### 5:00 - 6:30 pm: Panel discussion
 
@@ -76,9 +76,9 @@ title: "Pictures"
 
 ![Panelists answering student questions](images/datafest_in_pictures/23.jpg)
 
-### 6:30 - 7:30 pm: Awards and felicitation
+### 6:30 - 7:30 pm: Felicitation & Awards
 
-![Department chair felicitating Lila Wells, Busines Analyst from Mckinsey & Company serving as a panelist in the event](images/datafest_in_pictures/24.jpg)
+![Department chair felicitating Lila Wells, Busines Analyst from Mckinsey & Company, serving as a panelist](images/datafest_in_pictures/24.jpg)
 
 ![DataFest winners!](images/datafest_in_pictures/25.jpg)
 

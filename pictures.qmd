@@ -1,0 +1,35 @@
+---
+title: "Pictures"
+---
+
+## Day 1: Friday, 4th April 2025
+
+### 5:00 - 6:00 pm: Meet & Greet
+
+![Teams come prepared with their laptops](images/datafest_in_pictures/day1_1.jpg)
+
+![Team members meeting each other & their mentors](images/datafest_in_pictures/day1_202.jpg)
+
+### 6:00 - 7:30 pm - Opening remarks & Keynote speech
+
+![Opening remarks from Prof. Jiping Wang, Department Chair](images/datafest_in_pictures/4.jpg)
+
+![Keynote address from Sanchit Tiwari, Principal at QuantumBlack (AI by McKinsey)](images/datafest_in_pictures/5.jpg)
+
+![Teams introduce themselves](images/datafest_in_pictures/6.jpg)
+
+
+![Mentors introduce themselves](images/datafest_in_pictures/7.jpg)
+
+### 7:30 - 8:30 pm: Problem statement
+
+![Prof. Arvind Krishna (faculty) introduce the problem statement](images/datafest_in_pictures/8_new.jpg)
+
+
+![Prof. Arend Kuyper (faculty) provide some tips & tricks](images/datafest_in_pictures/9.jpg)
+
+### 8:30 - 9:30 pm: Competition begins!
+
+![Student organisers explain the logistics & rules](images/datafest_in_pictures/10.jpg)
+
+![Teams begin working on the competition](images/datafest_in_pictures/11.jpg)

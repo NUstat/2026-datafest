@@ -31,8 +31,7 @@ website:
         text: Participants
       - href: winners.qmd
         text: Winners
-      - href: resources.qmd
-        text: Resources
+      - href: pictures.qmd
       - href: coc.qmd
         text: Rules & CoC
       - href: faqs.qmd

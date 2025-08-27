@@ -2,7 +2,7 @@
 title: "DataFest in Pictures"
 ---
 
-## Day 1: Friday, 4th April 2025
+## **Day 1: Friday, 4th April 2025**
 
 ### Day 1, 5:00 - 6:00 pm: Meet & Greet
 
@@ -35,7 +35,7 @@ title: "DataFest in Pictures"
 ![Day 1, 8:45 pm: Teams begin working on the competition](images/datafest_in_pictures/11.jpg)
 
 
-## Day 2: Saturday, 5th April 2025
+## **Day 2: Saturday, 5th April 2025**
 
 ### Day 2, 11:00 am - 2:00 pm: Networking with Capital One
 
@@ -49,7 +49,7 @@ title: "DataFest in Pictures"
 
 ![Day 2, 2:00 - 9:30 pm: Team working in their own preferred space](images/datafest_in_pictures/15.jpg)
 
-## Day 3: Sunday, 5th April 2025
+## **Day 3: Sunday, 5th April 2025**
 
 ### Day 3, 9:30 - 11:30 am: Wrapping up presentations
 

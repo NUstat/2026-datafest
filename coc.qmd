@@ -6,6 +6,8 @@ title: "Rules & Code of Conduct"
 
 - Students compete in teams of 2 - 5 people.
 
+- Students from Northwestern and the University of Chicago may form teams together, i.e., a single team may have students of both universities.
+
 - Any additional data used in the project must be publicly available or openly licensed.
 
 - All interactive dashboards must be deployed online.
@@ -32,7 +34,7 @@ title: "Rules & Code of Conduct"
 
 - Along with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.
 
-- Awards will be given to three teams in each of the three categories. The categories will be announced at the beginning of the event.
+- Awards will be given to four teams - first, second, third place, and people's choice.
 
 - Winners will be awarded the ASA Student membership, along with other prizes that will be announced later.
 

@@ -5,7 +5,7 @@ format: html
 
 ## How do I sign up?
 
-Register on the [sign-up](https://nustat.github.io/2025-datafest/signup.html) page.
+Register on the [sign-up](https://nustat.github.io/2026-datafest/signup.html) page.
 
 ## What do I bring to DataFest?
 
@@ -17,11 +17,11 @@ No, there is no registration fee. However note that the event takes significant 
 
 ## Who is eligible to compete?
 
-All undergraduate students at Northwestern University are eligible.
+All undergraduate students at Northwestern University and University of Chicago are eligible.
 
 ## What about PhD and Masters students?
 
-We would like to have Ph.D. and Masters students be involved as mentors during the event.
+We would like to have Ph.D. and Masters students from both Northwestern and University of Chicago be involved as mentors during the event.
 
 ## How large are the teams?
 
@@ -29,7 +29,7 @@ Teams can be made up of 2 - 5 students.
 
 ## Do I have to compete in a team?
 
-Yes, but if you don’t have a team in mind, select the “Looking for team” registration on the [Sign Up](https://nustat.github.io/2025-datafest/signup.html) page and we’ll match you with others looking for teammates.
+Yes, but if you don’t have a team in mind, select the “Looking for team” registration on the [Sign Up](https://nustat.github.io/2026-datafest/signup.html) page and we’ll match you with others looking for teammates.
 
 ## What do I need to compete?
 
@@ -37,7 +37,7 @@ All you need is a laptop with tools for data analysis *(there is no limitation o
 
 ## What are the rules of the competition?
 
-Check the [rules](https://nustat.github.io/2025-datafest/coc.html) tab.
+Check the [rules](https://nustat.github.io/2026-datafest/coc.html) tab.
 
 ## How do I submit my analysis?
 
@@ -45,7 +45,7 @@ Once the registration window closes, participants will receive an email with a l
 
 ## Where can I get help during the competition?
 
-Mentors will be available in-person on Saturday *(at times to be announced)* to answer questions.
+Mentors will be available in-person at venues of both Northwestern and University of Chicago on Saturday *(at times to be announced)* to answer questions.
 
 ## What can I win?
 

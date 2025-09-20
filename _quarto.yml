@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 format:
   html:
@@ -10,7 +11,7 @@ format:
       raw: true
 
 website:
-  title: "DataFest 2025"
+  title: "DataFest 2026"
   sidebar:
     search: true
     logo: 'images/NU_Stat_logo.png'        

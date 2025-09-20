@@ -3,7 +3,7 @@ title: "Welcome to DataFest 2026!"
 format: html
 ---
 
-![](images\IMG_0019_crop.JPG)
+![Team "The Unicorns" presenting their analysis during ASA DataFest 2025](images\IMG_0019_crop.JPG)
 
 Welcome to the official website of the annual ASA DataFest at Northwestern University! The event is hosted by the Department of Statistics and Data Science in collaborating with the ASA (American Statistical Association)
 

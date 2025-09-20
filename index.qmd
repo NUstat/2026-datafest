@@ -3,11 +3,11 @@ title: "Welcome to DataFest 2026!"
 format: html
 ---
 
-![Team "The Unicorns" presenting their analysis during ASA DataFest 2025](images\IMG_0019_crop.JPG)
+!["The Unicorns" presenting their analysis during ASA DataFest 2025](images\IMG_0019_crop.JPG)
 
-Welcome to the official website of the annual ASA DataFest at Northwestern University! The event is hosted by the Department of Statistics and Data Science in collaborating with the ASA (American Statistical Association)
+Welcome to the official website of the annual **ASA DataFest** at Northwestern University! The event is hosted by the Department of Statistics and Data Science in collaborating with the ASA (American Statistical Association)
 
-DataFest is an international competition organized by the American Statistical Association and hosted at universities across the world. Students are provided with a large dataset inspired by a real-world challenge and attempt to use their skills in data visualization, exploratory data analysis, and machine learning to propose a solution within 48 hours (over a weekend).
+DataFest is an **international competitio**n organized by the American Statistical Association and hosted at universities across the world. Students are provided with a **large dataset** inspired by a **real-world challenge** and attempt to use their skills in data visualization, exploratory data analysis, and machine learning to propose a solution within 48 hours (over a weekend).
 
 Students, operating in teams of 2-5, benefit from working alongside graduate students, professors, and industry professionals as expert mentors. 
 

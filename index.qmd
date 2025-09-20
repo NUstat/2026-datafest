@@ -37,11 +37,11 @@ The event also includes a keynote speech from a leading industry expert, and a p
 
 * Students will get the opportunity to **interact with data scientists** from industry and academia, to get some insights about a data science career.
 
-* Students can apply classroom skills to real-world problems, gaining hands-on experience that accelerates their growth as data scientists.
+* Students can **apply classroom skills** to real-world problems, **gaining hands-on experience** that accelerates their growth as data scientists.
 
-* Students will build connections and be a part of a strong peer data science community
+* Students will **build connections** and be a part of a strong peer data science community
 
-* Lastly, students will enjoy a dynamic, inspiring, and truly unforgettable weekend
+* Lastly, students will **enjoy** a dynamic, inspiring, and truly unforgettable weekend
 
 ## ASA DataFest 2025
 

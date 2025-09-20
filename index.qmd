@@ -7,7 +7,7 @@ format: html
 
 Welcome to the official website of the annual **ASA DataFest** at Northwestern University! The event is hosted by the Department of Statistics and Data Science in collaborating with the ASA (American Statistical Association)
 
-DataFest is an **international competitio**n organized by the American Statistical Association and hosted at universities across the world. Students are provided with a **large dataset** inspired by a **real-world challenge** and attempt to use their skills in data visualization, exploratory data analysis, and machine learning to propose a solution within 48 hours (over a weekend).
+DataFest is an **international competition** organized by the American Statistical Association and hosted at universities across the world. Students are provided with a **large dataset** inspired by a **real-world challenge** and attempt to use their skills in data visualization, exploratory data analysis, and machine learning to propose a solution within 48 hours (over a weekend).
 
 Students, operating in teams of 2-5, benefit from working alongside graduate students, professors, and industry professionals as expert mentors. 
 
@@ -31,17 +31,19 @@ Students will be provided with a dataset and an open-ended goal on Friday evenin
 
 The event also includes a keynote speech from a leading industry expert, and a panel discussion on *Careers in data science* comprising of both faculty and industry professionals.
 
-## What is DataFest?
+## Why participate in DataFest?
 
-ASA DataFest at Northwestern is a data analysis competition organized by the Department of Statistics and Data Science at Northwestern University in collaboration with ASA *(American Statistical Association)*.
+* ASA DataFest is a great opportunity to **gain experience** that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make student a good candidate for any position that **involves analysis and critical thinking**, and will provide a concrete example to **demonstrate experience during interviews**.
 
-Teams of 2 - 5 students analyse a potentially **large \& complex dataset**, over a weekend. The problem statement is typically broad and open-ended, providing a lot of **room for innovation**. Your job is to **find and communicate insights** from the data that help answer the problem statement. You are encouraged to ask questions and receive advice from mentors, while working on the problem. 
+* Students will get the opportunity to **interact with data scientists** from industry and academia, to get some insights about a data science career.
 
-ASA DataFest is also a great opportunity to **gain experience** that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make you a good candidate for any position that **involves analysis and critical thinking**, and it will provide a concrete example to **demonstrate your experience during interviews**.
+* Students can apply classroom skills to real-world problems, gaining hands-on experience that accelerates their growth as data scientists.
 
-You will also get the opportunity to **interact with data scientists** from industry and academia, to get some insights about a data science career.
+* Students will build connections and be a part of a strong peer data science community
 
-Food \& drinks will be provided throughout the event to keep you going! We hope that everyone has an enjoyable and enlightening experience!
+* Lastly, students will enjoy a dynamic, inspiring, and truly unforgettable weekend
+
+
 
 ## Previous ASA DataFests
 

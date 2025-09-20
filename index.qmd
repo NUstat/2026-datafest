@@ -43,9 +43,13 @@ The event also includes a keynote speech from a leading industry expert, and a p
 
 * Lastly, students will enjoy a dynamic, inspiring, and truly unforgettable weekend
 
+## ASA DataFest 2025
 
+Northwestern University hosted its first ever DataFest in April 2025. Check out the [gallery](https://nustat.github.io/2025-datafest/pictures.html).
+
+Over 60 universities around the world hosted the ASA DataFest in 2025. Checkout the list of universities [here](https://ww2.amstat.org/education/datafest/participants.cfm))
 
 ## Previous ASA DataFests
 
-Although this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the [previous DataFests](https://ww2.amstat.org/education/datafest/previous.cfm).
+Although Northwestern started having the ASA DataFest since 2025, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the [previous DataFests](https://ww2.amstat.org/education/datafest/previous.cfm).
 

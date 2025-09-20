@@ -256,14 +256,14 @@
     "href": "index.html",
     "title": "Welcome to DataFest 2026!",
     "section": "",
-    "text": "Welcome to the official website of the annual ASA DataFest at Northwestern University! The event is hosted by the Department of Statistics and Data Science in collaborating with the ASA (American Statistical Association)\nDataFest is an international competition organized by the American Statistical Association and hosted at universities across the world. Students are provided with a large dataset inspired by a real-world challenge and attempt to use their existing skillset in data visualization, analysis, and machine learning to propose a solution within 48 hours (over a weekend).\nStudents, operating in teams of 2-5, benefit from working alongside graduate students, professors, and industry professionals as expert mentors."
+    "text": "“The Unicorns” presenting their analysis during ASA DataFest 2025\nWelcome to the official website of the annual ASA DataFest at Northwestern University! The event is hosted by the Department of Statistics and Data Science in collaborating with the ASA (American Statistical Association)\nDataFest is an international competition organized by the American Statistical Association and hosted at universities across the world. Students are provided with a large dataset inspired by a real-world challenge and attempt to use their skills in data visualization, exploratory data analysis, and machine learning to propose a solution within 48 hours (over a weekend).\nStudents, operating in teams of 2-5, benefit from working alongside graduate students, professors, and industry professionals as expert mentors."
   },
   {
     "objectID": "index.html#event-details",
     "href": "index.html#event-details",
     "title": "Welcome to DataFest 2026!",
     "section": "Event details",
-    "text": "Event details\nDate: Friday, April 24 at 5 pm - Sunday, April 26 at 7:30 pm\nVenue:\n*24 Apr 2026: Lutkin Hall\n*25 Apr 2026: Guild lounge (in Scott Hall)\n*26 Apr 2026: Louis Room (in Norris) on April 5\nSign-up: Click here to sign-up for the event!\nParticipants: All UG students are invited to participate, while graduate students are invited to mentor student teams. We are also inviting volunteers to help us organize and run the event.\nYou will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, you will have to develop and present solutions to a panel of judges comprised of faculty and professionals involved in the field of Data Science. There will be prizes in many categories, such as best visualization, best use of external data, and best findings. A finalized list of categories will be announced at the beginning of the competition.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
+    "text": "Event details\nDate: Friday, April 24 at 5 pm - Sunday, April 26 at 7:30 pm\nVenue:\n\n24 Apr 2026: Lutkin Hall\n25 Apr 2026: Guild lounge (in Scott Hall)\n26 Apr 2026: Louis Room (in Norris)\n\nSign-up: Will be open on Oct 8, 2025!\nParticipants: All UG students of Northwestern University and University of Chicago are invited to participate, while graduate students from both universities are invited to mentor student teams. We are also inviting volunteers from each university to help us organize and run the event.\nStudents will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, they will have to develop and present solutions to a panel of judges comprised of faculty and industry professionals. There will be prizes for first, second, and third place, and a people’s choice award. Teams will be evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity. Graduate students and industry professionals will be mentoring student teams as they develop their solution.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
   },
   {
     "objectID": "index.html#what-is-datafest",
@@ -277,7 +277,7 @@
     "href": "index.html#previous-asa-datafests",
     "title": "Welcome to DataFest 2026!",
     "section": "Previous ASA DataFests",
-    "text": "Previous ASA DataFests\nAlthough this is the first-ever DataFest at Northwestern, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
+    "text": "Previous ASA DataFests\nAlthough Northwestern started having the ASA DataFest since 2025, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
   },
   {
     "objectID": "contactus.html",
@@ -600,5 +600,19 @@
     "title": "Sponsors",
     "section": "",
     "text": "The event will not be possible without the support of our generous sponsors:\n\n\n\n\n\n\nSponsorship opportunities mainly include:\n\nFinancial contribution to support the event.\nFood, prizes, t-shirts, and freebies distributed during the event.\nContributing as a judge of the data analysis competition / panel discussion member on Careers in Data Science / mentor to advise student teams during the 40-hour event.\n\nPlease contact the DataFest Faculty Coordinator, Krish (Arvind Krishna) at krish [AT] northwestern.edu if you are interested or have questions on ways to contribute to the event!"
+  },
+  {
+    "objectID": "index.html#why-participate-in-datafest",
+    "href": "index.html#why-participate-in-datafest",
+    "title": "Welcome to DataFest 2026!",
+    "section": "Why participate in DataFest?",
+    "text": "Why participate in DataFest?\n\nASA DataFest is a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make student a good candidate for any position that involves analysis and critical thinking, and will provide a concrete example to demonstrate experience during interviews.\nStudents will get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nStudents can apply classroom skills to real-world problems, gaining hands-on experience that accelerates their growth as data scientists.\nStudents will build connections and be a part of a strong peer data science community\nLastly, students will enjoy a dynamic, inspiring, and truly unforgettable weekend"
+  },
+  {
+    "objectID": "index.html#asa-datafest-2025",
+    "href": "index.html#asa-datafest-2025",
+    "title": "Welcome to DataFest 2026!",
+    "section": "ASA DataFest 2025",
+    "text": "ASA DataFest 2025\nNorthwestern University hosted its first ever DataFest in April 2025. Check out the gallery.\nOver 60 universities around the world hosted the ASA DataFest in 2025. Checkout the list of universities here)"
   }
 ]

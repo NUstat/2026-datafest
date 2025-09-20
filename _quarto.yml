@@ -30,10 +30,6 @@ website:
         text: Mentors
       - href: participants.qmd
         text: Participants
-      - href: winners.qmd
-        text: Winners
-      - href: pictures.qmd
-        text: Gallery
       - href: coc.qmd
         text: Rules & CoC
       - href: faqs.qmd

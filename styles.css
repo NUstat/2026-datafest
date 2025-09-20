@@ -1,0 +1,19 @@
+.navbar-logo {
+  height: 70px !important;
+  max-height: 10000px !important;
+  width: auto !important;
+}
+
+.navbar {
+ height: 70px !important;
+ max-height: 70px !important;
+}
+
+.justify-text {
+    text-align: justify !important;
+}
+
+.my-colored-text {
+    color: #00FF00; /* Green */
+    font-weight: bold;
+}

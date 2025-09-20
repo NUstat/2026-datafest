@@ -9,17 +9,13 @@ The event will not be possible without the support of our generous sponsors:
 
 2. ![](images/ASA.jpg){width=50%}
 
-3. ![](images/McK_QuantumBlack_Logo_RGB_Black For Digital.svg){width=80%}
-
-4. ![](images/Capital_One-Logo_wine.png){width=60%}
-
 **Sponsorship opportunities** mainly include:
 
 1. Financial contribution to support the event.
 
 2. Food, prizes, t-shirts, and freebies distributed during the event.
 
-3. Contributing as a judge of the data analysis competition / panel discussion member on *Careers in Data Science* / mentor to advise student teams during the 40-hour event.
+3. Contributing as a judge of the data analysis competition / panel discussion member on *Careers in Data Science* / mentor to advise student teams during the 48-hour event.
 
-Please contact the DataFest Faculty Coordinator, Krish (Arvind Krishna) at krish [AT] northwestern.edu if you are interested or have questions on ways to contribute to the event!
+**Please contact the DataFest Organizing Committee Chair, Krish (Arvind Krishna) at krish [AT] northwestern.edu if you are interested or have questions on ways to contribute to the event!**
 

@@ -2,11 +2,9 @@
 title: "DataFest Organizing Committee"
 ---
 
-If you have any questions, comments, feedback, are interested in contributing to the event (through sponsorship or volunteering), or would like to learn more about the Organizing Committee’s experience with ASA DataFest 2025 at Northwestern—especially if you're considering joining the team for next year—please feel free to reach out to any of our team members.
+If you have any questions, comments, feedback, are interested in contributing to the event (through sponsorship or volunteering), or would like to learn more about the Organizing Committee’s experience with ASA DataFest 2025 at Northwestern—especially if you're considering joining the team for DataFest 2026—please feel free to reach out to any of our team members.
 
-![Organzing committee with a couple of event-day volunteers during ASA DataFest 2025 at Northwestern University](images/datafest-committee.JPG){width=100%}
-
-Below are the contact details of the ASA DataFest 2025 oragnizing committee members.
+Below are the contact details of the ASA DataFest 2026 organizing committee members.
 
 ![](images/krish_pic.jpg){width=20%}
 
@@ -14,24 +12,12 @@ Below are the contact details of the ASA DataFest 2025 oragnizing committee memb
 
 krish [AT] northwestern.edu
 
-![](images/GO.jpg){width=20%}
+![](images/hyouji.JPG){width=20%}
 
-**Student Coordinator:** Gulsimo Osimi
+**Student Coordinator:** Hyouji Joo 
 
-gulsimoosimi2025 [AT] u.northwestern.edu 
+hyoujijoo2027 [AT] u.northwestern.edu
 
 ::: {layout-ncol=3, layout-nrow=1}
-
-![**Committee member     **       
-Hyouji Joo        
-hyoujijoo2027 [AT] u.northwestern.edu](images/hyouji.JPG){width=89%}
-
-![**Committee member     **       
-Jessica Li        
-jessicali2025 [AT] u.northwestern.edu](images/jessica.png){width=80%}
-
-![**Committee member       **       
-Cara Chang    
-carachang2025@ [AT] u.northwestern.edu](images/cara2.JPG){width=80%}
 
 :::

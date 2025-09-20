@@ -1,50 +1,54 @@
 ## Schedule
 
-Below is the schedule for the event.
+Below is the tentative schedule for the event.
 
 *Note: Students are encouraged to bring to-go boxes to take food home in case we have extra*
 
 | Data | Time | Activity | Venue |
 |------|------|------|------|
-| 31st March | 4:00 - 5:00 pm    | Social event    | Norris 1 - 163 Wildcat room    |
+| 17th April | 4:00 - 5:00 pm    | Social event    | Norris Louis room    |
 |---------------------------|-------------------------------------|------------------------------------------|-------------------------------------|
-| 4th April | 5:00 - 5:45 pm    | Check-in \& Registration    | Guild Lounge    |
-| 4th April | 5:45 - 6:30 pm    | Dinner    | Guild Lounge    |
-| 4th April | 6:30 - 7:30 pm    | Keynote address by [Sanchit Tiwari](https://nustat.github.io/2025-datafest/panelists_judges.html#sanchit-tiwari) (Associate Partner, McKinsey \& Company)    | Guild Lounge    |
-| 4th April | 7:30 - 8:30 pm    | Competition problem statement announcement    | Guild Lounge    |
-| 4th April | 8:30 - 9:30 pm    | Meet \& Greet    | Guild Lounge    |
+| 24th April | 5:30 - 6:30 pm    | Check-in \& Registration    | Guild Lounge    |
+| 24th April | 6:30 - 7:30 pm    | Keynote address     | Lutkin Hall    |
+| 24th April | 7:30 - 8:30 pm    | Competition problem statement announcement    | Lutkin Hall    |
+| 24th April | 8:30 - 9:30 pm    | Meet \& Greet    | Lutkin Hall    |
 |---------------------------|-------------------------------------|------------------------------------------|-------------------------------------|
-| 5th April | 10:30 - 11:00 am    | Check-in \& Breakfast    | 1-163 Wildcat room    |
-| 5th April | 11:00 - 1:00 pm    | [Networking with Capital One](https://nustat.github.io/2025-datafest/panel_discussion.html#networking-with-capital-one)    | 1-163 Wildcat room    |
-| 5th April | 1:00 - 2:00 pm    | Lunch    | 1-163 Wildcat room    |
-| 5th April | 2:00 - 6:30 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
-| 5th April | 6:30 - 7:30 pm    | Dinner    | 1-163 Wildcat room    |
-| 5th April | 7:30 - 9:30 pm    | Student teams working on their solution    | 1-163 Wildcat room    |
+| 25th April | 10:30 - 11:00 am    | Check-in \& Breakfast    | Guild Lounge    |
+| 25th April | 11:00 am - 1:00 pm    | Student teams meet mentors, work on their solution    | Guild Lounge    |
+| 25th April | 1:00 - 2:00 pm    | Lunch    | Guild Lounge    |
+| 25th April | 2:00 - 6:00 pm    | Student teams working on their solution    | Guild Lounge    |
 |---------------------------|-------------------------------------|------------------------------------------|------------------------------------|
-| 6th April | 8:30 - 9:30 am    | Check-in \& Breakfast    | Guild Lounge    |
-| 6th April | 9:30 - 11:45 am    | Students finishing up their presentation    | Guild Lounge    |
-| 6th April | 11:45 - 12:45 pm    | Stop work \& lunch    | Guild Lounge    |
-| 6th April | 12:45 - 1:00 pm    | Presentations preparation    | Guild Lounge    |
-| 6th April | 1:00 - 4:30 pm    | Students presentations to judges    | Guild Lounge    |
-| 6th April | 4:30 - 5:00 pm    | Break / setup for panel discussion    | Guild Lounge    |
-| 6th April | 5:00 - 6:30 pm    | [Panel discussion on *Careers in data science*](https://nustat.github.io/2025-datafest/panel_discussion.html)    | Guild Lounge    |
-| 6th April | 6:30 - 7:00 pm    | Awards    | Guild Lounge    |
-| 6th April | 7:00 - 7:30 pm    | Extra time to accommodate any delay in schedule    | Guild Lounge    |
+| 26th April | 10:00 - 11:45 am    | Check-in & wrap-up presentations     | Louis Room    | |
+| 26th April | 11:45 - 12:45 pm    | Stop work \& lunch    | Louis Room    |
+| 26th April | 12:45 - 1:00 pm    | Presentations preparation    | Louis Room    |
+| 26th April | 1:00 - 4:30 pm    | Students presentations to judges    | Louis Room    |
+| 26th April | 4:30 - 5:00 pm    | Break / setup for panel discussion    | Louis Room    |
+| 26th April | 5:00 - 6:30 pm    | [Panel discussion on *Careers in data science*](https://nustat.github.io/2025-datafest/panel_discussion.html)    | Guild Lounge    |
+| 26th April | 6:30 - 7:00 pm    | Awards    | Louis Room    |
+| 26th April | 7:00 - 7:30 pm    | Extra time to accommodate any delay in schedule    | Louis Room    |
 
 
 : Schedule {#tbl-letters}
 
-*Mentors will be available to advise student teams at certain times of the day on April 5 (TBA)*
+*Mentors will be available to advise student teams at both the Universities at certain times of the day on April 25 (TBA)*
 
 ## Google map addresses
 
-- Guild Lounge, Scott Hall (4th \& 6th April)
+- Lutkin Hall (24th April 2026)
+
+<div>
+<iframe src="https://www.google.com/maps/place/Northwestern+University+-+Lutkin+Hall/@42.0510135,-87.6828199,16z/data=!3m1!4b1!4m6!3m5!1s0x880fd00b0c8664ef:0x1e4620e720a5313d!8m2!3d42.0510095!4d-87.680245!16s%2Fg%2F1yh5tgyb0?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+- Guild Lounge, Scott Hall (25th April 2026)
 
 <div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.6090330457646!2d-87.68019482380144!3d42.05156335453571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd074ca661347%3A0xb3d0721c09135496!2sScott%20Hall!5e0!3m2!1sen!2sin!4v1735554008991!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
--	1-163 Wildcat room & 2-149 Eighteen Fifty-One Room, Norris University Center (5th April)
+- Location at University of Chicago on 25th April is to-be-announced.
+
+-	Louis Room, Norris University Center (26th April)
 
 <div>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.523439210994!2d-87.67524292380136!3d42.05339845442033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd07674e1804b%3A0x43dbf223a0a83d6a!2sNorris%20University%20Center!5e0!3m2!1sen!2sin!4v1735554454914!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

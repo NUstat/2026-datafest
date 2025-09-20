@@ -42,4 +42,4 @@ Registration form will open on 8th Oct 2025!
 
 :::{.callout-note}
 
-If you have any questions about your registration, or about the DataFest, or if you wish to make changes to your registration, please contact Krish at krish [at] northwestern.edu
+If you have any questions about your registration, or about the DataFest, please contact Krish at krish [at] northwestern.edu

@@ -37,7 +37,7 @@ Below is the tentative schedule for the event.
 - Lutkin Hall (24th April 2026)
 
 <div>
-<iframe src="https://www.google.com/maps/place/Northwestern+University+-+Lutkin+Hall/@42.0510135,-87.6828199,16z/data=!3m1!4b1!4m6!3m5!1s0x880fd00b0c8664ef:0x1e4620e720a5313d!8m2!3d42.0510095!4d-87.680245!16s%2Fg%2F1yh5tgyb0?entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/place/Northwestern+University+-+Lutkin+Hall/@42.0510095,-87.680245,16z/data=!4m14!1m7!3m6!1s0x880fd00b0c8664ef:0x1e4620e720a5313d!2sNorthwestern+University+-+Lutkin+Hall!8m2!3d42.0510095!4d-87.680245!16s%2Fg%2F1yh5tgyb0!3m5!1s0x880fd00b0c8664ef:0x1e4620e720a5313d!8m2!3d42.0510095!4d-87.680245!16s%2Fg%2F1yh5tgyb0?entry=ttu&g_ep=EgoyMDI1MTAwMS4wIKXMDSoASAFQAw%3D%3D"></iframe>
 </div>
 
 - Guild Lounge, Scott Hall (25th April 2026)

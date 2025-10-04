@@ -6,18 +6,22 @@ If you have any questions, comments, feedback, are interested in contributing to
 
 Below are the contact details of the ASA DataFest 2026 organizing committee members.
 
-![](images/krish_pic.jpg){width=20%}
+::: {layout-ncol=2, layout-nrow=1}
 
-**Committee Chair & Faculty Coordinator:** Krish (Arvind Krishna)
+![**Krish** (Arvind Krishna)<br>
+**Committee Chair & Faculty Coordinator**<br>
+krish [AT] northwestern.edu](images/krish_pic.jpg){width=50%}
 
-krish [AT] northwestern.edu
+![**Emre Besler**<br>
+**Faculty Coordinator**<br> 
+emre.besler [AT] northwestern.edu](images/emrebesler.jpg){width=53%}
 
-![](images/hyouji.JPG){width=20%}
+:::
 
-**Student Coordinator:** Hyouji Joo 
+::: {layout-ncol=2, layout-nrow=1}
 
-hyoujijoo2027 [AT] u.northwestern.edu
-
-::: {layout-ncol=3, layout-nrow=1}
+![**Hyouji Joo**<br>
+**Student Coordinator**<br>
+hyoujijoo2027 [AT] u.northwestern.edu](images/hyouji.JPG){width=30%  fig-align="left"}
 
 :::

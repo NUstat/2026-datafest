@@ -7,7 +7,9 @@ The event will not be possible without the support of our generous sponsors:
 
 1. ![](images/StatisticsDataScience-Logo-HorizPurple.png)
 
-2. ![](images/ASA.jpg){width=50%}
+2. ![](images/ASA.jpg){width=40%}
+
+3. ![](images/uchicago.png){width=50%}
 
 **Sponsorship opportunities** mainly include:
 

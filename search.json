@@ -49,410 +49,39 @@
     "text": "Networking with Capital One\nInterested in connecting with Capital One? Capital one is the ninth largest bank in the United States by total assets as of 31st December 2024, the third largest issuer of Visa and Mastercard credit cards, and one of the largest car finance companies in the United States.\nCapital One associates, Tuan, Cathy, and David will be on campus Saturday, April 5th. During this time they will be holding a session titled Using Data to Drive Impact at Capital One. In this session, they will talk about the following, followed by Q&A:\n\nCapital One experience (Day in the Life of a Capital One associate)\nHow Capital One uses data, and\nCareer insights\n\nBe sure to attend to connect with Capital One and learn more about upcoming career opportunities!"
   },
   {
-    "objectID": "coc.html",
-    "href": "coc.html",
-    "title": "Rules & Code of Conduct",
-    "section": "",
-    "text": "Students compete in teams of 2 - 5 people.\nStudents from Northwestern and the University of Chicago may form teams together, i.e., a single team may have students of both universities.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
-  },
-  {
-    "objectID": "coc.html#general-rules",
-    "href": "coc.html#general-rules",
-    "title": "Rules & Code of Conduct",
-    "section": "",
-    "text": "Students compete in teams of 2 - 5 people.\nStudents from Northwestern and the University of Chicago may form teams together, i.e., a single team may have students of both universities.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
-  },
-  {
-    "objectID": "coc.html#presentation-rules",
-    "href": "coc.html#presentation-rules",
-    "title": "Rules & Code of Conduct",
-    "section": "Presentation rules",
-    "text": "Presentation rules\n\nThe maximum time / number of slides to present for each team will be announced at the beginning of the event.\nAll team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).\nYour presentation must be uploaded in the link provided by 11:45 am on Sunday. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and send the PDF as your submission, you will not have time to log on/off to your account during the presentations.\nAlong with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.\nAwards will be given to four teams - first, second, third place, and people’s choice.\nWinners will be awarded the ASA Student membership, along with other prizes that will be announced later."
-  },
-  {
-    "objectID": "coc.html#guidelines-to-students",
-    "href": "coc.html#guidelines-to-students",
-    "title": "Rules & Code of Conduct",
-    "section": "Guidelines to students",
-    "text": "Guidelines to students\n\nWe recommend that every member of the team bring a laptop.You might find it helpful to have a mix of PCs and Macs, since they have different strengths.\nWe recommend that you make sure beforehand that the software you will be using throughout the weekend is properly installed and running on your computer. You will probably be working with a large dataset so make sure that you have the space for it on your drive.\nWe strongly recommend you create a small data set that you can use to test things on. Then, if it works out, you can apply your procedure to the large dataset. Some procedures can take a long time to run on large data sets, and so it will be comforting to know that your procedure works (because you tested it on a smaller data set) while you wait. We recommend taking a random sample of rows from the original data set, but there might be other approaches you find useful.\nThis is a collaborative event, and team work is required. We recommend creating an interdisciplinary team with a variety of skills. Find friends who are skilled in different software like Python, R, Tableau, AWS, SAS, or any other software package that you feel will be helpful. We encourage interdisciplinary educational backgrounds. For example, a team might consist of students studying Data Science, Mathematics, Computer Science, Business, and Art."
-  },
-  {
-    "objectID": "coc.html#code-of-conduct",
-    "href": "coc.html#code-of-conduct",
-    "title": "Rules & Code of Conduct",
-    "section": "Code of Conduct",
-    "text": "Code of Conduct\nEveryone must follow the ASA Code of Conduct during the entire duration of the event."
-  },
-  {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "Participant Teams",
-    "section": "",
-    "text": "13 powerhouse teams, 49 brilliant minds, clash in the ultimate data analytics showdown 🚀"
-  },
-  {
-    "objectID": "participants.html#team-na",
-    "href": "participants.html#team-na",
-    "title": "Participant Teams",
-    "section": "1. Team NA",
-    "text": "1. Team NA\n(Noah & Aryaman)\nFilling in the gaps, one data point at a time\nMentor: Zihan Zhao"
-  },
-  {
-    "objectID": "participants.html#ggap",
-    "href": "participants.html#ggap",
-    "title": "Participant Teams",
-    "section": "2. GGAP",
-    "text": "2. GGAP\n(Alyssa, Paisley, Grace & Grace)\nThe 2025 epilogue to the GGAP 303 sequence trilogy\nMentor: Cathy Kim"
-  },
-  {
-    "objectID": "participants.html#frisbee-team",
-    "href": "participants.html#frisbee-team",
-    "title": "Participant Teams",
-    "section": "3. Frisbee Team",
-    "text": "3. Frisbee Team\n(Margaret, Faith, Paul, and Ryan)\nA group comprised of frisbee and non frisbee folk ready to face some fantastic data\nMentor: Tyler Maule"
-  },
-  {
-    "objectID": "participants.html#macrodata-refinement",
-    "href": "participants.html#macrodata-refinement",
-    "title": "Participant Teams",
-    "section": "4. Macrodata Refinement",
-    "text": "4. Macrodata Refinement\n(Corbin, Spencer, Benjamin, and Ferdy)\nThe work is mysterious and important\nMentor: Akash Rathi"
-  },
-  {
-    "objectID": "participants.html#the-unicorns",
-    "href": "participants.html#the-unicorns",
-    "title": "Participant Teams",
-    "section": "5. The Unicorns",
-    "text": "5. The Unicorns\n(Sutter, Jeffrey, Nolan, Harvey, and Jake)\nYou bring the data, we bring the magic\nMentor: Adamya Prakash Srivastava"
-  },
-  {
-    "objectID": "participants.html#stat-avengers",
-    "href": "participants.html#stat-avengers",
-    "title": "Participant Teams",
-    "section": "6. Stat Avengers",
-    "text": "6. Stat Avengers\n(Shriya, Glenna, Sarah, and Tosin)\nWe all met during the DS sequence and have been stuck together since! Excited to participate and put our relationship to the test (hopefully only the T-test)!\nMentor: Xinhui Qian"
-  },
-  {
-    "objectID": "participants.html#hot-tea",
-    "href": "participants.html#hot-tea",
-    "title": "Participant Teams",
-    "section": "7. Hot Tea",
-    "text": "7. Hot Tea\n(Ice, Robert, and Owen)\nJust an ordinary dataset, but with the right model, we can make it trend like a hot tea\nMentor: David Frost"
-  },
-  {
-    "objectID": "participants.html#dabj",
-    "href": "participants.html#dabj",
-    "title": "Participant Teams",
-    "section": "8. DABJ",
-    "text": "8. DABJ\n(Alec, Dustin, and Jeremy)\nDABJ (ignore the B) is LOCKED IN, we finna cook!\nMentor: Yuqing Yang"
-  },
-  {
-    "objectID": "participants.html#screenagers",
-    "href": "participants.html#screenagers",
-    "title": "Participant Teams",
-    "section": "9. Screenagers",
-    "text": "9. Screenagers\n(Edwin, Felice, Danny, and Gio)\nWe turn data into insights, one screen at a time\nMentor: Kyle Williams\n (Gio to be added)"
-  },
-  {
-    "objectID": "participants.html#the-chopstick-masters",
-    "href": "participants.html#the-chopstick-masters",
-    "title": "Participant Teams",
-    "section": "10. The Chopstick Masters",
-    "text": "10. The Chopstick Masters\n(Izzy, Yana, Kushal, Abe, and Michael)\nWielding innovation like chopsticks — graceful, deliberate, and fueled by interdisciplinary collaboration\nMentor: Adamya Prakash Srivastava"
-  },
-  {
-    "objectID": "participants.html#the-prompt-engineers",
-    "href": "participants.html#the-prompt-engineers",
-    "title": "Participant Teams",
-    "section": "11. The Prompt Engineers",
-    "text": "11. The Prompt Engineers\n(Harrison, Abigail, Jinhe, and Olzhasbek)\nWe may not have the answers, but we will be sure to phrase a question well enough to fake it\nMentor: Xinhui Qian"
-  },
-  {
-    "objectID": "participants.html#in-data-we-trust",
-    "href": "participants.html#in-data-we-trust",
-    "title": "Participant Teams",
-    "section": "12. In Data We Trust",
-    "text": "12. In Data We Trust\n(Adrien, Irene, and Shriyans)\nGive me data or give me death!\nMentor: David Frost"
-  },
-  {
-    "objectID": "participants.html#data-jays",
-    "href": "participants.html#data-jays",
-    "title": "Participant Teams",
-    "section": "13. Data Jays",
-    "text": "13. Data Jays\n(Rebecca, Max, Lily, and Chelsea)\nMentor: Mary Wu"
-  },
-  {
-    "objectID": "panelists_judges_2025.html",
-    "href": "panelists_judges_2025.html",
-    "title": "Meet our panelists & judges",
-    "section": "",
-    "text": "Meet our panelists from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Listen to the stories of six unique journeys into data science. Ask them what inspired their path—or if their path chose them?"
-  },
-  {
-    "objectID": "panelists_judges_2025.html#sanchit-tiwari",
-    "href": "panelists_judges_2025.html#sanchit-tiwari",
-    "title": "Meet our panelists & judges",
-    "section": "Sanchit Tiwari",
-    "text": "Sanchit Tiwari\nAssociate Partner at McKinsey & Company I Senior Principal at QuantumBlack, AI by McKinsey\n(Keynote speaker)\nSanchit Tiwari is a recognized AI & Data Science leader with extensive experience in Data-Centric AI, Digital Twin, GenAI, and scalable AI solution architecture. As an Associate Partners at McKinsey & Company and Senior Principal at QuantumBlack, AI by Mckinsey, Sanchit has led large scale AI driven transformation across the globe with multiple organizations. With two decades of experience, Sanchit specializes in leveraging advancement in AI and GenAI to optimize operations and business strategy. He has developed expertise in AI-powered Digital Twins and implementing AI driven automation to drive measurable business impact. Beyond his industry work, Sanchit is passionate thought leader, speaker, and mentor in the field of AI. He actively shares insights on Data Science and future of AI in enterprise. He is deeply committed bridging the gap between data science & AI research and real work applications, helping business scale data science solutions effectively. His academic foundation in computer science combined with his deep industry expertise enables him to blend Data Science research with practical business applications to create transformative solutions."
-  },
-  {
-    "objectID": "panelists_judges_2025.html#daniela-hurtado-lange",
-    "href": "panelists_judges_2025.html#daniela-hurtado-lange",
-    "title": "Meet our panelists & judges",
-    "section": "Daniela Hurtado Lange",
-    "text": "Daniela Hurtado Lange\nAssistant Professor, Kellogg School of Management, Northwestern University\n(Panelist and judge)\nDaniela received her Ph.D. in Operations Research at Georgia Tech in December 2021, a Master of Science in Industrial Engineering and an undergraduate degree in Industrial Engineering and Math Engineering at Pontificia Universidad Católica the Chile. Before joining Kellogg, she spent 1.5 years as an Assistant professor of Mathematics at William & Mary. Her research interests focus on performance analysis of Stochastic Processing Networks and applied probability, which are fundamental in data science for optimizing complex systems, modeling uncertainty, and improving decision-making in areas such as machine learning, operations research, and large-scale data processing."
-  },
-  {
-    "objectID": "panelists_judges_2025.html#kevin-rak",
-    "href": "panelists_judges_2025.html#kevin-rak",
-    "title": "Meet our panelists & judges",
-    "section": "Kevin Rak",
-    "text": "Kevin Rak\nData Specialist at Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital\n(Panelist)\nKevin Rak is a Program Specialist (Data) with Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital that connects, collaborates, and mobilizes around a public health approach to violence prevention. He has several years’ experience working in community-based organizations on a variety of issues, including homeless services, support for domestic violence survivors, and violence prevention. Kevin has analyzed and presented data to make it useful to residents, community organizations, researchers, and funders. He has contributed to research that has been published in peer-reviewed journals and shared with policy makers. Kevin holds a Bachelor’s in History from Northwestern University and a Master’s in Public Policy from King’s College London."
-  },
-  {
-    "objectID": "panelists_judges_2025.html#tina-zheng",
-    "href": "panelists_judges_2025.html#tina-zheng",
-    "title": "Meet our panelists & judges",
-    "section": "Tina Zheng",
-    "text": "Tina Zheng\nData Science Manager, Ventas REIT\n(Panelist and judge)\nTina Zheng is a Data Science Manager at Ventas, a leading real estate investment trust in the healthcare sector. She specializes in translating complex data into actionable insights that support strategic decisions around acquisitions, dispositions, and portfolio performance. At the intersection of research, analytics, and machine learning, Tina’s work drives the development of visualization tools and data-driven presentations that inform executive decision-making and enhance operational outcomes. She graduated from Northwestern University in 2019 with a double major in Economics and Music (Violin)."
-  },
-  {
-    "objectID": "panelists_judges_2025.html#brian-nebolsky",
-    "href": "panelists_judges_2025.html#brian-nebolsky",
-    "title": "Meet our panelists & judges",
-    "section": "Brian Nebolsky",
-    "text": "Brian Nebolsky\nQuantitative Portfolio Manager at Kershner Trading Group\n(Judge)\nBrian designs and implements end-to-end trading strategies informed by advanced statistical modeling and machine learning. His work spans a wide range of techniques—from Bayesian mixed models and random forests to transformer architectures and classical regression—applied to high-frequency intraday data. He regularly works across the full research and production pipeline, from data cleaning and feature engineering to model deployment in Python and C++. He is a 2020 graduate of Northwestern University with a major in Mathematics and the Kellogg Certificate in Managerial Analytics."
-  },
-  {
-    "objectID": "panelists_judges_2025.html#lila-wells",
-    "href": "panelists_judges_2025.html#lila-wells",
-    "title": "Meet our panelists & judges",
-    "section": "Lila Wells",
-    "text": "Lila Wells\nBusiness analyst, McKinsey & Company\n(Panelist)\nLila graduated from Northwestern University in 2023 with a major in Sociology, a minor in Data Science, and a certificate in Human-Computer Interaction. At McKinsey, she does most of her work in operations, where she primarily works with large datasets in Excel, often dealing with raw data that requires extensive cleaning, wrangling, and analysis to extract meaningful insights. Her first role after graduation was as a Program Manager at Amazon Web Services (AWS), where where she was involved in business and product operations for cloud computing services. Lila worked with large datasets and self-taught JavaScript to streamline web-based analytics tasks."
-  },
-  {
-    "objectID": "panelists_judges_2025.html#zichen-victoria-shi",
-    "href": "panelists_judges_2025.html#zichen-victoria-shi",
-    "title": "Meet our panelists & judges",
-    "section": "Zichen (Victoria) Shi",
-    "text": "Zichen (Victoria) Shi\nFirst-year data science PhD student at University of Chicago\n(Panelist)\nVictoria Shi is a first-year Data Science Ph.D. student at the University of Chicago. She graduated from Northwestern University in 2024 with a triple major in Industrial Engineering, Data Science, and Statistics, plus a minor in Economics. Victoria decided to pursue a Ph.D. after her sophomore internship at Goldman Sachs, where she worked as a quant strat, constructing a robust data pipeline for a knowledge graph for data-driven investment. Currently, she draws on insights from machine learning, optimization, and inference to develop a unified theoretical framework for risk-aware decision-making—a theme inspired by her undergraduate honors thesis in Statistics with Professor Thomas Severini on stochastic dominance and its implications for portfolio selection under uncertainty. During her undergraduate studies, Victoria managed her jam-packed academic load in just three years while still finding time to climb and chase new adventures. She enjoys playing tennis, rock climbing, and tinkering."
-  },
-  {
-    "objectID": "contactus.html",
-    "href": "contactus.html",
-    "title": "DataFest Organizing Committee",
-    "section": "",
-    "text": "If you have any questions, comments, feedback, are interested in contributing to the event (through sponsorship or volunteering), or would like to learn more about the Organizing Committee’s experience with ASA DataFest 2025 at Northwestern—especially if you’re considering joining the team for DataFest 2026—please feel free to reach out to any of our team members.\nBelow are the contact details of the ASA DataFest 2026 organizing committee members.\n\n\n\n\n\n\nKrish (Arvind Krishna) Committee Chair & Faculty Coordinator krish [AT] northwestern.edu\n\n\n\n\n\n\n\nEmre Besler Faculty Coordinator emre.besler [AT] northwestern.edu\n\n\n\n\n\n\n\n\n\n\n\nHyouji Joo Student Coordinator hyoujijoo2027 [AT] u.northwestern.edu"
-  },
-  {
-    "objectID": "signup.html",
-    "href": "signup.html",
-    "title": "Sign Up!",
-    "section": "",
-    "text": "Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form. Everyone affiliated with Northwestern University and University of Chicago is invited to register with the relevant registration form."
-  },
-  {
-    "objectID": "signup.html#participants",
-    "href": "signup.html#participants",
-    "title": "Sign Up!",
-    "section": "Participants",
-    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern & University of Chicago undergraduate students are invited to register for the ASA DataFest 2026 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team.\nParticipant registration"
-  },
-  {
-    "objectID": "signup.html#mentors",
-    "href": "signup.html#mentors",
-    "title": "Sign Up!",
-    "section": "Mentors",
-    "text": "Mentors\nWant to mentor undergraduate student teams to help unleash their potential in the competition? While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.\nMentor registration"
-  },
-  {
-    "objectID": "signup.html#organizing-team",
-    "href": "signup.html#organizing-team",
-    "title": "Sign Up!",
-    "section": "Organizing team",
-    "text": "Organizing team\nWant to be a part of important decision-making & execution, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please complete the organizing committee application below, and we’ll get back soon!\nOrganizing Committee member registration"
-  },
-  {
-    "objectID": "signup.html#volunteers",
-    "href": "signup.html#volunteers",
-    "title": "Sign Up!",
-    "section": "Volunteers",
-    "text": "Volunteers\nWant to be part of the fun without having to compete? Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (24th - 26th April 2026), hang out, meet people, and have food & fun! Please complete the volunteer sign-up form below.\nEvent-day volunteer registration\n\n\n\n\n\n\nNote\n\n\n\nIf you have any questions about your registration, or about the DataFest, please contact Krish at krish [at] northwestern.edu"
-  },
-  {
-    "objectID": "panelists_judges.html",
-    "href": "panelists_judges.html",
+    "objectID": "panelists_judges - Copy.html",
+    "href": "panelists_judges - Copy.html",
     "title": "Meet our Distinguished Guests",
     "section": "",
-    "text": "We’ll keep updating this page as we plan the event."
+    "text": "Below are the keynote speaker(s), judges, and panelists confirmed for DataFest 2026. These distinguished guests will guide discussions, provide industry insights, and evaluate team presentations throughout the event.\nWe’ll keep updating this page as we finalize the guests for the event."
   },
   {
-    "objectID": "panelists_judges.html#kaveh-safavi",
-    "href": "panelists_judges.html#kaveh-safavi",
+    "objectID": "panelists_judges - Copy.html#keynote-speaker",
+    "href": "panelists_judges - Copy.html#keynote-speaker",
     "title": "Meet our Distinguished Guests",
-    "section": "Kaveh Safavi",
-    "text": "Kaveh Safavi\nSenior Executive advisor / Investor / Educator \n(Keynote speaker)\nKaveh Safavi, is a healthcare strategist with extensive experience in digital health, growth strategies and international expansion. He is a partner with Guidon Partners, a firm that advises and co-invests in healthcare services companies and a Health Senior Advisor with Accenture. He is also an adjunct lecturer of Health Enterprise Management at Kellogg School of Management-Northwestern University.\nHe recently retired as a Senior Managing Director at Accenture for Global Health, where he helped providers, health insurers, and public health systems in the Americas, Europe and Asia Pacific. harness the promise of technology and human ingenuity. Prior to Accenture he served in leadership roles at Cisco, Thompson Reuters and United Healthcare and Alexian Brother’s Health System\nDr. Safavi brings more than three decades of leadership experience. Among his many accomplishments was establishing one of the Midwest’s first electronic-health-record-enabled primary care practices. IT Services Report named him in the top 5 healthcare IT executives for 2020 and 2025.\nDr. Safavi has published numerous papers and is often quoted on healthcare issues in various media publications, including The Wall Street Journal, the BBC, The New York Times, Consumer Reports, US News and World Report, Harvard Business Review and The Economist.\nDr. Safavi earned an M.D. from Loyola University School of Medicine and a J.D. from DePaul University College of Law. He is board-certified in internal medicine and pediatrics and completed his medical residency at the University of Michigan Medical Center., Dr. Safavi also serves on the Weinberg College of Arts and Sciences’ Board of Visitors–Northwestern University and is a member of the Easterseals National Board of Directors.\nDr. Safavi is a lifelong Chicagoan!"
+    "section": "Keynote Speaker",
+    "text": "Keynote Speaker\n\n\n\n\n\nKaveh Safavi\nSenior Executive Advisor / Investor / Educator\n(Keynote speaker)\nKaveh Safavi is a healthcare strategist with extensive experience in digital health, growth strategy, and international expansion. He is a Partner at Guidon Partners, a firm that advises and co-invests in healthcare services companies, and a Health Senior Advisor at Accenture. He is also an Adjunct Lecturer in Health Enterprise Management at the Kellogg School of Management (Northwestern University).\nHe recently retired as a Senior Managing Director at Accenture for Global Health, where he helped providers, health insurers, and public health systems across the Americas, Europe, and Asia Pacific harness the promise of technology and human ingenuity. Prior to Accenture, he held leadership roles at Cisco, Thomson Reuters, UnitedHealthcare, and Alexian Brothers Health System.\nDr. Safavi has published numerous papers and is frequently quoted on healthcare issues in major outlets, including The Wall Street Journal, the BBC, The New York Times, Consumer Reports, U.S. News & World Report, Harvard Business Review, and The Economist.\n\n\nQuick facts\n\nCurrent roles: Partner, Guidon Partners; Health Senior Advisor, Accenture\n\nAcademic: Adjunct Lecturer, Kellogg School of Management (Northwestern)\n\nNotable: Established one of the Midwest’s first EHR-enabled primary care practices\n\nRecognition: The IT Services Report — Top 5 Healthcare IT Executives (2020, 2025)\n\nEducation: M.D. (Loyola), J.D. (DePaul)\n\nBoards: Weinberg College Board of Visitors; Easterseals National Board\n\nHometown: Chicago"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to DataFest 2026!",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "DataFest 2026",
     "section": "",
-    "text": "“The Unicorns” presenting their analysis during ASA DataFest 2025\nWelcome to the official website of the annual ASA DataFest at Northwestern University! The event is hosted by the Department of Statistics and Data Science in collaborating with the ASA (American Statistical Association)\nDataFest is an international competition organized by the American Statistical Association and hosted at universities across the world. Students are provided with a large dataset inspired by a real-world challenge and attempt to use their skills in data visualization, exploratory data analysis, and machine learning to propose a solution within 48 hours (over a weekend).\nStudents, operating in teams of 2-5, benefit from working alongside graduate students, professors, and industry professionals as expert mentors."
+    "text": "Below is the tentative schedule for the event.\nNote: Students are encouraged to bring to-go boxes to take food home in case we have extra\n\n\n\nTable 1: Schedule\n\n\n\n\n\n\n\n\n\n\n\n\nDate\nTime\nActivity\nVenue\n\n\n\n\n\nApril 17th\n4:00 - 6:00 pm\nSocial event\nNorris Louis room (Evanston)#\n\n\n\n—————————\n————————————-\n——————————————\n————————————-\n\n\n\nApril 24th\n5:30 - 6:30 pm\nCheck-in & Registration by\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n6:30 - 7:30 pm\nKeynote address by Dr. Kaveh Safavi (Senior Executive Advisor, Accenture)\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n7:30 - 8:30 pm\nCompetition problem statement announcement\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n8:30 - 9:30 pm\nMeet & Greet\nLutkin Hall (Evanston) / UChicago location*\n\n\n\n—————————\n————————————-\n——————————————\n————————————-\n\n\n\nApril 25th\n10:30 - 11:00 am\nCheck-in & Breakfast\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n11:00 am - 1:00 pm\nStudent teams meet mentors, work on their solution\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n1:00 - 2:00 pm\nLunch\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n2:00 - 6:00 pm\nStudent teams working on their solution\nGuild Lounge (Evanston) / UChicago location*\n\n\n\n—————————\n————————————-\n——————————————\n————————————\n\n\n\nApril 26th\n10:00 - 11:45 am\nCheck-in & wrap-up presentations\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n11:45 - 12:45 pm\nStop work & lunch\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n12:45 - 1:00 pm\nPresentations preparation\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n1:00 - 4:30 pm\nStudents presentations to judges\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n4:30 - 5:00 pm\nBreak / setup for panel discussion\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n5:00 - 6:30 pm\nPanel discussion on Careers in data science\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n6:30 - 7:00 pm\nAwards\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n7:00 - 7:30 pm\nExtra time to accommodate any delay in schedule\nNorris Louis Room (Evanston)**\n\n\n\n\n\n\n\n#April 17th (Friday): Attendance in the in-person social event is optional. The event may be expanded to include tips and tricks for the DataFest, if interested faculty is found to conduct such a session.\n*April 24th & 25th (Friday & Saturday): University of Chicago students can attend the event in-person either at UChicago (location within UChicago to be announced) or at Northwestern University. Northwestern University students are required to attend the event in Evanston.\n**April 26th (Sunday): Students from both Northwestern University and the University of Chicago are required to attend the event in-person at Norris Louis Room in Evanston.\nMentors will be available to advise student teams at both the Universities at certain times of the day on April 25 (TBA)"
   },
   {
-    "objectID": "index.html#event-details",
-    "href": "index.html#event-details",
-    "title": "Welcome to DataFest 2026!",
-    "section": "Event details",
-    "text": "Event details\nDate: Friday, April 24 at 5 pm - Sunday, April 26 at 7:30 pm\nVenue:\n\n24 Apr 2026: Lutkin Hall (Evanaton) / UChicago location\n\nUniversity of Chicago students are welcome to join us at Lutkin Hall at Northwestern University. However, they may also join the event at UChicago (location to be announced).\n\n25 Apr 2026: Guild lounge (Evanston) / UChicago location\n\nUniversity of Chicago students are welcome to join us at Guild lounge at Northwestern University. However, they may also join the event at UChicago (location to be announced).\n\n26 Apr 2026: Norris Louis Room (Evanston)\n\nAll competitors will need to be at the venue in-person.\nSign-up: Please sign up on the Sign Up page.\nParticipants: All UG students of Northwestern University and University of Chicago are invited to participate, while graduate students from both universities are invited to mentor student teams. We are also inviting volunteers from each university to help us organize and run the event.\nStudents will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, they will have to develop and present solutions to a panel of judges comprised of faculty and industry professionals. There will be prizes for first, second, and third place, and a people’s choice award. Teams will be evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity. Graduate students and industry professionals will be mentoring student teams as they develop their solution.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
-  },
-  {
-    "objectID": "index.html#why-participate-in-datafest",
-    "href": "index.html#why-participate-in-datafest",
-    "title": "Welcome to DataFest 2026!",
-    "section": "Why participate in DataFest?",
-    "text": "Why participate in DataFest?\n\nASA DataFest is a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make student a good candidate for any position that involves analysis and critical thinking, and will provide a concrete example to demonstrate experience during interviews.\nStudents will get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nStudents can apply classroom skills to real-world problems, gaining hands-on experience that accelerates their growth as data scientists.\nStudents will build connections and be a part of a strong peer data science community\nLastly, students will enjoy a dynamic, inspiring, and truly unforgettable weekend"
-  },
-  {
-    "objectID": "index.html#asa-datafest-2025",
-    "href": "index.html#asa-datafest-2025",
-    "title": "Welcome to DataFest 2026!",
-    "section": "ASA DataFest 2025",
-    "text": "ASA DataFest 2025\nNorthwestern University hosted its first ever DataFest in April 2025. Check out the gallery.\nOver 60 universities around the world hosted the ASA DataFest in 2025. Checkout the list of universities here)"
-  },
-  {
-    "objectID": "index.html#previous-asa-datafests",
-    "href": "index.html#previous-asa-datafests",
-    "title": "Welcome to DataFest 2026!",
-    "section": "Previous ASA DataFests",
-    "text": "Previous ASA DataFests\nAlthough Northwestern started having the ASA DataFest since 2025, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
-  },
-  {
-    "objectID": "mentors.html",
-    "href": "mentors.html",
-    "title": "Meet our team mentors",
+    "objectID": "schedule.html#schedule",
+    "href": "schedule.html#schedule",
+    "title": "DataFest 2026",
     "section": "",
-    "text": "Meet our talented team mentors! They will be mentoring the participant teams competing in the event."
+    "text": "Below is the tentative schedule for the event.\nNote: Students are encouraged to bring to-go boxes to take food home in case we have extra\n\n\n\nTable 1: Schedule\n\n\n\n\n\n\n\n\n\n\n\n\nDate\nTime\nActivity\nVenue\n\n\n\n\n\nApril 17th\n4:00 - 6:00 pm\nSocial event\nNorris Louis room (Evanston)#\n\n\n\n—————————\n————————————-\n——————————————\n————————————-\n\n\n\nApril 24th\n5:30 - 6:30 pm\nCheck-in & Registration by\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n6:30 - 7:30 pm\nKeynote address by Dr. Kaveh Safavi (Senior Executive Advisor, Accenture)\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n7:30 - 8:30 pm\nCompetition problem statement announcement\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n8:30 - 9:30 pm\nMeet & Greet\nLutkin Hall (Evanston) / UChicago location*\n\n\n\n—————————\n————————————-\n——————————————\n————————————-\n\n\n\nApril 25th\n10:30 - 11:00 am\nCheck-in & Breakfast\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n11:00 am - 1:00 pm\nStudent teams meet mentors, work on their solution\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n1:00 - 2:00 pm\nLunch\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n2:00 - 6:00 pm\nStudent teams working on their solution\nGuild Lounge (Evanston) / UChicago location*\n\n\n\n—————————\n————————————-\n——————————————\n————————————\n\n\n\nApril 26th\n10:00 - 11:45 am\nCheck-in & wrap-up presentations\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n11:45 - 12:45 pm\nStop work & lunch\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n12:45 - 1:00 pm\nPresentations preparation\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n1:00 - 4:30 pm\nStudents presentations to judges\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n4:30 - 5:00 pm\nBreak / setup for panel discussion\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n5:00 - 6:30 pm\nPanel discussion on Careers in data science\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n6:30 - 7:00 pm\nAwards\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n7:00 - 7:30 pm\nExtra time to accommodate any delay in schedule\nNorris Louis Room (Evanston)**\n\n\n\n\n\n\n\n#April 17th (Friday): Attendance in the in-person social event is optional. The event may be expanded to include tips and tricks for the DataFest, if interested faculty is found to conduct such a session.\n*April 24th & 25th (Friday & Saturday): University of Chicago students can attend the event in-person either at UChicago (location within UChicago to be announced) or at Northwestern University. Northwestern University students are required to attend the event in Evanston.\n**April 26th (Sunday): Students from both Northwestern University and the University of Chicago are required to attend the event in-person at Norris Louis Room in Evanston.\nMentors will be available to advise student teams at both the Universities at certain times of the day on April 25 (TBA)"
   },
   {
-    "objectID": "mentors.html#mary-wu",
-    "href": "mentors.html#mary-wu",
-    "title": "Meet our team mentors",
-    "section": "Mary Wu",
-    "text": "Mary Wu\nMS Student in Statistics & Data Science, Northwestern University\nMary graduated from New York University in 2024 with a joint major in Economics & Mathematics and a minor in Music. Mary has research experience across economics, business, and statistics - most recently focusing on the impact of AI on corporate decision-making (particularly in the context of foreign expansion) as well as Bayesian statistics. Mary is experienced with data manipulation in Python, R, and SQL, and is passionate about turning data into meaningful stories that drive real-life impact. She especially hopes to support underrepresented students and those new to data analysis, and aims to be a resource for anyone navigating grad school, internships, and research."
-  },
-  {
-    "objectID": "mentors.html#akash-rathi",
-    "href": "mentors.html#akash-rathi",
-    "title": "Meet our team mentors",
-    "section": "Akash Rathi",
-    "text": "Akash Rathi\nMRI data analyst, Northwestern University\nAkash received his Bachelor’s degree in Data Science from Northwestern University in 2023. He has a strong interest in medical machine learning - specifically, models that can detect various forms of brain cancer. After his undergraduate studies, he spent one year at the University of California, Los Angeles conducting research to improve gait in patients with Parkinson’s Disease. In addition, he developed neural networks to detect epilepsy from non-seizure EEG data. He is applying to medical school this summer. His mentoring style is very hands-on. He believes developing a strong team dynamic and morale is crucial to any project - especially, those that are time-sensitive. He looks forward to getting to know the teams on a personal level, and maintaining strong communication from the start."
-  },
-  {
-    "objectID": "mentors.html#cathy-kim",
-    "href": "mentors.html#cathy-kim",
-    "title": "Meet our team mentors",
-    "section": "Cathy Kim",
-    "text": "Cathy Kim\nBusiness Analyst, Capital One\nCathy received her Bachelor’s degree in Statistics and Data Science from Northwestern University in 2024. She has a strong interest in financial technology and currently works as an analyst on Capital One’s Fraud Models team. Her focus is on identifying new features that will improve fraud detection while reducing false positives. Cathy is experienced in working with data using Python and SQL, as well as data visualization in RStudio. Through her full time roles and internships, she’s had the chance to learn about different areas of the financial technology industry, ranging from trading and product engagement to fraud models. Cathy is interested in the intersection of data and finance and hopes to be a resource for students who are interested in this field. Her mentoring style places strong emphasis on developing a clear analysis plan and truly understanding the core problem that the team is tackling. She also values playing to each team member’s strengths, believing that this not only leads to the team’s success but also creates opportunities for everyone to learn from each other."
-  },
-  {
-    "objectID": "mentors.html#dr.-raman-khurana",
-    "href": "mentors.html#dr.-raman-khurana",
-    "title": "Meet our team mentors",
-    "section": "Dr. Raman Khurana",
-    "text": "Dr. Raman Khurana\nLLM/ML Researcher & Lecturer, Northwestern University\n(Judge & Mentor)\nDr. Raman Khurana is a Postdoctoral Researcher at the Center for Deep Learning and a Lecturer in the MS in Machine Learning & Data Science program at Northwestern University. With a PhD in Physics and over 15 years of experience working with large-scale data, he brings a unique blend of scientific rigor and AI innovation to his work. At CERN, he contributed to the Nobel Prize-winning discovery of the Higgs boson. His current research focuses on time series forecasting, automated feature engineering for streaming data, and generative AI.\nRaman builds agentic AI systems using open-source small- and medium-sized models and explores methods to apply them to real-world business problems. Drawing on his physics background, he developed a physics-inspired feature generator that models time series data as a flowing river. He finds joy in exploring numbers and algorithms but finds it even more rewarding to share those experiences with fellow data scientists in industry and the next generation of data professionals in the MS in Machine Learning & Data Science program. For Raman, the true excitement lies not just in solving complex problems, but in making those insights accessible, collaborative, and impactful."
-  },
-  {
-    "objectID": "mentors.html#yuqing-yang",
-    "href": "mentors.html#yuqing-yang",
-    "title": "Meet our team mentors",
-    "section": "Yuqing Yang",
-    "text": "Yuqing Yang\nFirst year PhD student, Northwestern University\nYuqing has a strong interest in interdisciplinary research at the intersection of AI, social sciences, and astronomy. Yuqing has developed NLP algorithms to detect video recompilation behavior, contributing to the understanding of how online privacy regulations impact content quality. Currently, Yuqing is focused on AI in astronomy, working to improve machine learning techniques for supernova classification. Her mentoring style is supportive and collaborative, emphasizing an engaging, rewarding, and approachable learning experience."
-  },
-  {
-    "objectID": "mentors.html#kyle-williams",
-    "href": "mentors.html#kyle-williams",
-    "title": "Meet our team mentors",
-    "section": "Kyle Williams",
-    "text": "Kyle Williams\nSoftware Engineer, Lakeview Investment Group\nKyle earned his BS in Computer Science with a Minor in Data Science in June 2023, followed by an MS in Computer Science in June 2024. Kyle has always been drawn to Machine Learning and Data Analysis. Being able to understand and communicate about data makes him feel powerful and responsible. While he took a majority of his courseload in the CS Department, it is the application of math, statistics, and science through code that is the most interesting to me.\nAs a part of his master’s, Kyle completed a Thesis on LLMs (Large Language Models), where he augmented the attention mechanism to use Euclidean distance instead of dot-product to improve the performance of small models on OpenBookQA by 14%. Currently, Kyle is helping build high-speed, real-time dashboards and trading systems to display important statistics and execute orders when certain triggers are reached.\nKyle’s greatest strength as a mentor is his patience. As a triplet, Kyle had to share everything – even a birthday – and it’s made him a great listener, effective mediator and strong communicator. Kyle loves talking about code, and he hopes to be a resource for any student who wants to learn more about what it means to be a Computer Scientist in industry. Outside of tech, Kyle’s also a big fan of wrestling and football—and always happy to connect over either!"
-  },
-  {
-    "objectID": "mentors.html#xinhui-qian",
-    "href": "mentors.html#xinhui-qian",
-    "title": "Meet our team mentors",
-    "section": "Xinhui Qian",
-    "text": "Xinhui Qian\nMS Student in Statistics & Data Science, Northwestern University\nWith a strong background in data science and statistical modeling, Xinhui has experience working on projects involving machine learning, causal inference, and data visualization. Xinhui has applied techniques such as deep learning, machine learning, Monte Carlo simulations, and regression analysis to solve real-world problems across finance, healthcare, and industrial processes.\nHer technical skills include Python, SQL and R. As a mentor, Xinhui enjoys guiding students through the problem-solving process, helping them break down complex data science tasks, and strengthening their ability to draw meaningful insights from data. She focuses on building a collaborative and encouraging environment for teams to thrive."
-  },
-  {
-    "objectID": "mentors.html#tuan-quach",
-    "href": "mentors.html#tuan-quach",
-    "title": "Meet our team mentors",
-    "section": "Tuan Quach",
-    "text": "Tuan Quach\nSenior Associate, Software engineer, Capital One\n(Judge & Mentor)\nTuan graduated from University of Maryland in 2019 with a major in Computer Science and Mathematics. At Capital One, he does most of his work in Site Reliability Engineering, where he primarily works with large traffic data, focusing on managing large-scale traffic operation. His work involves building robust pipelines, deep dive into observability data for Mobile and Web to extract meaningful insights to preventing outage, decision-making, alerting systems. He has a strong interest in leveraging Generative AI to Change Banking for Good. Tuan’s mentoring style is very interactive. He has previously taught elementary and middle school students coding and is part of CodePath where he prepared College Students for interviews."
-  },
-  {
-    "objectID": "mentors.html#zihan-zhao",
-    "href": "mentors.html#zihan-zhao",
-    "title": "Meet our team mentors",
-    "section": "Zihan Zhao",
-    "text": "Zihan Zhao\nMS Student in Statistics & Data Science, Northwestern University\nZihan is well-aquainted with data visualization, exploratory data analysis, and statistical modeling. She has worked as a home tutor, teaching maths and physics to high school students. She helped them develop effective learning strategies and a better understanding of concepts. Zihan is an active listener who provides immediate feedback and supports students with patience and attention to detail. She takes her responsibilities seriously and is committed to guiding students in discovering solutions through exploration. With coursework in psychology, Zihan also prioritizes their overall well-being, ensuring they feel both supported and motivated throughout the learning process. This approach allows her to be not just a tutor, but a mentor who fosters both academic growth and personal confidence."
-  },
-  {
-    "objectID": "mentors.html#david-frost",
-    "href": "mentors.html#david-frost",
-    "title": "Meet our team mentors",
-    "section": "David Frost",
-    "text": "David Frost\nSoftware engineer, Capital One\nDavid is a software engineer at Capital One where he works on site reliability engineering (SRE) and DevOps for the company’s web and mobile apps, optimizing the digital experience for 40 million customers. He graduated with an MS and BS in computer science and artificial intelligence in 2024 from Case Western Reserve University (CWRU) in Cleveland, OH. He previously interned at Capital One in Chicago and worked as a teaching assistant and research assistant in machine learning and algorithms at CWRU. David served CWRU’s Association for Computing Machinery student chapter as President where he co-led the creation of a student-run AI conference for which he also hosted a panel discussion with local experts. David volunteers weekly to teach middle school students coding and is passionate about learning more about Generative AI and data science in his free time. His previous projects involve probabilistic graphical models (PGMs), high performance AI acceleration, classical AI, and retrieval-augmented generation (RAG)."
-  },
-  {
-    "objectID": "mentors.html#tyler-maule",
-    "href": "mentors.html#tyler-maule",
-    "title": "Meet our team mentors",
-    "section": "Tyler Maule",
-    "text": "Tyler Maule\nData Strategist, Chicago Public Schools\nTyler received an MS in Statistics and Data Science from Northwestern University in 2022. With an underlying interest in the social sciences and public policy, his work builds on statistical experimentation, analyses of behavior, and data storytelling to drive change. From optimizing marketing pipelines in Silicon Valley tech to training education researchers at NU, they balance technical work—creating data pipelines, visualization tools, and predictive models (typically with Python and SQL)—and partnering with leaders to shape strategy. As a Data Strategist at Chicago Public Schools, Tyler develops indicators, data systems, and reporting to advance student success, identifying and communicating inflection points where policymakers can better support schools.\nFor Tyler, one of the most rewarding parts of data work is teaching and learning from others; whether as a tutor, TA, or consultant, he loves supporting others in their data journeys. Tyler’s mentoring style centers collaborative problem solving, active listening, and engaging with students’ motivation to grow together. Outside of learning new analytics techniques, they enjoy biking, camping, and live music."
-  },
-  {
-    "objectID": "mentors.html#adamya-prakash-srivastava",
-    "href": "mentors.html#adamya-prakash-srivastava",
-    "title": "Meet our team mentors",
-    "section": "Adamya Prakash Srivastava",
-    "text": "Adamya Prakash Srivastava\nQuantitative Trader, Jump Trading\nAdamya received a bachelors degree in Computer Science, Statistics, Economics, and Data Science from UC Berkeley in 2023. Since, he has worked as a quant for a high frequency trading firm where he specializes in algorithmically trading US markets. He uses many types of data science tools every day to create and iterate on trading strategies built on multiple sources of market data. Data science is used at every step of quantitative trading, from prototyping trading ideas, measuring market behavior, designing price predictions, analyzing trading performance, and diagnosing under-performance. Day to day tools include python, SQL, LLMs, python data science libraries, visualization software, and C++.\nHis mentorship style is example-driven and visual, having previously TA’d data science undergrad classes as well as teaching courses in poker theory and quantitative trading analysis."
-  },
-  {
-    "objectID": "winners.html",
-    "href": "winners.html",
-    "title": "Winners 🔥",
-    "section": "",
-    "text": "After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, 4 standout teams (out of 13) emerged as the winners of this year’s DataFest. Teams were evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity."
-  },
-  {
-    "objectID": "winners.html#first-place-award---ggap",
-    "href": "winners.html#first-place-award---ggap",
-    "title": "Winners 🔥",
-    "section": "1. First Place Award - GGAP !!!!",
-    "text": "1. First Place Award - GGAP !!!!\n(Alyssa, Paisley, Grace & Grace)\nThe 2025 epilogue to the GGAP 303 sequence trilogy\nMentor: Cathy Kim\n\nGGAP stood out for their creativity, clarity and polish!—earning the top spot on four of five judges’ lists. Not only did they build a product ready for real-world use, but their explanation of the technical details was both clear and compelling. And just when the judges thought it couldn’t get better, GGAP brought the house down with a clever roleplay—two teammates acted as clients, while the others demoed the product like it was a live pitch. It felt like a real client meeting!\nTechnical aspect: Used \\(k\\)-means clustering to identify leases similar to client requirements and provide recommendations. The clusters and the recommended leases were visualized using a dashboard. A couple of demos were presented, where the client inputs the requirements in the dashboard, and then the algorithm visualizes the results and the recommendations."
-  },
-  {
-    "objectID": "winners.html#second-place-award---team-na",
-    "href": "winners.html#second-place-award---team-na",
-    "title": "Winners 🔥",
-    "section": "2. Second Place Award - Team NA !!!",
-    "text": "2. Second Place Award - Team NA !!!\n(Noah & Aryaman)\nFilling in the gaps, one data point at a time\nMentor: Zihan Zhao\n\nThe judges were deeply impressed by the analytical rigor demonstrated by NA! Unlike many teams who chose models more instinctively, NA took a methodical approach—testing several models and combining them into a robust ensemble. What further set them apart was their thoughtful integration of highly relevant external data, which significantly enriched their analysis.\nTechnical aspect: Developed a times series model to forecast the volume of leases using quarterly market characteristics. The model was an ensemble of KNN, Poisson, ElasticNet, XGBoost, and Random Forest. Recommendations were based on market trends, and important features effecting lease volume of the specific industry."
-  },
-  {
-    "objectID": "winners.html#third-place-award---hot-tea",
-    "href": "winners.html#third-place-award---hot-tea",
-    "title": "Winners 🔥",
-    "section": "3. Third Place Award - Hot Tea !!",
-    "text": "3. Third Place Award - Hot Tea !!\n(Ice, Robert, and Owen)\nJust an ordinary dataset, but with the right model, we can make it trend like a hot tea\nMentor: David Frost\n\nHot Tea impressed the judges with the originality of their analytical approach. They crafted a truly unique question that offered a fresh perspective on the open-ended problem, making their analysis stand out as both memorable and impactful.\nTechnical aspect: Focused the analysis on the impact of wildfires on California leases, visualized their effect on leasing trends, and provided recommendations on optimal timing, location, and lease types based on wildfire occurrences. This solution shows that simple analysis can also lead to useful insights."
-  },
-  {
-    "objectID": "winners.html#peoples-choice-award---the-prompt-engineers",
-    "href": "winners.html#peoples-choice-award---the-prompt-engineers",
-    "title": "Winners 🔥",
-    "section": "4, People’s Choice Award - The Prompt Engineers !",
-    "text": "4, People’s Choice Award - The Prompt Engineers !\n(Harrison, Abigail, Jinhe, and Olzhasbek)\nWe may not have the answers, but we will be sure to phrase a question well enough to fake it\nMentor: Xinhui Qian\n\nThe Prompt Engineers stole the show right from the start with a rap-style team intro and wrapped things up with a custom song for the client—winning over the crowd and clinching the award! But it wasn’t just the music that stood out. While the award was audience-driven, the judges were equally impressed by the team’s sharp local insights, especially when one member used their on-the-ground knowledge to deliver a spot-on answer during Q&A!\nTechnical aspect: Visualized leasing trends before and after COVID, which motivated the team to focus on cost-effective space utilization. Broad-level recommendations were provided based on the market trends. This is another solution showing that simple analysis can lead to useful insights."
+    "objectID": "schedule.html#google-map-addresses",
+    "href": "schedule.html#google-map-addresses",
+    "title": "DataFest 2026",
+    "section": "Google map addresses",
+    "text": "Google map addresses\n\nLutkin Hall, Evanston (April 24th 2026)\n\n\n\n\n\n\nGuild Lounge, Evanston (April 25th 2026)\n\n\n\n\n\n\nLocation at University of Chicago on April 24th & 25th is to-be-announced.\nLouis Room, Norris University Center, Evanston (April 26th)"
   },
   {
     "objectID": "faqs.html",
@@ -567,25 +196,424 @@
     "text": "Are there any online resources that could be useful?\nYes, you may find the following resources useful:\n\nData wrangling and visualization\n\nData wrangling with Python: https://nustat.github.io/DataScience_Intro_python/\nData wrangling with R: https://r4ds.had.co.nz/\nData visualization with R: https://ggplot2-book.org/\n\n\n\nInteractive dashboard:\n\nShiny\n\nDeploy Shiny app on shinyapps.io: https://docs.rstudio.com/shinyapps.io/getting-started.html\nShiny tutorials: https://shiny.rstudio.com/tutorial/\n\nTableau:\n\nTableau Public: https://public.tableau.com/en-us/s\nTableau Desktop - free student license: https://www.tableau.com/academic\n\n\n\n\nCode repository, version control, and collaboration\n\nGitHub: https://www.github.com\nHappy Git with R: https://happygitwithr.com/"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "DataFest 2026",
+    "objectID": "winners.html",
+    "href": "winners.html",
+    "title": "Winners 🔥",
     "section": "",
-    "text": "Below is the tentative schedule for the event.\nNote: Students are encouraged to bring to-go boxes to take food home in case we have extra\n\n\n\nTable 1: Schedule\n\n\n\n\n\n\n\n\n\n\n\n\nDate\nTime\nActivity\nVenue\n\n\n\n\n\nApril 17th\n4:00 - 6:00 pm\nSocial event\nNorris Louis room (Evanston)#\n\n\n\n—————————\n————————————-\n——————————————\n————————————-\n\n\n\nApril 24th\n5:30 - 6:30 pm\nCheck-in & Registration by\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n6:30 - 7:30 pm\nKeynote address by Dr. Kaveh Safavi (Senior Executive Advisor, Accenture)\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n7:30 - 8:30 pm\nCompetition problem statement announcement\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n8:30 - 9:30 pm\nMeet & Greet\nLutkin Hall (Evanston) / UChicago location*\n\n\n\n—————————\n————————————-\n——————————————\n————————————-\n\n\n\nApril 25th\n10:30 - 11:00 am\nCheck-in & Breakfast\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n11:00 am - 1:00 pm\nStudent teams meet mentors, work on their solution\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n1:00 - 2:00 pm\nLunch\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n2:00 - 6:00 pm\nStudent teams working on their solution\nGuild Lounge (Evanston) / UChicago location*\n\n\n\n—————————\n————————————-\n——————————————\n————————————\n\n\n\nApril 26th\n10:00 - 11:45 am\nCheck-in & wrap-up presentations\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n11:45 - 12:45 pm\nStop work & lunch\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n12:45 - 1:00 pm\nPresentations preparation\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n1:00 - 4:30 pm\nStudents presentations to judges\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n4:30 - 5:00 pm\nBreak / setup for panel discussion\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n5:00 - 6:30 pm\nPanel discussion on Careers in data science\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n6:30 - 7:00 pm\nAwards\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n7:00 - 7:30 pm\nExtra time to accommodate any delay in schedule\nNorris Louis Room (Evanston)**\n\n\n\n\n\n\n\n#April 17th (Friday): Attendance in the in-person social event is optional. The event may be expanded to include tips and tricks for the DataFest, if interested faculty is found to conduct such a session.\n*April 24th & 25th (Friday & Saturday): University of Chicago students can attend the event in-person either at UChicago (location within UChicago to be announced) or at Northwestern University. Northwestern University students are required to attend the event in Evanston.\n**April 26th (Sunday): Students from both Northwestern University and the University of Chicago are required to attend the event in-person at Norris Louis Room in Evanston.\nMentors will be available to advise student teams at both the Universities at certain times of the day on April 25 (TBA)"
+    "text": "After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, 4 standout teams (out of 13) emerged as the winners of this year’s DataFest. Teams were evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity."
   },
   {
-    "objectID": "schedule.html#schedule",
-    "href": "schedule.html#schedule",
-    "title": "DataFest 2026",
-    "section": "",
-    "text": "Below is the tentative schedule for the event.\nNote: Students are encouraged to bring to-go boxes to take food home in case we have extra\n\n\n\nTable 1: Schedule\n\n\n\n\n\n\n\n\n\n\n\n\nDate\nTime\nActivity\nVenue\n\n\n\n\n\nApril 17th\n4:00 - 6:00 pm\nSocial event\nNorris Louis room (Evanston)#\n\n\n\n—————————\n————————————-\n——————————————\n————————————-\n\n\n\nApril 24th\n5:30 - 6:30 pm\nCheck-in & Registration by\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n6:30 - 7:30 pm\nKeynote address by Dr. Kaveh Safavi (Senior Executive Advisor, Accenture)\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n7:30 - 8:30 pm\nCompetition problem statement announcement\nLutkin Hall (Evanston) / UChicago location*\n\n\n\nApril 24th\n8:30 - 9:30 pm\nMeet & Greet\nLutkin Hall (Evanston) / UChicago location*\n\n\n\n—————————\n————————————-\n——————————————\n————————————-\n\n\n\nApril 25th\n10:30 - 11:00 am\nCheck-in & Breakfast\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n11:00 am - 1:00 pm\nStudent teams meet mentors, work on their solution\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n1:00 - 2:00 pm\nLunch\nGuild Lounge (Evanston) / UChicago location*\n\n\n\nApril 25th\n2:00 - 6:00 pm\nStudent teams working on their solution\nGuild Lounge (Evanston) / UChicago location*\n\n\n\n—————————\n————————————-\n——————————————\n————————————\n\n\n\nApril 26th\n10:00 - 11:45 am\nCheck-in & wrap-up presentations\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n11:45 - 12:45 pm\nStop work & lunch\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n12:45 - 1:00 pm\nPresentations preparation\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n1:00 - 4:30 pm\nStudents presentations to judges\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n4:30 - 5:00 pm\nBreak / setup for panel discussion\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n5:00 - 6:30 pm\nPanel discussion on Careers in data science\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n6:30 - 7:00 pm\nAwards\nNorris Louis Room (Evanston)**\n\n\n\nApril 26th\n7:00 - 7:30 pm\nExtra time to accommodate any delay in schedule\nNorris Louis Room (Evanston)**\n\n\n\n\n\n\n\n#April 17th (Friday): Attendance in the in-person social event is optional. The event may be expanded to include tips and tricks for the DataFest, if interested faculty is found to conduct such a session.\n*April 24th & 25th (Friday & Saturday): University of Chicago students can attend the event in-person either at UChicago (location within UChicago to be announced) or at Northwestern University. Northwestern University students are required to attend the event in Evanston.\n**April 26th (Sunday): Students from both Northwestern University and the University of Chicago are required to attend the event in-person at Norris Louis Room in Evanston.\nMentors will be available to advise student teams at both the Universities at certain times of the day on April 25 (TBA)"
+    "objectID": "winners.html#first-place-award---ggap",
+    "href": "winners.html#first-place-award---ggap",
+    "title": "Winners 🔥",
+    "section": "1. First Place Award - GGAP !!!!",
+    "text": "1. First Place Award - GGAP !!!!\n(Alyssa, Paisley, Grace & Grace)\nThe 2025 epilogue to the GGAP 303 sequence trilogy\nMentor: Cathy Kim\n\nGGAP stood out for their creativity, clarity and polish!—earning the top spot on four of five judges’ lists. Not only did they build a product ready for real-world use, but their explanation of the technical details was both clear and compelling. And just when the judges thought it couldn’t get better, GGAP brought the house down with a clever roleplay—two teammates acted as clients, while the others demoed the product like it was a live pitch. It felt like a real client meeting!\nTechnical aspect: Used \\(k\\)-means clustering to identify leases similar to client requirements and provide recommendations. The clusters and the recommended leases were visualized using a dashboard. A couple of demos were presented, where the client inputs the requirements in the dashboard, and then the algorithm visualizes the results and the recommendations."
   },
   {
-    "objectID": "schedule.html#google-map-addresses",
-    "href": "schedule.html#google-map-addresses",
-    "title": "DataFest 2026",
-    "section": "Google map addresses",
-    "text": "Google map addresses\n\nLutkin Hall, Evanston (April 24th 2026)\n\n\n\n\n\n\nGuild Lounge, Evanston (April 25th 2026)\n\n\n\n\n\n\nLocation at University of Chicago on April 24th & 25th is to-be-announced.\nLouis Room, Norris University Center, Evanston (April 26th)"
+    "objectID": "winners.html#second-place-award---team-na",
+    "href": "winners.html#second-place-award---team-na",
+    "title": "Winners 🔥",
+    "section": "2. Second Place Award - Team NA !!!",
+    "text": "2. Second Place Award - Team NA !!!\n(Noah & Aryaman)\nFilling in the gaps, one data point at a time\nMentor: Zihan Zhao\n\nThe judges were deeply impressed by the analytical rigor demonstrated by NA! Unlike many teams who chose models more instinctively, NA took a methodical approach—testing several models and combining them into a robust ensemble. What further set them apart was their thoughtful integration of highly relevant external data, which significantly enriched their analysis.\nTechnical aspect: Developed a times series model to forecast the volume of leases using quarterly market characteristics. The model was an ensemble of KNN, Poisson, ElasticNet, XGBoost, and Random Forest. Recommendations were based on market trends, and important features effecting lease volume of the specific industry."
+  },
+  {
+    "objectID": "winners.html#third-place-award---hot-tea",
+    "href": "winners.html#third-place-award---hot-tea",
+    "title": "Winners 🔥",
+    "section": "3. Third Place Award - Hot Tea !!",
+    "text": "3. Third Place Award - Hot Tea !!\n(Ice, Robert, and Owen)\nJust an ordinary dataset, but with the right model, we can make it trend like a hot tea\nMentor: David Frost\n\nHot Tea impressed the judges with the originality of their analytical approach. They crafted a truly unique question that offered a fresh perspective on the open-ended problem, making their analysis stand out as both memorable and impactful.\nTechnical aspect: Focused the analysis on the impact of wildfires on California leases, visualized their effect on leasing trends, and provided recommendations on optimal timing, location, and lease types based on wildfire occurrences. This solution shows that simple analysis can also lead to useful insights."
+  },
+  {
+    "objectID": "winners.html#peoples-choice-award---the-prompt-engineers",
+    "href": "winners.html#peoples-choice-award---the-prompt-engineers",
+    "title": "Winners 🔥",
+    "section": "4, People’s Choice Award - The Prompt Engineers !",
+    "text": "4, People’s Choice Award - The Prompt Engineers !\n(Harrison, Abigail, Jinhe, and Olzhasbek)\nWe may not have the answers, but we will be sure to phrase a question well enough to fake it\nMentor: Xinhui Qian\n\nThe Prompt Engineers stole the show right from the start with a rap-style team intro and wrapped things up with a custom song for the client—winning over the crowd and clinching the award! But it wasn’t just the music that stood out. While the award was audience-driven, the judges were equally impressed by the team’s sharp local insights, especially when one member used their on-the-ground knowledge to deliver a spot-on answer during Q&A!\nTechnical aspect: Visualized leasing trends before and after COVID, which motivated the team to focus on cost-effective space utilization. Broad-level recommendations were provided based on the market trends. This is another solution showing that simple analysis can lead to useful insights."
+  },
+  {
+    "objectID": "mentors.html",
+    "href": "mentors.html",
+    "title": "Meet our team mentors",
+    "section": "",
+    "text": "Meet our talented team mentors! They will be mentoring the participant teams competing in the event."
+  },
+  {
+    "objectID": "mentors.html#mary-wu",
+    "href": "mentors.html#mary-wu",
+    "title": "Meet our team mentors",
+    "section": "Mary Wu",
+    "text": "Mary Wu\nMS Student in Statistics & Data Science, Northwestern University\nMary graduated from New York University in 2024 with a joint major in Economics & Mathematics and a minor in Music. Mary has research experience across economics, business, and statistics - most recently focusing on the impact of AI on corporate decision-making (particularly in the context of foreign expansion) as well as Bayesian statistics. Mary is experienced with data manipulation in Python, R, and SQL, and is passionate about turning data into meaningful stories that drive real-life impact. She especially hopes to support underrepresented students and those new to data analysis, and aims to be a resource for anyone navigating grad school, internships, and research."
+  },
+  {
+    "objectID": "mentors.html#akash-rathi",
+    "href": "mentors.html#akash-rathi",
+    "title": "Meet our team mentors",
+    "section": "Akash Rathi",
+    "text": "Akash Rathi\nMRI data analyst, Northwestern University\nAkash received his Bachelor’s degree in Data Science from Northwestern University in 2023. He has a strong interest in medical machine learning - specifically, models that can detect various forms of brain cancer. After his undergraduate studies, he spent one year at the University of California, Los Angeles conducting research to improve gait in patients with Parkinson’s Disease. In addition, he developed neural networks to detect epilepsy from non-seizure EEG data. He is applying to medical school this summer. His mentoring style is very hands-on. He believes developing a strong team dynamic and morale is crucial to any project - especially, those that are time-sensitive. He looks forward to getting to know the teams on a personal level, and maintaining strong communication from the start."
+  },
+  {
+    "objectID": "mentors.html#cathy-kim",
+    "href": "mentors.html#cathy-kim",
+    "title": "Meet our team mentors",
+    "section": "Cathy Kim",
+    "text": "Cathy Kim\nBusiness Analyst, Capital One\nCathy received her Bachelor’s degree in Statistics and Data Science from Northwestern University in 2024. She has a strong interest in financial technology and currently works as an analyst on Capital One’s Fraud Models team. Her focus is on identifying new features that will improve fraud detection while reducing false positives. Cathy is experienced in working with data using Python and SQL, as well as data visualization in RStudio. Through her full time roles and internships, she’s had the chance to learn about different areas of the financial technology industry, ranging from trading and product engagement to fraud models. Cathy is interested in the intersection of data and finance and hopes to be a resource for students who are interested in this field. Her mentoring style places strong emphasis on developing a clear analysis plan and truly understanding the core problem that the team is tackling. She also values playing to each team member’s strengths, believing that this not only leads to the team’s success but also creates opportunities for everyone to learn from each other."
+  },
+  {
+    "objectID": "mentors.html#dr.-raman-khurana",
+    "href": "mentors.html#dr.-raman-khurana",
+    "title": "Meet our team mentors",
+    "section": "Dr. Raman Khurana",
+    "text": "Dr. Raman Khurana\nLLM/ML Researcher & Lecturer, Northwestern University\n(Judge & Mentor)\nDr. Raman Khurana is a Postdoctoral Researcher at the Center for Deep Learning and a Lecturer in the MS in Machine Learning & Data Science program at Northwestern University. With a PhD in Physics and over 15 years of experience working with large-scale data, he brings a unique blend of scientific rigor and AI innovation to his work. At CERN, he contributed to the Nobel Prize-winning discovery of the Higgs boson. His current research focuses on time series forecasting, automated feature engineering for streaming data, and generative AI.\nRaman builds agentic AI systems using open-source small- and medium-sized models and explores methods to apply them to real-world business problems. Drawing on his physics background, he developed a physics-inspired feature generator that models time series data as a flowing river. He finds joy in exploring numbers and algorithms but finds it even more rewarding to share those experiences with fellow data scientists in industry and the next generation of data professionals in the MS in Machine Learning & Data Science program. For Raman, the true excitement lies not just in solving complex problems, but in making those insights accessible, collaborative, and impactful."
+  },
+  {
+    "objectID": "mentors.html#yuqing-yang",
+    "href": "mentors.html#yuqing-yang",
+    "title": "Meet our team mentors",
+    "section": "Yuqing Yang",
+    "text": "Yuqing Yang\nFirst year PhD student, Northwestern University\nYuqing has a strong interest in interdisciplinary research at the intersection of AI, social sciences, and astronomy. Yuqing has developed NLP algorithms to detect video recompilation behavior, contributing to the understanding of how online privacy regulations impact content quality. Currently, Yuqing is focused on AI in astronomy, working to improve machine learning techniques for supernova classification. Her mentoring style is supportive and collaborative, emphasizing an engaging, rewarding, and approachable learning experience."
+  },
+  {
+    "objectID": "mentors.html#kyle-williams",
+    "href": "mentors.html#kyle-williams",
+    "title": "Meet our team mentors",
+    "section": "Kyle Williams",
+    "text": "Kyle Williams\nSoftware Engineer, Lakeview Investment Group\nKyle earned his BS in Computer Science with a Minor in Data Science in June 2023, followed by an MS in Computer Science in June 2024. Kyle has always been drawn to Machine Learning and Data Analysis. Being able to understand and communicate about data makes him feel powerful and responsible. While he took a majority of his courseload in the CS Department, it is the application of math, statistics, and science through code that is the most interesting to me.\nAs a part of his master’s, Kyle completed a Thesis on LLMs (Large Language Models), where he augmented the attention mechanism to use Euclidean distance instead of dot-product to improve the performance of small models on OpenBookQA by 14%. Currently, Kyle is helping build high-speed, real-time dashboards and trading systems to display important statistics and execute orders when certain triggers are reached.\nKyle’s greatest strength as a mentor is his patience. As a triplet, Kyle had to share everything – even a birthday – and it’s made him a great listener, effective mediator and strong communicator. Kyle loves talking about code, and he hopes to be a resource for any student who wants to learn more about what it means to be a Computer Scientist in industry. Outside of tech, Kyle’s also a big fan of wrestling and football—and always happy to connect over either!"
+  },
+  {
+    "objectID": "mentors.html#xinhui-qian",
+    "href": "mentors.html#xinhui-qian",
+    "title": "Meet our team mentors",
+    "section": "Xinhui Qian",
+    "text": "Xinhui Qian\nMS Student in Statistics & Data Science, Northwestern University\nWith a strong background in data science and statistical modeling, Xinhui has experience working on projects involving machine learning, causal inference, and data visualization. Xinhui has applied techniques such as deep learning, machine learning, Monte Carlo simulations, and regression analysis to solve real-world problems across finance, healthcare, and industrial processes.\nHer technical skills include Python, SQL and R. As a mentor, Xinhui enjoys guiding students through the problem-solving process, helping them break down complex data science tasks, and strengthening their ability to draw meaningful insights from data. She focuses on building a collaborative and encouraging environment for teams to thrive."
+  },
+  {
+    "objectID": "mentors.html#tuan-quach",
+    "href": "mentors.html#tuan-quach",
+    "title": "Meet our team mentors",
+    "section": "Tuan Quach",
+    "text": "Tuan Quach\nSenior Associate, Software engineer, Capital One\n(Judge & Mentor)\nTuan graduated from University of Maryland in 2019 with a major in Computer Science and Mathematics. At Capital One, he does most of his work in Site Reliability Engineering, where he primarily works with large traffic data, focusing on managing large-scale traffic operation. His work involves building robust pipelines, deep dive into observability data for Mobile and Web to extract meaningful insights to preventing outage, decision-making, alerting systems. He has a strong interest in leveraging Generative AI to Change Banking for Good. Tuan’s mentoring style is very interactive. He has previously taught elementary and middle school students coding and is part of CodePath where he prepared College Students for interviews."
+  },
+  {
+    "objectID": "mentors.html#zihan-zhao",
+    "href": "mentors.html#zihan-zhao",
+    "title": "Meet our team mentors",
+    "section": "Zihan Zhao",
+    "text": "Zihan Zhao\nMS Student in Statistics & Data Science, Northwestern University\nZihan is well-aquainted with data visualization, exploratory data analysis, and statistical modeling. She has worked as a home tutor, teaching maths and physics to high school students. She helped them develop effective learning strategies and a better understanding of concepts. Zihan is an active listener who provides immediate feedback and supports students with patience and attention to detail. She takes her responsibilities seriously and is committed to guiding students in discovering solutions through exploration. With coursework in psychology, Zihan also prioritizes their overall well-being, ensuring they feel both supported and motivated throughout the learning process. This approach allows her to be not just a tutor, but a mentor who fosters both academic growth and personal confidence."
+  },
+  {
+    "objectID": "mentors.html#david-frost",
+    "href": "mentors.html#david-frost",
+    "title": "Meet our team mentors",
+    "section": "David Frost",
+    "text": "David Frost\nSoftware engineer, Capital One\nDavid is a software engineer at Capital One where he works on site reliability engineering (SRE) and DevOps for the company’s web and mobile apps, optimizing the digital experience for 40 million customers. He graduated with an MS and BS in computer science and artificial intelligence in 2024 from Case Western Reserve University (CWRU) in Cleveland, OH. He previously interned at Capital One in Chicago and worked as a teaching assistant and research assistant in machine learning and algorithms at CWRU. David served CWRU’s Association for Computing Machinery student chapter as President where he co-led the creation of a student-run AI conference for which he also hosted a panel discussion with local experts. David volunteers weekly to teach middle school students coding and is passionate about learning more about Generative AI and data science in his free time. His previous projects involve probabilistic graphical models (PGMs), high performance AI acceleration, classical AI, and retrieval-augmented generation (RAG)."
+  },
+  {
+    "objectID": "mentors.html#tyler-maule",
+    "href": "mentors.html#tyler-maule",
+    "title": "Meet our team mentors",
+    "section": "Tyler Maule",
+    "text": "Tyler Maule\nData Strategist, Chicago Public Schools\nTyler received an MS in Statistics and Data Science from Northwestern University in 2022. With an underlying interest in the social sciences and public policy, his work builds on statistical experimentation, analyses of behavior, and data storytelling to drive change. From optimizing marketing pipelines in Silicon Valley tech to training education researchers at NU, they balance technical work—creating data pipelines, visualization tools, and predictive models (typically with Python and SQL)—and partnering with leaders to shape strategy. As a Data Strategist at Chicago Public Schools, Tyler develops indicators, data systems, and reporting to advance student success, identifying and communicating inflection points where policymakers can better support schools.\nFor Tyler, one of the most rewarding parts of data work is teaching and learning from others; whether as a tutor, TA, or consultant, he loves supporting others in their data journeys. Tyler’s mentoring style centers collaborative problem solving, active listening, and engaging with students’ motivation to grow together. Outside of learning new analytics techniques, they enjoy biking, camping, and live music."
+  },
+  {
+    "objectID": "mentors.html#adamya-prakash-srivastava",
+    "href": "mentors.html#adamya-prakash-srivastava",
+    "title": "Meet our team mentors",
+    "section": "Adamya Prakash Srivastava",
+    "text": "Adamya Prakash Srivastava\nQuantitative Trader, Jump Trading\nAdamya received a bachelors degree in Computer Science, Statistics, Economics, and Data Science from UC Berkeley in 2023. Since, he has worked as a quant for a high frequency trading firm where he specializes in algorithmically trading US markets. He uses many types of data science tools every day to create and iterate on trading strategies built on multiple sources of market data. Data science is used at every step of quantitative trading, from prototyping trading ideas, measuring market behavior, designing price predictions, analyzing trading performance, and diagnosing under-performance. Day to day tools include python, SQL, LLMs, python data science libraries, visualization software, and C++.\nHis mentorship style is example-driven and visual, having previously TA’d data science undergrad classes as well as teaching courses in poker theory and quantitative trading analysis."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to DataFest 2026!",
+    "section": "",
+    "text": "“The Unicorns” presenting their analysis during ASA DataFest 2025\nWelcome to the official website of the annual ASA DataFest at Northwestern University! The event is hosted by the Department of Statistics and Data Science in collaborating with the ASA (American Statistical Association)\nDataFest is an international competition organized by the American Statistical Association and hosted at universities across the world. Students are provided with a large dataset inspired by a real-world challenge and attempt to use their skills in data visualization, exploratory data analysis, and machine learning to propose a solution within 48 hours (over a weekend).\nStudents, operating in teams of 2-5, benefit from working alongside graduate students, professors, and industry professionals as expert mentors."
+  },
+  {
+    "objectID": "index.html#event-details",
+    "href": "index.html#event-details",
+    "title": "Welcome to DataFest 2026!",
+    "section": "Event details",
+    "text": "Event details\nDate: Friday, April 24 at 5 pm - Sunday, April 26 at 7:30 pm\nVenue:\n\n24 Apr 2026: Lutkin Hall (Evanaton) / UChicago location\n\nUniversity of Chicago students are welcome to join us at Lutkin Hall at Northwestern University. However, they may also join the event at UChicago (location to be announced).\n\n25 Apr 2026: Guild lounge (Evanston) / UChicago location\n\nUniversity of Chicago students are welcome to join us at Guild lounge at Northwestern University. However, they may also join the event at UChicago (location to be announced).\n\n26 Apr 2026: Norris Louis Room (Evanston)\n\nAll competitors will need to be at the venue in-person.\nSign-up: Please sign up on the Sign Up page.\nParticipants: All UG students of Northwestern University and University of Chicago are invited to participate, while graduate students from both universities are invited to mentor student teams. We are also inviting volunteers from each university to help us organize and run the event.\nStudents will be provided with a dataset and an open-ended goal on Friday evening. By Sunday afternoon, they will have to develop and present solutions to a panel of judges comprised of faculty and industry professionals. There will be prizes for first, second, and third place, and a people’s choice award. Teams will be evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity. Graduate students and industry professionals will be mentoring student teams as they develop their solution.\nThe event also includes a keynote speech from a leading industry expert, and a panel discussion on Careers in data science comprising of both faculty and industry professionals."
+  },
+  {
+    "objectID": "index.html#why-participate-in-datafest",
+    "href": "index.html#why-participate-in-datafest",
+    "title": "Welcome to DataFest 2026!",
+    "section": "Why participate in DataFest?",
+    "text": "Why participate in DataFest?\n\nASA DataFest is a great opportunity to gain experience that employers are looking for. Having worked on a data analysis problem at this scale will certainly help make student a good candidate for any position that involves analysis and critical thinking, and will provide a concrete example to demonstrate experience during interviews.\nStudents will get the opportunity to interact with data scientists from industry and academia, to get some insights about a data science career.\nStudents can apply classroom skills to real-world problems, gaining hands-on experience that accelerates their growth as data scientists.\nStudents will build connections and be a part of a strong peer data science community\nLastly, students will enjoy a dynamic, inspiring, and truly unforgettable weekend"
+  },
+  {
+    "objectID": "index.html#asa-datafest-2025",
+    "href": "index.html#asa-datafest-2025",
+    "title": "Welcome to DataFest 2026!",
+    "section": "ASA DataFest 2025",
+    "text": "ASA DataFest 2025\nNorthwestern University hosted its first ever DataFest in April 2025. Check out the gallery.\nOver 60 universities around the world hosted the ASA DataFest in 2025. Checkout the list of universities here)"
+  },
+  {
+    "objectID": "index.html#previous-asa-datafests",
+    "href": "index.html#previous-asa-datafests",
+    "title": "Welcome to DataFest 2026!",
+    "section": "Previous ASA DataFests",
+    "text": "Previous ASA DataFests\nAlthough Northwestern started having the ASA DataFest since 2025, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the previous DataFests."
+  },
+  {
+    "objectID": "panelists_judges.html",
+    "href": "panelists_judges.html",
+    "title": "Meet our Distinguished Guests",
+    "section": "",
+    "text": "Below are the keynote speaker, judges, and panelists confirmed for DataFest 2026. These distinguished guests will guide discussions, provide industry insights, and evaluate team presentations throughout the event.\nWe’ll keep updating this page as we finalize the guests for the event."
+  },
+  {
+    "objectID": "panelists_judges.html#kaveh-safavi",
+    "href": "panelists_judges.html#kaveh-safavi",
+    "title": "Meet our Distinguished Guests",
+    "section": "Kaveh Safavi",
+    "text": "Kaveh Safavi\nSenior Executive Advisor / Investor / Educator\n(Keynote speaker)\nKaveh Safavi is a healthcare strategist with extensive experience in digital health, growth strategy, and international expansion. He is a Partner at Guidon Partners, a firm that advises and co-invests in healthcare services companies, and a Health Senior Advisor at Accenture. He is also an Adjunct Lecturer in Health Enterprise Management at the Kellogg School of Management (Northwestern University).\nHe recently retired as a Senior Managing Director at Accenture for Global Health, where he helped providers, health insurers, and public health systems across the Americas, Europe, and Asia Pacific harness the promise of technology and human ingenuity. Prior to Accenture, he held leadership roles at Cisco, Thomson Reuters, UnitedHealthcare, and Alexian Brothers Health System.\nDr. Safavi brings more than three decades of leadership experience. Highlights include:\n\nEstablishing one of the Midwest’s first electronic-health-record-enabled primary care practices\nBeing named by The IT Services Report among the top 5 healthcare IT executives (2020 and 2025)\n\nDr. Safavi has published numerous papers and is frequently quoted on healthcare issues in major outlets, including The Wall Street Journal, the BBC, The New York Times, Consumer Reports, U.S. News & World Report, Harvard Business Review, and The Economist.\nDr. Safavi earned an M.D. from Loyola University Chicago Stritch School of Medicine and a J.D. from DePaul University College of Law. He is board-certified in internal medicine and pediatrics and completed his residency at the University of Michigan Medical Center. He also serves on the Weinberg College of Arts and Sciences Board of Visitors (Northwestern University) and is a member of the Easterseals National Board of Directors.\nDr. Safavi is a lifelong Chicagoan."
+  },
+  {
+    "objectID": "panelists_judges_AI.html",
+    "href": "panelists_judges_AI.html",
+    "title": "Meet our Distinguished Guests",
+    "section": "",
+    "text": "Below are the keynote speaker(s), judges, and panelists confirmed for DataFest 2026. These distinguished guests will guide discussions, provide industry insights, and evaluate team presentations throughout the event.\nWe’ll keep updating this page as we finalize the guests for the event."
+  },
+  {
+    "objectID": "panelists_judges_AI.html#kaveh-safavi",
+    "href": "panelists_judges_AI.html#kaveh-safavi",
+    "title": "Meet our Distinguished Guests",
+    "section": "Kaveh Safavi",
+    "text": "Kaveh Safavi\nSenior Executive Advisor / Investor / Educator\n(Keynote speaker)\nKaveh Safavi is a healthcare strategist with extensive experience in digital health, growth strategy, and international expansion. He is a Partner at Guidon Partners, a firm that advises and co-invests in healthcare services companies, and a Health Senior Advisor at Accenture. He is also an Adjunct Lecturer in Health Enterprise Management at the Kellogg School of Management (Northwestern University).\nHe recently retired as a Senior Managing Director at Accenture for Global Health, where he helped providers, health insurers, and public health systems across the Americas, Europe, and Asia Pacific harness the promise of technology and human ingenuity. Prior to Accenture, he held leadership roles at Cisco, Thomson Reuters, UnitedHealthcare, and Alexian Brothers Health System.\nDr. Safavi brings more than three decades of leadership experience. Highlights include:\n\nEstablishing one of the Midwest’s first electronic-health-record-enabled primary care practices\nBeing named by The IT Services Report among the top 5 healthcare IT executives (2020 and 2025)\n\nDr. Safavi has published numerous papers and is frequently quoted on healthcare issues in major outlets, including The Wall Street Journal, the BBC, The New York Times, Consumer Reports, U.S. News & World Report, Harvard Business Review, and The Economist.\nDr. Safavi earned an M.D. from Loyola University Chicago Stritch School of Medicine and a J.D. from DePaul University College of Law. He is board-certified in internal medicine and pediatrics and completed his residency at the University of Michigan Medical Center. He also serves on the Weinberg College of Arts and Sciences Board of Visitors (Northwestern University) and is a member of the Easterseals National Board of Directors.\nDr. Safavi is a lifelong Chicagoan."
+  },
+  {
+    "objectID": "signup.html",
+    "href": "signup.html",
+    "title": "Sign Up!",
+    "section": "",
+    "text": "Each individual or team participating in the ASA DataFest at Northwestern University must submit a registration form. Everyone affiliated with Northwestern University and University of Chicago is invited to register with the relevant registration form."
+  },
+  {
+    "objectID": "signup.html#participants",
+    "href": "signup.html#participants",
+    "title": "Sign Up!",
+    "section": "Participants",
+    "text": "Participants\nWant to compete in a data analysis competition, talk to data science professionals, and network? Northwestern & University of Chicago undergraduate students are invited to register for the ASA DataFest 2026 at Northwestern University. If you form your own team, you will need to include information about each member of your team, including the team name. If you have not formed a team, you will have the chance on the registration form to request placement on a team.\nParticipant registration"
+  },
+  {
+    "objectID": "signup.html#mentors",
+    "href": "signup.html#mentors",
+    "title": "Sign Up!",
+    "section": "Mentors",
+    "text": "Mentors\nWant to mentor undergraduate student teams to help unleash their potential in the competition? While graduate students and faculty cannot compete in the ASA DataFest at Northwestern University, we strongly encourage them to advise undergraduate student teams as mentors during the event! Please complete the Mentor sign-up form below.\nMentor registration"
+  },
+  {
+    "objectID": "signup.html#organizing-team",
+    "href": "signup.html#organizing-team",
+    "title": "Sign Up!",
+    "section": "Organizing team",
+    "text": "Organizing team\nWant to be a part of important decision-making & execution, and help us organize the DataFest? Be an organizing committee member. You may join any of the following teams - (1) Publicity, (2) Logistics, (3) Communications, (4) Event coordination and planning. Please complete the organizing committee application below, and we’ll get back soon!\nOrganizing Committee member registration"
+  },
+  {
+    "objectID": "signup.html#volunteers",
+    "href": "signup.html#volunteers",
+    "title": "Sign Up!",
+    "section": "Volunteers",
+    "text": "Volunteers\nWant to be part of the fun without having to compete? Be an event volunteer & help us run the event! There are several ways you can help - technical support, photography, social media, check-in desk, clean-up crew, etc. Join us during the event days (24th - 26th April 2026), hang out, meet people, and have food & fun! Please complete the volunteer sign-up form below.\nEvent-day volunteer registration\n\n\n\n\n\n\nNote\n\n\n\nIf you have any questions about your registration, or about the DataFest, please contact Krish at krish [at] northwestern.edu"
+  },
+  {
+    "objectID": "contactus.html",
+    "href": "contactus.html",
+    "title": "DataFest Organizing Committee",
+    "section": "",
+    "text": "If you have any questions, comments, feedback, are interested in contributing to the event (through sponsorship or volunteering), or would like to learn more about the Organizing Committee’s experience with ASA DataFest 2025 at Northwestern—especially if you’re considering joining the team for DataFest 2026—please feel free to reach out to any of our team members.\nBelow are the contact details of the ASA DataFest 2026 organizing committee members.\n\n\n\n\n\n\nKrish (Arvind Krishna) Committee Chair & Faculty Coordinator krish [AT] northwestern.edu\n\n\n\n\n\n\n\nEmre Besler Faculty Coordinator emre.besler [AT] northwestern.edu\n\n\n\n\n\n\n\n\n\n\n\nHyouji Joo Student Coordinator hyoujijoo2027 [AT] u.northwestern.edu"
+  },
+  {
+    "objectID": "panelists_judges_2025.html",
+    "href": "panelists_judges_2025.html",
+    "title": "Meet our panelists & judges",
+    "section": "",
+    "text": "Meet our panelists from history majors to engineers, young professionals to seasoned experts—each with a unique career path in data science. Listen to the stories of six unique journeys into data science. Ask them what inspired their path—or if their path chose them?"
+  },
+  {
+    "objectID": "panelists_judges_2025.html#sanchit-tiwari",
+    "href": "panelists_judges_2025.html#sanchit-tiwari",
+    "title": "Meet our panelists & judges",
+    "section": "Sanchit Tiwari",
+    "text": "Sanchit Tiwari\nAssociate Partner at McKinsey & Company I Senior Principal at QuantumBlack, AI by McKinsey\n(Keynote speaker)\nSanchit Tiwari is a recognized AI & Data Science leader with extensive experience in Data-Centric AI, Digital Twin, GenAI, and scalable AI solution architecture. As an Associate Partners at McKinsey & Company and Senior Principal at QuantumBlack, AI by Mckinsey, Sanchit has led large scale AI driven transformation across the globe with multiple organizations. With two decades of experience, Sanchit specializes in leveraging advancement in AI and GenAI to optimize operations and business strategy. He has developed expertise in AI-powered Digital Twins and implementing AI driven automation to drive measurable business impact. Beyond his industry work, Sanchit is passionate thought leader, speaker, and mentor in the field of AI. He actively shares insights on Data Science and future of AI in enterprise. He is deeply committed bridging the gap between data science & AI research and real work applications, helping business scale data science solutions effectively. His academic foundation in computer science combined with his deep industry expertise enables him to blend Data Science research with practical business applications to create transformative solutions."
+  },
+  {
+    "objectID": "panelists_judges_2025.html#daniela-hurtado-lange",
+    "href": "panelists_judges_2025.html#daniela-hurtado-lange",
+    "title": "Meet our panelists & judges",
+    "section": "Daniela Hurtado Lange",
+    "text": "Daniela Hurtado Lange\nAssistant Professor, Kellogg School of Management, Northwestern University\n(Panelist and judge)\nDaniela received her Ph.D. in Operations Research at Georgia Tech in December 2021, a Master of Science in Industrial Engineering and an undergraduate degree in Industrial Engineering and Math Engineering at Pontificia Universidad Católica the Chile. Before joining Kellogg, she spent 1.5 years as an Assistant professor of Mathematics at William & Mary. Her research interests focus on performance analysis of Stochastic Processing Networks and applied probability, which are fundamental in data science for optimizing complex systems, modeling uncertainty, and improving decision-making in areas such as machine learning, operations research, and large-scale data processing."
+  },
+  {
+    "objectID": "panelists_judges_2025.html#kevin-rak",
+    "href": "panelists_judges_2025.html#kevin-rak",
+    "title": "Meet our panelists & judges",
+    "section": "Kevin Rak",
+    "text": "Kevin Rak\nData Specialist at Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital\n(Panelist)\nKevin Rak is a Program Specialist (Data) with Strengthening Chicago’s Youth, a program of Lurie Children’s Hospital that connects, collaborates, and mobilizes around a public health approach to violence prevention. He has several years’ experience working in community-based organizations on a variety of issues, including homeless services, support for domestic violence survivors, and violence prevention. Kevin has analyzed and presented data to make it useful to residents, community organizations, researchers, and funders. He has contributed to research that has been published in peer-reviewed journals and shared with policy makers. Kevin holds a Bachelor’s in History from Northwestern University and a Master’s in Public Policy from King’s College London."
+  },
+  {
+    "objectID": "panelists_judges_2025.html#tina-zheng",
+    "href": "panelists_judges_2025.html#tina-zheng",
+    "title": "Meet our panelists & judges",
+    "section": "Tina Zheng",
+    "text": "Tina Zheng\nData Science Manager, Ventas REIT\n(Panelist and judge)\nTina Zheng is a Data Science Manager at Ventas, a leading real estate investment trust in the healthcare sector. She specializes in translating complex data into actionable insights that support strategic decisions around acquisitions, dispositions, and portfolio performance. At the intersection of research, analytics, and machine learning, Tina’s work drives the development of visualization tools and data-driven presentations that inform executive decision-making and enhance operational outcomes. She graduated from Northwestern University in 2019 with a double major in Economics and Music (Violin)."
+  },
+  {
+    "objectID": "panelists_judges_2025.html#brian-nebolsky",
+    "href": "panelists_judges_2025.html#brian-nebolsky",
+    "title": "Meet our panelists & judges",
+    "section": "Brian Nebolsky",
+    "text": "Brian Nebolsky\nQuantitative Portfolio Manager at Kershner Trading Group\n(Judge)\nBrian designs and implements end-to-end trading strategies informed by advanced statistical modeling and machine learning. His work spans a wide range of techniques—from Bayesian mixed models and random forests to transformer architectures and classical regression—applied to high-frequency intraday data. He regularly works across the full research and production pipeline, from data cleaning and feature engineering to model deployment in Python and C++. He is a 2020 graduate of Northwestern University with a major in Mathematics and the Kellogg Certificate in Managerial Analytics."
+  },
+  {
+    "objectID": "panelists_judges_2025.html#lila-wells",
+    "href": "panelists_judges_2025.html#lila-wells",
+    "title": "Meet our panelists & judges",
+    "section": "Lila Wells",
+    "text": "Lila Wells\nBusiness analyst, McKinsey & Company\n(Panelist)\nLila graduated from Northwestern University in 2023 with a major in Sociology, a minor in Data Science, and a certificate in Human-Computer Interaction. At McKinsey, she does most of her work in operations, where she primarily works with large datasets in Excel, often dealing with raw data that requires extensive cleaning, wrangling, and analysis to extract meaningful insights. Her first role after graduation was as a Program Manager at Amazon Web Services (AWS), where where she was involved in business and product operations for cloud computing services. Lila worked with large datasets and self-taught JavaScript to streamline web-based analytics tasks."
+  },
+  {
+    "objectID": "panelists_judges_2025.html#zichen-victoria-shi",
+    "href": "panelists_judges_2025.html#zichen-victoria-shi",
+    "title": "Meet our panelists & judges",
+    "section": "Zichen (Victoria) Shi",
+    "text": "Zichen (Victoria) Shi\nFirst-year data science PhD student at University of Chicago\n(Panelist)\nVictoria Shi is a first-year Data Science Ph.D. student at the University of Chicago. She graduated from Northwestern University in 2024 with a triple major in Industrial Engineering, Data Science, and Statistics, plus a minor in Economics. Victoria decided to pursue a Ph.D. after her sophomore internship at Goldman Sachs, where she worked as a quant strat, constructing a robust data pipeline for a knowledge graph for data-driven investment. Currently, she draws on insights from machine learning, optimization, and inference to develop a unified theoretical framework for risk-aware decision-making—a theme inspired by her undergraduate honors thesis in Statistics with Professor Thomas Severini on stochastic dominance and its implications for portfolio selection under uncertainty. During her undergraduate studies, Victoria managed her jam-packed academic load in just three years while still finding time to climb and chase new adventures. She enjoys playing tennis, rock climbing, and tinkering."
+  },
+  {
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Participant Teams",
+    "section": "",
+    "text": "13 powerhouse teams, 49 brilliant minds, clash in the ultimate data analytics showdown 🚀"
+  },
+  {
+    "objectID": "participants.html#team-na",
+    "href": "participants.html#team-na",
+    "title": "Participant Teams",
+    "section": "1. Team NA",
+    "text": "1. Team NA\n(Noah & Aryaman)\nFilling in the gaps, one data point at a time\nMentor: Zihan Zhao"
+  },
+  {
+    "objectID": "participants.html#ggap",
+    "href": "participants.html#ggap",
+    "title": "Participant Teams",
+    "section": "2. GGAP",
+    "text": "2. GGAP\n(Alyssa, Paisley, Grace & Grace)\nThe 2025 epilogue to the GGAP 303 sequence trilogy\nMentor: Cathy Kim"
+  },
+  {
+    "objectID": "participants.html#frisbee-team",
+    "href": "participants.html#frisbee-team",
+    "title": "Participant Teams",
+    "section": "3. Frisbee Team",
+    "text": "3. Frisbee Team\n(Margaret, Faith, Paul, and Ryan)\nA group comprised of frisbee and non frisbee folk ready to face some fantastic data\nMentor: Tyler Maule"
+  },
+  {
+    "objectID": "participants.html#macrodata-refinement",
+    "href": "participants.html#macrodata-refinement",
+    "title": "Participant Teams",
+    "section": "4. Macrodata Refinement",
+    "text": "4. Macrodata Refinement\n(Corbin, Spencer, Benjamin, and Ferdy)\nThe work is mysterious and important\nMentor: Akash Rathi"
+  },
+  {
+    "objectID": "participants.html#the-unicorns",
+    "href": "participants.html#the-unicorns",
+    "title": "Participant Teams",
+    "section": "5. The Unicorns",
+    "text": "5. The Unicorns\n(Sutter, Jeffrey, Nolan, Harvey, and Jake)\nYou bring the data, we bring the magic\nMentor: Adamya Prakash Srivastava"
+  },
+  {
+    "objectID": "participants.html#stat-avengers",
+    "href": "participants.html#stat-avengers",
+    "title": "Participant Teams",
+    "section": "6. Stat Avengers",
+    "text": "6. Stat Avengers\n(Shriya, Glenna, Sarah, and Tosin)\nWe all met during the DS sequence and have been stuck together since! Excited to participate and put our relationship to the test (hopefully only the T-test)!\nMentor: Xinhui Qian"
+  },
+  {
+    "objectID": "participants.html#hot-tea",
+    "href": "participants.html#hot-tea",
+    "title": "Participant Teams",
+    "section": "7. Hot Tea",
+    "text": "7. Hot Tea\n(Ice, Robert, and Owen)\nJust an ordinary dataset, but with the right model, we can make it trend like a hot tea\nMentor: David Frost"
+  },
+  {
+    "objectID": "participants.html#dabj",
+    "href": "participants.html#dabj",
+    "title": "Participant Teams",
+    "section": "8. DABJ",
+    "text": "8. DABJ\n(Alec, Dustin, and Jeremy)\nDABJ (ignore the B) is LOCKED IN, we finna cook!\nMentor: Yuqing Yang"
+  },
+  {
+    "objectID": "participants.html#screenagers",
+    "href": "participants.html#screenagers",
+    "title": "Participant Teams",
+    "section": "9. Screenagers",
+    "text": "9. Screenagers\n(Edwin, Felice, Danny, and Gio)\nWe turn data into insights, one screen at a time\nMentor: Kyle Williams\n (Gio to be added)"
+  },
+  {
+    "objectID": "participants.html#the-chopstick-masters",
+    "href": "participants.html#the-chopstick-masters",
+    "title": "Participant Teams",
+    "section": "10. The Chopstick Masters",
+    "text": "10. The Chopstick Masters\n(Izzy, Yana, Kushal, Abe, and Michael)\nWielding innovation like chopsticks — graceful, deliberate, and fueled by interdisciplinary collaboration\nMentor: Adamya Prakash Srivastava"
+  },
+  {
+    "objectID": "participants.html#the-prompt-engineers",
+    "href": "participants.html#the-prompt-engineers",
+    "title": "Participant Teams",
+    "section": "11. The Prompt Engineers",
+    "text": "11. The Prompt Engineers\n(Harrison, Abigail, Jinhe, and Olzhasbek)\nWe may not have the answers, but we will be sure to phrase a question well enough to fake it\nMentor: Xinhui Qian"
+  },
+  {
+    "objectID": "participants.html#in-data-we-trust",
+    "href": "participants.html#in-data-we-trust",
+    "title": "Participant Teams",
+    "section": "12. In Data We Trust",
+    "text": "12. In Data We Trust\n(Adrien, Irene, and Shriyans)\nGive me data or give me death!\nMentor: David Frost"
+  },
+  {
+    "objectID": "participants.html#data-jays",
+    "href": "participants.html#data-jays",
+    "title": "Participant Teams",
+    "section": "13. Data Jays",
+    "text": "13. Data Jays\n(Rebecca, Max, Lily, and Chelsea)\nMentor: Mary Wu"
+  },
+  {
+    "objectID": "coc.html",
+    "href": "coc.html",
+    "title": "Rules & Code of Conduct",
+    "section": "",
+    "text": "Students compete in teams of 2 - 5 people.\nStudents from Northwestern and the University of Chicago may form teams together, i.e., a single team may have students of both universities.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
+  },
+  {
+    "objectID": "coc.html#general-rules",
+    "href": "coc.html#general-rules",
+    "title": "Rules & Code of Conduct",
+    "section": "",
+    "text": "Students compete in teams of 2 - 5 people.\nStudents from Northwestern and the University of Chicago may form teams together, i.e., a single team may have students of both universities.\nAny additional data used in the project must be publicly available or openly licensed.\nAll interactive dashboards must be deployed online.\nAll slide decks and write ups must be submitted as a PDF document.\nIt’s a friendly competition, so collaboration between teams is encouraged. However, teams will compete each other for prizes.\nYou can come and go as you please, but all work must be completed at the indicated venue for the day.\nBefore downloading the dataset you must sign the Non-Disclosure Agreement by agreeing to the terms of use and entering your name and email address. At the end of DataFest, delete all data from thumb drives, hard drives, etc. The data are sensitive.\nShould members of your team drop out at the last minute, you might be merged with another team who is also missing members.\nMentors will be present for guidance at certain times of the competition, which will be announced close to the event. They are likely to have different areas of expertise, so ask accordingly. Feel free to ask anything. This is not an exam, but a collaboratory competition. Do not expect the mentors to write code for you, or do data management, etc. They are there to help point you in the right direction, but you’re responsible for getting there on your own. Schedule of mentors will be made available at the beginning of the event."
+  },
+  {
+    "objectID": "coc.html#presentation-rules",
+    "href": "coc.html#presentation-rules",
+    "title": "Rules & Code of Conduct",
+    "section": "Presentation rules",
+    "text": "Presentation rules\n\nThe maximum time / number of slides to present for each team will be announced at the beginning of the event.\nAll team members must be present for the presentation, but not all team members need to actually speak (given the time limitation).\nYour presentation must be uploaded in the link provided by 11:45 am on Sunday. If using a web-based tool like GoogleDocs or Prezi, please export to PDF and send the PDF as your submission, you will not have time to log on/off to your account during the presentations.\nAlong with your presentation you will also turn in a one-page write-up of your project. You can think about this as the text of your presentation. The judges will refer to these during deliberation.\nAwards will be given to four teams - first, second, third place, and people’s choice.\nWinners will be awarded the ASA Student membership, along with other prizes that will be announced later."
+  },
+  {
+    "objectID": "coc.html#guidelines-to-students",
+    "href": "coc.html#guidelines-to-students",
+    "title": "Rules & Code of Conduct",
+    "section": "Guidelines to students",
+    "text": "Guidelines to students\n\nWe recommend that every member of the team bring a laptop.You might find it helpful to have a mix of PCs and Macs, since they have different strengths.\nWe recommend that you make sure beforehand that the software you will be using throughout the weekend is properly installed and running on your computer. You will probably be working with a large dataset so make sure that you have the space for it on your drive.\nWe strongly recommend you create a small data set that you can use to test things on. Then, if it works out, you can apply your procedure to the large dataset. Some procedures can take a long time to run on large data sets, and so it will be comforting to know that your procedure works (because you tested it on a smaller data set) while you wait. We recommend taking a random sample of rows from the original data set, but there might be other approaches you find useful.\nThis is a collaborative event, and team work is required. We recommend creating an interdisciplinary team with a variety of skills. Find friends who are skilled in different software like Python, R, Tableau, AWS, SAS, or any other software package that you feel will be helpful. We encourage interdisciplinary educational backgrounds. For example, a team might consist of students studying Data Science, Mathematics, Computer Science, Business, and Art."
+  },
+  {
+    "objectID": "coc.html#code-of-conduct",
+    "href": "coc.html#code-of-conduct",
+    "title": "Rules & Code of Conduct",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nEveryone must follow the ASA Code of Conduct during the entire duration of the event."
   },
   {
     "objectID": "sponsors.html",

@@ -22,6 +22,8 @@ website:
         text: Sign Up
       - href: schedule.qmd
         text: Schedule
+      - href: panelists_judges.qmd
+        text: Distinguished Guests
       - href: coc.qmd
         text: Rules & CoC
       - href: faqs.qmd

@@ -3,7 +3,7 @@ title: "Meet our Distinguished Guests"
 format: html
 ---
 
-Below are the keynote speaker, judges, and panelists confirmed for DataFest 2026. These distinguished guests will guide discussions, provide industry insights, and evaluate team presentations throughout the event.
+Below are the keynote speaker(s), judges, and panelists confirmed for DataFest 2026. These distinguished guests will guide discussions, provide industry insights, and evaluate team presentations throughout the event.
 
 *We'll keep updating this page as we finalize the guests for the event.*
 

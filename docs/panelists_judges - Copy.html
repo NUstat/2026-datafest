@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./panelists_judges.html" aria-current="page"> 
+    <a class="nav-link" href="./panelists_judges.html"> 
 <span class="menu-text">Distinguished Guests</span></a>
   </li>  
   <li class="nav-item">
@@ -163,7 +163,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#kaveh-safavi" id="toc-kaveh-safavi" class="nav-link active" data-scroll-target="#kaveh-safavi">Kaveh Safavi</a></li>
+  <li><a href="#keynote-speaker" id="toc-keynote-speaker" class="nav-link active" data-scroll-target="#keynote-speaker">Keynote Speaker</a></li>
   </ul>
 </nav>
     </div>
@@ -191,23 +191,84 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Below are the keynote speaker(s), judges, and panelists confirmed for DataFest 2026. These distinguished guests will guide discussions, provide industry insights, and evaluate team presentations throughout the event.</p>
 <p><em>We’ll keep updating this page as we finalize the guests for the event.</em></p>
-<div style="float: right; margin: 5px 0 10px 15px; max-width: 240px;">
+<hr>
+<section id="keynote-speaker" class="level2">
+<h2 class="anchored" data-anchor-id="keynote-speaker">Keynote Speaker</h2>
+<div class="guest-grid">
+<div class="guest-photo">
 <p><img src="images/kaveh.jpg" class="img-fluid" alt="Kaveh Safavi"></p>
 </div>
-<section id="kaveh-safavi" class="level2">
-<h2 class="anchored" data-anchor-id="kaveh-safavi">Kaveh Safavi</h2>
-<p><strong><em>Senior Executive Advisor / Investor / Educator</em></strong></p>
-<p><span style="color:#4E2A84;"><strong>(Keynote speaker)</strong></span></p>
+<section id="kaveh-safavi" class="level3 guest-bio">
+<h3 class="anchored" data-anchor-id="kaveh-safavi">Kaveh Safavi</h3>
+<p><strong><em>Senior Executive Advisor / Investor / Educator</em></strong><br>
+<span style="color:#4E2A84;"><strong>(Keynote speaker)</strong></span></p>
 <p>Kaveh Safavi is a healthcare strategist with extensive experience in digital health, growth strategy, and international expansion. He is a <strong>Partner at Guidon Partners</strong>, a firm that advises and co-invests in healthcare services companies, and a <strong>Health Senior Advisor at Accenture</strong>. He is also an <strong>Adjunct Lecturer in Health Enterprise Management at the Kellogg School of Management (Northwestern University)</strong>.</p>
 <p>He recently retired as a Senior Managing Director at Accenture for Global Health, where he helped providers, health insurers, and public health systems across the Americas, Europe, and Asia Pacific harness the promise of technology and human ingenuity. Prior to Accenture, he held leadership roles at Cisco, Thomson Reuters, UnitedHealthcare, and Alexian Brothers Health System.</p>
-<p>Dr.&nbsp;Safavi brings more than three decades of leadership experience. Highlights include:</p>
-<ul>
-<li>Establishing one of the <strong>Midwest’s first electronic-health-record-enabled primary care practices</strong></li>
-<li>Being named by <em>The IT Services Report</em> among the <strong>top 5 healthcare IT executives</strong> (2020 and 2025)</li>
-</ul>
 <p>Dr.&nbsp;Safavi has published numerous papers and is frequently quoted on healthcare issues in major outlets, including <em>The Wall Street Journal</em>, the BBC, <em>The New York Times</em>, <em>Consumer Reports</em>, <em>U.S. News &amp; World Report</em>, <em>Harvard Business Review</em>, and <em>The Economist</em>.</p>
-<p>Dr.&nbsp;Safavi earned an M.D.&nbsp;from Loyola University Chicago Stritch School of Medicine and a J.D. from DePaul University College of Law. He is board-certified in internal medicine and pediatrics and completed his residency at the University of Michigan Medical Center. He also serves on the Weinberg College of Arts and Sciences Board of Visitors (Northwestern University) and is a member of the Easterseals National Board of Directors.</p>
-<p>Dr.&nbsp;Safavi is a lifelong Chicagoan.</p>
+</section>
+<div class="guest-facts">
+<p><strong>Quick facts</strong></p>
+<ul>
+<li><strong>Current roles:</strong> Partner, Guidon Partners; Health Senior Advisor, Accenture<br>
+</li>
+<li><strong>Academic:</strong> Adjunct Lecturer, Kellogg School of Management (Northwestern)<br>
+</li>
+<li><strong>Notable:</strong> Established one of the <strong>Midwest’s first EHR-enabled</strong> primary care practices<br>
+</li>
+<li><strong>Recognition:</strong> <em>The IT Services Report</em> — <strong>Top 5 Healthcare IT Executives</strong> (2020, 2025)<br>
+</li>
+<li><strong>Education:</strong> M.D.&nbsp;(Loyola), J.D. (DePaul)<br>
+</li>
+<li><strong>Boards:</strong> Weinberg College Board of Visitors; Easterseals National Board<br>
+</li>
+<li><strong>Hometown:</strong> Chicago</li>
+</ul>
+</div>
+</div>
+<hr>
+<style>
+/* Guest two-column layout */
+.guest-grid{
+  display:grid;
+  grid-template-columns: 220px 1.4fr 0.9fr;
+  gap: 20px;
+  align-items:start;
+  margin-top: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.guest-photo img{
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+/* Right-column “card” look */
+.guest-facts{
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 12px;
+  padding: 14px 16px;
+  background: rgba(0,0,0,0.02);
+}
+
+.guest-facts p{
+  margin-top: 0.25rem;
+}
+
+.guest-bio h3{
+  margin-bottom: 0.25rem;
+}
+
+/* Responsive: stack on small screens */
+@media (max-width: 900px){
+  .guest-grid{
+    grid-template-columns: 1fr;
+  }
+  .guest-photo{
+    max-width: 260px;
+  }
+}
+</style>
 
 
 </section>

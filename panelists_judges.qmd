@@ -11,10 +11,9 @@ Below are the keynote speaker, judges, and panelists confirmed for DataFest 2026
 ![](images/kaveh.jpg){alt="Kaveh Safavi"}
 :::
 
-## Kaveh Safavi
-***Senior Executive Advisor / Investor / Educator***
+## Keynote speaker: Kaveh Safavi
 
-[**(Keynote speaker)**]{style="color:#4E2A84;"}
+[**Senior Executive Advisor / Investor / Educator**]{style="color:#4E2A84;"}
 
 Kaveh Safavi is a healthcare strategist with extensive experience in digital health, growth strategy, and international expansion. He is a **Partner at Guidon Partners**, a firm that advises and co-invests in healthcare services companies, and a **Health Senior Advisor at Accenture**. He is also an **Adjunct Lecturer in Health Enterprise Management at the Kellogg School of Management (Northwestern University)**.
 

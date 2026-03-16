@@ -47,9 +47,15 @@ Dr. Hui Zhang is a Professor of Preventive Medicine (Biostatistics) in the Divis
 
 <div style="clear: both;"></div>
 
-
+::: {style="float: right; margin: 5px; width: 50%"}
+![](images/monica.png){width=100%}
+:::
 ## Monica Mittal
 ***Senior Data Scientist in Applied AI and ML, JP MorganChase***
+
+Dr. Monika Mittal has a PhD in Physics and over 15 years of experience working with large-scale scientific and enterprise data. She spent more than a decade as a Postdoctoral Researcher at CERN, where she contributed to advanced Particle Physics research associated with the Nobel Prize–winning discovery of the Higgs boson. At CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.
+
+Transitioning from fundamental science to industry, Monika now applies her expertise in machine learning, predictive modeling, and data-driven decision systems to solve complex business problems. She specializes in working with Regulatory and compliance-related data, leveraging large language models (LLMs), agentic AI, and RAG systems to automate analysis, extract knowledge from complex documents, and support intelligent decision-making. Monika is passionate about building scalable AI solutions that bridge scientific methodology with real-world business needs, transforming complex data into actionable insights and impactful applications.
 
 <div style="clear: both;"></div>
 

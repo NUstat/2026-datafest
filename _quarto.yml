@@ -26,6 +26,8 @@ website:
         text: Distinguished Guests
       - href: judges.qmd
         text: Judges
+      - href: mentors.qmd
+        text: Mentors
       - href: coc.qmd
         text: Rules & CoC
       - href: faqs.qmd

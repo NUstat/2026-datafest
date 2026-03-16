@@ -43,3 +43,15 @@ Dr. Safavi is a lifelong Chicagoan.
 Nishant Nayar has spent over two decades at the intersection of data, technology, and business, working across investment banking, commercial banking, and asset management. He specializes in translating complex data into practical insights for decision-makers, with expertise spanning data science, analytics, explainable AI, and generative AI.
 
 He holds a Master’s degree in Analytics from the University of Chicago and an MBA in Finance from Punjabi University, a combination that enables him to bridge technical and business perspectives effectively.
+
+<div style="clear: both;"></div>
+
+::: {style="float: right; margin: 5px 0 10px 15px; max-width: 240px;"}
+![](images/zach.jpg){alt="Zach Fox"}
+:::
+
+## Panelist | Zachary Fox
+
+[**Senior Analyst at Analysis Group**]{style="color:#4E2A84;"}
+
+Zach Fox is a Senior Analyst at Analysis Group in Chicago, where he applies economic theory and data science methods to solve complex business disputes. Zach has worked on cases spanning finance, technology, tax, commercial disputes, and valuation, using tools like Python, R, Stata, SAS, and Excel to turn messy data into clear stories. A proud Northwestern alum, Zach majored in Economics and Communication Studies with minors in Business Institutions and Data Science. He’s excited to be back for DataFest and is especially looking forward to seeing creative thinking, strong teamwork, and clean data!

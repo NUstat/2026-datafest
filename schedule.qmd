@@ -30,7 +30,7 @@ Below is the tentative schedule for the event.
 
 : Schedule {#tbl-letters}
 
-<sup>#</sup>***April 17th (Friday):** Attendance in the in-person social event is optional. The event may be expanded to include tips and tricks for the DataFest, if interested faculty is found to conduct such a session.*
+<sup>#</sup>***April 17th (Friday):** Attendance in the in-person social event is optional. The event will include tips and tricks for the DataFest, conducted by faculty. 
 
 \****April 24th & 25th (Friday & Saturday):** University of Chicago students can attend the event in-person either at UChicago (location within UChicago to be announced) or at Northwestern University. Northwestern University students are required to attend the event in Evanston.* 
 

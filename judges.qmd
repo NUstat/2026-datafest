@@ -46,3 +46,13 @@ Aziz has driven key projects in the Navigator platform, achieving significant ef
 Dr. Hui Zhang is a Professor of Preventive Medicine (Biostatistics) in the Division of Biostatistics & Informatics, Department of Preventive Medicine, Northwestern University Feinberg School of Medicine, Director of Data Management and Statistics Core in the Mesulam Center for Cognitive Neurology and Alzheimer's Disease, Director of Biostatistics and Bioinformatics Core of Northwestern Brain Tumor SPORE. He obtained his Ph.D. in Statistics from the University of Rochester, and before joining Northwestern, he was an Associate Member at the Department of Biostatistics, St. Jude Children’s Research Hospital. He has extensive experience in applying statistics in biomedical research and expertise in cancer research, neuroscience, and cell biology. He has designed and participated in more than one hundred Phase I, II and III clinical trial studies. His methodology research interests include categorical data, longitudinal data, missing data, and recently high-resolution microscope image data analysis. In addition to regularly teaching statistical learning and mentoring Ph.D./master students, he has also mentored multiple junior faculty, postdocs, and master-level biostatisticians. He was the president of the West Tennessee Chapter of the American Statistical Association (WTASA).
 
 <div style="clear: both;"></div>
+
+
+## Monica Mittal
+***Senior Data Scientist in Applied AI and ML, JP MorganChase***
+
+<div style="clear: both;"></div>
+
+## Beth Andrews
+***Associate Professor of Statistics and Data Science, Northwestern University***
+

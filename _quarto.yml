@@ -24,6 +24,8 @@ website:
         text: Schedule
       - href: panelists_judges.qmd
         text: Distinguished Guests
+      - href: judges.qmd
+        text: Judges
       - href: coc.qmd
         text: Rules & CoC
       - href: faqs.qmd

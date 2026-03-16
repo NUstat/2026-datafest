@@ -1,0 +1,48 @@
+---
+title: "Meet our judges"
+format: html
+---
+
+::: {style="float: right; margin: 5px; width: 50%"}
+![](images/Daniel.png){width=100%}
+:::
+
+## Daniel Kirsner
+***AI/ML Lead at JPMorganChase.***
+
+Daniel Kirsner has a PhD in Bayesian Statistics from UC Santa Cruz. He specializes in synthesizing machine learning, optimization, and traditional statistical approaches to make better decisions at scale. His experience at JPMorganChase includes cobrand credit card acquisitions, the supply chain of physical currency, and ATM fleet optimization. Away from work, he can usually be found in Oak Park playing his tuba or tending to his garden.
+
+<div style="clear: both;"></div>
+
+::: {style="float: left; margin: 5px; width: 50%"}
+![](images/kumar.jpg){width=100%}
+:::
+
+## Kumar Murukurthy
+***AI Executive, Chief Clinical Officer, Optimum Healthcare***
+
+Kumar Murukurthy is a distinguished leader in the healthcare sector with over 25 years of experience, known for his expertise in data governance and analytics. His roles as VP of IT/CIO at CommonSpirit, CIO at Walmart, CIO of Altais/Blue Shield, and Chief Clinical Officer of Optimum HIT highlight his ability to enhance patient care through effective data integration. Kumar excels in engaging stakeholders to create solutions that prioritize patient experience and satisfaction. His skills in project management and strategic planning enable him to deliver sustainable, efficient solutions that align with organizational goals. Passionate about technology and continuous improvement, Kumar remains at the forefront of healthcare IT, driving positive change and shaping the future of the industry.
+
+<div style="clear: both;"></div>
+
+::: {style="float: right; margin: 5px; width: 50%"}
+![](images/aziz.png){width=100%}
+:::
+
+## Aziz Pulatov
+***Senior Software Engineer III at JPMorgan Chase***
+
+Aziz has driven key projects in the Navigator platform, achieving significant efficiency gains through AI automation. With over 25 years in software development and data science, he excels in full lifecycle delivery—from end to end implementation to deployment, and auditing. Aziz has developed end-to-end ML solutions, from data preparation to production deployment.
+
+<div style="clear: both;"></div>
+
+::: {style="float: left; margin: 5px; width: 50%"}
+![](images/Hui.png){width=100%}
+:::
+
+## Hui Zhang
+***Professor, Biostatics and Informatics, Department of Preventive Medicine, Northwestern University***
+
+Dr. Hui Zhang is a Professor of Preventive Medicine (Biostatistics) in the Division of Biostatistics & Informatics, Department of Preventive Medicine, Northwestern University Feinberg School of Medicine, Director of Data Management and Statistics Core in the Mesulam Center for Cognitive Neurology and Alzheimer's Disease, Director of Biostatistics and Bioinformatics Core of Northwestern Brain Tumor SPORE. He obtained his Ph.D. in Statistics from the University of Rochester, and before joining Northwestern, he was an Associate Member at the Department of Biostatistics, St. Jude Children’s Research Hospital. He has extensive experience in applying statistics in biomedical research and expertise in cancer research, neuroscience, and cell biology. He has designed and participated in more than one hundred Phase I, II and III clinical trial studies. His methodology research interests include categorical data, longitudinal data, missing data, and recently high-resolution microscope image data analysis. In addition to regularly teaching statistical learning and mentoring Ph.D./master students, he has also mentored multiple junior faculty, postdocs, and master-level biostatisticians. He was the president of the West Tennessee Chapter of the American Statistical Association (WTASA).
+
+<div style="clear: both;"></div>

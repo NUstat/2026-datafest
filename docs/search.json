@@ -824,5 +824,12 @@
     "title": "Meet our team mentors",
     "section": "Jake Miller",
     "text": "Jake Miller\nData Science Senior, Northwestern University\nThroughout his college career Jake has taken many classes in the Statistics department and have most enjoyed my coursework in machine learning techniques. Some projects he has worked on include building and quantizing a CNN model to create a lightweight word detection model and building a dashboard to help breakdown call data for a non-profit law firm. Though he started full time work in September, he is currently working on a personal project to build an NBA salary cap manager application. As a mentor, Jake hopes to be a great sounding board for his mentees to bounce ideas off of. Jake also loves to talk more about his school and career path to give insights in any way and place that he can."
+  },
+  {
+    "objectID": "mentors.html#harvey-wang",
+    "href": "mentors.html#harvey-wang",
+    "title": "Meet our team mentors",
+    "section": "Harvey Wang",
+    "text": "Harvey Wang\nCorporate Strategy and Development Analyst, Molex\nHarvey is a recent graduate of Northwestern with majors in Data Science and Economics and a minor in Comparative Literature. He builds internal data tools and designs go-to-market strategies for AI-driven data center infrastructure. He has also participated in a Northwestern ML research team where he trained neural networks to classify ocular cancer. Additionally, Harvey has worked with Chicagoland nonprofits to manage large-scale donor data and identify high-impact retention tactics. He is experienced in data structures, statistical modeling and market sizing. Harvey is passionate about discussing ML concepts and helping teams bridge the gap between technical analysis and executive-level strategy.\nMentorship Style: Harvey is creative, communicative and evidence-driven, focusing on impactful modeling and clear data storytelling. He is an active listener who enjoys helping teams translate complex outputs into persuasive, high-level narratives that drive decision-making."
   }
 ]

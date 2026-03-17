@@ -26,13 +26,14 @@ Kumar Murukurthy is a distinguished leader in the healthcare sector with over 25
 <div style="clear: both;"></div>
 
 ::: {style="float: right; margin: 5px; width: 50%"}
-![](images/aziz.png){width=100%}
+![](images/monica.png){width=100%}
 :::
+## Monica Mittal
+***Senior Data Scientist in Applied AI and ML, JP MorganChase***
 
-## Aziz Pulatov
-***Senior Software Engineer III at JPMorgan Chase***
+Dr. Monika Mittal has a PhD in Physics and over 15 years of experience working with large-scale scientific and enterprise data. She spent more than a decade as a Postdoctoral Researcher at CERN, where she contributed to advanced Particle Physics research associated with the Nobel Prize–winning discovery of the Higgs boson. At CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.
 
-Aziz has driven key projects in the Navigator platform, achieving significant efficiency gains through AI automation. With over 25 years in software development and data science, he excels in full lifecycle delivery—from end to end implementation to deployment, and auditing. Aziz has developed end-to-end ML solutions, from data preparation to production deployment.
+Transitioning from fundamental science to industry, Monika now applies her expertise in machine learning, predictive modeling, and data-driven decision systems to solve complex business problems. She specializes in working with Regulatory and compliance-related data, leveraging large language models (LLMs), agentic AI, and RAG systems to automate analysis, extract knowledge from complex documents, and support intelligent decision-making. Monika is passionate about building scalable AI solutions that bridge scientific methodology with real-world business needs, transforming complex data into actionable insights and impactful applications.
 
 <div style="clear: both;"></div>
 
@@ -48,19 +49,6 @@ Dr. Hui Zhang is a Professor of Preventive Medicine (Biostatistics) in the Divis
 <div style="clear: both;"></div>
 
 ::: {style="float: right; margin: 5px; width: 50%"}
-![](images/monica.png){width=100%}
-:::
-## Monica Mittal
-***Senior Data Scientist in Applied AI and ML, JP MorganChase***
-
-Dr. Monika Mittal has a PhD in Physics and over 15 years of experience working with large-scale scientific and enterprise data. She spent more than a decade as a Postdoctoral Researcher at CERN, where she contributed to advanced Particle Physics research associated with the Nobel Prize–winning discovery of the Higgs boson. At CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.
-
-Transitioning from fundamental science to industry, Monika now applies her expertise in machine learning, predictive modeling, and data-driven decision systems to solve complex business problems. She specializes in working with Regulatory and compliance-related data, leveraging large language models (LLMs), agentic AI, and RAG systems to automate analysis, extract knowledge from complex documents, and support intelligent decision-making. Monika is passionate about building scalable AI solutions that bridge scientific methodology with real-world business needs, transforming complex data into actionable insights and impactful applications.
-
-<div style="clear: both;"></div>
-
-
-::: {style="float: left; margin: 5px; width: 50%"}
 ![](images/beth-andrews.png){width=100%}
 :::
 ## Beth Andrews
@@ -68,3 +56,13 @@ Transitioning from fundamental science to industry, Monika now applies her exper
 
 Beth Andrews is an expert on modeling and forecasting dependent data processes, with applications in fields such as economics and finance, the medical sciences, and signal processing. Her work has been supported by grants from the National Science Foundation, the National Institutes of Health, and the U.S. Department of Health and Human Services. At Northwestern, Professor Andrews teaches courses on general statistical methods, probability, and the analysis of dependent data. She is currently Chair of the Business and Economics Statistics Section of the American Statistical Association.
 
+::: {style="float: left; margin: 5px; width: 50%"}
+![](images/aziz.png){width=100%}
+:::
+
+## Aziz Pulatov
+***Senior Software Engineer III at JPMorgan Chase***
+
+Aziz has driven key projects in the Navigator platform, achieving significant efficiency gains through AI automation. With over 25 years in software development and data science, he excels in full lifecycle delivery—from end to end implementation to deployment, and auditing. Aziz has developed end-to-end ML solutions, from data preparation to production deployment.
+
+<div style="clear: both;"></div>

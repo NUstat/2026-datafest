@@ -1,37 +1,232 @@
 ---
-title: "Meet our team mentors"
+title: "Meet Our Team Mentors"
 format: html
 ---
 
 Meet our talented team mentors! They will be mentoring the participant teams competing in the event.
 
-::: {style="float: left; margin: 5px; width:50%"}
-![](images/harvey.png){width=100%}
+<style>
+:root {
+  --df-purple: #4E2A84;
+  --df-purple-dark: #3b1f63;
+  --df-text: #2f2f35;
+  --df-muted: #6b7280;
+  --df-card: #ffffff;
+  --df-border: rgba(78, 42, 132, 0.10);
+  --df-shadow: 0 10px 28px rgba(46, 16, 84, 0.10);
+  --df-shadow-hover: 0 16px 36px rgba(46, 16, 84, 0.16);
+}
+
+.guest-card {
+  background: linear-gradient(180deg, #ffffff 0%, #fcfbff 100%);
+  border: 1px solid var(--df-border);
+  border-radius: 16px;
+  box-shadow: var(--df-shadow);
+  padding: 1.3rem 1.4rem;
+  margin-bottom: 1.8rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  clear: both;
+}
+
+.guest-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--df-shadow-hover);
+  border-color: rgba(78, 42, 132, 0.18);
+}
+
+.guest-card::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.guest-photo {
+  float: right;
+  width: 220px;
+  margin: 0 0 0.8rem 1.3rem;
+}
+
+.guest-card.left .guest-photo {
+  float: left;
+  margin: 0 1.3rem 0.8rem 0;
+}
+
+.guest-photo img {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
+}
+
+.guest-label {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--df-purple);
+  background: rgba(78, 42, 132, 0.08);
+  border: 1px solid rgba(78, 42, 132, 0.10);
+  border-radius: 999px;
+  padding: 0.28rem 0.65rem;
+  margin-bottom: 0.6rem;
+}
+
+.guest-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  font-size: 1.7rem;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #333;
+}
+
+.guest-role {
+  color: var(--df-purple);
+  font-weight: 600;
+  margin-bottom: 0.7rem;
+  line-height: 1.4;
+}
+
+.guest-card p {
+  line-height: 1.7;
+  margin-top: 0.55rem;
+  margin-bottom: 0.75rem;
+}
+
+.guest-card ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.8rem;
+  padding-left: 1.2rem;
+}
+
+.guest-card li {
+  line-height: 1.6;
+  margin-bottom: 0.4rem;
+}
+
+.guest-details {
+  margin-top: 0.6rem;
+}
+
+.guest-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--df-purple);
+  list-style: none;
+  display: inline-block;
+  margin-top: 0.2rem;
+}
+
+.guest-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.guest-details summary::after {
+  content: " ▼";
+  font-size: 0.8rem;
+}
+
+.guest-details[open] summary::after {
+  content: " ▲";
+}
+
+.guest-details .details-content {
+  margin-top: 0.7rem;
+}
+
+@media (max-width: 768px) {
+  .guest-card {
+    padding: 1.1rem 1rem;
+  }
+
+  .guest-photo,
+  .guest-card.left .guest-photo {
+    float: none;
+    margin: 0 0 1rem 0;
+    width: 200px;
+  }
+
+  .guest-card h2 {
+    font-size: 1.45rem;
+  }
+}
+</style>
+
+::: {.guest-card}
+::: {.guest-photo}
+![](images/harvey.png){alt="Harvey Wang"}
 :::
+
+<div class="guest-label">Team Mentor</div>
 
 ## Harvey Wang
-***Corporate Strategy and Development Analyst, Molex***
 
-Harvey is a recent graduate of Northwestern with majors in Data Science and Economics and a minor in Comparative Literature. He builds internal data tools and designs go-to-market strategies for AI-driven data center infrastructure. He has also participated in a Northwestern ML research team where he trained neural networks to classify ocular cancer. Additionally, Harvey has worked with Chicagoland nonprofits to manage large-scale donor data and identify high-impact retention tactics. He is experienced in data structures, statistical modeling and market sizing. Harvey is passionate about discussing ML concepts and helping teams bridge the gap between technical analysis and executive-level strategy.
+<div class="guest-role">Corporate Strategy and Development Analyst, Molex</div>
 
-Mentorship Style: Harvey is creative, communicative and evidence-driven, focusing on impactful modeling and clear data storytelling. He is an active listener who enjoys helping teams translate complex outputs into persuasive, high-level narratives that drive decision-making.
+Harvey is a recent graduate of Northwestern with majors in Data Science and Economics and a minor in Comparative Literature. He builds internal data tools and designs go-to-market strategies for AI-driven data center infrastructure.
 
-::: {style="float: right; margin: 5px; width:50%"}
-![](images/jeffrey.jpg){width=100%}
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+He has also participated in a Northwestern ML research team where he trained neural networks to classify ocular cancer. Additionally, Harvey has worked with Chicagoland nonprofits to manage large-scale donor data and identify high-impact retention tactics. He is experienced in data structures, statistical modeling, and market sizing. Harvey is passionate about discussing ML concepts and helping teams bridge the gap between technical analysis and executive-level strategy.
+
+**Mentorship Style:** Harvey is creative, communicative, and evidence-driven, focusing on impactful modeling and clear data storytelling. He is an active listener who enjoys helping teams translate complex outputs into persuasive, high-level narratives that drive decision-making.
+
+</div>
+</details>
 :::
 
-## Jeffrey Yuan
-***Fourth-year BS/MS student in Statistics and Data Science, Northwestern University***
+::: {.guest-card .left}
+::: {.guest-photo}
+![](images/jeffrey.jpg){alt="Jeffrey Yuan"}
+:::
 
-Jeffrey is passionate about data science, machine learning, and AI, and currently works as a Data Scientist at CME Group. His work has explored topics such as graph neural networks, recommendation systems, LLM chain-of-thought reasoning, and agentic AI tools for complex data workflows. On campus, Jeffrey’s research focuses on applying statistical and machine learning methods to problems in drug discovery and medical AI, including improving reasoning and counterfactual analysis in large language models. He also enjoys teaching and mentoring students in statistics and data science, and has served as a teaching assistant for Northwestern’s Data Science sequence and Advanced Machine Learning courses. Outside of data science, he enjoys playing basketball, swimming, and exploring new food spots around Chicago.
+<div class="guest-label">Team Mentor</div>
+
+## Jeffrey Yuan
+
+<div class="guest-role">Fourth-year BS/MS Student in Statistics and Data Science, Northwestern University</div>
+
+Jeffrey is passionate about data science, machine learning, and AI, and currently works as a Data Scientist at CME Group. His work has explored topics such as graph neural networks, recommendation systems, LLM chain-of-thought reasoning, and agentic AI tools for complex data workflows.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+On campus, Jeffrey’s research focuses on applying statistical and machine learning methods to problems in drug discovery and medical AI, including improving reasoning and counterfactual analysis in large language models. He also enjoys teaching and mentoring students in statistics and data science and has served as a teaching assistant for Northwestern’s Data Science sequence and Advanced Machine Learning courses. Outside of data science, he enjoys playing basketball, swimming, and exploring new food spots around Chicago.
 
 At DataFest, Jeffrey is excited to collaborate with different teams, dive into new datasets, and uncover the interesting stories hidden in data.
 
-::: {style="float: left; margin: 5px; width:50%"}
-![](images/jake.jpg){width=100%}
+</div>
+</details>
 :::
 
-## Jake Miller
-***Data Science Senior, Northwestern University***
+::: {.guest-card}
+::: {.guest-photo}
+![](images/jake.jpg){alt="Jake Miller"}
+:::
 
-Throughout his college career Jake has taken many classes in the Statistics department and have most enjoyed my coursework in machine learning techniques. Some projects he has worked on include building and quantizing a CNN model to create a lightweight word detection model and building a dashboard to help breakdown call data for a non-profit law firm. Though he started full time work in September, he is currently working on a personal project to build an NBA salary cap manager application. As a mentor, Jake hopes to be a great sounding board for his mentees to bounce ideas off of. Jake also loves to talk more about his school and career path to give insights in any way and place that he can. 
+<div class="guest-label">Team Mentor</div>
+
+## Jake Miller
+
+<div class="guest-role">Data Science Senior, Northwestern University</div>
+
+Throughout his college career, Jake has taken many classes in the Statistics department and has especially enjoyed his coursework in machine learning techniques.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+Some projects he has worked on include building and quantizing a CNN model to create a lightweight word detection model and building a dashboard to help break down call data for a non-profit law firm. Though he started full-time work in September, he is currently working on a personal project to build an NBA salary cap manager application.
+
+As a mentor, Jake hopes to be a great sounding board for his mentees to bounce ideas off of. Jake also loves to talk more about his school and career path to give insights in any way and place that he can.
+
+</div>
+</details>
+:::

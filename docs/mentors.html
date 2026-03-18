@@ -202,6 +202,10 @@ ul.task-list li input[type="checkbox"] {
   --df-border: rgba(78, 42, 132, 0.10);
   --df-shadow: 0 10px 28px rgba(46, 16, 84, 0.10);
   --df-shadow-hover: 0 16px 36px rgba(46, 16, 84, 0.16);
+  --df-gold: #b8860b;
+  --df-gold-bg: rgba(184, 134, 11, 0.12);
+  --df-gold-border: rgba(184, 134, 11, 0.22);
+  --df-gold-shadow: 0 12px 30px rgba(184, 134, 11, 0.14);
 }
 
 .guest-card {
@@ -227,12 +231,14 @@ ul.task-list li input[type="checkbox"] {
   clear: both;
 }
 
+/* Default: image on right */
 .guest-photo {
   float: right;
   width: 220px;
   margin: 0 0 0.8rem 1.3rem;
 }
 
+/* Alternate cards: image on left */
 .guest-card.left .guest-photo {
   float: left;
   margin: 0 1.3rem 0.8rem 0;
@@ -257,6 +263,32 @@ ul.task-list li input[type="checkbox"] {
   border-radius: 999px;
   padding: 0.28rem 0.65rem;
   margin-bottom: 0.6rem;
+}
+
+/* Super Mentor highlight */
+.guest-card.super-mentor {
+  background: linear-gradient(180deg, #fffdf7 0%, #fffcf2 100%);
+  border: 1px solid var(--df-gold-border);
+  box-shadow: var(--df-gold-shadow);
+}
+
+.guest-card.super-mentor:hover {
+  border-color: rgba(184, 134, 11, 0.32);
+  box-shadow: 0 16px 36px rgba(184, 134, 11, 0.18);
+}
+
+.guest-card.super-mentor .guest-label {
+  color: #7a5a00;
+  background: var(--df-gold-bg);
+  border-color: var(--df-gold-border);
+}
+
+.guest-card.super-mentor .guest-role {
+  color: #7a5a00;
+}
+
+.guest-card.super-mentor .guest-photo img {
+  box-shadow: 0 10px 24px rgba(184, 134, 11, 0.18);
 }
 
 .guest-card h2 {
@@ -305,6 +337,10 @@ ul.task-list li input[type="checkbox"] {
   margin-top: 0.2rem;
 }
 
+.guest-card.super-mentor .guest-details summary {
+  color: #7a5a00;
+}
+
 .guest-details summary::-webkit-details-marker {
   display: none;
 }
@@ -339,7 +375,32 @@ ul.task-list li input[type="checkbox"] {
   }
 }
 </style>
-<div class="guest-card">
+<div class="guest-card super-mentor">
+<div class="guest-photo">
+<p><img src="images/moses.jpg" class="img-fluid" alt="Moses Chan"></p>
+</div>
+<div class="guest-label">
+Super Mentor
+</div>
+<section id="moses-chan" class="level2">
+<h2 class="anchored" data-anchor-id="moses-chan">Moses Chan</h2>
+<div class="guest-role">
+Assistant Professor of Instruction, IEMS, Northwestern University
+</div>
+<p>Moses co-directs the Minor in Machine Learning &amp; Data Science. His research focuses on developing efficient algorithms at the intersection of statistical theory, computer modeling, and the physical sciences, with particular emphasis on Bayesian computation and data science education in engineering.</p>
+<details class="guest-details">
+<summary>
+Read more
+</summary>
+<div class="details-content">
+<p>He holds a Ph.D.&nbsp;in Industrial Engineering and Management Sciences from Northwestern University. He is the recipient of the 2025/26 Searle Fellowship.</p>
+<p>Chan is an active contributor to the NSF CSSI Framework for Bayesian Analysis of Nuclear Dynamics, developing and maintaining the open-source packages surmise and LCGP. In Summer 2025, he collaborated as a Visiting Researcher on projects quantifying parameter importance in numerical physics models at Chalmers University of Technology in Gothenburg, Sweden.</p>
+<p><strong>Mentorship Style:</strong> Chan believes progress matters more than perfection. He works closely with students to build a genuine understanding of their data problems — encouraging them to question assumptions, communicate findings clearly, and think critically at every step. His goal is to make sure students feel supported as they tackle real-world challenges together.</p>
+</div>
+</details>
+</section>
+</div>
+<div class="guest-card left">
 <div class="guest-photo">
 <p><img src="images/harvey.png" class="img-fluid" alt="Harvey Wang"></p>
 </div>
@@ -363,7 +424,7 @@ Read more
 </details>
 </section>
 </div>
-<div class="guest-card left">
+<div class="guest-card">
 <div class="guest-photo">
 <p><img src="images/jeffrey.jpg" class="img-fluid" alt="Jeffrey Yuan"></p>
 </div>
@@ -387,7 +448,7 @@ Read more
 </details>
 </section>
 </div>
-<div class="guest-card">
+<div class="guest-card left">
 <div class="guest-photo">
 <p><img src="images/jake.jpg" class="img-fluid" alt="Jake Miller"></p>
 </div>

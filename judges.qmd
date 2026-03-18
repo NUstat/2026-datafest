@@ -1,68 +1,308 @@
 ---
-title: "Meet our judges"
+title: "Meet Our Judges"
 format: html
 ---
 
-::: {style="float: right; margin: 5px; width: 50%"}
-![](images/Daniel.png){width=100%}
+Below are the judges confirmed for DataFest 2026. These distinguished professionals and faculty bring expertise across AI, healthcare, statistics, and industry practice.
+
+*This page will be updated as additional judges are confirmed.*
+
+<style>
+:root {
+  --df-purple: #4E2A84;
+  --df-purple-dark: #3b1f63;
+  --df-text: #2f2f35;
+  --df-muted: #6b7280;
+  --df-card: #ffffff;
+  --df-border: rgba(78, 42, 132, 0.10);
+  --df-shadow: 0 10px 28px rgba(46, 16, 84, 0.10);
+  --df-shadow-hover: 0 16px 36px rgba(46, 16, 84, 0.16);
+}
+
+.guest-card {
+  background: linear-gradient(180deg, #ffffff 0%, #fcfbff 100%);
+  border: 1px solid var(--df-border);
+  border-radius: 16px;
+  box-shadow: var(--df-shadow);
+  padding: 1.3rem 1.4rem;
+  margin-bottom: 1.8rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  clear: both;
+}
+
+.guest-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--df-shadow-hover);
+  border-color: rgba(78, 42, 132, 0.18);
+}
+
+.guest-card::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.guest-photo {
+  float: right;
+  width: 220px;
+  margin: 0 0 0.8rem 1.3rem;
+}
+
+.guest-card.left .guest-photo {
+  float: left;
+  margin: 0 1.3rem 0.8rem 0;
+}
+
+.guest-photo img {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
+}
+
+.guest-label {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--df-purple);
+  background: rgba(78, 42, 132, 0.08);
+  border: 1px solid rgba(78, 42, 132, 0.10);
+  border-radius: 999px;
+  padding: 0.28rem 0.65rem;
+  margin-bottom: 0.6rem;
+}
+
+.guest-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  font-size: 1.7rem;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #333;
+}
+
+.guest-role {
+  color: var(--df-purple);
+  font-weight: 600;
+  margin-bottom: 0.7rem;
+  line-height: 1.4;
+}
+
+.guest-card p {
+  line-height: 1.7;
+  margin-top: 0.55rem;
+  margin-bottom: 0.75rem;
+}
+
+.guest-card ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.8rem;
+  padding-left: 1.2rem;
+}
+
+.guest-card li {
+  line-height: 1.6;
+  margin-bottom: 0.4rem;
+}
+
+.guest-details {
+  margin-top: 0.6rem;
+}
+
+.guest-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--df-purple);
+  list-style: none;
+  display: inline-block;
+  margin-top: 0.2rem;
+}
+
+.guest-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.guest-details summary::after {
+  content: " ▼";
+  font-size: 0.8rem;
+}
+
+.guest-details[open] summary::after {
+  content: " ▲";
+}
+
+.guest-details .details-content {
+  margin-top: 0.7rem;
+}
+
+@media (max-width: 768px) {
+  .guest-card {
+    padding: 1.1rem 1rem;
+  }
+
+  .guest-photo,
+  .guest-card.left .guest-photo {
+    float: none;
+    margin: 0 0 1rem 0;
+    width: 200px;
+  }
+
+  .guest-card h2 {
+    font-size: 1.45rem;
+  }
+}
+</style>
+
+::: {.guest-card}
+::: {.guest-photo}
+![](images/Daniel.png){alt="Daniel Kirsner"}
 :::
+
+<div class="guest-label">Judge</div>
 
 ## Daniel Kirsner
-***AI/ML Lead at JPMorganChase.***
 
-Daniel Kirsner has a PhD in Bayesian Statistics from UC Santa Cruz. He specializes in synthesizing machine learning, optimization, and traditional statistical approaches to make better decisions at scale. His experience at JPMorganChase includes cobrand credit card acquisitions, the supply chain of physical currency, and ATM fleet optimization. Away from work, he can usually be found in Oak Park playing his tuba or tending to his garden.
+<div class="guest-role">AI/ML Lead at JPMorganChase</div>
 
-<div style="clear: both;"></div>
+Daniel Kirsner has a PhD in Bayesian Statistics from UC Santa Cruz. He specializes in synthesizing machine learning, optimization, and traditional statistical approaches to make better decisions at scale.
 
-::: {style="float: left; margin: 5px; width: 50%"}
-![](images/kumar.jpg){width=100%}
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+His experience at JPMorganChase includes cobrand credit card acquisitions, the supply chain of physical currency, and ATM fleet optimization. Away from work, he can usually be found in Oak Park playing his tuba or tending to his garden.
+
+</div>
+</details>
 :::
+
+::: {.guest-card .left}
+::: {.guest-photo}
+![](images/kumar.jpg){alt="Kumar Murukurthy"}
+:::
+
+<div class="guest-label">Judge</div>
 
 ## Kumar Murukurthy
-***AI Executive, Chief Clinical Officer, Optimum Healthcare***
 
-Kumar Murukurthy is a distinguished leader in the healthcare sector with over 25 years of experience, known for his expertise in data governance and analytics. His roles as VP of IT/CIO at CommonSpirit, CIO at Walmart, CIO of Altais/Blue Shield, and Chief Clinical Officer of Optimum HIT highlight his ability to enhance patient care through effective data integration. Kumar excels in engaging stakeholders to create solutions that prioritize patient experience and satisfaction. His skills in project management and strategic planning enable him to deliver sustainable, efficient solutions that align with organizational goals. Passionate about technology and continuous improvement, Kumar remains at the forefront of healthcare IT, driving positive change and shaping the future of the industry.
+<div class="guest-role">AI Executive, Chief Clinical Officer, Optimum Healthcare</div>
 
-<div style="clear: both;"></div>
+Kumar Murukurthy is a distinguished leader in the healthcare sector with over 25 years of experience, known for his expertise in data governance and analytics.
 
-::: {style="float: right; margin: 5px; width: 50%"}
-![](images/monica.png){width=100%}
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+His roles as VP of IT/CIO at CommonSpirit, CIO at Walmart, CIO of Altais/Blue Shield, and Chief Clinical Officer of Optimum HIT highlight his ability to enhance patient care through effective data integration. Kumar excels in engaging stakeholders to create solutions that prioritize patient experience and satisfaction.
+
+His skills in project management and strategic planning enable him to deliver sustainable, efficient solutions that align with organizational goals. Passionate about technology and continuous improvement, Kumar remains at the forefront of healthcare IT, driving positive change and shaping the future of the industry.
+
+</div>
+</details>
 :::
+
+::: {.guest-card}
+::: {.guest-photo}
+![](images/monica.png){alt="Monica Mittal"}
+:::
+
+<div class="guest-label">Judge</div>
+
 ## Monica Mittal
-***Senior Data Scientist in Applied AI and ML, JP MorganChase***
 
-Dr. Monika Mittal has a PhD in Physics and over 15 years of experience working with large-scale scientific and enterprise data. She spent more than a decade as a Postdoctoral Researcher at CERN, where she contributed to advanced Particle Physics research associated with the Nobel Prize–winning discovery of the Higgs boson. At CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.
+<div class="guest-role">Senior Data Scientist in Applied AI and ML, JPMorganChase</div>
 
-Transitioning from fundamental science to industry, Monika now applies her expertise in machine learning, predictive modeling, and data-driven decision systems to solve complex business problems. She specializes in working with Regulatory and compliance-related data, leveraging large language models (LLMs), agentic AI, and RAG systems to automate analysis, extract knowledge from complex documents, and support intelligent decision-making. Monika is passionate about building scalable AI solutions that bridge scientific methodology with real-world business needs, transforming complex data into actionable insights and impactful applications.
+Dr. Monika Mittal has a PhD in Physics and over 15 years of experience working with large-scale scientific and enterprise data. She spent more than a decade as a Postdoctoral Researcher at CERN, where she contributed to advanced Particle Physics research associated with the Nobel Prize–winning discovery of the Higgs boson.
 
-<div style="clear: both;"></div>
+<details class="guest-details">
+<summary>Read more</summary>
 
-::: {style="float: left; margin: 5px; width: 50%"}
-![](images/Hui.png){width=100%}
+<div class="details-content">
+
+At CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.
+
+Transitioning from fundamental science to industry, Monika now applies her expertise in machine learning, predictive modeling, and data-driven decision systems to solve complex business problems. She specializes in working with regulatory and compliance-related data, leveraging large language models (LLMs), agentic AI, and RAG systems to automate analysis, extract knowledge from complex documents, and support intelligent decision-making. Monika is passionate about building scalable AI solutions that bridge scientific methodology with real-world business needs, transforming complex data into actionable insights and impactful applications.
+
+</div>
+</details>
 :::
+
+::: {.guest-card .left}
+::: {.guest-photo}
+![](images/Hui.png){alt="Hui Zhang"}
+:::
+
+<div class="guest-label">Judge</div>
 
 ## Hui Zhang
-***Professor, Biostatics and Informatics, Department of Preventive Medicine, Northwestern University***
 
-Dr. Hui Zhang is a Professor of Preventive Medicine (Biostatistics) in the Division of Biostatistics & Informatics, Department of Preventive Medicine, Northwestern University Feinberg School of Medicine, Director of Data Management and Statistics Core in the Mesulam Center for Cognitive Neurology and Alzheimer's Disease, Director of Biostatistics and Bioinformatics Core of Northwestern Brain Tumor SPORE. He obtained his Ph.D. in Statistics from the University of Rochester, and before joining Northwestern, he was an Associate Member at the Department of Biostatistics, St. Jude Children’s Research Hospital. He has extensive experience in applying statistics in biomedical research and expertise in cancer research, neuroscience, and cell biology. He has designed and participated in more than one hundred Phase I, II and III clinical trial studies. His methodology research interests include categorical data, longitudinal data, missing data, and recently high-resolution microscope image data analysis. In addition to regularly teaching statistical learning and mentoring Ph.D./master students, he has also mentored multiple junior faculty, postdocs, and master-level biostatisticians. He was the president of the West Tennessee Chapter of the American Statistical Association (WTASA).
+<div class="guest-role">Professor, Biostatistics and Informatics, Department of Preventive Medicine, Northwestern University</div>
 
-<div style="clear: both;"></div>
+Dr. Hui Zhang is a Professor of Preventive Medicine (Biostatistics) in the Division of Biostatistics & Informatics, Department of Preventive Medicine, Northwestern University Feinberg School of Medicine.
 
-::: {style="float: right; margin: 5px; width: 50%"}
-![](images/beth-andrews.png){width=100%}
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+He is Director of Data Management and Statistics Core in the Mesulam Center for Cognitive Neurology and Alzheimer's Disease, and Director of Biostatistics and Bioinformatics Core of Northwestern Brain Tumor SPORE. He obtained his Ph.D. in Statistics from the University of Rochester, and before joining Northwestern, he was an Associate Member at the Department of Biostatistics, St. Jude Children’s Research Hospital.
+
+He has extensive experience in applying statistics in biomedical research and expertise in cancer research, neuroscience, and cell biology. He has designed and participated in more than one hundred Phase I, II and III clinical trial studies. His methodology research interests include categorical data, longitudinal data, missing data, and, recently, high-resolution microscope image data analysis.
+
+In addition to regularly teaching statistical learning and mentoring Ph.D./master’s students, he has also mentored multiple junior faculty, postdocs, and master-level biostatisticians. He was the president of the West Tennessee Chapter of the American Statistical Association (WTASA).
+
+</div>
+</details>
 :::
+
+::: {.guest-card}
+::: {.guest-photo}
+![](images/beth-andrews.png){alt="Beth Andrews"}
+:::
+
+<div class="guest-label">Judge</div>
+
 ## Beth Andrews
-***Associate Professor of Statistics and Data Science, Northwestern University***
 
-Beth Andrews is an expert on modeling and forecasting dependent data processes, with applications in fields such as economics and finance, the medical sciences, and signal processing. Her work has been supported by grants from the National Science Foundation, the National Institutes of Health, and the U.S. Department of Health and Human Services. At Northwestern, Professor Andrews teaches courses on general statistical methods, probability, and the analysis of dependent data. She is currently Chair of the Business and Economics Statistics Section of the American Statistical Association.
+<div class="guest-role">Associate Professor of Statistics and Data Science, Northwestern University</div>
 
-::: {style="float: left; margin: 5px; width: 50%"}
-![](images/aziz.png){width=100%}
+Beth Andrews is an expert on modeling and forecasting dependent data processes, with applications in fields such as economics and finance, the medical sciences, and signal processing.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+Her work has been supported by grants from the National Science Foundation, the National Institutes of Health, and the U.S. Department of Health and Human Services. At Northwestern, Professor Andrews teaches courses on general statistical methods, probability, and the analysis of dependent data. She is currently Chair of the Business and Economics Statistics Section of the American Statistical Association.
+
+</div>
+</details>
 :::
+
+::: {.guest-card .left}
+::: {.guest-photo}
+![](images/aziz.png){alt="Aziz Pulatov"}
+:::
+
+<div class="guest-label">Judge</div>
 
 ## Aziz Pulatov
-***Senior Software Engineer III at JPMorgan Chase***
 
-Aziz has driven key projects in the Navigator platform, achieving significant efficiency gains through AI automation. With over 25 years in software development and data science, he excels in full lifecycle delivery—from end to end implementation to deployment, and auditing. Aziz has developed end-to-end ML solutions, from data preparation to production deployment.
+<div class="guest-role">Senior Software Engineer III at JPMorgan Chase</div>
 
-<div style="clear: both;"></div>
+Aziz has driven key projects in the Navigator platform, achieving significant efficiency gains through AI automation. With over 25 years in software development and data science, he excels in full lifecycle delivery.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+From end-to-end implementation to deployment and auditing, Aziz has developed end-to-end ML solutions, from data preparation to production deployment.
+
+</div>
+</details>
+:::

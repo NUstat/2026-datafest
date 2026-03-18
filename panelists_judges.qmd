@@ -8,58 +8,172 @@ Below are the keynote speakers, judges, and panelists confirmed for DataFest 202
 *This page will be updated as additional guests are confirmed.*
 
 <style>
-.guest {
-  margin-bottom: 2.5rem;
+:root {
+  --df-purple: #4E2A84;
+  --df-purple-dark: #3b1f63;
+  --df-text: #2f2f35;
+  --df-muted: #6b7280;
+  --df-card: #ffffff;
+  --df-border: rgba(78, 42, 132, 0.10);
+  --df-shadow: 0 10px 28px rgba(46, 16, 84, 0.10);
+  --df-shadow-hover: 0 16px 36px rgba(46, 16, 84, 0.16);
+}
+
+.guest-card {
+  background: linear-gradient(180deg, #ffffff 0%, #fcfbff 100%);
+  border: 1px solid var(--df-border);
+  border-radius: 16px;
+  box-shadow: var(--df-shadow);
+  padding: 1.3rem 1.4rem;
+  margin-bottom: 1.8rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
   clear: both;
 }
 
-.guest::after {
+.guest-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--df-shadow-hover);
+  border-color: rgba(78, 42, 132, 0.18);
+}
+
+.guest-card::after {
   content: "";
   display: table;
   clear: both;
 }
 
+/* Default: image on right */
 .guest-photo {
   float: right;
-  margin: 0 0 0.75rem 1.25rem;
-  width: 240px;
+  width: 220px;
+  margin: 0 0 0.8rem 1.3rem;
+}
+
+/* Alternate cards: image on left */
+.guest-card.left .guest-photo {
+  float: left;
+  margin: 0 1.3rem 0.8rem 0;
 }
 
 .guest-photo img {
-  display: block;
   width: 100%;
-  height: auto;
-  border-radius: 8px;
+  display: block;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
 }
 
-.guest h2 {
+.guest-label {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--df-purple);
+  background: rgba(78, 42, 132, 0.08);
+  border: 1px solid rgba(78, 42, 132, 0.10);
+  border-radius: 999px;
+  padding: 0.28rem 0.65rem;
+  margin-bottom: 0.6rem;
+}
+
+.guest-card h2 {
   margin-top: 0;
-  margin-bottom: 0.35rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.7rem;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #333;
 }
 
-.guest p:first-of-type {
-  margin-top: 0.35rem;
+.guest-role {
+  color: var(--df-purple);
+  font-weight: 600;
+  margin-bottom: 0.7rem;
+  line-height: 1.4;
+}
+
+.guest-card p {
+  line-height: 1.7;
+  margin-top: 0.55rem;
+  margin-bottom: 0.75rem;
+}
+
+.guest-card ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.8rem;
+  padding-left: 1.2rem;
+}
+
+.guest-card li {
+  line-height: 1.6;
+  margin-bottom: 0.4rem;
+}
+
+.guest-details {
+  margin-top: 0.6rem;
+}
+
+.guest-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--df-purple);
+  list-style: none;
+  display: inline-block;
+  margin-top: 0.2rem;
+}
+
+.guest-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.guest-details summary::after {
+  content: " ▼";
+  font-size: 0.8rem;
+}
+
+.guest-details[open] summary::after {
+  content: " ▲";
+}
+
+.guest-details .details-content {
+  margin-top: 0.7rem;
 }
 
 @media (max-width: 768px) {
-  .guest-photo {
+  .guest-card {
+    padding: 1.1rem 1rem;
+  }
+
+  .guest-photo,
+  .guest-card.left .guest-photo {
     float: none;
     margin: 0 0 1rem 0;
-    width: 220px;
+    width: 200px;
+  }
+
+  .guest-card h2 {
+    font-size: 1.45rem;
   }
 }
 </style>
 
-::: {.guest}
+::: {.guest-card}
 ::: {.guest-photo}
 ![](images/kaveh.jpg){alt="Kaveh Safavi"}
 :::
 
-## Fireside Chat | Kaveh Safavi
+<div class="guest-label">Fireside Chat</div>
 
-[**Senior Executive Advisor, Investor, and Educator**]{style="color:#4E2A84;"}
+## Kaveh Safavi
 
-Kaveh Safavi is a healthcare strategist with extensive experience in digital health, growth strategy, and international expansion. He is a **Partner at Guidon Partners**, a firm that advises and co-invests in healthcare services companies, and a **Health Senior Advisor at Accenture**. He is also an **Adjunct Lecturer in Health Enterprise Management at the Kellogg School of Management at Northwestern University**.
+<div class="guest-role">Senior Executive Advisor, Investor, and Educator</div>
+
+Kaveh Safavi is a healthcare strategist with extensive experience in digital health, growth strategy, and international expansion. He is a **Partner at Guidon Partners**, a firm that advises and co-invests in healthcare services companies, and a **Health Senior Advisor at Accenture**.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
 
 Dr. Safavi recently retired as a Senior Managing Director at Accenture for Global Health, where he helped providers, health insurers, and public health systems across the Americas, Europe, and Asia Pacific harness technology and human ingenuity. Prior to Accenture, he held leadership roles at Cisco, Thomson Reuters, UnitedHealthcare, and Alexian Brothers Health System.
 
@@ -73,56 +187,107 @@ Dr. Safavi has published widely and is frequently quoted on healthcare issues in
 He earned his M.D. from Loyola University Chicago Stritch School of Medicine and his J.D. from DePaul University College of Law. He is board-certified in internal medicine and pediatrics and completed his residency at the University of Michigan Medical Center. He also serves on the Weinberg College of Arts and Sciences Board of Visitors at Northwestern University and is a member of the Easterseals National Board of Directors.
 
 Dr. Safavi is a lifelong Chicagoan.
+
+</div>
+</details>
 :::
 
-::: {.guest}
+::: {.guest-card .left}
 ::: {.guest-photo}
 ![](images/nishant.png){alt="Nishant Nayar"}
 :::
 
-## Panelist | Nishant Nayar
+<div class="guest-label">Panelist</div>
 
-[**Lead Solutions Analyst and Technical Program Manager, JPMorganChase**]{style="color:#4E2A84;"}
+## Nishant Nayar
 
-Nishant Nayar has spent over two decades at the intersection of data, technology, and business, working across investment banking, commercial banking, and asset management. He specializes in translating complex data into practical insights for decision-makers, with expertise spanning data science, analytics, explainable AI, and generative AI.
+<div class="guest-role">Lead Solutions Analyst and Technical Program Manager, JPMorganChase</div>
 
-He holds a Master’s degree in Analytics from the University of Chicago and an MBA in Finance from Punjabi University, a combination that enables him to bridge technical and business perspectives effectively.
+Nishant Nayar has spent over two decades at the intersection of data, technology, and business, working across investment banking, commercial banking, and asset management. He specializes in translating complex data into practical insights for decision-makers.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+His expertise spans data science, analytics, explainable AI, and generative AI. He holds a Master’s degree in Analytics from the University of Chicago and an MBA in Finance from Punjabi University, a combination that enables him to bridge technical and business perspectives effectively.
+
+</div>
+</details>
 :::
 
-::: {.guest}
+::: {.guest-card}
 ::: {.guest-photo}
 ![](images/zach.jpg){alt="Zachary Fox"}
 :::
 
-## Panelist | Zachary Fox
+<div class="guest-label">Panelist</div>
 
-[**Senior Analyst at Analysis Group**]{style="color:#4E2A84;"}
+## Zachary Fox
 
-Zach Fox is a Senior Analyst at Analysis Group in Chicago, where he applies economic theory and data science methods to solve complex business disputes. Zach has worked on cases spanning finance, technology, tax, commercial disputes, and valuation, using tools like Python, R, Stata, SAS, and Excel to turn messy data into clear stories. A proud Northwestern alum, Zach majored in Economics and Communication Studies with minors in Business Institutions and Data Science. He’s excited to be back for DataFest and is especially looking forward to seeing creative thinking, strong teamwork, and clean data!
+<div class="guest-role">Senior Analyst at Analysis Group</div>
+
+Zach Fox is a Senior Analyst at Analysis Group in Chicago, where he applies economic theory and data science methods to solve complex business disputes.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+Zach has worked on cases spanning finance, technology, tax, commercial disputes, and valuation, using tools like Python, R, Stata, SAS, and Excel to turn messy data into clear stories. A proud Northwestern alum, Zach majored in Economics and Communication Studies with minors in Business Institutions and Data Science. He’s excited to be back for DataFest and is especially looking forward to seeing creative thinking, strong teamwork, and clean data.
+
+</div>
+</details>
 :::
 
-::: {.guest}
+::: {.guest-card .left}
 ::: {.guest-photo}
 ![](images/nirav.jpg){alt="Nirav Shah"}
 :::
 
-## Panelist | Nirav Shah
+<div class="guest-label">Panelist</div>
 
-[**Associate Chief Medical Informatics Officer, AI and Innovation; Director of Investigational Innovation, Endeavor Health**]{style="color:#4E2A84;"}
+## Nirav Shah
 
-Nirav Shah, MD, MPH is a practicing infectious disease physician who also serves as the Associate Chief Medical Informatics Officer, AI and Innovation and the Director of Investigational Innovation at Endeavor Health, a 9 hospital integrated health system in the metropolitan Chicagoland area. He drives the strategic development and responsible implementation of AI and digital solutions, ensuring their effective integration into clinical practice and contributing to scholarly advancement. He also runs a clinical trials group with a focus on early stage AI/digital solutions. He has received internal and external grants and has reviewed grant proposals for national funding agencies. He is an experienced speaker at national conferences and has published widely in reputable journals including NEJM, JAMA, JAMIA and CID. He is an assistant clinical professor at the University of Chicago Pritzker School of Medicine and did a significant portion of education and training at Northwestern (BA 2004, MD 2008, MPH 2008, internal medicine residency 2011). He is committed to mentoring the next generation of healthcare professionals and has participated in programs to mentor Northwestern college students.
+<div class="guest-role">Associate Chief Medical Informatics Officer, AI and Innovation; Director of Investigational Innovation, Endeavor Health</div>
+
+Nirav Shah, MD, MPH is a practicing infectious disease physician and an AI leader at Endeavor Health, where he drives the strategic development and responsible implementation of AI and digital solutions in clinical practice.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+He also serves as the Director of Investigational Innovation and runs a clinical trials group with a focus on early stage AI and digital solutions. He has received internal and external grants and has reviewed grant proposals for national funding agencies.
+
+He is an experienced speaker at national conferences and has published widely in reputable journals including NEJM, JAMA, JAMIA, and CID. He is an assistant clinical professor at the University of Chicago Pritzker School of Medicine and completed a significant portion of his education and training at Northwestern (BA 2004, MD 2008, MPH 2008, internal medicine residency 2011). He is committed to mentoring the next generation of healthcare professionals and has participated in programs to mentor Northwestern college students.
+
+</div>
+</details>
 :::
 
-::: {.guest}
+::: {.guest-card}
 ::: {.guest-photo}
 ![](images/monica.png){alt="Monica Mittal"}
 :::
 
-## Panelist | Monica Mittal
+<div class="guest-label">Panelist</div>
 
-[**Senior Data Scientist in Applied AI and ML, JP MorganChase**]{style="color:#4E2A84;"}
+## Monica Mittal
 
-Dr. Monika Mittal has a PhD in Physics and over 15 years of experience working with large-scale scientific and enterprise data. She spent more than a decade as a Postdoctoral Researcher at CERN, where she contributed to advanced Particle Physics research associated with the Nobel Prize–winning discovery of the Higgs boson. At CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.
+<div class="guest-role">Senior Data Scientist in Applied AI and ML, JPMorganChase</div>
+
+Dr. Monika Mittal has a PhD in Physics and over 15 years of experience working with large-scale scientific and enterprise data. She spent more than a decade as a Postdoctoral Researcher at CERN, where she contributed to advanced particle physics research associated with the Nobel Prize–winning discovery of the Higgs boson.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+At CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.
 
 Transitioning from fundamental science to industry, Monika now applies her expertise in machine learning, predictive modeling, and data-driven decision systems to solve complex business problems. She specializes in working with regulatory and compliance-related data, leveraging large language models (LLMs), agentic AI, and RAG systems to automate analysis, extract knowledge from complex documents, and support intelligent decision-making. Monika is passionate about building scalable AI solutions that bridge scientific methodology with real-world business needs, transforming complex data into actionable insights and impactful applications.
+
+</div>
+</details>
 :::

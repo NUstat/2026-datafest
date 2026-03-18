@@ -222,7 +222,7 @@ Chan is an active contributor to the NSF CSSI Framework for Bayesian Analysis of
 ![](images/harvey.png){alt="Harvey Wang"}
 :::
 
-<div class="guest-label">Team Mentor</div>
+<div class="guest-label">Mentor</div>
 
 ## Harvey Wang
 
@@ -248,7 +248,7 @@ He has also participated in a Northwestern ML research team where he trained neu
 ![](images/jeffrey.jpg){alt="Jeffrey Yuan"}
 :::
 
-<div class="guest-label">Team Mentor</div>
+<div class="guest-label">Mentor</div>
 
 ## Jeffrey Yuan
 
@@ -274,7 +274,7 @@ At DataFest, Jeffrey is excited to collaborate with different teams, dive into n
 ![](images/jake.jpg){alt="Jake Miller"}
 :::
 
-<div class="guest-label">Team Mentor</div>
+<div class="guest-label">Mentor</div>
 
 ## Jake Miller
 

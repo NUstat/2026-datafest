@@ -219,6 +219,32 @@ Chan is an active contributor to the NSF CSSI Framework for Bayesian Analysis of
 
 ::: {.guest-card .left}
 ::: {.guest-photo}
+![](images/karthik.jpg){alt="Karthik Prabhu"}
+:::
+
+<div class="guest-label">Mentor</div>
+
+## Karthik Prabhu
+
+<div class="guest-role">PhD graduate, UC Davis</div>
+
+Karthik is a recent PhD graduate in Physics from UC Davis, where his work focused on cosmology, machine learning, and statistical modeling. He has experience applying machine learning techniques to real-world data, and currently works in fraud analytics, building models for detection and risk assessment.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+Karthik is an AI enthusiast and enjoys keeping up with breakthroughs in foundational models. He has worked on topics ranging from Bayesian inference, image processing, time-series analysis, anomaly detection, and generative AI.
+
+**Mentorship Style:** Karthik encourages curiosity-driven learning and is passionate about helping others grow in their data science and machine learning journey. He asks questions to help the mentees think through the problems and build confidence in their problem-solving skills. 
+
+</div>
+</details>
+:::
+
+::: {.guest-card}
+::: {.guest-photo}
 ![](images/harvey.png){alt="Harvey Wang"}
 :::
 
@@ -243,7 +269,7 @@ He has also participated in a Northwestern ML research team where he trained neu
 </details>
 :::
 
-::: {.guest-card}
+::: {.guest-card .left}
 ::: {.guest-photo}
 ![](images/jeffrey.jpg){alt="Jeffrey Yuan"}
 :::
@@ -269,7 +295,7 @@ At DataFest, Jeffrey is excited to collaborate with different teams, dive into n
 </details>
 :::
 
-::: {.guest-card .left}
+::: {.guest-card}
 ::: {.guest-photo}
 ![](images/jake.jpg){alt="Jake Miller"}
 :::

@@ -231,17 +231,9 @@ ul.task-list li input[type="checkbox"] {
   clear: both;
 }
 
-/* Default: image on right */
+/* Default photo styling */
 .guest-photo {
-  float: right;
   width: 220px;
-  margin: 0 0 0.8rem 1.3rem;
-}
-
-/* Alternate cards: image on left */
-.guest-card.left .guest-photo {
-  float: left;
-  margin: 0 1.3rem 0.8rem 0;
 }
 
 .guest-photo img {
@@ -249,6 +241,17 @@ ul.task-list li input[type="checkbox"] {
   display: block;
   border-radius: 12px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
+}
+
+/* Automatic alternating layout */
+.guest-card:nth-of-type(odd) .guest-photo {
+  float: right;
+  margin: 0 0 0.8rem 1.3rem;
+}
+
+.guest-card:nth-of-type(even) .guest-photo {
+  float: left;
+  margin: 0 1.3rem 0.8rem 0;
 }
 
 .guest-label {
@@ -363,10 +366,9 @@ ul.task-list li input[type="checkbox"] {
     padding: 1.1rem 1rem;
   }
 
-  .guest-photo,
-  .guest-card.left .guest-photo {
-    float: none;
-    margin: 0 0 1rem 0;
+  .guest-photo {
+    float: none !important;
+    margin: 0 0 1rem 0 !important;
     width: 200px;
   }
 
@@ -400,7 +402,31 @@ Read more
 </details>
 </section>
 </div>
-<div class="guest-card left">
+<div class="guest-card super-mentor">
+<div class="guest-photo">
+<p><img src="images/shengbin.jpg" class="img-fluid" alt="Shengbin Ye"></p>
+</div>
+<div class="guest-label">
+Super Mentor
+</div>
+<section id="shengbin-ye" class="level2">
+<h2 class="anchored" data-anchor-id="shengbin-ye">Shengbin Ye</h2>
+<div class="guest-role">
+Assistant Professor of Instruction, Department of Statistics and Data Science, Northwestern University
+</div>
+<p>Shengbin co-instructs the undergraduate data science curriculum and co-advises the MS program in Statistics and Data Science. He is passionate about making complex data easy to understand. His research focuses on symbolic regression—a way of teaching computers to find simple, human-readable math equations that explain patterns in data. By combining statistical theory with efficient algorithms, he helps turn “black box” models into transparent insights that anyone can interpret.</p>
+<details class="guest-details">
+<summary>
+Read more
+</summary>
+<div class="details-content">
+<p>Shengbin holds a Ph.D.&nbsp;in Statistics from Rice University. He joined the Department of Statistics and Data Science in September 2025. His research background includes work on high-dimensional regression and nonparametric variable selection. He is an advocate for open-source software and reproducible research, frequently working with R and Python to solve complex data challenges.</p>
+<p><strong>Mentorship Style:</strong> Shengbin believes in the iterative nature of data science. He encourages students to view model building as a process of continuous refinement rather than a single destination. He is an active listener who helps students think critically about their evidence, guiding them to bridge the gap between complex statistical results and persuasive, high-level narratives.</p>
+</div>
+</details>
+</section>
+</div>
+<div class="guest-card">
 <div class="guest-photo">
 <p><img src="images/karthik.jpg" class="img-fluid" alt="Karthik Prabhu"></p>
 </div>
@@ -448,7 +474,7 @@ Read more
 </details>
 </section>
 </div>
-<div class="guest-card left">
+<div class="guest-card">
 <div class="guest-photo">
 <p><img src="images/jeffrey.jpg" class="img-fluid" alt="Jeffrey Yuan"></p>
 </div>

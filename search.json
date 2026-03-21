@@ -273,11 +273,11 @@
     "text": "Nishant Nayar\n\nLead Solutions Analyst and Technical Program Manager, JPMorganChase\n\nNishant Nayar has spent over two decades at the intersection of data, technology, and business, working across investment banking, commercial banking, and asset management. He specializes in translating complex data into practical insights for decision-makers.\n\n\nRead more\n\n\nHis expertise spans data science, analytics, explainable AI, and generative AI. He holds a Master’s degree in Analytics from the University of Chicago and an MBA in Finance from Punjabi University, a combination that enables him to bridge technical and business perspectives effectively."
   },
   {
-    "objectID": "panelists_judges.html#zachary-fox",
-    "href": "panelists_judges.html#zachary-fox",
+    "objectID": "panelists_judges.html#igor-uzilevskiy",
+    "href": "panelists_judges.html#igor-uzilevskiy",
     "title": "Meet Our Distinguished Guests",
-    "section": "Zachary Fox",
-    "text": "Zachary Fox\n\nSenior Analyst at Analysis Group\n\nZach Fox is a Senior Analyst at Analysis Group in Chicago, where he applies economic theory and data science methods to solve complex business disputes.\n\n\nRead more\n\n\nZach has worked on cases spanning finance, technology, tax, commercial disputes, and valuation, using tools like Python, R, Stata, SAS, and Excel to turn messy data into clear stories. A proud Northwestern alum, Zach majored in Economics and Communication Studies with minors in Business Institutions and Data Science. He’s excited to be back for DataFest and is especially looking forward to seeing creative thinking, strong teamwork, and clean data."
+    "section": "Igor Uzilevskiy",
+    "text": "Igor Uzilevskiy\n\nPrincipal Data Scientist at VideoAmp\n\nIgor works in ad tech. He works primarily on the company’s media planning product, which uses a predictive model to forecast how a given allocation of ad dollars across different media properties will translate into unique reach, and then a mixed integer program to solve for an optimal buy.\n\n\nRead more\n\n\nHe previously worked at Nielsen, where in his most recent role he researched updates to Nielsen’s sample weighting algorithm as the company moved from a statistically selected sample to a hybrid of a statistically selected sample and a large convenience sample for measuring TV viewing.\nIgor holds a BA in Economics and a MS in Machine Learning and Data Science from Northwestern."
   },
   {
     "objectID": "panelists_judges.html#nirav-shah",
@@ -292,6 +292,13 @@
     "title": "Meet Our Distinguished Guests",
     "section": "Monica Mittal",
     "text": "Monica Mittal\n\nSenior Data Scientist in Applied AI and ML, JPMorganChase\n\nDr. Monika Mittal has a PhD in Physics and over 15 years of experience working with large-scale scientific and enterprise data. She spent more than a decade as a Postdoctoral Researcher at CERN, where she contributed to advanced particle physics research associated with the Nobel Prize–winning discovery of the Higgs boson.\n\n\nRead more\n\n\nAt CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.\nTransitioning from fundamental science to industry, Monika now applies her expertise in machine learning, predictive modeling, and data-driven decision systems to solve complex business problems. She specializes in working with regulatory and compliance-related data, leveraging large language models (LLMs), agentic AI, and RAG systems to automate analysis, extract knowledge from complex documents, and support intelligent decision-making. Monika is passionate about building scalable AI solutions that bridge scientific methodology with real-world business needs, transforming complex data into actionable insights and impactful applications."
+  },
+  {
+    "objectID": "panelists_judges.html#zachary-fox",
+    "href": "panelists_judges.html#zachary-fox",
+    "title": "Meet Our Distinguished Guests",
+    "section": "Zachary Fox",
+    "text": "Zachary Fox\n\nSenior Analyst at Analysis Group\n\nZach Fox is a Senior Analyst at Analysis Group in Chicago, where he applies economic theory and data science methods to solve complex business disputes.\n\n\nRead more\n\n\nZach has worked on cases spanning finance, technology, tax, commercial disputes, and valuation, using tools like Python, R, Stata, SAS, and Excel to turn messy data into clear stories. A proud Northwestern alum, Zach majored in Economics and Communication Studies with minors in Business Institutions and Data Science. He’s excited to be back for DataFest and is especially looking forward to seeing creative thinking, strong teamwork, and clean data."
   },
   {
     "objectID": "index.html",

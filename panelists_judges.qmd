@@ -218,23 +218,26 @@ His expertise spans data science, analytics, explainable AI, and generative AI. 
 
 ::: {.guest-card}
 ::: {.guest-photo}
-![](images/zach.jpg){alt="Zachary Fox"}
+![](images/igor.jpg){alt="Igor Uzilevskiy"}
 :::
 
 <div class="guest-label">Panelist</div>
 
-## Zachary Fox
+## Igor Uzilevskiy
 
-<div class="guest-role">Senior Analyst at Analysis Group</div>
+<div class="guest-role">Principal Data Scientist at VideoAmp</div>
 
-Zach Fox is a Senior Analyst at Analysis Group in Chicago, where he applies economic theory and data science methods to solve complex business disputes.
+Igor works in ad tech. He works primarily on the company's media planning product, which uses a predictive model to forecast how a given allocation of ad dollars across different media properties will translate into unique reach, and then a mixed integer program to solve for an optimal buy. 
 
 <details class="guest-details">
 <summary>Read more</summary>
 
 <div class="details-content">
 
-Zach has worked on cases spanning finance, technology, tax, commercial disputes, and valuation, using tools like Python, R, Stata, SAS, and Excel to turn messy data into clear stories. A proud Northwestern alum, Zach majored in Economics and Communication Studies with minors in Business Institutions and Data Science. He’s excited to be back for DataFest and is especially looking forward to seeing creative thinking, strong teamwork, and clean data.
+He previously worked at Nielsen, where in his most recent role he researched updates to Nielsen's sample weighting algorithm as the company moved from a statistically selected sample to a hybrid of a statistically selected sample and a large convenience sample for measuring TV viewing. 
+
+Igor holds a BA in Economics and a MS in Machine Learning and Data Science from Northwestern.
+
 
 </div>
 </details>
@@ -287,6 +290,30 @@ Dr. Monika Mittal has a PhD in Physics and over 15 years of experience working w
 At CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.
 
 Transitioning from fundamental science to industry, Monika now applies her expertise in machine learning, predictive modeling, and data-driven decision systems to solve complex business problems. She specializes in working with regulatory and compliance-related data, leveraging large language models (LLMs), agentic AI, and RAG systems to automate analysis, extract knowledge from complex documents, and support intelligent decision-making. Monika is passionate about building scalable AI solutions that bridge scientific methodology with real-world business needs, transforming complex data into actionable insights and impactful applications.
+
+</div>
+</details>
+:::
+
+::: {.guest-card .left}
+::: {.guest-photo}
+![](images/zach.jpg){alt="Zachary Fox"}
+:::
+
+<div class="guest-label">Panelist</div>
+
+## Zachary Fox
+
+<div class="guest-role">Senior Analyst at Analysis Group</div>
+
+Zach Fox is a Senior Analyst at Analysis Group in Chicago, where he applies economic theory and data science methods to solve complex business disputes.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+Zach has worked on cases spanning finance, technology, tax, commercial disputes, and valuation, using tools like Python, R, Stata, SAS, and Excel to turn messy data into clear stories. A proud Northwestern alum, Zach majored in Economics and Communication Studies with minors in Business Institutions and Data Science. He’s excited to be back for DataFest and is especially looking forward to seeing creative thinking, strong teamwork, and clean data.
 
 </div>
 </details>

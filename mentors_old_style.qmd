@@ -4,12 +4,10 @@ format:
   html:
     toc: true
     toc-location: right
-    toc-depth: 2
+    toc-depth: 4
 ---
 
-<div id="top"></div>
-
-Meet our talented team mentors! They will be mentoring the competing teams.
+Meet our talented team mentors! They will be mentoring the participant teams competing in the event.
 
 <style>
 :root {
@@ -27,117 +25,65 @@ Meet our talented team mentors! They will be mentoring the competing teams.
   --df-gold-shadow: 0 12px 30px rgba(184, 134, 11, 0.14);
 }
 
-.toc-only {
+/* Make ONLY top-level sections (like Super Mentors, Mentors) bold in TOC */
+#TOC > ul > li > a {
+  font-weight: 700;
+}
+
+/* Hidden headings used only for TOC */
+h3.mentor-anchor {
   position: absolute;
   left: -9999px;
-  width: 1px;
-  height: 1px;
+  margin: 0;
+  padding: 0;
+  height: 0;
   overflow: hidden;
 }
 
-.mentor-tile {
-  display: block;
-  text-decoration: none;
-  color: inherit;
+.guest-card {
   background: linear-gradient(180deg, #ffffff 0%, #fcfbff 100%);
   border: 1px solid var(--df-border);
-  border-radius: 18px;
+  border-radius: 16px;
   box-shadow: var(--df-shadow);
-  overflow: hidden;
+  padding: 1.3rem 1.4rem;
+  margin-bottom: 1.8rem;
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-}
-
-.mentor-tile-body {
-  display: block;
-  padding: 0.95rem 1rem 1rem 1rem;
-}
-
-.mentor-tile-name {
-  display: block;
-  font-size: 1.08rem;
-  font-weight: 700;
-  color: #2f2f35;
-  margin-bottom: 0.3rem;
-  line-height: 1.25;
-}
-
-.mentor-tile-title {
-  display: block;
-  font-size: 0.94rem;
-  color: var(--df-muted);
-  line-height: 1.45;
-}
-
-.page-intro {
-  margin-bottom: 1.1rem;
-  color: var(--df-text);
-}
-
-.mentor-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.25rem;
-  margin-top: 1rem;
-  margin-bottom: 2rem;
-}
-
-.mentor-tile:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--df-shadow-hover);
-  border-color: rgba(78, 42, 132, 0.20);
-}
-
-.mentor-tile.super {
-  background: linear-gradient(180deg, #fffdf7 0%, #fffcf2 100%);
-  border-color: var(--df-gold-border);
-  box-shadow: var(--df-gold-shadow);
-}
-
-.mentor-tile.super:hover {
-  box-shadow: 0 16px 36px rgba(184, 134, 11, 0.18);
-  border-color: rgba(184, 134, 11, 0.30);
-}
-
-.mentor-tile img {
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-  display: block;
-}
-
-.profile-card {
-  background: linear-gradient(180deg, #ffffff 0%, #fcfbff 100%);
-  border: 1px solid var(--df-border);
-  border-radius: 18px;
-  box-shadow: var(--df-shadow);
-  padding: 1.35rem 1.45rem;
-  margin-bottom: 1.7rem;
   clear: both;
-  scroll-margin-top: 90px;
 }
 
-.profile-card::after {
+.guest-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--df-shadow-hover);
+  border-color: rgba(78, 42, 132, 0.18);
+}
+
+.guest-card::after {
   content: "";
   display: table;
   clear: both;
 }
 
-.profile-card.super-mentor {
-  background: linear-gradient(180deg, #fffdf7 0%, #fffcf2 100%);
-  border-color: var(--df-gold-border);
-  box-shadow: var(--df-gold-shadow);
+/* Default photo styling */
+.guest-photo {
+  width: 220px;
 }
 
-.profile-topbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 1rem;
-  margin-bottom: 0.75rem;
+.guest-photo img {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
 }
 
-.profile-topbar-left {
-  min-width: 0;
+/* Explicit alternating layout */
+.guest-card.right .guest-photo {
+  float: right;
+  margin: 0 0 0.8rem 1.3rem;
+}
+
+.guest-card.left .guest-photo {
+  float: left;
+  margin: 0 1.3rem 0.8rem 0;
 }
 
 .guest-label {
@@ -151,257 +97,139 @@ Meet our talented team mentors! They will be mentoring the competing teams.
   border: 1px solid rgba(78, 42, 132, 0.10);
   border-radius: 999px;
   padding: 0.28rem 0.65rem;
-  margin-bottom: 0.55rem;
+  margin-bottom: 0.6rem;
 }
 
-.profile-card.super-mentor .guest-label {
+/* Super Mentor highlight */
+.guest-card.super-mentor {
+  background: linear-gradient(180deg, #fffdf7 0%, #fffcf2 100%);
+  border: 1px solid var(--df-gold-border);
+  box-shadow: var(--df-gold-shadow);
+}
+
+.guest-card.super-mentor:hover {
+  border-color: rgba(184, 134, 11, 0.32);
+  box-shadow: 0 16px 36px rgba(184, 134, 11, 0.18);
+}
+
+.guest-card.super-mentor .guest-label {
   color: #7a5a00;
   background: var(--df-gold-bg);
   border-color: var(--df-gold-border);
 }
 
-.back-to-top {
-  flex: 0 0 auto;
-  text-decoration: none;
-  font-size: 0.92rem;
-  font-weight: 600;
-  color: var(--df-purple);
-  border: 1px solid rgba(78, 42, 132, 0.12);
-  border-radius: 999px;
-  padding: 0.42rem 0.8rem;
-  background: rgba(78, 42, 132, 0.04);
-}
-
-.profile-card.super-mentor .back-to-top {
+.guest-card.super-mentor .guest-role {
   color: #7a5a00;
-  border-color: rgba(184, 134, 11, 0.22);
-  background: rgba(184, 134, 11, 0.08);
 }
 
-.back-to-top:hover {
-  text-decoration: none;
-}
-
-.profile-photo {
-  width: 240px;
-}
-
-.profile-photo img {
-  width: 100%;
-  display: block;
-  border-radius: 14px;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
-}
-
-.profile-photo.right {
-  float: right;
-  margin: 0 0 0.9rem 1.35rem;
-}
-
-.profile-photo.left {
-  float: left;
-  margin: 0 1.35rem 0.9rem 0;
-}
-
-.profile-card.super-mentor .profile-photo img {
+.guest-card.super-mentor .guest-photo img {
   box-shadow: 0 10px 24px rgba(184, 134, 11, 0.18);
 }
 
-.profile-name {
+.guest-name {
   margin-top: 0;
   margin-bottom: 0.25rem;
-  font-size: 1.75rem;
+  font-size: 1.7rem;
   line-height: 1.15;
   letter-spacing: -0.02em;
   color: #333;
   font-weight: 700;
 }
 
-.profile-role {
+.guest-role {
   color: var(--df-purple);
   font-weight: 600;
-  margin-bottom: 0.75rem;
-  line-height: 1.45;
+  margin-bottom: 0.7rem;
+  line-height: 1.4;
 }
 
-.profile-card.super-mentor .profile-role {
-  color: #7a5a00;
-}
-
-.profile-card p {
-  line-height: 1.72;
+.guest-card p {
+  line-height: 1.7;
   margin-top: 0.55rem;
-  margin-bottom: 0.78rem;
+  margin-bottom: 0.75rem;
 }
 
-.profile-details {
+.guest-card ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.8rem;
+  padding-left: 1.2rem;
+}
+
+.guest-card li {
+  line-height: 1.6;
+  margin-bottom: 0.4rem;
+}
+
+.guest-details {
   margin-top: 0.6rem;
 }
 
-.profile-details summary {
+.guest-details summary {
   cursor: pointer;
   font-weight: 600;
   color: var(--df-purple);
   list-style: none;
   display: inline-block;
-  margin-top: 0.15rem;
+  margin-top: 0.2rem;
 }
 
-.profile-card.super-mentor .profile-details summary {
+.guest-card.super-mentor .guest-details summary {
   color: #7a5a00;
 }
 
-.profile-details summary::-webkit-details-marker {
+.guest-details summary::-webkit-details-marker {
   display: none;
 }
 
-.profile-details summary::after {
+.guest-details summary::after {
   content: " ▼";
   font-size: 0.8rem;
 }
 
-.profile-details[open] summary::after {
+.guest-details[open] summary::after {
   content: " ▲";
 }
 
-.profile-details .details-content {
+.guest-details .details-content {
   margin-top: 0.7rem;
 }
 
-.section-gap {
-  margin-top: 0.5rem;
-}
-
 @media (max-width: 768px) {
-  .profile-topbar {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .profile-card {
+  .guest-card {
     padding: 1.1rem 1rem;
   }
 
-  .profile-photo {
+  .guest-photo {
     float: none !important;
     margin: 0 0 1rem 0 !important;
     width: 200px;
   }
 
-  .profile-name {
+  .guest-name {
     font-size: 1.45rem;
   }
 }
 </style>
 
-## Super Mentors
+## Super Mentors {#super-mentors}
 
-<div class="mentor-grid">
+### Moses Chan {#moses-chan .mentor-anchor}
 
-<a class="mentor-tile super" href="#moses-chan-profile">
-  <img src="images/moses.jpg" alt="Moses Chan">
-  <span class="mentor-tile-body">
-    <span class="mentor-tile-name">Moses Chan</span>
-    <span class="mentor-tile-title">Assistant Professor of Instruction, IEMS, Northwestern University</span>
-  </span>
-</a>
-
-<a class="mentor-tile super" href="#shengbin-ye-profile">
-  <img src="images/shengbin.jpg" alt="Shengbin Ye">
-  <span class="mentor-tile-body">
-    <span class="mentor-tile-name">Shengbin Ye</span>
-    <span class="mentor-tile-title">Assistant Professor of Instruction, Statistics and Data Science, Northwestern University</span>
-  </span>
-</a>
-
-<a class="mentor-tile super" href="#shreeya-behera-profile">
-  <img src="images/shreeya.jpg" alt="Shreeya Behera">
-  <span class="mentor-tile-body">
-    <span class="mentor-tile-name">Shreeya Behera</span>
-    <span class="mentor-tile-title">Assistant Professor of Instruction, Statistics and Data Science, Northwestern University</span>
-  </span>
-</a>
-
-</div>
-
-## Mentors
-
-<div class="mentor-grid">
-
-<a class="mentor-tile" href="#karthik-prabhu-profile">
-  <img src="images/karthik.jpg" alt="Karthik Prabhu">
-  <span class="mentor-tile-body">
-    <span class="mentor-tile-name">Karthik Prabhu</span>
-    <span class="mentor-tile-title">PhD graduate, UC Davis</span>
-  </span>
-</a>
-
-<a class="mentor-tile" href="#harvey-wang-profile">
-  <img src="images/harvey.png" alt="Harvey Wang">
-  <span class="mentor-tile-body">
-    <span class="mentor-tile-name">Harvey Wang</span>
-    <span class="mentor-tile-title">Corporate Strategy and Development Analyst, Molex</span>
-  </span>
-</a>
-
-<a class="mentor-tile" href="#jeffrey-yuan-profile">
-  <img src="images/jeffrey.jpg" alt="Jeffrey Yuan">
-  <span class="mentor-tile-body">
-    <span class="mentor-tile-name">Jeffrey Yuan</span>
-    <span class="mentor-tile-title">Fourth-year BS/MS Student, Statistics and Data Science, Northwestern University</span>
-  </span>
-</a>
-
-<a class="mentor-tile" href="#jake-miller-profile">
-  <img src="images/jake.jpg" alt="Jake Miller">
-  <span class="mentor-tile-body">
-    <span class="mentor-tile-name">Jake Miller</span>
-    <span class="mentor-tile-title">Data Science Senior, Northwestern University</span>
-  </span>
-</a>
-
-<a class="mentor-tile" href="#kyle-williams-profile">
-  <img src="images/kyle.jpg" alt="Kyle Williams">
-  <span class="mentor-tile-body">
-    <span class="mentor-tile-name">Kyle Williams</span>
-    <span class="mentor-tile-title">Software Engineer, Lakeview Investment Group</span>
-  </span>
-</a>
-
-</div>
-
-## Full Profiles {.section-gap}
-
-### {#moses-chan-profile .toc-super}
-
-::: {.profile-card .super-mentor}
-
-::: {.profile-topbar}
-::: {.profile-topbar-left}
-::: {.guest-label}
-Super Mentor
-:::
-:::
-
-[Go back to top ↑](#top){.back-to-top}
-:::
-
-::: {.profile-name}
-Moses Chan
-:::
-
-::: {.profile-photo .right}
+::: {.guest-card .super-mentor .right}
+::: {.guest-photo}
 ![](images/moses.jpg){alt="Moses Chan"}
 :::
 
-::: {.profile-role}
-Assistant Professor of Instruction, IEMS, Northwestern University
-:::
+<div class="guest-label">Super Mentor</div>
+
+<div class="guest-name">Moses Chan</div>
+
+<div class="guest-role">Assistant Professor of Instruction, IEMS, Northwestern University</div>
 
 Moses co-directs the Minor in Machine Learning & Data Science. His research focuses on developing efficient algorithms at the intersection of statistical theory, computer modeling, and the physical sciences, with particular emphasis on Bayesian computation and data science education in engineering.
 
-<details class="profile-details">
-<summary>Read full profile</summary>
+<details class="guest-details">
+<summary>Read more</summary>
 
 <div class="details-content">
 
@@ -415,36 +243,23 @@ Chan is an active contributor to the NSF CSSI Framework for Bayesian Analysis of
 </details>
 :::
 
-### {#shengbin-ye-profile .toc-super}
+### Shengbin Ye {#shengbin-ye .mentor-anchor}
 
-::: {.profile-card .super-mentor}
-
-::: {.profile-topbar}
-::: {.profile-topbar-left}
-::: {.guest-label}
-Super Mentor
-:::
-:::
-
-[Go back to top ↑](#top){.back-to-top}
-:::
-
-::: {.profile-name}
-Shengbin Ye
-:::
-
-::: {.profile-photo .left}
+::: {.guest-card .super-mentor .left}
+::: {.guest-photo}
 ![](images/shengbin.jpg){alt="Shengbin Ye"}
 :::
 
-::: {.profile-role}
-Assistant Professor of Instruction, Department of Statistics and Data Science, Northwestern University
-:::
+<div class="guest-label">Super Mentor</div>
+
+<div class="guest-name">Shengbin Ye</div>
+
+<div class="guest-role">Assistant Professor of Instruction, Department of Statistics and Data Science, Northwestern University</div>
 
 Shengbin co-instructs the undergraduate data science curriculum and co-advises the MS program in Statistics and Data Science. He is passionate about making complex data easy to understand. His research focuses on symbolic regression—a way of teaching computers to find simple, human-readable math equations that explain patterns in data. By combining statistical theory with efficient algorithms, he helps turn "black box" models into transparent insights that anyone can interpret.
 
-<details class="profile-details">
-<summary>Read full profile</summary>
+<details class="guest-details">
+<summary>Read more</summary>
 
 <div class="details-content">
 
@@ -456,36 +271,23 @@ Shengbin holds a Ph.D. in Statistics from Rice University. He joined the Departm
 </details>
 :::
 
-### {#shreeya-behera-profile .toc-super}
+### Shreeya Behera {#shreeya-behera .mentor-anchor}
 
-::: {.profile-card .super-mentor}
-
-::: {.profile-topbar}
-::: {.profile-topbar-left}
-::: {.guest-label}
-Super Mentor
-:::
-:::
-
-[Go back to top ↑](#top){.back-to-top}
-:::
-
-::: {.profile-name}
-Shreeya Behera
-:::
-
-::: {.profile-photo .right}
+::: {.guest-card .super-mentor .right}
+::: {.guest-photo}
 ![](images/shreeya.jpg){alt="Shreeya Behera"}
 :::
 
-::: {.profile-role}
-Assistant Professor of Instruction, Department of Statistics and Data Science, Northwestern University
-:::
+<div class="guest-label">Super Mentor</div>
+
+<div class="guest-name">Shreeya Behera</div>
+
+<div class="guest-role">Assistant Professor of Instruction, Department of Statistics and Data Science, Northwestern University</div>
 
 Before joining Northwestern, Shreeya was a Data Scientist at Pandora Bio. She is also a passionate educator and deeply interested in using data science to improve education and student mental health.
 
-<details class="profile-details">
-<summary>Read full profile</summary>
+<details class="guest-details">
+<summary>Read more</summary>
 
 <div class="details-content">
 
@@ -497,36 +299,25 @@ Shreeya received her PhD in Mathematics and a minor in Computer Science from The
 </details>
 :::
 
-### {#karthik-prabhu-profile .toc-super}
+## Mentors {#mentors}
 
-::: {.profile-card}
+### Karthik Prabhu {#karthik-prabhu .mentor-anchor}
 
-::: {.profile-topbar}
-::: {.profile-topbar-left}
-::: {.guest-label}
-Mentor
-:::
-:::
-
-[Go back to top ↑](#top){.back-to-top}
-:::
-
-::: {.profile-name}
-Karthik Prabhu
-:::
-
-::: {.profile-photo .left}
+::: {.guest-card .left}
+::: {.guest-photo}
 ![](images/karthik.jpg){alt="Karthik Prabhu"}
 :::
 
-::: {.profile-role}
-PhD graduate, UC Davis
-:::
+<div class="guest-label">Mentor</div>
+
+<div class="guest-name">Karthik Prabhu</div>
+
+<div class="guest-role">PhD graduate, UC Davis</div>
 
 Karthik is a recent PhD graduate in Physics from UC Davis, where his work focused on cosmology, machine learning, and statistical modeling. He has experience applying machine learning techniques to real-world data, and currently works in fraud analytics, building models for detection and risk assessment.
 
-<details class="profile-details">
-<summary>Read full profile</summary>
+<details class="guest-details">
+<summary>Read more</summary>
 
 <div class="details-content">
 
@@ -538,36 +329,23 @@ Karthik is an AI enthusiast and enjoys keeping up with breakthroughs in foundati
 </details>
 :::
 
-### {#harvey-wang-profile .toc-super}
+### Harvey Wang {#harvey-wang .mentor-anchor}
 
-::: {.profile-card}
-
-::: {.profile-topbar}
-::: {.profile-topbar-left}
-::: {.guest-label}
-Mentor
-:::
-:::
-
-[Go back to top ↑](#top){.back-to-top}
-:::
-
-::: {.profile-name}
-Harvey Wang
-:::
-
-::: {.profile-photo .right}
+::: {.guest-card .right}
+::: {.guest-photo}
 ![](images/harvey.png){alt="Harvey Wang"}
 :::
 
-::: {.profile-role}
-Corporate Strategy and Development Analyst, Molex
-:::
+<div class="guest-label">Mentor</div>
+
+<div class="guest-name">Harvey Wang</div>
+
+<div class="guest-role">Corporate Strategy and Development Analyst, Molex</div>
 
 Harvey is a recent graduate of Northwestern with majors in Data Science and Economics and a minor in Comparative Literature. He builds internal data tools and designs go-to-market strategies for AI-driven data center infrastructure.
 
-<details class="profile-details">
-<summary>Read full profile</summary>
+<details class="guest-details">
+<summary>Read more</summary>
 
 <div class="details-content">
 
@@ -579,36 +357,23 @@ He has also participated in a Northwestern ML research team where he trained neu
 </details>
 :::
 
-### {#jeffrey-yuan-profile .toc-super}
+### Jeffrey Yuan {#jeffrey-yuan .mentor-anchor}
 
-::: {.profile-card}
-
-::: {.profile-topbar}
-::: {.profile-topbar-left}
-::: {.guest-label}
-Mentor
-:::
-:::
-
-[Go back to top ↑](#top){.back-to-top}
-:::
-
-::: {.profile-name}
-Jeffrey Yuan
-:::
-
-::: {.profile-photo .left}
+::: {.guest-card .left}
+::: {.guest-photo}
 ![](images/jeffrey.jpg){alt="Jeffrey Yuan"}
 :::
 
-::: {.profile-role}
-Fourth-year BS/MS Student in Statistics and Data Science, Northwestern University
-:::
+<div class="guest-label">Mentor</div>
+
+<div class="guest-name">Jeffrey Yuan</div>
+
+<div class="guest-role">Fourth-year BS/MS Student in Statistics and Data Science, Northwestern University</div>
 
 Jeffrey is passionate about data science, machine learning, and AI, and currently works as a Data Scientist at CME Group. His work has explored topics such as graph neural networks, recommendation systems, LLM chain-of-thought reasoning, and agentic AI tools for complex data workflows.
 
-<details class="profile-details">
-<summary>Read full profile</summary>
+<details class="guest-details">
+<summary>Read more</summary>
 
 <div class="details-content">
 
@@ -620,36 +385,23 @@ On campus, Jeffrey’s research focuses on applying statistical and machine lear
 </details>
 :::
 
-### {#jake-miller-profile .toc-super}
+### Jake Miller {#jake-miller .mentor-anchor}
 
-::: {.profile-card}
-
-::: {.profile-topbar}
-::: {.profile-topbar-left}
-::: {.guest-label}
-Mentor
-:::
-:::
-
-[Go back to top ↑](#top){.back-to-top}
-:::
-
-::: {.profile-name}
-Jake Miller
-:::
-
-::: {.profile-photo .right}
+::: {.guest-card .right}
+::: {.guest-photo}
 ![](images/jake.jpg){alt="Jake Miller"}
 :::
 
-::: {.profile-role}
-Data Science Senior, Northwestern University
-:::
+<div class="guest-label">Mentor</div>
+
+<div class="guest-name">Jake Miller</div>
+
+<div class="guest-role">Data Science Senior, Northwestern University</div>
 
 Throughout his college career, Jake has taken many classes in the Statistics department and has especially enjoyed his coursework in machine learning techniques.
 
-<details class="profile-details">
-<summary>Read full profile</summary>
+<details class="guest-details">
+<summary>Read more</summary>
 
 <div class="details-content">
 
@@ -661,36 +413,23 @@ Some projects he has worked on include building and quantizing a CNN model to cr
 </details>
 :::
 
-### {#kyle-williams-profile .toc-super}
+### Kyle Williams {#kyle-williams .mentor-anchor}
 
-::: {.profile-card}
-
-::: {.profile-topbar}
-::: {.profile-topbar-left}
-::: {.guest-label}
-Mentor
-:::
-:::
-
-[Go back to top ↑](#top){.back-to-top}
-:::
-
-::: {.profile-name}
-Kyle Williams
-:::
-
-::: {.profile-photo .left}
+::: {.guest-card .left}
+::: {.guest-photo}
 ![](images/kyle.jpg){alt="Kyle Williams"}
 :::
 
-::: {.profile-role}
-Software Engineer, Lakeview Investment Group
-:::
+<div class="guest-label">Mentor</div>
+
+<div class="guest-name">Kyle Williams</div>
+
+<div class="guest-role">Software Engineer, Lakeview Investment Group</div>
 
 Kyle earned his BS in Computer Science with a Minor in Data Science in June 2023, followed by an MS in Computer Science in June 2024. While he took a majority of his courseload in the CS Department, it is the application of math, statistics, and science through code that is the most interesting to him.
 
-<details class="profile-details">
-<summary>Read full profile</summary>
+<details class="guest-details">
+<summary>Read more</summary>
 
 <div class="details-content">
 

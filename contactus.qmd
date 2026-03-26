@@ -1,27 +1,222 @@
 ---
 title: "DataFest Organizing Committee"
+format: html
 ---
 
-If you have any questions, comments, feedback, are interested in contributing to the event (through sponsorship or volunteering), or would like to learn more about the Organizing Committee’s experience with ASA DataFest 2025 at Northwestern—especially if you're considering joining the team for DataFest 2026—please feel free to reach out to any of our team members.
+Below are the organizing committee members for ASA DataFest 2026. Please feel free to reach out to us at `nudatafest@gmail.com`.
 
-Below are the contact details of the ASA DataFest 2026 organizing committee members.
 
-::: {layout-ncol=2, layout-nrow=1}
+```{=html}
+<style>
+:root {
+  --df-purple: #4E2A84;
+  --df-purple-dark: #3b1f63;
+  --df-text: #2f2f35;
+  --df-muted: #6b7280;
+  --df-border: rgba(78, 42, 132, 0.12);
+  --df-shadow: 0 10px 24px rgba(46, 16, 84, 0.10);
+  --df-card-bg: #ffffff;
+}
 
-![**Krish** (Arvind Krishna)<br>
-**Committee Chair & Faculty Coordinator**<br>
-krish [AT] northwestern.edu](images/krish_pic.jpg){width=50%}
+.category-row {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: 1rem;
+  align-items: stretch;
+  margin: 2rem 0;
+}
 
-![**Emre Besler**<br>
-**Faculty Coordinator**<br> 
-emre.besler [AT] northwestern.edu](images/emrebesler.jpg){width=53%}
+.category-label-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  flex-shrink: 0;
+}
 
-:::
+.category-label {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  white-space: nowrap;
+  font-weight: 800;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: var(--df-purple);
+  font-size: 0.95rem;
+  border-left: 3px solid var(--df-purple);
+  padding-left: 0.5rem;
+}
 
-::: {layout-ncol=2, layout-nrow=1}
+.member-grid {
+  display: grid;
+  gap: 1.25rem;
+}
 
-![**Hyouji Joo**<br>
-**Student Coordinator**<br>
-hyoujijoo2027 [AT] u.northwestern.edu](images/hyouji.JPG){width=30%  fig-align="left"}
+.member-grid.three {
+  grid-template-columns: repeat(3, minmax(180px, 1fr));
+}
 
-:::
+.member-grid.two {
+  grid-template-columns: repeat(2, minmax(180px, 1fr));
+}
+
+.member-card {
+  background: var(--df-card-bg);
+  border: 1px solid var(--df-border);
+  border-radius: 18px;
+  box-shadow: var(--df-shadow);
+  overflow: hidden;
+  text-align: center;
+}
+
+.member-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center 20%;
+  display: block;
+}
+
+.member-info {
+  padding: 0.6rem 0.75rem 0.75rem;
+}
+
+.member-name {
+  font-weight: 800;
+  color: var(--df-text);
+  font-size: 1.02rem;
+  line-height: 1.25;
+  margin-bottom: 0.15rem;
+}
+
+.member-email {
+  color: var(--df-muted);
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+
+@media (max-width: 900px) {
+  .member-grid.three {
+    grid-template-columns: repeat(2, minmax(180px, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .member-grid.three,
+  .member-grid.two {
+    grid-template-columns: 1fr;
+  }
+
+  .category-row {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .category-label-wrap {
+    justify-content: flex-start;
+    min-height: auto;
+  }
+
+  .category-label {
+    transform: none;
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+  }
+}
+</style>
+
+<div class="category-row">
+  <div class="category-label-wrap">
+    <div class="category-label">Faculty Coordinators</div>
+  </div>
+
+  <div class="member-grid two">
+    <div class="member-card">
+      <img src="images/krish_pic.jpg" alt="Krish (Arvind Krishna)" style="object-position: center 10%;">
+      <div class="member-info">
+        <div class="member-name">Krish (Arvind Krishna)</div>
+      </div>
+    </div>
+
+    <div class="member-card">
+      <img src="images/emrebesler.jpg" alt="Emre Besler" style="object-position: center 10%;">
+      <div class="member-info">
+        <div class="member-name">Emre Besler</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="category-row">
+  <div class="category-label-wrap">
+    <div class="category-label">Digital Media</div>
+  </div>
+
+  <div class="member-grid three">
+    <div class="member-card">
+      <img src="images/hyouji2.jpg" alt="Hyouji Joo">
+      <div class="member-info">
+        <div class="member-name">Hyouji Joo</div>
+      </div>
+    </div>
+
+    <div class="member-card">
+      <img src="images/isabella.png" alt="Isabella Toth">
+      <div class="member-info">
+        <div class="member-name">Isabella Toth</div>
+      </div>
+    </div>
+
+    <div class="member-card">
+      <img src="images/jamie.jpg" alt="Jamie">
+      <div class="member-info">
+        <div class="member-name">Jamie Chun</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="category-row">
+  <div class="category-label-wrap">
+    <div class="category-label">Communications</div>
+  </div>
+
+  <div class="member-grid two">
+    <div class="member-card">
+      <img src="images/lily.jpg" alt="Lily Wu" style="object-position: center 10%;">
+      <div class="member-info">
+        <div class="member-name">Lily Wu</div>
+      </div>
+    </div>
+
+    <div class="member-card">
+      <img src="images/pooja.jpg" alt="Pooja Kantemneni">
+      <div class="member-info">
+        <div class="member-name">Pooja Kantemneni</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="category-row">
+  <div class="category-label-wrap">
+    <div class="category-label">Logistics</div>
+  </div>
+
+  <div class="member-grid two">
+    <div class="member-card">
+      <img src="images/adrian.jpg" alt="Adrian Lin">
+      <div class="member-info">
+        <div class="member-name">Adrian Lin</div>
+      </div>
+    </div>
+
+    <div class="member-card">
+      <img src="images/alex.jpg" alt="Alex Ding">
+      <div class="member-info">
+        <div class="member-name">Alex Ding</div>
+      </div>
+    </div>
+  </div>
+</div>
+```

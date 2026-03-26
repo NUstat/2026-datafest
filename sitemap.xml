@@ -1,79 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://NUstat.github.io/2026-datafest/signup.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/panelists_judges - Copy.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
+    <loc>https://NUstat.github.io/2026-datafest/contactus.html</loc>
+    <lastmod>2026-03-26T09:45:02.934Z</lastmod>
   </url>
   <url>
     <loc>https://NUstat.github.io/2026-datafest/sponsors.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/panelists_judges_2025.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/participants.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/panelists_judges_AI.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/index.html</loc>
-    <lastmod>2026-03-26T04:03:33.266Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/resources.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/coc.html</loc>
-    <lastmod>2026-03-26T04:03:32.402Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/panelists_judges.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/judges.html</loc>
-    <lastmod>2026-03-26T04:03:33.266Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/schedule.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/contactus.html</loc>
-    <lastmod>2026-03-26T04:03:32.402Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/mentors.html</loc>
-    <lastmod>2026-03-26T04:03:33.266Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NUstat.github.io/2026-datafest/pictures.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
   </url>
   <url>
     <loc>https://NUstat.github.io/2026-datafest/faqs.html</loc>
-    <lastmod>2026-03-26T04:03:32.757Z</lastmod>
+    <lastmod>2026-03-26T09:45:03.331Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/signup.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/resources.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/mentors.html</loc>
+    <lastmod>2026-03-26T09:45:03.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/panelists_judges - Copy.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/panelists_judges.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/pre_datafest.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/index.html</loc>
+    <lastmod>2026-03-26T09:45:03.909Z</lastmod>
   </url>
   <url>
     <loc>https://NUstat.github.io/2026-datafest/winners.html</loc>
-    <lastmod>2026-03-26T04:03:33.267Z</lastmod>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
   </url>
   <url>
     <loc>https://NUstat.github.io/2026-datafest/mentors_old_style.html</loc>
-    <lastmod>2026-03-26T04:03:33.266Z</lastmod>
+    <lastmod>2026-03-26T09:45:03.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/participants.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/panelists_judges_2025.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/coc.html</loc>
+    <lastmod>2026-03-26T09:45:02.934Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/panelists_judges_AI.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/pictures.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/judges.html</loc>
+    <lastmod>2026-03-26T09:45:03.909Z</lastmod>
   </url>
   <url>
     <loc>https://NUstat.github.io/2026-datafest/panel_discussion.html</loc>
-    <lastmod>2026-03-26T04:03:33.266Z</lastmod>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NUstat.github.io/2026-datafest/schedule.html</loc>
+    <lastmod>2026-03-26T09:45:03.910Z</lastmod>
   </url>
 </urlset>

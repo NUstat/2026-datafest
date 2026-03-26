@@ -22,6 +22,8 @@ website:
         text: Sign Up
       - href: schedule.qmd
         text: Schedule
+      - href: pre_datafest.qmd
+        text: Pre-DataFest  
       - href: panelists_judges.qmd
         text: Distinguished Guests
       - href: judges.qmd

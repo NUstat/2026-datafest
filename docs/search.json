@@ -436,7 +436,7 @@
   {
     "objectID": "mentors.html",
     "href": "mentors.html",
-    "title": "Meet Our Team Mentors",
+    "title": "DataFest 2026",
     "section": "",
     "text": "Meet our talented team mentors! They will be mentoring the competing teams."
   },
@@ -744,35 +744,35 @@
   {
     "objectID": "judges.html",
     "href": "judges.html",
-    "title": "Meet Our Judges",
+    "title": "DataFest 2026",
     "section": "",
     "text": "Below are the judges confirmed for DataFest 2026. These distinguished professionals and faculty bring expertise across AI, healthcare, statistics, and industry practice."
   },
   {
     "objectID": "judges.html#daniel-kirsner",
     "href": "judges.html#daniel-kirsner",
-    "title": "Meet Our Judges",
+    "title": "DataFest 2026",
     "section": "Daniel Kirsner",
     "text": "Daniel Kirsner\n\nAI/ML Lead at JPMorganChase\n\nDaniel Kirsner has a PhD in Bayesian Statistics from UC Santa Cruz. He specializes in synthesizing machine learning, optimization, and traditional statistical approaches to make better decisions at scale.\n\n\nRead more\n\n\nHis experience at JPMorganChase includes cobrand credit card acquisitions, the supply chain of physical currency, and ATM fleet optimization. Away from work, he can usually be found in Oak Park playing his tuba or tending to his garden."
   },
   {
     "objectID": "judges.html#kumar-murukurthy",
     "href": "judges.html#kumar-murukurthy",
-    "title": "Meet Our Judges",
+    "title": "DataFest 2026",
     "section": "Kumar Murukurthy",
     "text": "Kumar Murukurthy\n\nAI Executive, Chief Clinical Officer, Optimum Healthcare\n\nKumar Murukurthy is a distinguished leader in the healthcare sector with over 25 years of experience, known for his expertise in data governance and analytics.\n\n\nRead more\n\n\nHis roles as VP of IT/CIO at CommonSpirit, CIO at Walmart, CIO of Altais/Blue Shield, and Chief Clinical Officer of Optimum HIT highlight his ability to enhance patient care through effective data integration. Kumar excels in engaging stakeholders to create solutions that prioritize patient experience and satisfaction.\nHis skills in project management and strategic planning enable him to deliver sustainable, efficient solutions that align with organizational goals. Passionate about technology and continuous improvement, Kumar remains at the forefront of healthcare IT, driving positive change and shaping the future of the industry."
   },
   {
     "objectID": "judges.html#aziz-pulatov",
     "href": "judges.html#aziz-pulatov",
-    "title": "Meet Our Judges",
+    "title": "DataFest 2026",
     "section": "Aziz Pulatov",
     "text": "Aziz Pulatov\n\nSenior Software Engineer III at JPMorgan Chase\n\nAziz has driven key projects in the Navigator platform, achieving significant efficiency gains through AI automation. With over 25 years in software development and data science, he excels in full lifecycle delivery.\n\n\nRead more\n\n\nFrom end-to-end implementation to deployment and auditing, Aziz has developed end-to-end ML solutions, from data preparation to production deployment."
   },
   {
     "objectID": "judges.html#hui-zhang",
     "href": "judges.html#hui-zhang",
-    "title": "Meet Our Judges",
+    "title": "DataFest 2026",
     "section": "Hui Zhang",
     "text": "Hui Zhang\n\nProfessor, Biostatistics and Informatics, Department of Preventive Medicine, Northwestern University\n\nDr. Hui Zhang is a Professor of Preventive Medicine (Biostatistics) in the Division of Biostatistics & Informatics, Department of Preventive Medicine, Northwestern University Feinberg School of Medicine.\n\n\nRead more\n\n\nHe is Director of Data Management and Statistics Core in the Mesulam Center for Cognitive Neurology and Alzheimer’s Disease, and Director of Biostatistics and Bioinformatics Core of Northwestern Brain Tumor SPORE. He obtained his Ph.D. in Statistics from the University of Rochester, and before joining Northwestern, he was an Associate Member at the Department of Biostatistics, St. Jude Children’s Research Hospital.\nHe has extensive experience in applying statistics in biomedical research and expertise in cancer research, neuroscience, and cell biology. He has designed and participated in more than one hundred Phase I, II and III clinical trial studies. His methodology research interests include categorical data, longitudinal data, missing data, and, recently, high-resolution microscope image data analysis.\nIn addition to regularly teaching statistical learning and mentoring Ph.D./master’s students, he has also mentored multiple junior faculty, postdocs, and master-level biostatisticians. He was the president of the West Tennessee Chapter of the American Statistical Association (WTASA)."
   },
@@ -800,14 +800,14 @@
   {
     "objectID": "judges.html#monica-mittal",
     "href": "judges.html#monica-mittal",
-    "title": "Meet Our Judges",
+    "title": "DataFest 2026",
     "section": "Monica Mittal",
     "text": "Monica Mittal\n\nSenior Data Scientist in Applied AI and ML, JPMorganChase\n\nDr. Monika Mittal has a PhD in Physics and over 15 years of experience working with large-scale scientific and enterprise data. She spent more than a decade as a Postdoctoral Researcher at CERN, where she contributed to advanced Particle Physics research associated with the Nobel Prize–winning discovery of the Higgs boson.\n\n\nRead more\n\n\nAt CERN, her work focused on extracting insights from massive experimental datasets using advanced statistical and computational techniques for the precise measurement of Vector Boson Fusion at CMS and ATLAS experiment. She also led development efforts at the detector edge.\nTransitioning from fundamental science to industry, Monika now applies her expertise in machine learning, predictive modeling, and data-driven decision systems to solve complex business problems. She specializes in working with regulatory and compliance-related data, leveraging large language models (LLMs), agentic AI, and RAG systems to automate analysis, extract knowledge from complex documents, and support intelligent decision-making. Monika is passionate about building scalable AI solutions that bridge scientific methodology with real-world business needs, transforming complex data into actionable insights and impactful applications."
   },
   {
     "objectID": "judges.html#beth-andrews",
     "href": "judges.html#beth-andrews",
-    "title": "Meet Our Judges",
+    "title": "DataFest 2026",
     "section": "Beth Andrews",
     "text": "Beth Andrews\n\nAssociate Professor of Statistics and Data Science, Northwestern University\n\nBeth Andrews is an expert on modeling and forecasting dependent data processes, with applications in fields such as economics and finance, the medical sciences, and signal processing.\n\n\nRead more\n\n\nHer work has been supported by grants from the National Science Foundation, the National Institutes of Health, and the U.S. Department of Health and Human Services. At Northwestern, Professor Andrews teaches courses on general statistical methods, probability, and the analysis of dependent data. She is currently Chair of the Business and Economics Statistics Section of the American Statistical Association."
   },
@@ -919,22 +919,36 @@
   {
     "objectID": "mentors.html#super-mentors",
     "href": "mentors.html#super-mentors",
-    "title": "Meet Our Team Mentors",
+    "title": "DataFest 2026",
     "section": "Super Mentors",
     "text": "Super Mentors\n\n   Moses Chan Assistant Professor of Instruction, IEMS, Northwestern University  \n   Shengbin Ye Assistant Professor of Instruction, Statistics and Data Science, Northwestern University  \n   Shreeya Behera Assistant Professor of Instruction, Statistics and Data Science, Northwestern University"
   },
   {
     "objectID": "mentors.html#mentors",
     "href": "mentors.html#mentors",
-    "title": "Meet Our Team Mentors",
+    "title": "DataFest 2026",
     "section": "Mentors",
     "text": "Mentors\n\n   Karthik Prabhu PhD graduate, UC Davis  \n   Harvey Wang Corporate Strategy and Development Analyst, Molex  \n   Jeffrey Yuan Fourth-year BS/MS Student, Statistics and Data Science, Northwestern University  \n   Jake Miller Data Science Senior, Northwestern University  \n   Kyle Williams Software Engineer, Lakeview Investment Group"
   },
   {
     "objectID": "mentors.html#full-profiles",
     "href": "mentors.html#full-profiles",
-    "title": "Meet Our Team Mentors",
+    "title": "DataFest 2026",
     "section": "Full Profiles",
     "text": "Full Profiles\n\n\n\n\n\n\nSuper Mentor\n\n\nGo back to top ↑\n\n\nMoses Chan\n\n\n\n\n\nAssistant Professor of Instruction, IEMS, Northwestern University\n\nMoses co-directs the Minor in Machine Learning & Data Science. His research focuses on developing efficient algorithms at the intersection of statistical theory, computer modeling, and the physical sciences, with particular emphasis on Bayesian computation and data science education in engineering.\n\n\nRead full profile\n\n\nHe holds a Ph.D. in Industrial Engineering and Management Sciences from Northwestern University. He is the recipient of the 2025/26 Searle Fellowship.\nChan is an active contributor to the NSF CSSI Framework for Bayesian Analysis of Nuclear Dynamics, developing and maintaining the open-source packages surmise and LCGP. In Summer 2025, he collaborated as a Visiting Researcher on projects quantifying parameter importance in numerical physics models at Chalmers University of Technology in Gothenburg, Sweden.\nMentorship Style: Chan believes progress matters more than perfection. He works closely with students to build a genuine understanding of their data problems — encouraging them to question assumptions, communicate findings clearly, and think critically at every step. His goal is to make sure students feel supported as they tackle real-world challenges together.\n\n\n\n\n\n\n\n\n\n\nSuper Mentor\n\n\nGo back to top ↑\n\n\nShengbin Ye\n\n\n\n\n\nAssistant Professor of Instruction, Department of Statistics and Data Science, Northwestern University\n\nShengbin co-instructs the undergraduate data science curriculum and co-advises the MS program in Statistics and Data Science. He is passionate about making complex data easy to understand. His research focuses on symbolic regression—a way of teaching computers to find simple, human-readable math equations that explain patterns in data. By combining statistical theory with efficient algorithms, he helps turn “black box” models into transparent insights that anyone can interpret.\n\n\nRead full profile\n\n\nShengbin holds a Ph.D. in Statistics from Rice University. He joined the Department of Statistics and Data Science in September 2025. His research background includes work on high-dimensional regression and nonparametric variable selection. He is an advocate for open-source software and reproducible research, frequently working with R and Python to solve complex data challenges.\nMentorship Style: Shengbin believes in the iterative nature of data science. He encourages students to view model building as a process of continuous refinement rather than a single destination. He is an active listener who helps students think critically about their evidence, guiding them to bridge the gap between complex statistical results and persuasive, high-level narratives.\n\n\n\n\n\n\n\n\n\n\nSuper Mentor\n\n\nGo back to top ↑\n\n\nShreeya Behera\n\n\n\n\n\nAssistant Professor of Instruction, Department of Statistics and Data Science, Northwestern University\n\nBefore joining Northwestern, Shreeya was a Data Scientist at Pandora Bio. She is also a passionate educator and deeply interested in using data science to improve education and student mental health.\n\n\nRead full profile\n\n\nShreeya received her PhD in Mathematics and a minor in Computer Science from The Ohio State University in 2024. Her research spans combinatorics, graph theory, and machine learning. At Pandora Bio, she built machine learning models for early detection of stress and anxiety triggers in college students, contributing to work at the intersection of data science, mental health, and education.\nMentorship Style: She is a careful listener who takes the time to understand exactly where a student is struggling before offering guidance. She focuses on strengthening fundamentals and explaining concepts in a way that is clear, approachable, and tailored to each student’s level of experience.\n\n\n\n\n\n\n\n\n\n\nMentor\n\n\nGo back to top ↑\n\n\nKarthik Prabhu\n\n\n\n\n\nPhD graduate, UC Davis\n\nKarthik is a recent PhD graduate in Physics from UC Davis, where his work focused on cosmology, machine learning, and statistical modeling. He has experience applying machine learning techniques to real-world data, and currently works in fraud analytics, building models for detection and risk assessment.\n\n\nRead full profile\n\n\nKarthik is an AI enthusiast and enjoys keeping up with breakthroughs in foundational models. He has worked on topics ranging from Bayesian inference, image processing, time-series analysis, anomaly detection, and generative AI.\nMentorship Style: Karthik encourages curiosity-driven learning and is passionate about helping others grow in their data science and machine learning journey. He asks questions to help the mentees think through the problems and build confidence in their problem-solving skills.\n\n\n\n\n\n\n\n\n\n\nMentor\n\n\nGo back to top ↑\n\n\nHarvey Wang\n\n\n\n\n\nCorporate Strategy and Development Analyst, Molex\n\nHarvey is a recent graduate of Northwestern with majors in Data Science and Economics and a minor in Comparative Literature. He builds internal data tools and designs go-to-market strategies for AI-driven data center infrastructure.\n\n\nRead full profile\n\n\nHe has also participated in a Northwestern ML research team where he trained neural networks to classify ocular cancer. Additionally, Harvey has worked with Chicagoland nonprofits to manage large-scale donor data and identify high-impact retention tactics. He is experienced in data structures, statistical modeling, and market sizing. Harvey is passionate about discussing ML concepts and helping teams bridge the gap between technical analysis and executive-level strategy.\nMentorship Style: Harvey is creative, communicative, and evidence-driven, focusing on impactful modeling and clear data storytelling. He is an active listener who enjoys helping teams translate complex outputs into persuasive, high-level narratives that drive decision-making.\n\n\n\n\n\n\n\n\n\n\nMentor\n\n\nGo back to top ↑\n\n\nJeffrey Yuan\n\n\n\n\n\nFourth-year BS/MS Student in Statistics and Data Science, Northwestern University\n\nJeffrey is passionate about data science, machine learning, and AI, and currently works as a Data Scientist at CME Group. His work has explored topics such as graph neural networks, recommendation systems, LLM chain-of-thought reasoning, and agentic AI tools for complex data workflows.\n\n\nRead full profile\n\n\nOn campus, Jeffrey’s research focuses on applying statistical and machine learning methods to problems in drug discovery and medical AI, including improving reasoning and counterfactual analysis in large language models. He also enjoys teaching and mentoring students in statistics and data science and has served as a teaching assistant for Northwestern’s Data Science sequence and Advanced Machine Learning courses. Outside of data science, he enjoys playing basketball, swimming, and exploring new food spots around Chicago.\nMentorship Style: At DataFest, Jeffrey is excited to collaborate with different teams, dive into new datasets, and uncover the interesting stories hidden in data.\n\n\n\n\n\n\n\n\n\n\nMentor\n\n\nGo back to top ↑\n\n\nJake Miller\n\n\n\n\n\nData Science Senior, Northwestern University\n\nThroughout his college career, Jake has taken many classes in the Statistics department and has especially enjoyed his coursework in machine learning techniques.\n\n\nRead full profile\n\n\nSome projects he has worked on include building and quantizing a CNN model to create a lightweight word detection model and building a dashboard to help break down call data for a non-profit law firm. Though he started full-time work in September, he is currently working on a personal project to build an NBA salary cap manager application.\nMentorship Style: As a mentor, Jake hopes to be a great sounding board for his mentees to bounce ideas off of. Jake also loves to talk more about his school and career path to give insights in any way and place that he can.\n\n\n\n\n\n\n\n\n\n\nMentor\n\n\nGo back to top ↑\n\n\nKyle Williams\n\n\n\n\n\nSoftware Engineer, Lakeview Investment Group\n\nKyle earned his BS in Computer Science with a Minor in Data Science in June 2023, followed by an MS in Computer Science in June 2024. While he took a majority of his courseload in the CS Department, it is the application of math, statistics, and science through code that is the most interesting to him.\n\n\nRead full profile\n\n\nKyle has always been drawn to Machine Learning and Data Analysis. Being able to understand and communicate about data makes him feel powerful and responsible.\nAs a part of his master’s, Kyle completed a Thesis on LLMs (Large Language Models), where he augmented the attention mechanism to use Euclidean distance instead of dot-product to improve the performance of small models on OpenBookQA by 14%. Currently, Kyle is helping build high-speed, real-time dashboards and trading systems to display important statistics and execute orders when certain triggers are reached.\nMentorship Style: Kyle’s greatest strength as a mentor is his patience. As a triplet, Kyle had to share everything – even a birthday – and it’s made him a great listener, effective mediator and strong communicator. Kyle loves talking about code, and he hopes to be a resource for any student who wants to learn more about what it means to be a Computer Scientist in industry. Outside of tech, Kyle’s also a big fan of wrestling and football—and always happy to connect over either!"
+  },
+  {
+    "objectID": "judges.html#judges",
+    "href": "judges.html#judges",
+    "title": "DataFest 2026",
+    "section": "Judges",
+    "text": "Judges\n\n   Daniel Kirsner AI/ML Lead, JPMorganChase  \n   Kumar Murukurthy Chief Clinical Officer, Optimum Healthcare  \n   Monica Mittal Senior Data Scientist, JPMorganChase  \n   Hui Zhang Professor, Northwestern  \n   Beth Andrews Associate Professor, Northwestern  \n   Aziz Pulatov Senior Software Engineer, JPMorgan Chase"
+  },
+  {
+    "objectID": "judges.html#full-profiles",
+    "href": "judges.html#full-profiles",
+    "title": "DataFest 2026",
+    "section": "Full Profiles",
+    "text": "Full Profiles\n\n\n\n\n\n\nJudge\n\n\nGo back to top ↑\n\n\nDaniel Kirsner\n\n\n\n\n\nAI/ML Lead at JPMorganChase\n\nDaniel Kirsner has a PhD in Bayesian Statistics from UC Santa Cruz. He specializes in synthesizing machine learning, optimization, and traditional statistical approaches.\n\n\nRead full profile\n\n\nHis experience includes cobrand credit card acquisitions, currency supply chain, and ATM optimization.\n\n\n\n\n\n\n\n\n\n\n\nJudge\n\n\nGo back to top ↑\n\n\nKumar Murukurthy\n\n\n\n\n\nChief Clinical Officer, Optimum Healthcare\n\nKumar has 25+ years of leadership experience in healthcare analytics and data governance.\n\n\nRead full profile\n\n\nExtensive leadership roles including CIO at Walmart and CommonSpirit.\n\n\n\n\n\n\n\n\n\n\n\nJudge\n\n\nGo back to top ↑\n\n\nMonica Mittal\n\n\n\n\n\nSenior Data Scientist, JPMorganChase\n\nPhD in Physics with experience at CERN and enterprise AI systems.\n\n\nRead full profile\n\n\nExpert in large-scale data, LLMs, and decision systems.\n\n\n\n\n\n\n\n\n\n\n\nJudge\n\n\nGo back to top ↑\n\n\nHui Zhang\n\n\n\n\n\nProfessor, Northwestern University\n\nExpert in biostatistics, clinical trials, and biomedical data.\n\n\nRead full profile\n\n\nDirected multiple biostatistics cores and led clinical trial research.\n\n\n\n\n\n\n\n\n\n\n\nJudge\n\n\nGo back to top ↑\n\n\nBeth Andrews\n\n\n\n\n\nAssociate Professor, Northwestern University\n\nFocuses on modeling dependent data in economics and science.\n\n\nRead full profile\n\n\nSupported by NSF, NIH, and federal research grants.\n\n\n\n\n\n\n\n\n\n\n\nJudge\n\n\nGo back to top ↑\n\n\nAziz Pulatov\n\n\n\n\n\nSenior Software Engineer, JPMorgan Chase\n\n25+ years in software engineering and data science.\n\n\nRead full profile\n\n\nSpecializes in end-to-end ML systems and production deployment."
   }
 ]

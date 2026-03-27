@@ -367,6 +367,14 @@ Meet our talented team mentors! They will be mentoring the competing teams.
   </span>
 </a>
 
+<a class="mentor-tile" href="#harrison-gillespie-profile">
+  <img src="images/harrison.jpg" alt="Harrison Gillespie">
+  <span class="mentor-tile-body">
+    <span class="mentor-tile-name">Harrison Gillespie</span>
+    <span class="mentor-tile-title">MS student, CS, Northwestern University</span>
+  </span>
+</a>
+
 </div>
 
 ## Full Profiles {.section-gap}
@@ -519,10 +527,10 @@ Karthik Prabhu
 :::
 
 ::: {.profile-role}
-PhD graduate, UC Davis
+Associate, Fraud analytics at Avant
 :::
 
-Karthik is a recent PhD graduate in Physics from UC Davis, where his work focused on cosmology, machine learning, and statistical modeling. He has experience applying machine learning techniques to real-world data, and currently works in fraud analytics, building models for detection and risk assessment.
+Karthik currently works as an Associate in fraud analytics at Avant where he is building models for fraud detection and risk assessment. He is a recent PhD graduate in Physics from UC Davis, where his work focused on cosmology, machine learning, and statistical modeling. 
 
 <details class="profile-details">
 <summary>Read full profile</summary>
@@ -698,6 +706,48 @@ Kyle has always been drawn to Machine Learning and Data Analysis. Being able to 
 As a part of his master’s, Kyle completed a Thesis on LLMs (Large Language Models), where he augmented the attention mechanism to use Euclidean distance instead of dot-product to improve the performance of small models on OpenBookQA by 14%. Currently, Kyle is helping build high-speed, real-time dashboards and trading systems to display important statistics and execute orders when certain triggers are reached.
 
 **Mentorship Style:** Kyle’s greatest strength as a mentor is his patience. As a triplet, Kyle had to share everything – even a birthday – and it’s made him a great listener, effective mediator and strong communicator. Kyle loves talking about code, and he hopes to be a resource for any student who wants to learn more about what it means to be a Computer Scientist in industry. Outside of tech, Kyle’s also a big fan of wrestling and football—and always happy to connect over either!
+
+</div>
+</details>
+:::
+
+
+### {#harrison-gillespie-profile .toc-super}
+
+::: {.profile-card}
+
+::: {.profile-topbar}
+::: {.profile-topbar-left}
+::: {.guest-label}
+Mentor
+:::
+:::
+
+[Go back to top ↑](#top){.back-to-top}
+:::
+
+::: {.profile-name}
+Harrison Gillespie
+:::
+
+::: {.profile-photo .right}
+![](images/harrison.jpg){alt="Harrison Gillespie"}
+:::
+
+::: {.profile-role}
+Master's student, Computer Science, Northwestern University
+:::
+
+Harrison is a Master’s student in Computer Science at Northwestern University, where he also earned his B.S. in Computer Science with minors in Data Science & Engineering and Business Institutions. His academic and professional interests center on applied AI and data driven decision making.
+
+<details class="profile-details">
+<summary>Read full profile</summary>
+
+<div class="details-content">
+
+During his time at Northwestern, Harrison has gained industry experience through multiple data science and analytics internships. He previously worked as a Technology Analyst at a private equity firm which included a project analyzing ESG data across 10,000+ residential properties to uncover cost inefficiencies and resource usage patterns, ultimately informing a proposal for more sustainable and cost effective management strategies. He also served as an Analytics Intern at Caterpillar, where his work included projects that leveraged agentic AI to collect, synthesize, and identify trends in machine health metrics and other customer data. Following graduation, Harrison will join Caterpillar full-time as a Data Scientist within their Data & AI group. In addition to his professional work, he was part of the team that earned the People’s Choice Award and Honorable Mention at last year’s DataFest.
+
+**Mentorship Style:** Harrison approaches mentorship with a strong emphasis on adaptability, learning, and team centered support. He focuses on meeting teams where they are, whether that means helping clarify problem direction or providing structure during the high intensity moments. He aims to be a calm, steady presence when teams feel stuck, helping them regain momentum through thoughtful guidance rather than prescriptive solutions. Harrison is also happy to share insights on his experience with recruiting and working in the data science field.
 
 </div>
 </details>

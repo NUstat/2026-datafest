@@ -331,7 +331,7 @@ Meet our talented team mentors! They will be mentoring the competing teams.
   <img src="images/karthik.jpg" alt="Karthik Prabhu">
   <span class="mentor-tile-body">
     <span class="mentor-tile-name">Karthik Prabhu</span>
-    <span class="mentor-tile-title">PhD graduate, UC Davis</span>
+    <span class="mentor-tile-title">Associate, Fraud analytics at Avant</span>
   </span>
 </a>
 

@@ -59,3 +59,17 @@ Over 60 universities around the world hosted the ASA DataFest in 2025. Checkout 
 
 Although Northwestern started having the ASA DataFest since 2025, several top universities all over the world have been collaborating with ASA to host DataFests since 2011. Here is the link to the problem statements of the [previous DataFests](https://ww2.amstat.org/education/datafest/previous.cfm).
 
+<div style="margin-top: 20px;">
+  <a href="https://www.instagram.com/nudatafest/" target="_blank"
+     style="
+       display: inline-block;
+       padding: 10px 18px;
+       background-color: #E1306C;
+       color: white;
+       text-decoration: none;
+       border-radius: 8px;
+       font-weight: 600;
+     ">
+     Follow us on Instagram for updates about the event
+  </a>
+</div>

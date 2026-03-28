@@ -375,6 +375,14 @@ Meet our talented team mentors! They will be mentoring the competing teams.
   </span>
 </a>
 
+<a class="mentor-tile" href="#isabel-knight-profile">
+  <img src="images/isabel.jpg" alt="Isabel Knight">
+  <span class="mentor-tile-body">
+    <span class="mentor-tile-name">Isabel Knight</span>
+    <span class="mentor-tile-title">Associate, Forensic Data and Analytics at Ankura</span>
+  </span>
+</a>
+
 </div>
 
 ## Full Profiles {.section-gap}
@@ -748,6 +756,48 @@ Harrison is a Master’s student in Computer Science at Northwestern University,
 During his time at Northwestern, Harrison has gained industry experience through multiple data science and analytics internships. He previously worked as a Technology Analyst at a private equity firm which included a project analyzing ESG data across 10,000+ residential properties to uncover cost inefficiencies and resource usage patterns, ultimately informing a proposal for more sustainable and cost effective management strategies. He also served as an Analytics Intern at Caterpillar, where his work included projects that leveraged agentic AI to collect, synthesize, and identify trends in machine health metrics and other customer data. Following graduation, Harrison will join Caterpillar full-time as a Data Scientist within their Data & AI group. In addition to his professional work, he was part of the team that earned the People’s Choice Award and Honorable Mention at last year’s DataFest.
 
 **Mentorship Style:** Harrison approaches mentorship with a strong emphasis on adaptability, learning, and team centered support. He focuses on meeting teams where they are, whether that means helping clarify problem direction or providing structure during the high intensity moments. He aims to be a calm, steady presence when teams feel stuck, helping them regain momentum through thoughtful guidance rather than prescriptive solutions. Harrison is also happy to share insights on his experience with recruiting and working in the data science field.
+
+</div>
+</details>
+:::
+
+### {#isabel-knight-profile .toc-super}
+
+::: {.profile-card}
+
+::: {.profile-topbar}
+::: {.profile-topbar-left}
+::: {.guest-label}
+Mentor
+:::
+:::
+
+[Go back to top ↑](#top){.back-to-top}
+:::
+
+::: {.profile-name}
+Isabel Knight
+:::
+
+::: {.profile-photo .left}
+![](images/isabel.jpg){alt="Isabel Knight"}
+:::
+
+::: {.profile-role}
+Associate, Forensic Data and Analytics at Ankura 
+:::
+
+Isabel is a recent graduate of Northwestern University, where she earned a degree in Data Science with minors in Spanish and Legal Studies. She is interested in the intersection of technology and law. At Ankura, her work focuses on data-driven investigations, including investment fraud, as well as supporting litigation and trial strategy through data analysis.
+
+<details class="profile-details">
+<summary>Read full profile</summary>
+
+<div class="details-content">
+
+During her time at Northwestern, Isabel served as a teaching assistant for two years in the Department of Statistics and Data Science, primarily supporting coursework in the STAT 303 sequence and STAT 302. Isabel also gained industry experience through two summers interning at Toyota within the HR People Analytics team. There, she applied her data science skill set to a variety of impactful projects, including developing an attrition model in Python to predict employee turnover. Currently, Isabel applies her experience to clean, analyze, and visualize large, complex datasets in support of client-facing investigations and litigation matters. Her work often involves transforming unstructured or messy data into clear, actionable insights. Outside of work, Isabel enjoys spending time with her family and keeping up with reality TV, especially Survivor and The Traitors!
+
+
+**Mentorship Style:** Isabel approaches mentorship with a strong emphasis on collaboration, curiosity, and inclusivity. The best ideas come from open dialogue and values creating an environment where every team member feels comfortable sharing their thoughts, regardless of experience level. Drawing from her background as both a teaching assistant and young professional, she enjoys helping others connect foundational concepts to real-world applications, making complex problems feel more approachable. As a mentor, she aims to foster a team dynamic where individuals feel empowered to contribute meaningfully and support one another.
 
 </div>
 </details>

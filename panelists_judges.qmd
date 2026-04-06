@@ -318,3 +318,31 @@ Zach has worked on cases spanning finance, technology, tax, commercial disputes,
 </div>
 </details>
 :::
+
+
+::: {.guest-card}
+::: {.guest-photo}
+![](images/phil.jpg){alt="Philip Cooper"}
+:::
+
+<div class="guest-label">Panelist</div>
+
+## Phil Cooper
+
+<div class="guest-role">Senior Analytics Engineer, Alchemyca Biotech</div>
+
+Phil is currently building a predictive analytics solution for renewable natural gas facilities. This involves bringing together sensor data, lab test results, and economic indicators in a single platform to forecast and optimize production.
+
+<details class="guest-details">
+<summary>Read more</summary>
+
+<div class="details-content">
+
+Phil has previously worked in logistics tech, where he ran pricing experiments and developed explainability tools for machine learning models. He also worked at an equipment manufacturing company, where he helped to modernize their reporting processes and gain insight into product usage with telematics data.
+
+He holds a BA in Economics from Northwestern and an MS in Applied Data Science from the University of Chicago.
+
+
+</div>
+</details>
+:::

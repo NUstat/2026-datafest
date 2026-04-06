@@ -39,80 +39,7 @@ title: "Participant Teams"
 **Mentor:** TBD
 
 ![](images/team_placeholder.jpg){width=80%}
-
-## 5. Hello{style="color:#4E2A84;"}
-*(Daniel, Camden & Charles)*
-
-*Tagline*
-
-**Mentor:** ATBD
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 6. hey come and drink tea{style="color:#4E2A84;"}
-*(Vincent, Sarah, Gustavo & Annie)*
-
-*Tagline*
-
-**Mentor:** TBD
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 7. Lakeside Data Center{style="color:#4E2A84;"}
-*(Gabriel, Alina, Matthew, & Emmanuel)*
-
-*Tagline*
-
-**Mentor:** TBD
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 8. Leftovers{style="color:#4E2A84;"}
-*(Vedat, Defne & Efe)*
-
-*Tagline*
-
-**Mentor:** TBD
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 9. Livin la vida loca{style="color:#4E2A84;"}
-*(Sofie, Ethan, Edwin & Edwin)*
-
-*Tagline*
-
-**Mentor:** TBD
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 10. Lunar Knights{style="color:#4E2A84;"}
-*(Kevin, Vincent, John & Zoya)*
-
-*Tagline*
-
-**Mentor:** TBD
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 11. New Team 1{style="color:#4E2A84;"}
-*(Saafya, Yana, Aaron, Adonai, & Ericsson)*
-
-*Tagline*
-
-**Mentor:** TBD
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 12. New Team 2{style="color:#4E2A84;"}
-*(Sara, Caesar, Robert, Aidan & Dayo)*
-
-*Tagline*
-
-**Mentor:** TBD
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 13. New Team 3{style="color:#4E2A84;"}
+## 5. Goldfish{style="color:#4E2A84;"}
 [*(Yubin, Ian, Merina, Chris & Jules)*]{style="color:#4E2A84;"}
 
 *Tagline*
@@ -121,6 +48,78 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
+
+## 6. Hello{style="color:#4E2A84;"}
+*(Daniel, Camden & Charles)*
+
+*Tagline*
+
+**Mentor:** ATBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 7. hey come and drink tea{style="color:#4E2A84;"}
+*(Vincent, Sarah, Gustavo & Annie)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 8. Lakeside Data Center{style="color:#4E2A84;"}
+*(Gabriel, Alina, Matthew, & Emmanuel)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 9. Leftovers{style="color:#4E2A84;"}
+*(Vedat, Defne & Efe)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 10. Livin la vida loca{style="color:#4E2A84;"}
+*(Sofie, Ethan, Edwin & Edwin)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 11. Lunar Knights{style="color:#4E2A84;"}
+*(Kevin, Vincent, John & Zoya)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 12. New Team 1{style="color:#4E2A84;"}
+*(Saafya, Yana, Aaron, Adonai, & Ericsson)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 13. New Team 2{style="color:#4E2A84;"}
+*(Sara, Caesar, Robert, Aidan & Dayo)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
 
 ## 14. NorthBestern{style="color:#4E2A84;"}
 *(Owen & Emmett)*

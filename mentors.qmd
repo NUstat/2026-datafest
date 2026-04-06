@@ -74,10 +74,16 @@ Meet our talented team mentors! They will be mentoring the competing teams.
 
 .mentor-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 1.25rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
+}
+
+@media (max-width: 900px) {
+  .mentor-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .mentor-tile:hover {
@@ -321,19 +327,19 @@ Meet our talented team mentors! They will be mentoring the competing teams.
   </span>
 </a>
 
-</div>
-
-## Mentors
-
-<div class="mentor-grid">
-
-<a class="mentor-tile" href="#karthik-prabhu-profile">
+<a class="mentor-tile super" href="#karthik-prabhu-profile">
   <img src="images/karthik.jpg" alt="Karthik Prabhu">
   <span class="mentor-tile-body">
     <span class="mentor-tile-name">Karthik Prabhu</span>
     <span class="mentor-tile-title">Associate, Fraud analytics at Avant</span>
   </span>
 </a>
+
+</div>
+
+## Mentors
+
+<div class="mentor-grid">
 
 <a class="mentor-tile" href="#harvey-wang-profile">
   <img src="images/harvey.png" alt="Harvey Wang">
@@ -380,6 +386,22 @@ Meet our talented team mentors! They will be mentoring the competing teams.
   <span class="mentor-tile-body">
     <span class="mentor-tile-name">Isabel Knight</span>
     <span class="mentor-tile-title">Associate, Forensic Data and Analytics at Ankura</span>
+  </span>
+</a>
+
+<a class="mentor-tile" href="#david-gormley-profile">
+  <img src="images/image_icon.jpg" alt="David Gormley">
+  <span class="mentor-tile-body">
+    <span class="mentor-tile-name">David Gormley</span>
+    <span class="mentor-tile-title">NLP research student, Stanford</span>
+  </span>
+</a>
+
+<a class="mentor-tile" href="#raman-khurana-profile">
+  <img src="images/raman.jpg" alt="Raman Khurana">
+  <span class="mentor-tile-body">
+    <span class="mentor-tile-name">Raman Khurana</span>
+    <span class="mentor-tile-title">LLM/ML researcher, NU</span>
   </span>
 </a>
 
@@ -514,12 +536,12 @@ Shreeya received her PhD in Mathematics and a minor in Computer Science from The
 
 ### {#karthik-prabhu-profile .toc-super}
 
-::: {.profile-card}
+::: {.profile-card .super-mentor}
 
 ::: {.profile-topbar}
 ::: {.profile-topbar-left}
 ::: {.guest-label}
-Mentor
+Super Mentor
 :::
 :::
 
@@ -802,3 +824,86 @@ During her time at Northwestern, Isabel served as a teaching assistant for two y
 </div>
 </details>
 :::
+
+### {#david-gormley-profile .toc-super}
+
+::: {.profile-card}
+
+::: {.profile-topbar}
+::: {.profile-topbar-left}
+::: {.guest-label}
+Mentor
+:::
+:::
+
+[Go back to top ↑](#top){.back-to-top}
+:::
+
+::: {.profile-name}
+David Gormley
+:::
+
+::: {.profile-photo .right}
+![](images/image_icon.jpg){alt="David Gormley"}
+:::
+
+::: {.profile-role}
+NLP research associate, Stanford
+:::
+
+David is an education-NLP research associate under Professors Loeb and Demszky at Stanford GSE. H
+
+<details class="profile-details">
+<summary>Read full profile</summary>
+
+<div class="details-content">
+
+He is interested in co-designing NLP-based education tools with students, educators, and researchers to support young learners. As a data scientist, David specializes in scaled NLP, though he also has experience with computer vision and exploring novel ML modeling approaches.
+
+**Mentorship Style:** His mentorship style is rooted in pedagogy: he aims to create a student-centered environment where students feel empowered to use data science to tackle problems they care about.
+
+</div>
+</details>
+:::
+
+### {#raman-khurana-profile .toc-super}
+
+::: {.profile-card}
+
+::: {.profile-topbar}
+::: {.profile-topbar-left}
+::: {.guest-label}
+Mentor
+:::
+:::
+
+[Go back to top ↑](#top){.back-to-top}
+:::
+
+::: {.profile-name}
+Raman Khurana
+:::
+
+::: {.profile-photo .left}
+![](images/raman.jpg){alt="Raman Khurana"}
+:::
+
+::: {.profile-role}
+LLM/ML Researcher and Lecturer, Northwestern University
+:::
+
+Raman is a Postdoctoral Researcher at the Center for Deep Learning and a Lecturer in the MS in Machine Learning & Data Science program at Northwestern University.
+
+<details class="profile-details">
+<summary>Read full profile</summary>
+
+<div class="details-content">
+
+With a PhD in Physics and over 15 years of experience working with large-scale data, he brings a unique blend of scientific rigor and AI innovation to his work. At CERN, he contributed to the Nobel Prize-winning discovery of the Higgs boson. His current research focuses on time series forecasting, automated feature engineering for streaming data, and generative AI
+
+Raman builds agentic AI systems using open-source small- and medium-sized models and explores methods to apply them to real-world business problems. Drawing on his physics background, he developed a physics-inspired feature generator that models time series data as a flowing river. He finds joy in exploring numbers and algorithms but finds it even more rewarding to share those experiences with fellow data scientists in industry and the next generation of data professionals in the MS in Machine Learning & Data Science program. For Raman, the true excitement lies not just in solving complex problems, but in making those insights accessible, collaborative, and impactful.
+
+</div>
+</details>
+:::
+

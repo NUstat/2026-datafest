@@ -189,6 +189,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#kyle-williams-profile" id="toc-kyle-williams-profile" class="nav-link" data-scroll-target="#kyle-williams-profile"></a></li>
   <li><a href="#harrison-gillespie-profile" id="toc-harrison-gillespie-profile" class="nav-link" data-scroll-target="#harrison-gillespie-profile"></a></li>
   <li><a href="#isabel-knight-profile" id="toc-isabel-knight-profile" class="nav-link" data-scroll-target="#isabel-knight-profile"></a></li>
+  <li><a href="#david-gormley-profile" id="toc-david-gormley-profile" class="nav-link" data-scroll-target="#david-gormley-profile"></a></li>
+  <li><a href="#raman-khurana-profile" id="toc-raman-khurana-profile" class="nav-link" data-scroll-target="#raman-khurana-profile"></a></li>
   </ul></li>
   </ul>
 </nav>
@@ -267,10 +269,16 @@ ul.task-list li input[type="checkbox"] {
 
 .mentor-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 1.25rem;
   margin-top: 1rem;
   margin-bottom: 2rem;
+}
+
+@media (max-width: 900px) {
+  .mentor-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .mentor-tile:hover {
@@ -491,18 +499,20 @@ ul.task-list li input[type="checkbox"] {
 <p><a class="mentor-tile super" href="#moses-chan-profile"> <img src="images/moses.jpg" alt="Moses Chan"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Moses Chan</span> <span class="mentor-tile-title">Assistant Professor of Instruction, IEMS, Northwestern University</span> </span> </a></p>
 <p><a class="mentor-tile super" href="#shengbin-ye-profile"> <img src="images/shengbin.jpg" alt="Shengbin Ye"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Shengbin Ye</span> <span class="mentor-tile-title">Assistant Professor of Instruction, Statistics and Data Science, Northwestern University</span> </span> </a></p>
 <p><a class="mentor-tile super" href="#shreeya-behera-profile"> <img src="images/shreeya.jpg" alt="Shreeya Behera"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Shreeya Behera</span> <span class="mentor-tile-title">Assistant Professor of Instruction, Statistics and Data Science, Northwestern University</span> </span> </a></p>
+<p><a class="mentor-tile super" href="#karthik-prabhu-profile"> <img src="images/karthik.jpg" alt="Karthik Prabhu"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Karthik Prabhu</span> <span class="mentor-tile-title">Associate, Fraud analytics at Avant</span> </span> </a></p>
 </div>
 </section>
 <section id="mentors" class="level2">
 <h2 class="anchored" data-anchor-id="mentors">Mentors</h2>
 <div class="mentor-grid">
-<p><a class="mentor-tile" href="#karthik-prabhu-profile"> <img src="images/karthik.jpg" alt="Karthik Prabhu"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Karthik Prabhu</span> <span class="mentor-tile-title">Associate, Fraud analytics at Avant</span> </span> </a></p>
 <p><a class="mentor-tile" href="#harvey-wang-profile"> <img src="images/harvey.png" alt="Harvey Wang"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Harvey Wang</span> <span class="mentor-tile-title">Corporate Strategy and Development Analyst, Molex</span> </span> </a></p>
 <p><a class="mentor-tile" href="#jeffrey-yuan-profile"> <img src="images/jeffrey.jpg" alt="Jeffrey Yuan"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Jeffrey Yuan</span> <span class="mentor-tile-title">Fourth-year BS/MS Student, Statistics and Data Science, Northwestern University</span> </span> </a></p>
 <p><a class="mentor-tile" href="#jake-miller-profile"> <img src="images/jake.jpg" alt="Jake Miller"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Jake Miller</span> <span class="mentor-tile-title">Data Science Senior, Northwestern University</span> </span> </a></p>
 <p><a class="mentor-tile" href="#kyle-williams-profile"> <img src="images/kyle.jpg" alt="Kyle Williams"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Kyle Williams</span> <span class="mentor-tile-title">Software Engineer, Lakeview Investment Group</span> </span> </a></p>
 <p><a class="mentor-tile" href="#harrison-gillespie-profile"> <img src="images/harrison.jpg" alt="Harrison Gillespie"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Harrison Gillespie</span> <span class="mentor-tile-title">MS student, CS, Northwestern University</span> </span> </a></p>
 <p><a class="mentor-tile" href="#isabel-knight-profile"> <img src="images/isabel.jpg" alt="Isabel Knight"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Isabel Knight</span> <span class="mentor-tile-title">Associate, Forensic Data and Analytics at Ankura</span> </span> </a></p>
+<p><a class="mentor-tile" href="#david-gormley-profile"> <img src="images/image_icon.jpg" alt="David Gormley"> <span class="mentor-tile-body"> <span class="mentor-tile-name">David Gormley</span> <span class="mentor-tile-title">NLP research student, Stanford</span> </span> </a></p>
+<p><a class="mentor-tile" href="#raman-khurana-profile"> <img src="images/raman.jpg" alt="Raman Khurana"> <span class="mentor-tile-body"> <span class="mentor-tile-name">Raman Khurana</span> <span class="mentor-tile-title">LLM/ML researcher, NU</span> </span> </a></p>
 </div>
 </section>
 <section id="full-profiles" class="level2 section-gap">
@@ -606,11 +616,11 @@ Read full profile
 </section>
 <section id="karthik-prabhu-profile" class="level3 toc-super">
 <h3 class="toc-super anchored" data-anchor-id="karthik-prabhu-profile"></h3>
-<div class="profile-card">
+<div class="profile-card super-mentor">
 <div class="profile-topbar">
 <div class="profile-topbar-left">
 <div class="guest-label">
-<p>Mentor</p>
+<p>Super Mentor</p>
 </div>
 </div>
 <p><a href="#top" class="back-to-top">Go back to top ↑</a></p>
@@ -825,6 +835,70 @@ Read full profile
 <div class="details-content">
 <p>During her time at Northwestern, Isabel served as a teaching assistant for two years in the Department of Statistics and Data Science, primarily supporting coursework in the STAT 303 sequence and STAT 302. Isabel also gained industry experience through two summers interning at Toyota within the HR People Analytics team. There, she applied her data science skill set to a variety of impactful projects, including developing an attrition model in Python to predict employee turnover. Currently, Isabel applies her experience to clean, analyze, and visualize large, complex datasets in support of client-facing investigations and litigation matters. Her work often involves transforming unstructured or messy data into clear, actionable insights. Outside of work, Isabel enjoys spending time with her family and keeping up with reality TV, especially Survivor and The Traitors!</p>
 <p><strong>Mentorship Style:</strong> Isabel approaches mentorship with a strong emphasis on collaboration, curiosity, and inclusivity. The best ideas come from open dialogue and values creating an environment where every team member feels comfortable sharing their thoughts, regardless of experience level. Drawing from her background as both a teaching assistant and young professional, she enjoys helping others connect foundational concepts to real-world applications, making complex problems feel more approachable. As a mentor, she aims to foster a team dynamic where individuals feel empowered to contribute meaningfully and support one another.</p>
+</div>
+</details>
+</div>
+</section>
+<section id="david-gormley-profile" class="level3 toc-super">
+<h3 class="toc-super anchored" data-anchor-id="david-gormley-profile"></h3>
+<div class="profile-card">
+<div class="profile-topbar">
+<div class="profile-topbar-left">
+<div class="guest-label">
+<p>Mentor</p>
+</div>
+</div>
+<p><a href="#top" class="back-to-top">Go back to top ↑</a></p>
+</div>
+<div class="profile-name">
+<p>David Gormley</p>
+</div>
+<div class="profile-photo right">
+<p><img src="images/image_icon.jpg" class="img-fluid" alt="David Gormley"></p>
+</div>
+<div class="profile-role">
+<p>NLP research associate, Stanford</p>
+</div>
+<p>David is an education-NLP research associate under Professors Loeb and Demszky at Stanford GSE. H</p>
+<details class="profile-details">
+<summary>
+Read full profile
+</summary>
+<div class="details-content">
+<p>He is interested in co-designing NLP-based education tools with students, educators, and researchers to support young learners. As a data scientist, David specializes in scaled NLP, though he also has experience with computer vision and exploring novel ML modeling approaches.</p>
+<p><strong>Mentorship Style:</strong> His mentorship style is rooted in pedagogy: he aims to create a student-centered environment where students feel empowered to use data science to tackle problems they care about.</p>
+</div>
+</details>
+</div>
+</section>
+<section id="raman-khurana-profile" class="level3 toc-super">
+<h3 class="toc-super anchored" data-anchor-id="raman-khurana-profile"></h3>
+<div class="profile-card">
+<div class="profile-topbar">
+<div class="profile-topbar-left">
+<div class="guest-label">
+<p>Mentor</p>
+</div>
+</div>
+<p><a href="#top" class="back-to-top">Go back to top ↑</a></p>
+</div>
+<div class="profile-name">
+<p>Raman Khurana</p>
+</div>
+<div class="profile-photo left">
+<p><img src="images/raman.jpg" class="img-fluid" alt="Raman Khurana"></p>
+</div>
+<div class="profile-role">
+<p>LLM/ML Researcher and Lecturer, Northwestern University</p>
+</div>
+<p>Raman is a Postdoctoral Researcher at the Center for Deep Learning and a Lecturer in the MS in Machine Learning &amp; Data Science program at Northwestern University.</p>
+<details class="profile-details">
+<summary>
+Read full profile
+</summary>
+<div class="details-content">
+<p>With a PhD in Physics and over 15 years of experience working with large-scale data, he brings a unique blend of scientific rigor and AI innovation to his work. At CERN, he contributed to the Nobel Prize-winning discovery of the Higgs boson. His current research focuses on time series forecasting, automated feature engineering for streaming data, and generative AI</p>
+<p>Raman builds agentic AI systems using open-source small- and medium-sized models and explores methods to apply them to real-world business problems. Drawing on his physics background, he developed a physics-inspired feature generator that models time series data as a flowing river. He finds joy in exploring numbers and algorithms but finds it even more rewarding to share those experiences with fellow data scientists in industry and the next generation of data professionals in the MS in Machine Learning &amp; Data Science program. For Raman, the true excitement lies not just in solving complex problems, but in making those insights accessible, collaborative, and impactful.</p>
 </div>
 </details>
 </div>

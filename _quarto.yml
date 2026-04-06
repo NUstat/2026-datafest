@@ -30,6 +30,8 @@ website:
         text: Judges
       - href: mentors.qmd
         text: Mentors
+      - href: participants.qmd
+        text: Participants
       - href: coc.qmd
         text: Rules & CoC
       - href: faqs.qmd

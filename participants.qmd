@@ -2,120 +2,212 @@
 title: "Participant Teams"
 ---
 
-**13 powerhouse teams, 49 brilliant minds**, clash in the ultimate data analytics showdown 🚀
+**23 powerhouse teams, 90 brilliant minds**, clash in the ultimate data-analytics showdown 🚀
 
-## 1. Team NA{style="color:#4E2A84;"}
-*(Noah & Aryaman)*
+## 1. As written {style="color:#4E2A84;"}
+*(Robert, Ice-T, Owen & Swas)*
 
-*Filling in the gaps, one data point at a time*
+*Tagline*
 
-**Mentor:** Zihan Zhao
+**Mentor:** TBD
 
-![](images/na.jpeg){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 2. GGAP{style="color:#4E2A84;"}
-*(Alyssa, Paisley, Grace & Grace)*
+## 2. Block{style="color:#4E2A84;"}
+*(Kenneth, Lucas & Braedon)*
 
-*The 2025 epilogue to the GGAP 303 sequence trilogy*
+*Tagline*
 
-**Mentor:** Cathy Kim
+**Mentor:** TBD
 
-![](images/ggap.png){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 3. Frisbee Team{style="color:#4E2A84;"}
-*(Margaret, Faith, Paul, and Ryan)*
+## 3. Byte me{style="color:#4E2A84;"}
+*(Fiona, Ashley, Zara & Benjamin)*
 
-*A group comprised of frisbee and non frisbee folk ready to face some fantastic data*
+*Tagline*
 
-**Mentor:** Tyler Maule   
+**Mentor:** TBD   
 
-![](images/frisbee.JPG){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 4. Macrodata Refinement{style="color:#4E2A84;"}
-*(Corbin, Spencer, Benjamin, and Ferdy)*
+## 4. Data Hunters{style="color:#4E2A84;"}
+*(MinJun, Harry, Jonathan & Tendai)*
 
-*The work is mysterious and important*
+*Tagline*
 
-**Mentor:** Akash Rathi
+**Mentor:** TBD
 
-![](images/macro.JPG){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 5. The Unicorns{style="color:#4E2A84;"}
-*(Sutter, Jeffrey, Nolan, Harvey, and Jake)*
+## 5. Hello{style="color:#4E2A84;"}
+*(Daniel, Camden & Charles)*
 
-*You bring the data, we bring the magic*
+*Tagline*
 
-**Mentor:** Adamya Prakash Srivastava
+**Mentor:** ATBD
 
-![](images/unicorns.JPG){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 6. Stat Avengers{style="color:#4E2A84;"}
-*(Shriya, Glenna, Sarah, and Tosin)*
+## 6. hey come and drink tea{style="color:#4E2A84;"}
+*(Vincent, Sarah, Gustavo & Annie)*
 
-*We all met during the DS sequence and have been stuck together since! Excited to participate and put our relationship to the test (hopefully only the T-test)!*
+*Tagline*
 
-**Mentor:** Xinhui Qian
+**Mentor:** TBD
 
-![](images/stat.JPG){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 7. Hot Tea{style="color:#4E2A84;"}
-*(Ice, Robert, and Owen)*
+## 7. Lakeside Data Center{style="color:#4E2A84;"}
+*(Gabriel, Alina, Matthew, & Emmanuel)*
 
-*Just an ordinary dataset, but with the right model, we can make it trend like a hot tea*
+*Tagline*
 
-**Mentor:** David Frost
+**Mentor:** TBD
 
-![](images/hottea.png){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 8. DABJ{style="color:#4E2A84;"}
-*(Alec, Dustin, and Jeremy)*
+## 8. Leftovers{style="color:#4E2A84;"}
+*(Vedat, Defne & Efe)*
 
-*DABJ (ignore the B) is LOCKED IN, we finna cook!*
+*Tagline*
 
-**Mentor:** Yuqing Yang
+**Mentor:** TBD
 
-![](images/dabj.JPG){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 9. Screenagers{style="color:#4E2A84;"}
-*(Edwin, Felice, Danny, and Gio)*
+## 9. Livin la vida loca{style="color:#4E2A84;"}
+*(Sofie, Ethan, Edwin & Edwin)*
 
-*We turn data into insights, one screen at a time*
+*Tagline*
 
-**Mentor:** Kyle Williams
+**Mentor:** TBD
 
-![](images/screenagers.jpeg){width=80%}
-*(Gio to be added)*
+![](images/team_placeholder.jpg){width=80%}
 
-## 10. The Chopstick Masters{style="color:#4E2A84;"}
-*(Izzy, Yana, Kushal, Abe, and Michael)*
+## 10. Lunar Knights{style="color:#4E2A84;"}
+*(Kevin, Vincent, John & Zoya)*
 
-*Wielding innovation like chopsticks — graceful, deliberate, and fueled by interdisciplinary collaboration*
+*Tagline*
 
-**Mentor:** Adamya Prakash Srivastava
+**Mentor:** TBD
 
-![](images/cw.JPG){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 11. The Prompt Engineers{style="color:#4E2A84;"}
-*(Harrison, Abigail, Jinhe, and Olzhasbek)*
+## 11. New Team 1{style="color:#4E2A84;"}
+*(Saafya, Yana, Aaron & Adonai)*
 
-*We may not have the answers, but we will be sure to phrase a question well enough to fake it*
+*Tagline*
 
-**Mentor:** Xinhui Qian
+**Mentor:** TBD
 
-![](images/prompt.png){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 12. In Data We Trust{style="color:#4E2A84;"}
-*(Adrien, Irene, and Shriyans)*
+## 12. New Team 2{style="color:#4E2A84;"}
+*(Sara, Caesar, Robert, Aidan & Dayo)*
 
-*Give me data or give me death!*
+*Tagline*
 
-**Mentor:** David Frost
+**Mentor:** TBD
 
-![](images/idwt.JPG){width=80%}
+![](images/team_placeholder.jpg){width=80%}
 
-## 13. Data Jays{style="color:#4E2A84;"}
-[*(Rebecca, Max, Lily, and Chelsea)*]{style="color:#4E2A84;"}
+## 13. New Team 3{style="color:#4E2A84;"}
+[*(Yubin, Ian, Merina, Chris & Jules)*]{style="color:#4E2A84;"}
 
-[**Mentor:** Mary Wu]{style="color:#4E2A84;"}
+*Tagline*
 
-![](images/datajays.JPG){width=80%}
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+
+## 14. NorthBestern{style="color:#4E2A84;"}
+*(Owen & Emmett)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 15. Outliars{style="color:#4E2A84;"}
+*(Uma, Liza, Kaylee & Ell)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 16. Penguin{style="color:#4E2A84;"}
+*(Oliver, Alan & Jeremy)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 17. Standard Deviants{style="color:#4E2A84;"}
+*(Will, Ryan, Matias & Adithya)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 18. Stay Saavy{style="color:#4E2A84;"}
+*(Diane, Eva, Vivian & Inaaya)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 19. Stir Fry{style="color:#4E2A84;"}
+*(Takeshi & George)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 20. TBD{style="color:#4E2A84;"}
+*(Sungmin, Dawson, & Josuke)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 21. The Monsters{style="color:#4E2A84;"}
+*(Joonsung, Colin, & Jet)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 22. The Perfect Fit{style="color:#4E2A84;"}
+*(Sophia, Hannah, Kay, & Selina)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}
+
+## 23. The Winning Team{style="color:#4E2A84;"}
+*(Vikas, Marina, Julie, Johnny, & Belinda)*
+
+*Tagline*
+
+**Mentor:** TBD
+
+![](images/team_placeholder.jpg){width=80%}

@@ -26,9 +26,16 @@ We are excited to host the following sessions on **Friday, April 17** in the Lou
 **Ashwin Srivastava** is a [**Forbes Asia 30 Under 30 honouree**](https://www.forbes.com/30-under-30-asia/2017/finance-venture-capital/#59d22d221193) with experience in global investments and impact-focused serial entrepreneurship. He has also been recognized among the top 1% of growth-stage entrepreneurs in the world by Webit, and his innovations have been featured in *Paradigm Shift* by Microsoft India.
 
 - **Mode of participation:** Ashwin will **join virtually**
-- **In-person presentation:** A **member of his team** will present in-person
-- **Affiliation:** The speakers represent the **Government of Maharashtra, India**, particularly the **Office of District Collector, Mumbai Suburban**
+- **In-person presentation:** Rick Rummler, Performance Architect at CodecaX, who has partnered with Ashwin on this project will join **in-person**.
+
+
 :::
+
+- **Affiliation:** Ashwin represents the **Government of Maharashtra, India**, particularly the **Office of District Collector, Mumbai Suburban**
+
+- **Rick Rummler** is the Performance Architect at CodecaX, a partner supporting the Saksham Skill Census, an initiative by the Government of Maharashtra (India) and Sapio Analytics. Rick and CodecaX are working with Sapio Analytics on developing the complex livelihood and skilling frameworks that define Livelihood Intelligence. Rick has led process and performance design and improvement initiatives at leading global organisations, while working with consulting groups worldwide on public health, microfinance and international development needs.
+
+
 :::::
 
 ------------------------------------------------------------------------
@@ -46,7 +53,7 @@ Read more
 
 <div style="margin-top: 10px;">
 
-Starting with the **Mumbai Suburban District**, India is pioneering an AI-powered **Skill Census** to address some of the most complex societal challenges.
+Starting with the **Mumbai Suburban District**, through Shri Saurabh Kariyar, Honorable District Collector, and visionary guidance of Honorable Guardian Minister of the district, Shri Ashish Shelar, India is pioneering an **AI-powered Skill Census** to address some of the most complex societal challenges.
 
 This AI model is designed to understand the **hyper-diverse, rapidly changing socio-economic landscape** of a city like Mumbai, where neighborhoods can change drastically within just a few hundred meters.
 

@@ -389,11 +389,11 @@ Meet our talented team mentors! They will be mentoring the competing teams.
   </span>
 </a>
 
-<a class="mentor-tile" href="#david-gormley-profile">
-  <img src="images/image_icon.jpg" alt="David Gormley">
+<a class="mentor-tile" href="#aryaman-chawla-profile">
+  <img src="images/aryaman.jpeg" alt="Aryaman Chawla">
   <span class="mentor-tile-body">
-    <span class="mentor-tile-name">David Gormley</span>
-    <span class="mentor-tile-title">NLP research student, Stanford</span>
+    <span class="mentor-tile-name">Aryaman Chawla</span>
+    <span class="mentor-tile-title">MS student, CS, Northwestern University</span>
   </span>
 </a>
 
@@ -402,6 +402,14 @@ Meet our talented team mentors! They will be mentoring the competing teams.
   <span class="mentor-tile-body">
     <span class="mentor-tile-name">Raman Khurana</span>
     <span class="mentor-tile-title">LLM/ML researcher, NU</span>
+  </span>
+</a>
+
+<a class="mentor-tile" href="#david-gormley-profile">
+  <img src="images/image_icon.jpg" alt="David Gormley">
+  <span class="mentor-tile-body">
+    <span class="mentor-tile-name">David Gormley</span>
+    <span class="mentor-tile-title">NLP research student, Stanford</span>
   </span>
 </a>
 
@@ -825,7 +833,7 @@ During her time at Northwestern, Isabel served as a teaching assistant for two y
 </details>
 :::
 
-### {#david-gormley-profile .toc-super}
+### {#aryaman-chawla-profile .toc-super}
 
 ::: {.profile-card}
 
@@ -840,27 +848,27 @@ Mentor
 :::
 
 ::: {.profile-name}
-David Gormley
+Aryaman Chawla
 :::
 
 ::: {.profile-photo .right}
-![](images/image_icon.jpg){alt="David Gormley"}
+![](images/aryaman.jpeg){alt="Aryaman Chawla"}
 :::
 
 ::: {.profile-role}
-NLP research associate, Stanford
+Masters student, CS, Northwestern University
 :::
 
-David is an education-NLP research associate under Professors Loeb and Demszky at Stanford GSE. H
+Aryaman has a background across a variety of domains such as quantum computing, cryptography, symbolic AI and ML/DL. 
 
 <details class="profile-details">
 <summary>Read full profile</summary>
 
 <div class="details-content">
 
-He is interested in co-designing NLP-based education tools with students, educators, and researchers to support young learners. As a data scientist, David specializes in scaled NLP, though he also has experience with computer vision and exploring novel ML modeling approaches.
+He was the first runner-up in Datafest 2025, and is excited to share his experience.
 
-**Mentorship Style:** His mentorship style is rooted in pedagogy: he aims to create a student-centered environment where students feel empowered to use data science to tackle problems they care about.
+**Mentorship Style:** His focus is on helping teams break down complex problems to build practical solutions, and communicate results clearly.
 
 </div>
 </details>
@@ -907,3 +915,43 @@ Raman builds agentic AI systems using open-source small- and medium-sized models
 </details>
 :::
 
+### {#david-gormley-profile .toc-super}
+
+::: {.profile-card}
+
+::: {.profile-topbar}
+::: {.profile-topbar-left}
+::: {.guest-label}
+Mentor
+:::
+:::
+
+[Go back to top ↑](#top){.back-to-top}
+:::
+
+::: {.profile-name}
+David Gormley
+:::
+
+::: {.profile-photo .right}
+![](images/image_icon.jpg){alt="David Gormley"}
+:::
+
+::: {.profile-role}
+NLP research associate, Stanford
+:::
+
+David is an education-NLP research associate under Professors Loeb and Demszky at Stanford GSE. H
+
+<details class="profile-details">
+<summary>Read full profile</summary>
+
+<div class="details-content">
+
+He is interested in co-designing NLP-based education tools with students, educators, and researchers to support young learners. As a data scientist, David specializes in scaled NLP, though he also has experience with computer vision and exploring novel ML modeling approaches.
+
+**Mentorship Style:** His mentorship style is rooted in pedagogy: he aims to create a student-centered environment where students feel empowered to use data science to tackle problems they care about.
+
+</div>
+</details>
+:::

@@ -406,7 +406,7 @@ Meet our talented team mentors! They will be mentoring the competing teams.
 </a>
 
 <a class="mentor-tile" href="#david-gormley-profile">
-  <img src="images/image_icon.jpg" alt="David Gormley">
+  <img src="images/david.jpg" alt="David Gormley">
   <span class="mentor-tile-body">
     <span class="mentor-tile-name">David Gormley</span>
     <span class="mentor-tile-title">NLP research student, Stanford</span>
@@ -934,7 +934,7 @@ David Gormley
 :::
 
 ::: {.profile-photo .right}
-![](images/image_icon.jpg){alt="David Gormley"}
+![](images/david.jpg){alt="David Gormley"}
 :::
 
 ::: {.profile-role}

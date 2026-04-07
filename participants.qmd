@@ -40,7 +40,7 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 ## 5. Goldfish{style="color:#4E2A84;"}
-[*(Yubin, Ian, Merina, Chris & Jules)*]{style="color:#4E2A84;"}
+*(Yubin, Ian, Merina, Chris & Jules)*
 
 *Tagline*
 

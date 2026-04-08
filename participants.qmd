@@ -23,7 +23,7 @@ title: "Participant Teams"
 ![](images/team_placeholder.jpg){width=80%}
 
 ## 3. Byte me{style="color:#4E2A84;"}
-*(Fiona, Ashley, Zara & Benjamin)*
+*(Fiona, Ashley, Zara, Samuel, & Benjamin)*
 
 *Tagline*
 
@@ -52,7 +52,7 @@ title: "Participant Teams"
 
 
 ## 6. Hello{style="color:#4E2A84;"}
-*(Daniel, Camden & Charles)*
+*(Daniel, Camden, Aileen & Charles)*
 
 *Tagline*
 

@@ -11,7 +11,19 @@ We are excited to host the following sessions on **Friday, April 17** in the Lou
 
 ------------------------------------------------------------------------
 
-## 1. AI Seminar (11:00 AM – 12:30 PM)
+## 1. Data Analytics Competition Strategy (2:00 PM – 3:00 PM)
+
+- How to approach a **48-hour competition effectively**
+- Quick data quality checks before deep-dive
+- Structuring teamwork and task delegation  
+- Balancing:
+  - Exploration vs. execution  
+  - Modeling vs. storytelling  
+- Tips from prior DataFest experience  
+
+------------------------------------------------------------------------
+
+## 2. AI Seminar (3:00 PM – 4:30 PM)
 
 **Topic:** *First Ever Sovereign Livelihood AI Model in the World*
 
@@ -103,28 +115,10 @@ It will also introduce a broader way of thinking about AI—one grounded in data
 </div>
 </details>
 
-------------------------------------------------------------------------
-
-## 2. Lunch (12:30 PM – 2:00 PM)
-
-- Scheduled lunch break
-- We are still working out the logistics and will let you know whether lunch will be provided or if there will be snacks
 
 ------------------------------------------------------------------------
 
-## 3. Data Analytics Competition Strategy (2:00 PM – 3:00 PM)
-
-- How to approach a **48-hour competition effectively**
-- Quick data quality checks before deep-dive
-- Structuring teamwork and task delegation  
-- Balancing:
-  - Exploration vs. execution  
-  - Modeling vs. storytelling  
-- Tips from prior DataFest experience  
-
-------------------------------------------------------------------------
-
-## 4. How to Use AI Efficiently and Responsibly (3:15 PM – 5:00 PM)
+## 3. How to Use AI Efficiently and Responsibly + Menolearn (4:30 PM – 5:00 PM)
 
 - Setting up AI tools and building an efficient data analysis workflow
 - Rules for appropriate AI usage during the DataFest 
@@ -135,7 +129,7 @@ It will also introduce a broader way of thinking about AI—one grounded in data
 
 ------------------------------------------------------------------------
 
-## 5. Socials (5:00 PM – 7:00 PM)
+## 4. Socials (5:00 PM – 7:00 PM)
 
 - Meet your teammates and connect with other participants
 - Interact with the organizers

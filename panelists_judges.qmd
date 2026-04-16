@@ -5,8 +5,6 @@ format: html
 
 Below are the keynote speakers, judges, and panelists confirmed for DataFest 2026. These distinguished guests will share industry insights and guide discussions on *Careers in Data Science*.
 
-*This page will be updated as additional guests are confirmed.*
-
 <style>
 :root {
   --df-purple: #4E2A84;

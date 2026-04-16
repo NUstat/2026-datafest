@@ -49,9 +49,6 @@ We are excited to host the following sessions on **Friday, April 17** in the Lou
 
 
 ::::: columns
-::: {.column width="30%" style="padding-right: 12px;"}
-![](images/rick.jpg){fig-alt="Rick Rummler" width="80%" style="border-radius:12px;"}
-:::
 
 ::: {.column width="70%" style="padding-left: 12px;"}
 - **Rick Rummler** is the Performance Architect at CodecaX, a partner supporting the Saksham Skill Census, an initiative by the Government of Maharashtra (India) and Sapio Analytics. Rick and CodecaX are working with Sapio Analytics on developing the complex livelihood and skilling frameworks that define Livelihood Intelligence. Rick has led process and performance design and improvement initiatives at leading global organisations, while working with consulting groups worldwide on public health, microfinance and international development needs.
@@ -59,7 +56,9 @@ We are excited to host the following sessions on **Friday, April 17** in the Lou
 - **In-person presentation:** Rick will join **in-person**.
 :::
 
-
+::: {.column width="30%" style="padding-right: 12px;"}
+![](images/rick.jpg){fig-alt="Rick Rummler" width="80%" style="border-radius:12px;"}
+:::
 
 :::::
 

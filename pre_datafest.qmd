@@ -40,15 +40,22 @@ We are excited to host the following sessions on **Friday, April 17** in the Lou
 **Ashwin Srivastava** is a [**Forbes Asia 30 Under 30 honouree**](https://www.forbes.com/30-under-30-asia/2017/finance-venture-capital/#59d22d221193) with experience in global investments and impact-focused serial entrepreneurship. He has also been recognized among the top 1% of growth-stage entrepreneurs in the world by Webit, and his innovations have been featured in *Paradigm Shift* by Microsoft India.
 
 - **Mode of participation:** Ashwin will **join virtually**
-- **In-person presentation:** Rick Rummler, Performance Architect at CodecaX, who has partnered with Ashwin on this project will join **in-person**.
-
 
 :::
 
 - **Affiliation:** Ashwin represents the **Government of Maharashtra, India**, particularly the **Office of District Collector, Mumbai Suburban**
 
-- **Rick Rummler** is the Performance Architect at CodecaX, a partner supporting the Saksham Skill Census, an initiative by the Government of Maharashtra (India) and Sapio Analytics. Rick and CodecaX are working with Sapio Analytics on developing the complex livelihood and skilling frameworks that define Livelihood Intelligence. Rick has led process and performance design and improvement initiatives at leading global organisations, while working with consulting groups worldwide on public health, microfinance and international development needs.
 
+::::: columns
+::: {.column width="30%" style="padding-right: 12px;"}
+![](images/rick.jpg){fig-alt="Rick Rummler" width="80%" style="border-radius:12px;"}
+:::
+
+::: {.column width="70%" style="padding-left: 12px;"}
+- **Rick Rummler** is the Performance Architect at CodecaX, a partner supporting the Saksham Skill Census, an initiative by the Government of Maharashtra (India) and Sapio Analytics. Rick and CodecaX are working with Sapio Analytics on developing the complex livelihood and skilling frameworks that define Livelihood Intelligence. Rick has led process and performance design and improvement initiatives at leading global organisations, while working with consulting groups worldwide on public health, microfinance and international development needs.
+:::
+
+- **In-person presentation:** Rick will join **in-person**.
 
 :::::
 

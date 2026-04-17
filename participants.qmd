@@ -155,7 +155,7 @@ title: "Participant Teams"
 
 *Tagline*
 
-**Mentor:** TBD
+**Mentor:** Shreeya Behera & David Gormley
 
 ![](images/team_placeholder.jpg){width=80%}
 

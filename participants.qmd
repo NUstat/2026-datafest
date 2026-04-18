@@ -114,14 +114,14 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 13. New Team 2{style="color:#4E2A84;"}
+## 13. Human{style="color:#4E2A84;"}
 *(Sara, Caesar, Robert, Aidan & Dayo)*
 
-*Tagline*
+*Very fleshy*
 
 **Mentor:** TBD
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/human.jpg){width=80%}
 
 ## 14. NorthBestern{style="color:#4E2A84;"}
 *(Owen & Emmett)*

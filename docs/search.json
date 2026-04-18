@@ -200,7 +200,7 @@
     "href": "panelists_judges.html",
     "title": "Meet Our Distinguished Guests",
     "section": "",
-    "text": "Below are the keynote speakers, judges, and panelists confirmed for DataFest 2026. These distinguished guests will share industry insights and guide discussions on Careers in Data Science.\nThis page will be updated as additional guests are confirmed."
+    "text": "Below are the keynote speakers, judges, and panelists confirmed for DataFest 2026. These distinguished guests will share industry insights and guide discussions on Careers in Data Science."
   },
   {
     "objectID": "panelists_judges.html#sanchit-tiwari",
@@ -1152,7 +1152,7 @@
     "href": "participants.html#new-team-2",
     "title": "Participant Teams",
     "section": "13. New Team 2",
-    "text": "13. New Team 2\n(Sara, Caesar, Robert, Aidan & Dayo)\nTagline\nMentor: TBD"
+    "text": "13. New Team 2\n(Sara, Caesar, Robert, Aidan & Dayo)\nVery fleshy\nMentor: TBD"
   },
   {
     "objectID": "participants.html#new-team-3",
@@ -1187,7 +1187,7 @@
     "href": "participants.html#standard-deviants",
     "title": "Participant Teams",
     "section": "17. Standard Deviants",
-    "text": "17. Standard Deviants\n(Will, Ryan, Matias & Adithya)\nTagline\nMentor: TBD"
+    "text": "17. Standard Deviants\n(Will, Ryan, Matias & Adithya)\n100% confidence interval\nMentor: Shreeya Behera & David Gormley"
   },
   {
     "objectID": "participants.html#stay-saavy",
@@ -1251,5 +1251,12 @@
     "title": "Pre-DataFest Event",
     "section": "3. How to Use AI Efficiently and Responsibly + Menolearn (4:30 PM – 5:00 PM)",
     "text": "3. How to Use AI Efficiently and Responsibly + Menolearn (4:30 PM – 5:00 PM)\n\nSetting up AI tools and building an efficient data analysis workflow\nRules for appropriate AI usage during the DataFest\nUnderstanding:\n\nWhen to use AI vs. when not to\n\nRisks of over-reliance\n\n\nEthical and responsible AI usage in data science workflows"
+  },
+  {
+    "objectID": "participants.html#human",
+    "href": "participants.html#human",
+    "title": "Participant Teams",
+    "section": "13. Human",
+    "text": "13. Human\n(Sara, Caesar, Robert, Aidan & Dayo)\nVery fleshy\nMentor: TBD"
   }
 ]

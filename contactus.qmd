@@ -152,7 +152,7 @@ Below are the organizing committee members for ASA DataFest 2026. Please feel fr
     <div class="category-label">Digital Media</div>
   </div>
 
-  <div class="member-grid three">
+  <div class="member-grid two">
     <div class="member-card">
       <img src="images/hyouji2.jpg" alt="Hyouji Joo">
       <div class="member-info">
@@ -160,12 +160,6 @@ Below are the organizing committee members for ASA DataFest 2026. Please feel fr
       </div>
     </div>
 
-    <div class="member-card">
-      <img src="images/isabella.png" alt="Isabella Toth">
-      <div class="member-info">
-        <div class="member-name">Isabella Toth</div>
-      </div>
-    </div>
 
     <div class="member-card">
       <img src="images/jamie.jpg" alt="Jamie">
@@ -190,11 +184,12 @@ Below are the organizing committee members for ASA DataFest 2026. Please feel fr
     </div>
 
     <div class="member-card">
-      <img src="images/pooja.jpg" alt="Pooja Kantemneni">
+      <img src="images/isabella.png" alt="Isabella Toth">
       <div class="member-info">
-        <div class="member-name">Pooja Kantemneni</div>
+        <div class="member-name">Isabella Toth</div>
       </div>
     </div>
+
   </div>
 </div>
 

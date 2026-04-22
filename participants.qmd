@@ -115,7 +115,7 @@ title: "Participant Teams"
 ![](images/team_placeholder.jpg){width=80%}
 
 ## 13. Human{style="color:#4E2A84;"}
-*(Sara, Caesar, Robert, Aidan & Dayo)*
+*(Sara, Caesar, Aidan & Dayo)*
 
 *Very fleshy*
 
@@ -133,7 +133,7 @@ title: "Participant Teams"
 ![](images/team_placeholder.jpg){width=80%}
 
 ## 15. Outliars{style="color:#4E2A84;"}
-*(Uma, Liza, Kaylee & Ell)*
+*(Uma, Kaylee & Ell)*
 
 *Tagline*
 

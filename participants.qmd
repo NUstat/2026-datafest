@@ -167,6 +167,7 @@ title: "Participant Teams"
 **Mentor:** Jake Miller & Shreeya Behera
 
 ![](images/team_placeholder.jpg){width=80%}
+
 ## 19 TBD{style="color:#4E2A84;"}
 *(Ken & Josuke)*
 

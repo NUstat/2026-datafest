@@ -168,16 +168,7 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 19 TBD{style="color:#4E2A84;"}
-*(Ken & Josuke)*
-
-*Tagline*
-
-**Mentor:** Sutter Augur & Karthik Prabhu
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 20. The Monsters{style="color:#4E2A84;"}
+## 19. The Monsters{style="color:#4E2A84;"}
 *(Joonsung, Colin, Jet & Dylan)*
 
 *3 Beasts, 1 Monster*
@@ -186,7 +177,7 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 21. The Perfect Fit{style="color:#4E2A84;"}
+## 20. The Perfect Fit{style="color:#4E2A84;"}
 *(Sophia, Hannah, Kay, Takeshi & Selina)*
 
 *Tagline*
@@ -195,7 +186,7 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 22. The Winning Team{style="color:#4E2A84;"}
+## 21. The Winning Team{style="color:#4E2A84;"}
 *(Vikas, Marina, Julie, Johnny, & Belinda)*
 
 *Tagline*

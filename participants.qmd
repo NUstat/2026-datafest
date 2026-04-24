@@ -106,7 +106,7 @@ title: "Participant Teams"
 ![](images/team_placeholder.jpg){width=80%}
 
 ## 12. New Team 1{style="color:#4E2A84;"}
-*(Saafya, Yana, Adonai, Takeshi & Ericsson)*
+*(Saafya, Yana, Adonai & Ericsson)*
 
 *Tagline*
 
@@ -187,7 +187,7 @@ title: "Participant Teams"
 ![](images/team_placeholder.jpg){width=80%}
 
 ## 21. The Perfect Fit{style="color:#4E2A84;"}
-*(Sophia, Hannah, Kay, & Selina)*
+*(Sophia, Hannah, Kay, Takeshi & Selina)*
 
 *Tagline*
 

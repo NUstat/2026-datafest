@@ -51,7 +51,7 @@ title: "Participant Teams"
 ![](images/livin.JPG){width=80%}
 
 ## 6. Lunar Knights{style="color:#4E2A84;"}
-*(Vincent & Zoya)*
+*(Vincent & John)*
 
 *Tagline*
 
@@ -66,7 +66,7 @@ title: "Participant Teams"
 
 **Mentor:** Aryaman Chawla & Shengbin Ye
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/new.JPG){width=80%}
 
 ## 8. Human{style="color:#4E2A84;"}
 *(Sara, Caesar, Aidan & Dayo)*
@@ -111,7 +111,7 @@ title: "Participant Teams"
 
 **Mentor:** Jake Miller & Shreeya Behera
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/stay.JPG){width=80%}
 
 ## 13. The Monsters{style="color:#4E2A84;"}
 *(Joonsung, Colin, Jet & Dylan)*

@@ -12,7 +12,7 @@ title: "Participant Teams"
 
 **Mentor:** Isabel Knight & Karthik Prabhu
 
-![](images/byteme.JPG){width=80%}
+![](images/byteme2.JPG){width=80%}
 
 ## 2. Data Hunters{style="color:#4E2A84;"}
 *(MinJun, Jonathan, Adi, Martin & Tendai)*
@@ -57,7 +57,7 @@ title: "Participant Teams"
 
 **Mentor:** Harvey Wang & Karthik Prabhu
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/lunar.JPG){width=80%}
 
 ## 7. New Team 1{style="color:#4E2A84;"}
 *(Saafya & Adonai)*

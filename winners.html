@@ -71,35 +71,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -148,6 +119,10 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="./participants.html"> 
 <span class="menu-text">Participants</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./winners.html" aria-current="page"> 
+<span class="menu-text">Winners</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./coc.html"> 
@@ -208,10 +183,10 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#first-place-award---ggap" id="toc-first-place-award---ggap" class="nav-link active" data-scroll-target="#first-place-award---ggap">1. <strong>First Place Award - GGAP !!!!</strong></a></li>
-  <li><a href="#second-place-award---team-na" id="toc-second-place-award---team-na" class="nav-link" data-scroll-target="#second-place-award---team-na">2. <strong>Second Place Award - Team NA !!!</strong></a></li>
-  <li><a href="#third-place-award---hot-tea" id="toc-third-place-award---hot-tea" class="nav-link" data-scroll-target="#third-place-award---hot-tea">3. <strong>Third Place Award - Hot Tea !!</strong></a></li>
-  <li><a href="#peoples-choice-award---the-prompt-engineers" id="toc-peoples-choice-award---the-prompt-engineers" class="nav-link" data-scroll-target="#peoples-choice-award---the-prompt-engineers">4, <strong>People’s Choice Award - The Prompt Engineers !</strong></a></li>
+  <li><a href="#first-place-award---lakeside-data-center" id="toc-first-place-award---lakeside-data-center" class="nav-link active" data-scroll-target="#first-place-award---lakeside-data-center">1. <strong>First Place Award - Lakeside Data Center</strong></a></li>
+  <li><a href="#second-place-award---the-perfect-fit" id="toc-second-place-award---the-perfect-fit" class="nav-link" data-scroll-target="#second-place-award---the-perfect-fit">2. <strong>Second Place Award - The Perfect Fit</strong></a></li>
+  <li><a href="#third-place-award---the-monsters" id="toc-third-place-award---the-monsters" class="nav-link" data-scroll-target="#third-place-award---the-monsters">3. <strong>Third Place Award - The Monsters</strong></a></li>
+  <li><a href="#peoples-choice-award---byte-me" id="toc-peoples-choice-award---byte-me" class="nav-link" data-scroll-target="#peoples-choice-award---byte-me">4, <strong>People’s Choice Award - Byte Me</strong></a></li>
   </ul>
 </nav>
     </div>
@@ -237,42 +212,53 @@ window.Quarto = {
 </header>
 
 
-<p>After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, <strong>4 standout teams (out of 13) emerged as the winners</strong> of this year’s DataFest. Teams were evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity.</p>
-<section id="first-place-award---ggap" class="level2" style="color:#4E2A84;">
-<h2 style="color:#4E2A84;" class="anchored" data-anchor-id="first-place-award---ggap">1. <strong>First Place Award - GGAP !!!!</strong></h2>
-<p><em>(Alyssa, Paisley, Grace &amp; Grace)</em></p>
-<p><em>The 2025 epilogue to the GGAP 303 sequence trilogy</em></p>
-<p><strong>Mentor:</strong> Cathy Kim</p>
-<p><img src="images/ggap_winner.JPG" class="img-fluid" style="width:80.0%"></p>
-<p>GGAP stood out for their creativity, clarity and polish!—earning the top spot on four of five judges’ lists. Not only did they build a product ready for real-world use, but their explanation of the technical details was both clear and compelling. And just when the judges thought it couldn’t get better, GGAP brought the house down with a clever roleplay—two teammates acted as clients, while the others demoed the product like it was a live pitch. It felt like a real client meeting!</p>
-<p><strong>Technical aspect:</strong> Used <span class="math inline">\(k\)</span>-means clustering to identify leases similar to client requirements and provide recommendations. The clusters and the recommended leases were visualized using a dashboard. A couple of demos were presented, where the client inputs the requirements in the dashboard, and then the algorithm visualizes the results and the recommendations.</p>
+<p>After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, <strong>4 standout teams (out of 14) emerged as the winners</strong> of DataFest 2026. Teams were evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity.</p>
+<section id="first-place-award---lakeside-data-center" class="level2" style="color:#4E2A84;">
+<h2 style="color:#4E2A84;" class="anchored" data-anchor-id="first-place-award---lakeside-data-center">1. <strong>First Place Award - Lakeside Data Center</strong></h2>
+<p><em>(Emmanuel)</em></p>
+<p><strong>Presentation title:</strong> Patient Treatment Adherence Analysis</p>
+<p><strong>Mentors:</strong> Jeffrey Yuan &amp; Moses Chan</p>
+<p><img src="images/first.JPG" class="img-fluid" style="width:80.0%"></p>
+<ul>
+<li>Emmanuel <strong>identified a very specific, consequential problem</strong> inspired from his own life: fracture patients who make an initial visit but do not return for needed follow-up care. He made the clinical and financial stakes immediately clear.</li>
+<li>He <strong>moved from descriptive analysis to a practical decision tool</strong>: a patient-classification and outreach-prioritization system that tells staff whom to contact, when to contact them, and why.</li>
+<li>The analysis <strong>connected actionable drivers</strong>—especially geographic variation and MyChart activation—<strong>to a concrete intervention</strong>: targeted reminders, calls, and care coordination.</li>
+<li>Emmanuel showed strong analytical maturity by <strong>emphasizing interpretability</strong>, patient-level prediction, class imbalance, regularization, and limitations in the available data, and answered judges questions convincingly</li>
+<li><strong>Why it won:</strong> It was the most <strong>complete end-to-end solution</strong>: a compelling problem, credible analysis, a usable prototype, solid answers to judges’ questions, and a clear path from prediction to intervention and savings.</li>
+</ul>
 </section>
-<section id="second-place-award---team-na" class="level2" style="color:#4E2A84;">
-<h2 style="color:#4E2A84;" class="anchored" data-anchor-id="second-place-award---team-na">2. <strong>Second Place Award - Team NA !!!</strong></h2>
-<p><em>(Noah &amp; Aryaman)</em></p>
-<p><em>Filling in the gaps, one data point at a time</em></p>
-<p><strong>Mentor:</strong> Zihan Zhao</p>
-<p><img src="images/na_second.JPG" class="img-fluid" style="width:80.0%"></p>
-<p>The judges were deeply impressed by the analytical rigor demonstrated by NA! Unlike many teams who chose models more instinctively, NA took a methodical approach—testing several models and combining them into a robust ensemble. What further set them apart was their thoughtful integration of highly relevant external data, which significantly enriched their analysis.</p>
-<p><strong>Technical aspect:</strong> Developed a times series model to forecast the volume of leases using quarterly market characteristics. The model was an ensemble of KNN, Poisson, ElasticNet, XGBoost, and Random Forest. Recommendations were based on market trends, and important features effecting lease volume of the specific industry.</p>
+<section id="second-place-award---the-perfect-fit" class="level2" style="color:#4E2A84;">
+<h2 style="color:#4E2A84;" class="anchored" data-anchor-id="second-place-award---the-perfect-fit">2. <strong>Second Place Award - The Perfect Fit</strong></h2>
+<p><em>(Sophia, Hannah, Kay, Takeshi &amp; Selina)</em></p>
+<p><strong>Mentors:</strong> Isabel Knight &amp; Shengbin Ye</p>
+<p><img src="images/second.JPG" class="img-fluid" style="width:80.0%"></p>
+<ul>
+<li>The team identified a specific problem - geographic inequity<strong>gave the analysis a memorable human frame through Emre’s story </strong> making geographic inequity and long travel burdens feel tangible rather than abstract.</li>
+<li>Their <strong>recommendations were practically actionable</strong> and data driven: new clinics or partnerships, improved digital scheduling, community access hubs, and a real-time journey dashboard.</li>
+<li>The <strong>deck was especially polished visually</strong>, using maps, care-journey diagrams, and a clear narrative arc from patient problem to solution.</li>
+<li><strong>Why it won:</strong> It combined a <strong>strong equity-centered story</strong> with visually effective analysis and thoughtful, <strong>practically implementable recommendations</strong> that could improve access in both rural and underserved areas.</li>
+</ul>
 </section>
-<section id="third-place-award---hot-tea" class="level2" style="color:#4E2A84;">
-<h2 style="color:#4E2A84;" class="anchored" data-anchor-id="third-place-award---hot-tea">3. <strong>Third Place Award - Hot Tea !!</strong></h2>
-<p><em>(Ice, Robert, and Owen)</em></p>
-<p><em>Just an ordinary dataset, but with the right model, we can make it trend like a hot tea</em></p>
-<p><strong>Mentor:</strong> David Frost</p>
-<p><img src="images/icetea_third.JPG" class="img-fluid" style="width:80.0%"></p>
-<p>Hot Tea impressed the judges with the originality of their analytical approach. They crafted a truly unique question that offered a fresh perspective on the open-ended problem, making their analysis stand out as both memorable and impactful.</p>
-<p><strong>Technical aspect:</strong> Focused the analysis on the impact of wildfires on California leases, visualized their effect on leasing trends, and provided recommendations on optimal timing, location, and lease types based on wildfire occurrences. This solution shows that simple analysis can also lead to useful insights.</p>
+<section id="third-place-award---the-monsters" class="level2" style="color:#4E2A84;">
+<h2 style="color:#4E2A84;" class="anchored" data-anchor-id="third-place-award---the-monsters">3. <strong>Third Place Award - The Monsters</strong></h2>
+<p><em>(Joonsung, Colin, Jet &amp; Dylan)</em></p>
+<p><strong>Mentors:</strong> Sutter Augur &amp; Karthik Prabhu</p>
+<p><img src="images/third.JPG" class="img-fluid" style="width:80.0%"></p>
+<ul>
+<li>The team introduced a distinctive and <strong>technically strong idea</strong>: a two-step Markov-chain model that forecasts what is likely to happen next in a patient’s care pathway.</li>
+<li>They <strong>translated the model into concrete operational findings</strong>—for example, predicting ED-return risk, anticipating imaging bottlenecks, and forecasting rehab and skilled-nursing demand several days ahead.</li>
+<li>They connected care-path fragmentation to hospital finances, using external payment benchmarks to show how avoidable repeat encounters can create excess costs.</li>
+<li>Their <strong>recommendations were highly implementable</strong>: better advance staffing, earlier bed planning, targeted care coordination, and a phased rollout using existing EHR data.</li>
+<li><strong>Why it won:</strong> It stood out for combining an original, <strong>interpretable modeling approach with highly specific operational decisions</strong> that hospital managers could act on quickly.</li>
+</ul>
+<p><strong>What made the three winning teams stand out</strong> was their ability to: (1) identify a focused and meaningful problem, (2) develop technically sound, interpretable analyses that led to practical, actionable recommendations, and (3) defend their methods, findings, and choices thoughtfully in response to the judges’ questions.</p>
 </section>
-<section id="peoples-choice-award---the-prompt-engineers" class="level2" style="color:#4E2A84;">
-<h2 style="color:#4E2A84;" class="anchored" data-anchor-id="peoples-choice-award---the-prompt-engineers">4, <strong>People’s Choice Award - The Prompt Engineers !</strong></h2>
-<p><em>(Harrison, Abigail, Jinhe, and Olzhasbek)</em></p>
-<p><em>We may not have the answers, but we will be sure to phrase a question well enough to fake it</em></p>
-<p><strong>Mentor:</strong> Xinhui Qian</p>
-<p><img src="images/pe_pc.JPG" class="img-fluid" style="width:80.0%"></p>
-<p>The Prompt Engineers stole the show right from the start with a rap-style team intro and wrapped things up with a custom song for the client—winning over the crowd and clinching the award! But it wasn’t just the music that stood out. While the award was audience-driven, the judges were equally impressed by the team’s sharp local insights, especially when one member used their on-the-ground knowledge to deliver a spot-on answer during Q&amp;A!</p>
-<p><strong>Technical aspect:</strong> Visualized leasing trends before and after COVID, which motivated the team to focus on cost-effective space utilization. Broad-level recommendations were provided based on the market trends. This is another solution showing that simple analysis can lead to useful insights.</p>
+<section id="peoples-choice-award---byte-me" class="level2" style="color:#4E2A84;">
+<h2 style="color:#4E2A84;" class="anchored" data-anchor-id="peoples-choice-award---byte-me">4, <strong>People’s Choice Award - Byte Me</strong></h2>
+<p><em>(Fiona, Ashley, Zara, Samuel, &amp; Benjamin)</em></p>
+<p><strong>Mentor:</strong> Cara Chang &amp; Karthik Prabhu</p>
+<p><img src="images/ppl_choice.JPG" class="img-fluid" style="width:80.0%"></p>
+<p>Byte Me, the People’s Choice Award winners, stood out as the most enthusiastic team at DataFest. They even <strong>printed and wore their own team T-shirts</strong>, and their energy, positivity, and sense of fun resonated strongly with the audience. Their award reflected not only the quality of their work, but also the memorable and engaging way they brought the DataFest spirit to life.</p>
 
 
 </section>

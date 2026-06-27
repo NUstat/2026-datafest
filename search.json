@@ -207,35 +207,35 @@
     "href": "winners.html",
     "title": "Winners 🔥",
     "section": "",
-    "text": "After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, 4 standout teams (out of 13) emerged as the winners of this year’s DataFest. Teams were evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity."
+    "text": "After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, 4 standout teams (out of 14) emerged as the winners of DataFest 2026. Teams were evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity."
   },
   {
-    "objectID": "winners.html#first-place-award---ggap",
-    "href": "winners.html#first-place-award---ggap",
+    "objectID": "winners.html#first-place-award---lakeside-data-center",
+    "href": "winners.html#first-place-award---lakeside-data-center",
     "title": "Winners 🔥",
-    "section": "1. First Place Award - GGAP !!!!",
-    "text": "1. First Place Award - GGAP !!!!\n(Alyssa, Paisley, Grace & Grace)\nThe 2025 epilogue to the GGAP 303 sequence trilogy\nMentor: Cathy Kim\n\nGGAP stood out for their creativity, clarity and polish!—earning the top spot on four of five judges’ lists. Not only did they build a product ready for real-world use, but their explanation of the technical details was both clear and compelling. And just when the judges thought it couldn’t get better, GGAP brought the house down with a clever roleplay—two teammates acted as clients, while the others demoed the product like it was a live pitch. It felt like a real client meeting!\nTechnical aspect: Used \\(k\\)-means clustering to identify leases similar to client requirements and provide recommendations. The clusters and the recommended leases were visualized using a dashboard. A couple of demos were presented, where the client inputs the requirements in the dashboard, and then the algorithm visualizes the results and the recommendations."
+    "section": "1. First Place Award - Lakeside Data Center",
+    "text": "1. First Place Award - Lakeside Data Center\n(Emmanuel)\nPresentation title: Patient Treatment Adherence Analysis\nMentors: Jeffrey Yuan & Moses Chan\n\n\nEmmanuel identified a very specific, consequential problem inspired from his own life: fracture patients who make an initial visit but do not return for needed follow-up care. He made the clinical and financial stakes immediately clear.\nHe moved from descriptive analysis to a practical decision tool: a patient-classification and outreach-prioritization system that tells staff whom to contact, when to contact them, and why.\nThe analysis connected actionable drivers—especially geographic variation and MyChart activation—to a concrete intervention: targeted reminders, calls, and care coordination.\nEmmanuel showed strong analytical maturity by emphasizing interpretability, patient-level prediction, class imbalance, regularization, and limitations in the available data, and answered judges questions convincingly\nWhy it won: It was the most complete end-to-end solution: a compelling problem, credible analysis, a usable prototype, solid answers to judges’ questions, and a clear path from prediction to intervention and savings."
   },
   {
-    "objectID": "winners.html#second-place-award---team-na",
-    "href": "winners.html#second-place-award---team-na",
+    "objectID": "winners.html#second-place-award---the-perfect-fit",
+    "href": "winners.html#second-place-award---the-perfect-fit",
     "title": "Winners 🔥",
-    "section": "2. Second Place Award - Team NA !!!",
-    "text": "2. Second Place Award - Team NA !!!\n(Noah & Aryaman)\nFilling in the gaps, one data point at a time\nMentor: Zihan Zhao\n\nThe judges were deeply impressed by the analytical rigor demonstrated by NA! Unlike many teams who chose models more instinctively, NA took a methodical approach—testing several models and combining them into a robust ensemble. What further set them apart was their thoughtful integration of highly relevant external data, which significantly enriched their analysis.\nTechnical aspect: Developed a times series model to forecast the volume of leases using quarterly market characteristics. The model was an ensemble of KNN, Poisson, ElasticNet, XGBoost, and Random Forest. Recommendations were based on market trends, and important features effecting lease volume of the specific industry."
+    "section": "2. Second Place Award - The Perfect Fit",
+    "text": "2. Second Place Award - The Perfect Fit\n(Sophia, Hannah, Kay, Takeshi & Selina)\nMentors: Isabel Knight & Shengbin Ye\n\n\nThe team identified a specific problem - geographic inequitygave the analysis a memorable human frame through Emre’s story  making geographic inequity and long travel burdens feel tangible rather than abstract.\nTheir recommendations were practically actionable and data driven: new clinics or partnerships, improved digital scheduling, community access hubs, and a real-time journey dashboard.\nThe deck was especially polished visually, using maps, care-journey diagrams, and a clear narrative arc from patient problem to solution.\nWhy it won: It combined a strong equity-centered story with visually effective analysis and thoughtful, practically implementable recommendations that could improve access in both rural and underserved areas."
   },
   {
-    "objectID": "winners.html#third-place-award---hot-tea",
-    "href": "winners.html#third-place-award---hot-tea",
+    "objectID": "winners.html#third-place-award---the-monsters",
+    "href": "winners.html#third-place-award---the-monsters",
     "title": "Winners 🔥",
-    "section": "3. Third Place Award - Hot Tea !!",
-    "text": "3. Third Place Award - Hot Tea !!\n(Ice, Robert, and Owen)\nJust an ordinary dataset, but with the right model, we can make it trend like a hot tea\nMentor: David Frost\n\nHot Tea impressed the judges with the originality of their analytical approach. They crafted a truly unique question that offered a fresh perspective on the open-ended problem, making their analysis stand out as both memorable and impactful.\nTechnical aspect: Focused the analysis on the impact of wildfires on California leases, visualized their effect on leasing trends, and provided recommendations on optimal timing, location, and lease types based on wildfire occurrences. This solution shows that simple analysis can also lead to useful insights."
+    "section": "3. Third Place Award - The Monsters",
+    "text": "3. Third Place Award - The Monsters\n(Joonsung, Colin, Jet & Dylan)\nMentors: Sutter Augur & Karthik Prabhu\n\n\nThe team introduced a distinctive and technically strong idea: a two-step Markov-chain model that forecasts what is likely to happen next in a patient’s care pathway.\nThey translated the model into concrete operational findings—for example, predicting ED-return risk, anticipating imaging bottlenecks, and forecasting rehab and skilled-nursing demand several days ahead.\nThey connected care-path fragmentation to hospital finances, using external payment benchmarks to show how avoidable repeat encounters can create excess costs.\nTheir recommendations were highly implementable: better advance staffing, earlier bed planning, targeted care coordination, and a phased rollout using existing EHR data.\nWhy it won: It stood out for combining an original, interpretable modeling approach with highly specific operational decisions that hospital managers could act on quickly.\n\nWhat made the three winning teams stand out was their ability to: (1) identify a focused and meaningful problem, (2) develop technically sound, interpretable analyses that led to practical, actionable recommendations, and (3) defend their methods, findings, and choices thoughtfully in response to the judges’ questions."
   },
   {
-    "objectID": "winners.html#peoples-choice-award---the-prompt-engineers",
-    "href": "winners.html#peoples-choice-award---the-prompt-engineers",
+    "objectID": "winners.html#peoples-choice-award---byte-me",
+    "href": "winners.html#peoples-choice-award---byte-me",
     "title": "Winners 🔥",
-    "section": "4, People’s Choice Award - The Prompt Engineers !",
-    "text": "4, People’s Choice Award - The Prompt Engineers !\n(Harrison, Abigail, Jinhe, and Olzhasbek)\nWe may not have the answers, but we will be sure to phrase a question well enough to fake it\nMentor: Xinhui Qian\n\nThe Prompt Engineers stole the show right from the start with a rap-style team intro and wrapped things up with a custom song for the client—winning over the crowd and clinching the award! But it wasn’t just the music that stood out. While the award was audience-driven, the judges were equally impressed by the team’s sharp local insights, especially when one member used their on-the-ground knowledge to deliver a spot-on answer during Q&A!\nTechnical aspect: Visualized leasing trends before and after COVID, which motivated the team to focus on cost-effective space utilization. Broad-level recommendations were provided based on the market trends. This is another solution showing that simple analysis can lead to useful insights."
+    "section": "4, People’s Choice Award - Byte Me",
+    "text": "4, People’s Choice Award - Byte Me\n(Fiona, Ashley, Zara, Samuel, & Benjamin)\nMentor: Cara Chang & Karthik Prabhu\n\nByte Me, the People’s Choice Award winners, stood out as the most enthusiastic team at DataFest. They even printed and wore their own team T-shirts, and their energy, positivity, and sense of fun resonated strongly with the audience. Their award reflected not only the quality of their work, but also the memorable and engaging way they brought the DataFest spirit to life."
   },
   {
     "objectID": "pictures.html",

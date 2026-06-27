@@ -2,13 +2,13 @@
 title: "Participant Teams"
 ---
 
-**15 teams, 54 brilliant minds** competed in the ultimate data-analytics showdown
+**14 teams, 50 brilliant minds** competed in the ultimate data-analytics showdown
 
 
 ## 1. Byte me{style="color:#4E2A84;"}
 *(Fiona, Ashley, Zara, Samuel, & Benjamin)*
 
-*Tagline*
+*We have our own T-shirts*
 
 **Mentor:** Isabel Knight & Karthik Prabhu
 
@@ -17,22 +17,13 @@ title: "Participant Teams"
 ## 2. Data Hunters{style="color:#4E2A84;"}
 *(MinJun, Jonathan, Martin & Tendai)*
 
-*Tagline*
+*Hunting for stories hidden in messy data*
 
 **Mentor:** David Gormley & Shreeya Behera
 
 ![](images/hunters.JPG){width=80%}
 
-## 3. hey come and drink tea{style="color:#4E2A84;"}
-*(Sarah, Gustavo, Andres & Annie)*
-
-*Tagline*
-
-**Mentor:** Kyle Williams & Moses Chan
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 4. Lakeside Data Center{style="color:#4E2A84;"}
+## 3. Lakeside Data Center{style="color:#4E2A84;"}
 *(Emmanuel)*
 
 *Seeking truth in the mess*
@@ -41,7 +32,7 @@ title: "Participant Teams"
 
 ![](images/lakeside.JPG){width=80%}
 
-## 5. Livin la vida loca{style="color:#4E2A84;"}
+## 4. Livin la vida loca{style="color:#4E2A84;"}
 *(Sofie, Ethan, Edwin & Edwin)*
 
 *Tagline*
@@ -50,7 +41,7 @@ title: "Participant Teams"
 
 ![](images/livin.JPG){width=80%}
 
-## 6. Lunar Knights{style="color:#4E2A84;"}
+## 5. Lunar Knights{style="color:#4E2A84;"}
 *(Vincent & John)*
 
 *Tagline*
@@ -84,7 +75,7 @@ title: "Participant Teams"
 
 **Mentor:** Harvey Wang & Shengbin Ye
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/NB.jpeg){width=80%}
 
 ## 10. Penguin{style="color:#4E2A84;"}
 *(Oliver, Alan, Dawson & Jeremy)*

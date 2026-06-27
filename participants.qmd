@@ -17,7 +17,7 @@ title: "Participant Teams"
 ## 2. Data Hunters{style="color:#4E2A84;"}
 *(MinJun, Jonathan, Martin & Tendai)*
 
-*Hunting for stories hidden in messy data*
+*Hunting for stories hidden in data*
 
 **Mentor:** David Gormley & Shreeya Behera
 
@@ -35,7 +35,7 @@ title: "Participant Teams"
 ## 4. Livin la vida loca{style="color:#4E2A84;"}
 *(Sofie, Ethan, Edwin & Edwin)*
 
-*Tagline*
+*Life is data, data is life*
 
 **Mentor:** Kyle Williams & Moses Chan
 
@@ -44,7 +44,7 @@ title: "Participant Teams"
 ## 5. Lunar Knights{style="color:#4E2A84;"}
 *(Vincent & John)*
 
-*Tagline*
+*There is light in darkness, we shine like the moon*
 
 **Mentor:** Harvey Wang & Karthik Prabhu
 
@@ -53,7 +53,7 @@ title: "Participant Teams"
 ## 6. New Team 1{style="color:#4E2A84;"}
 *(Saafya & Adonai)*
 
-*Tagline*
+*Tagline 1*
 
 **Mentor:** Aryaman Chawla & Shengbin Ye
 
@@ -71,7 +71,7 @@ title: "Participant Teams"
 ## 8. NorthBestern{style="color:#4E2A84;"}
 *(Owen & Emmett)*
 
-*Tagline*
+*Best it*
 
 **Mentor:** Harvey Wang & Shengbin Ye
 
@@ -80,7 +80,7 @@ title: "Participant Teams"
 ## 9. Penguin{style="color:#4E2A84;"}
 *(Oliver, Alan, Dawson & Jeremy)*
 
-*Tagline*
+*On our feet*
 
 **Mentor:** Jake Miller & Karthik Prabhu
 
@@ -98,7 +98,7 @@ title: "Participant Teams"
 ## 11. Stay Saavy{style="color:#4E2A84;"}
 *(Diane, Eva, Vivian & Inaaya)*
 
-*Tagline*
+*Stay savvy to win*
 
 **Mentor:** Jake Miller & Shreeya Behera
 
@@ -116,7 +116,7 @@ title: "Participant Teams"
 ## 13. The Perfect Fit{style="color:#4E2A84;"}
 *(Sophia, Hannah, Kay, Takeshi & Selina)*
 
-*Tagline*
+*Our imperfection is irreducible*
 
 **Mentor:** Isabel Knight & Shengbin Ye
 
@@ -125,7 +125,7 @@ title: "Participant Teams"
 ## 14. The Winning Team{style="color:#4E2A84;"}
 *(Vikas, Marina, Julie, Johnny, & Belinda)*
 
-*Tagline*
+*Confidence is key*
 
 **Mentor:** Harrison Gillespie & Shengbin Ye
 

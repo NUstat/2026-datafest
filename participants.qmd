@@ -48,7 +48,7 @@ title: "Participant Teams"
 
 **Mentor:** Kyle Williams & Moses Chan
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/livin.JPG){width=80%}
 
 ## 6. Lunar Knights{style="color:#4E2A84;"}
 *(Vincent & Zoya)*
@@ -93,7 +93,7 @@ title: "Participant Teams"
 
 **Mentor:** Jake Miller & Karthik Prabhu
 
-![](images/penguin.JPG){width=80%}
+![](images/peng.JPG){width=80%}
 
 ## 11. Standard Deviants{style="color:#4E2A84;"}
 *(Will, Ryan, Matias & Adithya)*

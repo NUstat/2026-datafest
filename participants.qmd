@@ -102,7 +102,7 @@ title: "Participant Teams"
 
 **Mentor:** David Gormley & Shreeya Behera
 
-![](images/stddev.JPG){width=80%}
+![](images/std_dev.JPG){width=80%}
 
 ## 12. Stay Saavy{style="color:#4E2A84;"}
 *(Diane, Eva, Vivian & Inaaya)*
@@ -129,7 +129,7 @@ title: "Participant Teams"
 
 **Mentor:** Isabel Knight & Shengbin Ye
 
-![](images/perfectfit.JPG){width=80%}
+![](images/perfect.JPG){width=80%}
 
 ## 15. The Winning Team{style="color:#4E2A84;"}
 *(Vikas, Marina, Julie, Johnny, & Belinda)*

@@ -2,57 +2,57 @@
 title: "Winners 🔥"
 ---
 
-After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, **4 standout teams (out of 13) emerged as the winners** of this year’s DataFest. Teams were evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity.
+After 3.5 hours of team presentations and nearly an hour of thoughtful deliberation by the judges, **4 standout teams (out of 14) emerged as the winners** of DataFest 2026. Teams were evaluated on the quality of their recommendations, soundness of analysis, clarity of presentation, data visualization, use of external data, and overall creativity.
 
-## 1. **First Place Award - GGAP !!!!**{style="color:#4E2A84;"}
-*(Alyssa, Paisley, Grace & Grace)*
+## 1. **First Place Award - Lakeside Data Center**{style="color:#4E2A84;"}
+*(Emmanuel)*
 
-*The 2025 epilogue to the GGAP 303 sequence trilogy*
+**Presentation title:** Patient Treatment Adherence Analysis
 
-**Mentor:** Cathy Kim
+**Mentors:** Jeffrey Yuan & Moses Chan
 
-![](images/ggap_winner.JPG){width=80%}
-
-GGAP stood out for their creativity, clarity and polish!—earning the top spot on four of five judges’ lists. Not only did they build a product ready for real-world use, but their explanation of the technical details was both clear and compelling. And just when the judges thought it couldn’t get better, GGAP brought the house down with a clever roleplay—two teammates acted as clients, while the others demoed the product like it was a live pitch. It felt like a real client meeting!
-
-**Technical aspect:** Used $k$-means clustering to identify leases similar to client requirements and provide recommendations. The clusters and the recommended leases were visualized using a dashboard. A couple of demos were presented, where the client inputs the requirements in the dashboard, and then the algorithm visualizes the results and the recommendations.
+![](images/first.JPG){width=80%}
 
 
-## 2. **Second Place Award - Team NA !!!**{style="color:#4E2A84;"}
-*(Noah & Aryaman)*
+- Emmanuel **identified a very specific, consequential problem** inspired from his own life: fracture patients who make an initial visit but do not return for needed follow-up care. He made the clinical and financial stakes immediately clear.
+- He **moved from descriptive analysis to a practical decision tool**: a patient-classification and outreach-prioritization system that tells staff whom to contact, when to contact them, and why.
+- The analysis **connected actionable drivers**—especially geographic variation and MyChart activation—**to a concrete intervention**: targeted reminders, calls, and care coordination.
+- Emmanuel showed strong analytical maturity by **emphasizing interpretability**, patient-level prediction, class imbalance, regularization, and limitations in the available data, and answered judges questions convincingly
+- **Why it won:** It was the most **complete end-to-end solution**: a compelling problem, credible analysis, a usable prototype, solid answers to judges' questions, and a clear path from prediction to intervention and savings.
 
-*Filling in the gaps, one data point at a time*
 
-**Mentor:** Zihan Zhao
+## 2. **Second Place Award - The Perfect Fit**{style="color:#4E2A84;"}
+*(Sophia, Hannah, Kay, Takeshi & Selina)*
 
-![](images/na_second.JPG){width=80%}
+**Mentors:** Isabel Knight & Shengbin Ye
 
-The judges were deeply impressed by the analytical rigor demonstrated by NA! Unlike many teams who chose models more instinctively, NA took a methodical approach—testing several models and combining them into a robust ensemble. What further set them apart was their thoughtful integration of highly relevant external data, which significantly enriched their analysis.
+![](images/second.JPG){width=80%}
 
-**Technical aspect:** Developed a times series model to forecast the volume of leases using quarterly market characteristics. The model was an ensemble of KNN, Poisson, ElasticNet, XGBoost, and Random Forest. Recommendations were based on market trends, and important features effecting lease volume of the specific industry.
+- The team identified a specific problem - geographic inequity**gave the analysis a memorable human frame through Emre's story ** making geographic inequity and long travel burdens feel tangible rather than abstract.
+- Their **recommendations were practically actionable** and data driven: new clinics or partnerships, improved digital scheduling, community access hubs, and a real-time journey dashboard.
+- The **deck was especially polished visually**, using maps, care-journey diagrams, and a clear narrative arc from patient problem to solution.
+- **Why it won:** It combined a **strong equity-centered story** with visually effective analysis and thoughtful, **practically implementable recommendations** that could improve access in both rural and underserved areas.
 
-## 3. **Third Place Award - Hot Tea !!**{style="color:#4E2A84;"}
-*(Ice, Robert, and Owen)*
+## 3. **Third Place Award - The Monsters**{style="color:#4E2A84;"}
+*(Joonsung, Colin, Jet & Dylan)*
 
-*Just an ordinary dataset, but with the right model, we can make it trend like a hot tea*
+**Mentors:** Sutter Augur & Karthik Prabhu
 
-**Mentor:** David Frost
+![](images/third.JPG){width=80%}
 
-![](images/icetea_third.JPG){width=80%}
+- The team introduced a distinctive and **technically strong idea**: a two-step Markov-chain model that forecasts what is likely to happen next in a patient’s care pathway.
+- They **translated the model into concrete operational findings**—for example, predicting ED-return risk, anticipating imaging bottlenecks, and forecasting rehab and skilled-nursing demand several days ahead.
+- They connected care-path fragmentation to hospital finances, using external payment benchmarks to show how avoidable repeat encounters can create excess costs.
+- Their **recommendations were highly implementable**: better advance staffing, earlier bed planning, targeted care coordination, and a phased rollout using existing EHR data.
+- **Why it won:** It stood out for combining an original, **interpretable modeling approach with highly specific operational decisions** that hospital managers could act on quickly.
 
-Hot Tea impressed the judges with the originality of their analytical approach. They crafted a truly unique question that offered a fresh perspective on the open-ended problem, making their analysis stand out as both memorable and impactful.
+**What made the three winning teams stand out** was their ability to: (1) identify a focused and meaningful problem, (2) develop technically sound, interpretable analyses that led to practical, actionable recommendations, and (3) defend their methods, findings, and choices thoughtfully in response to the judges’ questions.
 
-**Technical aspect:** Focused the analysis on the impact of wildfires on California leases, visualized their effect on leasing trends, and provided recommendations on optimal timing, location, and lease types based on wildfire occurrences. This solution shows that simple analysis can also lead to useful insights.
+## 4, **People's Choice Award - Byte Me**{style="color:#4E2A84;"}
+*(Fiona, Ashley, Zara, Samuel, & Benjamin)*
 
-## 4, **People's Choice Award - The Prompt Engineers !**{style="color:#4E2A84;"}
-*(Harrison, Abigail, Jinhe, and Olzhasbek)*
+**Mentor:** Cara Chang & Karthik Prabhu
 
-*We may not have the answers, but we will be sure to phrase a question well enough to fake it*
+![](images/ppl_choice.JPG){width=80%}
 
-**Mentor:** Xinhui Qian
-
-![](images/pe_pc.JPG){width=80%}
-
-The Prompt Engineers stole the show right from the start with a rap-style team intro and wrapped things up with a custom song for the client—winning over the crowd and clinching the award! But it wasn’t just the music that stood out. While the award was audience-driven, the judges were equally impressed by the team’s sharp local insights, especially when one member used their on-the-ground knowledge to deliver a spot-on answer during Q&A!
-
-**Technical aspect:** Visualized leasing trends before and after COVID, which motivated the team to focus on cost-effective space utilization. Broad-level recommendations were provided based on the market trends. This is another solution showing that simple analysis can lead to useful insights.
+Byte Me, the People’s Choice Award winners, stood out as the most enthusiastic team at DataFest. They even **printed and wore their own team T-shirts**, and their energy, positivity, and sense of fun resonated strongly with the audience. Their award reflected not only the quality of their work, but also the memorable and engaging way they brought the DataFest spirit to life.

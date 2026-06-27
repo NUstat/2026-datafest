@@ -4,34 +4,17 @@ title: "Participant Teams"
 
 **21 powerhouse teams, 84 brilliant minds**, clash in the ultimate data-analytics showdown
 
-## 1. As written {style="color:#4E2A84;"}
-*(Robert, Ice-T, Owen & Swas)*
 
-*Tagline*
-
-**Mentor:** Raman Khurana & Shreeya Behera
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 2. Block{style="color:#4E2A84;"}
-*(Kenneth, Lucas & Braedon)*
-
-*Tagline*
-
-**Mentor:** Aryaman Chawla & Moses Chan
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 3. Byte me{style="color:#4E2A84;"}
+## 1. Byte me{style="color:#4E2A84;"}
 *(Fiona, Ashley, Zara, Samuel, & Benjamin)*
 
 *Tagline*
 
 **Mentor:** Isabel Knight & Karthik Prabhu
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/byteme.JPG){width=80%}
 
-## 4. Data Hunters{style="color:#4E2A84;"}
+## 2. Data Hunters{style="color:#4E2A84;"}
 *(MinJun, Jonathan, Adi, Martin & Tendai)*
 
 *Tagline*
@@ -40,28 +23,8 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 5. Goldfish{style="color:#4E2A84;"}
-
-*(Yubin, Ian, Merina, Sonja & Jules)*
-
-*Tagline*
-
-**Mentor:** UChicago mentor
-
-![](images/team_placeholder.jpg){width=80%}
-
-
-## 6. Hello{style="color:#4E2A84;"}
-*(Daniel, Camden, Aileen & Charles)*
-
-*Tagline*
-
-**Mentor:** Jeffrey Yuan & Shengbin Ye
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 7. hey come and drink tea{style="color:#4E2A84;"}
-*(Vincent, Sarah, Gustavo, Andres & Annie)*
+## 3. hey come and drink tea{style="color:#4E2A84;"}
+*(Sarah, Gustavo, Andres & Annie)*
 
 *Tagline*
 
@@ -69,8 +32,8 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 8. Lakeside Data Center{style="color:#4E2A84;"}
-*(Gabriel, Alina, Matthew, & Emmanuel)*
+## 4. Lakeside Data Center{style="color:#4E2A84;"}
+*(Emmanuel)*
 
 *Seeking truth in the mess*
 
@@ -78,16 +41,7 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 9. Leftovers{style="color:#4E2A84;"}
-*(Vedat, Defne & Efe)*
-
-*Tagline*
-
-**Mentor:** UChicago mentor
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 10. Livin la vida loca{style="color:#4E2A84;"}
+## 5. Livin la vida loca{style="color:#4E2A84;"}
 *(Sofie, Ethan, Edwin & Edwin)*
 
 *Tagline*
@@ -96,8 +50,8 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 11. Lunar Knights{style="color:#4E2A84;"}
-*(Kevin, Vincent, John & Zoya)*
+## 6. Lunar Knights{style="color:#4E2A84;"}
+*(Vincent & Zoya)*
 
 *Tagline*
 
@@ -105,8 +59,8 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 12. New Team 1{style="color:#4E2A84;"}
-*(Saafya, Yana & Adonai)*
+## 7. New Team 1{style="color:#4E2A84;"}
+*(Saafya & Adonai)*
 
 *Tagline*
 
@@ -114,7 +68,7 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 13. Human{style="color:#4E2A84;"}
+## 8. Human{style="color:#4E2A84;"}
 *(Sara, Caesar, Aidan & Dayo)*
 
 *Very fleshy*
@@ -123,7 +77,7 @@ title: "Participant Teams"
 
 ![](images/human.jpg){width=80%}
 
-## 14. NorthBestern{style="color:#4E2A84;"}
+## 9. NorthBestern{style="color:#4E2A84;"}
 *(Owen & Emmett)*
 
 *Tagline*
@@ -132,34 +86,25 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 15. Outliars{style="color:#4E2A84;"}
-*(Uma, Kaylee, Edgar & Ell)*
-
-*Tagline*
-
-**Mentor:** UChicago mentor
-
-![](images/team_placeholder.jpg){width=80%}
-
-## 16. Penguin{style="color:#4E2A84;"}
+## 10. Penguin{style="color:#4E2A84;"}
 *(Oliver, Alan, Dawson & Jeremy)*
 
 *Tagline*
 
 **Mentor:** Jake Miller & Karthik Prabhu
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/penguin.JPG){width=80%}
 
-## 17. Standard Deviants{style="color:#4E2A84;"}
+## 11. Standard Deviants{style="color:#4E2A84;"}
 *(Will, Ryan, Matias & Adithya)*
 
 *100% confidence interval*
 
 **Mentor:** David Gormley & Shreeya Behera
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/std.JPG){width=80%}
 
-## 18. Stay Saavy{style="color:#4E2A84;"}
+## 12. Stay Saavy{style="color:#4E2A84;"}
 *(Diane, Eva, Vivian & Inaaya)*
 
 *Tagline*
@@ -168,29 +113,29 @@ title: "Participant Teams"
 
 ![](images/team_placeholder.jpg){width=80%}
 
-## 19. The Monsters{style="color:#4E2A84;"}
+## 13. The Monsters{style="color:#4E2A84;"}
 *(Joonsung, Colin, Jet & Dylan)*
 
 *3 Beasts, 1 Monster*
 
 **Mentor:** Sutter Augur & Karthik Prabhu
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/monsters.jpeg){width=80%}
 
-## 20. The Perfect Fit{style="color:#4E2A84;"}
+## 14. The Perfect Fit{style="color:#4E2A84;"}
 *(Sophia, Hannah, Kay, Takeshi & Selina)*
 
 *Tagline*
 
 **Mentor:** Isabel Knight & Shengbin Ye
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/perfectfit.JPG){width=80%}
 
-## 21. The Winning Team{style="color:#4E2A84;"}
+## 15. The Winning Team{style="color:#4E2A84;"}
 *(Vikas, Marina, Julie, Johnny, & Belinda)*
 
 *Tagline*
 
 **Mentor:** Harrison Gillespie & Shengbin Ye
 
-![](images/team_placeholder.jpg){width=80%}
+![](images/winning.JPG){width=80%}

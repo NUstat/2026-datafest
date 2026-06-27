@@ -24,17 +24,21 @@ After 3.5 hours of team presentations and nearly an hour of thoughtful deliberat
 ## 2. **Second Place Award - The Perfect Fit**{style="color:#4E2A84;"}
 *(Sophia, Hannah, Kay, Takeshi & Selina)*
 
+**Presentation title:** Understanding the Patient Journey for SVH
+
 **Mentors:** Isabel Knight & Shengbin Ye
 
 ![](images/second.JPG){width=80%}
 
-- The team identified a specific problem - geographic inequity**gave the analysis a memorable human frame through Emre's story ** making geographic inequity and long travel burdens feel tangible rather than abstract.
+- The team identified a specific problem - geographic inequity **gave the analysis a memorable human frame through Emre's story ** making geographic inequity and long travel burdens feel tangible rather than abstract.
 - Their **recommendations were practically actionable** and data driven: new clinics or partnerships, improved digital scheduling, community access hubs, and a real-time journey dashboard.
 - The **deck was especially polished visually**, using maps, care-journey diagrams, and a clear narrative arc from patient problem to solution.
 - **Why it won:** It combined a **strong equity-centered story** with visually effective analysis and thoughtful, **practically implementable recommendations** that could improve access in both rural and underserved areas.
 
 ## 3. **Third Place Award - The Monsters**{style="color:#4E2A84;"}
 *(Joonsung, Colin, Jet & Dylan)*
+
+**Presentation title:** Predicting Patient Journeys to Optimize Hospital Resources
 
 **Mentors:** Sutter Augur & Karthik Prabhu
 
